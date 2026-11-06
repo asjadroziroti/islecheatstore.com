@@ -10,8 +10,8 @@ export interface ProductPlan {
   badge?: string;
 }
 
-const weeklyPlan: ProductPlan = { id: 'weekly', label: '1 Week', priceUsd: 14, priceNote: 'USD / 7 days' };
 const monthlyPlan: ProductPlan = { id: 'monthly', label: 'Monthly', priceUsd: 35, priceNote: 'USD / 31 days' };
+const hwidMonthlyPlan: ProductPlan = { id: 'monthly', label: 'Monthly', priceUsd: 50, priceNote: 'USD / 31 days' };
 const lifetimePlan: ProductPlan = {
   id: 'lifetime',
   label: 'Lifetime',
@@ -22,16 +22,13 @@ const lifetimePlan: ProductPlan = {
 };
 
 const standardPlans: ProductPlan[] = [monthlyPlan, lifetimePlan];
-
-/** No lifetime option, so the month plan stays preselected. */
-const weekAndMonthPlans: ProductPlan[] = [weeklyPlan, { ...monthlyPlan, recommended: true }];
-
-/** Lifetime is the highlighted plan whenever it is offered. */
-const weekMonthLifetimePlans: ProductPlan[] = [weeklyPlan, monthlyPlan, lifetimePlan];
+const hwidPlans: ProductPlan[] = [
+  { ...hwidMonthlyPlan, recommended: true },
+  { ...lifetimePlan, recommended: false, badge: undefined },
+];
 
 export function getProductPlans(productSlug: string): ProductPlan[] {
-  if (productSlug === 'hwid-spoofer') return weekAndMonthPlans;
-  if (productSlug === 'skin-changer' || productSlug === 'ugc') return weekMonthLifetimePlans;
+  if (productSlug === 'hwid-spoofer') return hwidPlans;
   return standardPlans;
 }
 
