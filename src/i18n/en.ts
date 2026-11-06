@@ -576,9 +576,9 @@ export const en: Translations = {
   },
   pageSeo: {
     '/': {
-      title: 'Isle Cheats | The Isle Feature Overview',
+      title: 'Isle Cheats for The Isle | Features & Product Guide',
       description:
-        'Review the aimbot, visual cues, resource visibility, and radar categories named in the product summary. Verify branch details at {siteDomain}.',
+        'Isle cheats for The Isle: aimbot, radar, visual cues, and resource visibility. Review product and branch details before buying.',
     },
     '/cheats/': {
       title: 'The Isle Cheats | Product Details and Plans',
