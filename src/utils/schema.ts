@@ -34,7 +34,7 @@ export function websiteSchema(locale?: SchemaLocale, description?: string) {
     inLanguage: schemaLanguage(locale),
     description:
       description ??
-      'Escape From Tarkov cheats with player ESP, loot ESP, aimbot and no recoil for PMC raids on Windows.',
+      'The Isle cheats with player ESP, loot ESP, aimbot and no recoil for player sessions on Windows.',
   };
 }
 

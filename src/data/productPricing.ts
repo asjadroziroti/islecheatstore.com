@@ -10,8 +10,8 @@ export interface ProductPlan {
   badge?: string;
 }
 
-const weeklyPlan: ProductPlan = { id: 'weekly', label: '1 Week', priceUsd: 15, priceNote: '7 days' };
-const monthlyPlan: ProductPlan = { id: 'monthly', label: 'Monthly', priceUsd: 35, priceNote: 'USD / month' };
+const weeklyPlan: ProductPlan = { id: 'weekly', label: '1 Week', priceUsd: 14, priceNote: 'USD / 7 days' };
+const monthlyPlan: ProductPlan = { id: 'monthly', label: 'Monthly', priceUsd: 35, priceNote: 'USD / 31 days' };
 const lifetimePlan: ProductPlan = {
   id: 'lifetime',
   label: 'Lifetime',

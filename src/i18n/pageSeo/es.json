@@ -1,15 +1,15 @@
 {
   "/": {
-    "title": "Trucos Escape From Tarkov | ESP, aimbot y loot ESP",
-    "description": "ESP de jugadores, loot ESP, aimbot y sin retroceso para incursiones PMC en Windows, con actualizaciones del loader tras parches. Compara planes en {siteDomain}."
+    "title": "Trucos The Isle | Aimbot, loot y ESP para Windows",
+    "description": "Trucos: ESP de jugadores, loot ESP, aimbot y sin retroceso para sesiones de The Isle en Windows. Revisa funciones y requisitos en {siteDomain}."
   },
   "/cheats/": {
-    "title": "Trucos Escape From Tarkov | Comprar ESP, loot ESP y aimbot",
-    "description": "Paquete de incursiones con ESP, filtros de botín, aimbot y sin retroceso en Tarkov, no Arena. Planes en {siteDomain}."
+    "title": "Trucos The Isle | Comprar ESP, loot ESP y aimbot",
+    "description": "Paquete de incursiones con ESP, filtros de botín, aimbot y sin retroceso en The Isle, no Legacy. Planes en {siteDomain}."
   },
   "/hwid-spoofer/": {
     "title": "HWID Spoofer | Recuperación de baneos de hardware",
-    "description": "Cambia identificadores de disco, MAC y GPU tras un baneo de hardware. Vanguard, EAC, BattlEye y Ricochet, con limpiador. Planes en {siteDomain}."
+    "description": "Cambia identificadores de disco, MAC y GPU tras un baneo de hardware. Vanguard, EAC, the current game protection system y Ricochet, con limpiador. Planes en {siteDomain}."
   },
   "/products/": {
     "title": "Trucos y herramientas | Todos los productos",
@@ -24,16 +24,16 @@
     "description": "Desbloquea skins premium de armas, atuendos y cuchillos raros en los principales títulos. Planes en {siteDomain}."
   },
   "/blog/": {
-    "title": "Guías de trucos Escape From Tarkov | ESP, aimbot y BattlEye",
-    "description": "Guías de presets para incursiones, ajuste de ESP y aim, filtros de botín y checklists de estado de BattlEye publicadas en {siteDomain}."
+    "title": "Guías de trucos The Isle | ESP, aimbot y the current game protection system",
+    "description": "Guías de presets para incursiones, ajuste de ESP y aim, filtros de botín y checklists de estado de the current game protection system publicadas en {siteDomain}."
   },
   "/forum/": {
-    "title": "Foro de trucos Escape From Tarkov | Setup, estado e HWID",
-    "description": "Discusiones de solo lectura sobre Escape From Tarkov: equipamiento, parches y guías. Los hilos nuevos y las respuestas están cerrados."
+    "title": "Foro de trucos The Isle | Setup, estado e HWID",
+    "description": "Discusiones de solo lectura sobre The Isle: equipamiento, parches y guías. Los hilos nuevos y las respuestas están cerrados."
   },
   "/faq/": {
-    "title": "FAQ de trucos Escape From Tarkov | Setup, planes y BattlEye",
-    "description": "Respuestas sobre trucos de Escape From Tarkov: setup, planes, ESP, aim, BattlEye y pago en {siteDomain}."
+    "title": "FAQ de trucos The Isle | Setup, planes y the current game protection system",
+    "description": "Respuestas sobre trucos de The Isle: setup, planes, ESP, aim, the current game protection system y pago en {siteDomain}."
   },
   "/terms/": {
     "title": "Condiciones de venta y uso de licencia",
@@ -45,10 +45,10 @@
   },
   "/about/": {
     "title": "Acerca de {siteDomain} y {siteName}",
-    "description": "Quién publica recursos, notas de estado y canales de soporte de Trucos de Escape From Tarkov en {siteDomain}."
+    "description": "Quién publica recursos, notas de estado y canales de soporte de Trucos de The Isle en {siteDomain}."
   },
   "/support/": {
-    "title": "Soporte de trucos Escape From Tarkov | Loader, HWID y pagos",
+    "title": "Soporte de trucos The Isle | Loader, HWID y pagos",
     "description": "Soporte en {siteDomain} para acceso al portal, errores de módulos y facturación, antes o después del pago."
   }
 }

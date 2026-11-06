@@ -6,10 +6,10 @@ function c(author: string, age: string, body: string): ForumComment {
 
 export const forumPostsEn: ForumPost[] = [
   {
-    slug: 'tarkov-cheats-monthly-or-lifetime-worth-it',
+    slug: 'isle-cheats-monthly-or-lifetime-worth-it',
     category: 'Buying Questions',
     categoryTone: 'blue',
-    title: 'Tarkov cheats monthly or lifetime, which one is actually worth it?',
+    title: 'The Isle cheats monthly or lifetime, which one is actually worth it?',
     excerpt:
       'A player asks whether to pay monthly or go lifetime, and the thread works out the break even point and what else costs extra.',
     author: 'NightRaidNate',
@@ -18,19 +18,19 @@ export const forumPostsEn: ForumPost[] = [
     commentsCount: 11,
     upvotes: 142,
     body: [
-      'ok so im looking at the eft cheat on the site and theres monthly and lifetime. monthly is 35 and lifetime is 150. i usually play like 3 or 4 nights a week and i dont really know if ill still be playing after next wipe. anyone have a take on which one makes more sense? dont wanna waste 150 and then quit in 2 months lol',
+      'ok so im looking at the isle cheat on the site and theres monthly and lifetime. monthly is 35 and lifetime is 150. i usually play like 3 or 4 nights a week and i dont really know if ill still be playing after next wipe. anyone have a take on which one makes more sense? dont wanna waste 150 and then quit in 2 months lol',
     ],
     comments: [
-      c('ScavBoi_Kev', '11h', 'if you dont know if youll play after wipe then monthly, thats literally the point of it'),
+      c('creatureBoi_Kev', '11h', 'if you dont know if youll play after wipe then monthly, thats literally the point of it'),
       c('NightRaidNate', '10h', 'yeah thats where my head is at too, just wanted a second opinion'),
       c(
         'Marrow',
         '9h',
-        'quick math for you. 35 x 4 is 140. 35 x 5 is 175. so lifetime starts winning around month 5. if you think youll hit 5 months total go lifetime, if not stay monthly. see the [monthly vs lifetime breakdown](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/) on the blog if you want it spelled out',
+        'quick math for you. 35 x 4 is 140. 35 x 5 is 175. so lifetime starts winning around month 5. if you think youll hit 5 months total go lifetime, if not stay monthly. see the [monthly vs lifetime breakdown](/blog/the-isle-cheats-price-monthly-vs-lifetime/) on the blog if you want it spelled out',
       ),
-      c('ScavBoi_Kev', '9h', 'this guy does math at 2am respect'),
+      c('creatureBoi_Kev', '9h', 'this guy does math at 2am respect'),
       c('Marrow', '8h', 'its 2pm'),
-      c('ScavBoi_Kev', '8h', 'even worse'),
+      c('creatureBoi_Kev', '8h', 'even worse'),
       c(
         'dusk_gunner',
         '7h',
@@ -39,7 +39,7 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'Marrow',
         '6h',
-        'same features per the product page for [Escape From Tarkov cheats](/cheats/). monthly is 31 days, lifetime is unlimited access. no tiers',
+        'same features per the product page for [The Isle cheats](/cheats/). monthly is 31 days, lifetime is unlimited access. no tiers',
       ),
       c('dusk_gunner', '5h', 'nice, thanks'),
       c(
@@ -51,35 +51,35 @@ export const forumPostsEn: ForumPost[] = [
     ],
   },
   {
-    slug: 'do-i-need-cloud-dma-for-tarkov-cheats',
+    slug: 'do-i-need-cloud-dma-for-isle-cheats',
     category: 'Buying Questions',
     categoryTone: 'blue',
-    title: 'Do I really need Cloud DMA for Tarkov cheats or is it optional?',
+    title: 'Do I really need branch compatibility for The Isle cheats or is it optional?',
     excerpt:
-      'Someone sees conflicting wording about Cloud DMA and asks what it actually means for their purchase.',
+      'Someone sees conflicting wording about branch compatibility and asks what it actually means for their purchase.',
     author: 'pixelhoarder',
     age: '1d',
     published: '2026-08-05',
     commentsCount: 10,
     upvotes: 89,
     body: [
-      'the eft product page says cloud dma is optional in one spot and required for full functionality in another. which is it?? i dont wanna buy and then find out half the menu doesnt work',
+      'the isle product page says cloud dma is optional in one spot and required for full functionality in another. which is it?? i dont wanna buy and then find out half the menu doesnt work',
     ],
     comments: [
       c(
         'Halvorsen',
         '23h',
-        'read it as required for full functionality. you can have the plan without it technically but you wont get the full thing. the [Cloud DMA requirement](/cheats/) is spelled out on the product page',
+        'read it as required for full functionality. you can have the plan without it technically but you wont get the full thing. the [branch compatibility requirement](/cheats/) is spelled out on the product page',
       ),
       c('pixelhoarder', '22h', 'so its a separate purchase from the monthly/lifetime?'),
       c('Halvorsen', '21h', 'yeah separate. plan covers the cheat, cloud dma is its own thing'),
-      c('gloomfarmer', '20h', 'lol every tarkov cheat thread is just people asking about dma'),
+      c('gloomfarmer', '20h', 'lol every isle cheat thread is just people asking about dma'),
       c('pixelhoarder', '19h', 'because nobody explains it!!'),
       c('gloomfarmer', '18h', 'fair'),
       c(
         'Marrow',
         '17h',
-        'short version since people keep asking. dma normally means reading game data from outside the machine the game runs on. cloud dma is the hosted version so youre not building a hardware setup. exact steps are given after purchase so follow those instead of random forum advice, mine included. [Cloud DMA explained](/blog/tarkov-cloud-dma-explained-do-you-need-it/) is on the blog if you want the long version',
+        'short version since people keep asking. dma normally means reading game data from outside the machine the game runs on. cloud dma is the hosted version so youre not building a hardware setup. exact steps are given after purchase so follow those instead of random forum advice, mine included. [branch compatibility explained](/blog/isle-cloud-dma-explained-do-you-need-it/) is on the blog if you want the long version',
       ),
       c('pixelhoarder', '16h', 'ok that actually makes sense. whats the price on it?'),
       c('Marrow', '15h', 'dont remember a number and i dont want to guess. check the product page or ask support'),
@@ -87,10 +87,10 @@ export const forumPostsEn: ForumPost[] = [
     ],
   },
   {
-    slug: 'escape-from-tarkov-cheat-features-full-rundown',
+    slug: 'the-isle-cheat-features-full-rundown',
     category: 'Features',
     categoryTone: 'purple',
-    title: 'What features does an EFT cheat menu actually have? Full rundown',
+    title: 'What features does an Isle cheat menu actually have? Full rundown',
     excerpt:
       'A newcomer asks what you actually get in the menu, and people break it down tab by tab.',
     author: 'freshspawn22',
@@ -99,7 +99,7 @@ export const forumPostsEn: ForumPost[] = [
     commentsCount: 12,
     upvotes: 256,
     body: [
-      'new to all this. when people say tarkov esp and aimbot and whatever, what does the menu actually include? is it just boxes on players or is there more',
+      'new to all this. when people say isle esp and aimbot and whatever, what does the menu actually include? is it just boxes on players or is there more',
     ],
     comments: [
       c(
@@ -116,12 +116,12 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'dusk_gunner',
         '22h',
-        'world tab is the loot stuff. loot esp with price filter, categories, containers, presets. also weather, fog, rain, that kind of thing. [loot ESP filters](/blog/tarkov-loot-esp-filters-price-category-containers/) walks through the filter side',
+        'world tab is the loot stuff. loot esp with price filter, categories, containers, presets. also weather, fog, rain, that kind of thing. [loot ESP filters](/blog/isle-loot-esp-filters-price-category-containers/) walks through the filter side',
       ),
       c(
         'gloomfarmer',
         '21h',
-        'aimbot has fov, only visible, smart bone, prediction, target lock, teammates list so you dont aim at your own squad. [aimbot settings guide](/blog/tarkov-aimbot-settings-explained/) if you want the option names explained',
+        'aimbot has fov, only visible, smart bone, prediction, target lock, teammates list so you dont aim at your own squad. [aimbot settings guide](/blog/isle-aimbot-settings-explained/) if you want the option names explained',
       ),
       c('gloomfarmer', '21h', 'please dont forget the teammates list lol'),
       c('freshspawn22', '20h', 'why would that matter'),
@@ -137,7 +137,7 @@ export const forumPostsEn: ForumPost[] = [
     ],
   },
   {
-    slug: 'tarkov-loot-esp-price-filter-profit-runs',
+    slug: 'isle-loot-esp-price-filter-profit-runs',
     category: 'Features',
     categoryTone: 'purple',
     title: 'Is loot ESP with price filters actually good for profit runs?',
@@ -155,7 +155,7 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'Halvorsen',
         '2d',
-        'it turns into confetti if you leave everything on. set a minimal price and it cuts most of the junk. the [loot ESP filter guide](/blog/tarkov-loot-esp-filters-price-category-containers/) covers presets too',
+        'it turns into confetti if you leave everything on. set a minimal price and it cuts most of the junk. the [loot ESP filter guide](/blog/isle-loot-esp-filters-price-category-containers/) covers presets too',
       ),
       c('ragfair_goblin', '2d', 'what do you set it to?'),
       c(
@@ -166,7 +166,7 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'dusk_gunner',
         '1d',
-        'also categories. military, technical, medical, valuable, common. just pick the one or two you need that raid',
+        'also categories. military, technical, medical, valuable, common. just pick the one or two you need that session',
       ),
       c('ragfair_goblin', '1d', 'is there a way to ignore stuff i dont care about'),
       c(
@@ -194,10 +194,10 @@ export const forumPostsEn: ForumPost[] = [
     ],
   },
   {
-    slug: 'tarkov-cheat-loader-not-working-what-to-check',
+    slug: 'isle-cheat-loader-not-working-what-to-check',
     category: 'Setup Help',
     categoryTone: 'green',
-    title: 'Tarkov cheat loader not working, what should I check first?',
+    title: 'The Isle cheat loader not working, what should I check first?',
     excerpt:
       'Someone cannot get things running and the thread builds a checklist of Windows settings, status and support steps.',
     author: 'cableknot',
@@ -217,7 +217,7 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'dusk_gunner',
         '3h',
-        'second thing is windows settings. product lists hvci on, core isolation on, tpm on, secure boot on. updates sometimes flip stuff so recheck. [setup checklist](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/) has the full list',
+        'second thing is windows settings. product lists hvci on, core isolation on, tpm on, secure boot on. updates sometimes flip stuff so recheck. [setup checklist](/blog/how-to-set-up-the-isle-cheats-requirements/) has the full list',
       ),
       c('cableknot', '2h', 'how do i check hvci lol'),
       c(
@@ -242,10 +242,10 @@ export const forumPostsEn: ForumPost[] = [
     ],
   },
   {
-    slug: 'how-to-check-tarkov-cheat-status-after-patch',
+    slug: 'how-to-check-isle-cheat-status-after-patch',
     category: 'Status and Updates',
     categoryTone: 'orange',
-    title: 'How do I know if the Tarkov cheat is updated after a patch?',
+    title: 'How do I know if the The Isle cheat is updated after a patch?',
     excerpt:
       'A big patch just landed and everyone asks the same thing: is it safe to load in yet? The thread covers checking status first.',
     author: 'lastextract',
@@ -271,35 +271,35 @@ export const forumPostsEn: ForumPost[] = [
         'nobody wants to hear it but waiting a few hours beats rushing in. patches change things and the tool may need a refresh',
       ),
       c('lastextract', '3h', 'yeah ok. feels like im losing time though'),
-      c('dusk_gunner', '2h', 'you lose less time than if something breaks mid raid'),
+      c('dusk_gunner', '2h', 'you lose less time than if something breaks mid session'),
       c('lastextract', '2h', 'fair'),
       c(
         'Marrow',
         '1h',
-        'also dont assume the same rules apply to arena. raids and arena are separate keys on this one. [Escape From Tarkov cheats](/cheats/) page calls out raids only',
+        'also dont assume the same rules apply to arena. sessions and arena are separate keys on this one. [The Isle cheats](/cheats/) page calls out sessions only',
       ),
       c('lastextract', '45m', 'noted, thanks'),
     ],
   },
   {
-    slug: 'tarkov-battleye-ban-honest-talk-risk',
+    slug: 'isle-the current game protection system-ban-honest-talk-risk',
     category: 'Anti-Cheat',
     categoryTone: 'orange',
-    title: 'BattlEye in Tarkov, honest talk about ban risk',
+    title: 'the current game protection system in The Isle, honest talk about ban risk',
     excerpt:
-      'A straight conversation about BattlEye, why no tool is risk free and what habits matter.',
+      'A straight conversation about the current game protection system, why no tool is risk free and what habits matter.',
     author: 'quietpmc',
     age: '4d',
     published: '2026-08-14',
     commentsCount: 11,
     upvotes: 331,
     body: [
-      'i know people want a yes or no here but how risky is it really with battleye? no marketing talk please',
+      'i know people want a yes or no here but how risky is it really with the current game protection system? no marketing talk please',
     ],
     comments: [
       c('Halvorsen', '3d', 'straight answer is there is risk. anyone who tells you otherwise is selling something'),
       c('quietpmc', '3d', 'appreciate that'),
-      c('Marrow', '3d', 'battleye is kernel level and gets updated, so yeah. nothing here is a promise'),
+      c('Marrow', '3d', 'the current game protection system is kernel level and gets updated, so yeah. nothing here is a promise'),
       c('gloomfarmer', '2d', 'this thread is going to ruin my night'),
       c('Marrow', '2d', 'it should ruin your night a little. thats called being informed'),
       c(
@@ -318,15 +318,15 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'Halvorsen',
         '22h',
-        'if you decide to do it, you accept the risk. thats the deal. [BattlEye and Tarkov cheats](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/) is the longer writeup if you want it',
+        'if you decide to do it, you accept the risk. thats the deal. [the current game protection system and The Isle cheats](/blog/anti-cheat-and-the-isle-cheats-what-to-know/) is the longer writeup if you want it',
       ),
     ],
   },
   {
-    slug: 'tarkov-hwid-ban-does-a-spoofer-help',
+    slug: 'isle-hwid-ban-does-a-spoofer-help',
     category: 'Ban Help',
     categoryTone: 'green',
-    title: 'Got an HWID ban in Tarkov, does a spoofer actually help?',
+    title: 'Got an HWID ban in The Isle, does a spoofer actually help?',
     excerpt:
       'A player is stuck after a hardware ban and the thread explains what a spoofer changes, what it cannot fix and how to run it.',
     author: 'brokenpc_dave',
@@ -341,19 +341,19 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'Halvorsen',
         '23h',
-        'hwid ban means the ban follows your hardware ids, not just the account. thats why new accounts keep dying. [HWID bans](/blog/tarkov-hwid-ban-how-hwid-spoofer-works/) explains the difference',
+        'hwid ban means the ban follows your hardware ids, not just the account. thats why new accounts keep dying. [HWID bans](/blog/isle-hwid-ban-how-hwid-spoofer-works/) explains the difference',
       ),
       c('brokenpc_dave', '22h', 'ahh ok that explains it'),
       c(
         'Marrow',
         '21h',
-        'a spoofer changes those ids. the [HWID spoofer](/hwid-spoofer/) we have changes disk serials, mac addresses, gpu ids and related stuff. escape from tarkov is listed under the battleye titles',
+        'a spoofer changes those ids. the [HWID spoofer](/hwid-spoofer/) we have changes disk serials, mac addresses, gpu ids and related stuff. The Isle is listed under the the current game protection system titles',
       ),
       c('brokenpc_dave', '20h', 'does it need anything else?'),
       c(
         'Marrow',
         '19h',
-        'the cleaner. leftover traces can still be on your system so cleanup is part of it. product says cleaner is included. [how an HWID spoofer works](/blog/tarkov-hwid-ban-how-hwid-spoofer-works/) covers the order',
+        'the cleaner. leftover traces can still be on your system so cleanup is part of it. product says cleaner is included. [how an HWID spoofer works](/blog/isle-hwid-ban-how-hwid-spoofer-works/) covers the order',
       ),
       c('gloomfarmer', '18h', 'so basically spoof, clean, then launch'),
       c('Marrow', '17h', 'follow the current guide for exact order, dont rely on my summary'),
@@ -373,10 +373,10 @@ export const forumPostsEn: ForumPost[] = [
     ],
   },
   {
-    slug: 'can-you-stream-tarkov-with-esp-streamproof-obs',
+    slug: 'can-you-stream-isle-with-esp-streamproof-obs',
     category: 'Features',
     categoryTone: 'purple',
-    title: 'Can you stream or record Tarkov with ESP on without it showing in OBS?',
+    title: 'Can you stream or record The Isle with ESP on without it showing in OBS?',
     excerpt:
       'A streamer asks what streamproof really means and the thread covers what it does and does not cover.',
     author: 'smallstreamer_ash',
@@ -391,7 +391,7 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'dusk_gunner',
         '7h',
-        'product page says esp and menus stay off obs and most capture tools. [streamproof explained](/blog/streamproof-tarkov-cheats-for-streamers/) goes into what most means',
+        'product page says esp and menus stay off obs and most capture tools. [streamproof explained](/blog/streamproof-isle-cheats-for-streamers/) goes into what most means',
       ),
       c('smallstreamer_ash', '6h', 'most?'),
       c('dusk_gunner', '6h', 'yeah thats the wording. so test your own setup'),
@@ -411,16 +411,16 @@ export const forumPostsEn: ForumPost[] = [
       c(
         'Marrow',
         '2h',
-        'yeah, small fov, only visible, minimal labels. looks more normal on screen. [streamproof Tarkov cheats](/cheats/) page lists it under features if you want to confirm',
+        'yeah, small fov, only visible, minimal labels. looks more normal on screen. [streamproof The Isle cheats](/cheats/) page lists it under features if you want to confirm',
       ),
       c('smallstreamer_ash', '1h', 'thanks all'),
     ],
   },
   {
-    slug: 'tarkov-raids-key-vs-arena-key-same-cheat',
+    slug: 'isle-sessions-key-vs-arena-key-same-cheat',
     category: 'Buying Questions',
     categoryTone: 'blue',
-    title: 'Tarkov raids key vs Arena key: are they the same cheat?',
+    title: 'The Isle sessions key vs Legacy key: are they the same cheat?',
     excerpt:
       'Someone assumes one purchase covers everything. It does not, and the thread explains why.',
     author: 'arena_andy',
@@ -429,15 +429,15 @@ export const forumPostsEn: ForumPost[] = [
     commentsCount: 8,
     upvotes: 58,
     body: [
-      'i play both raids and arena. if i buy the eft cheat does it cover arena too or do i need something else?',
+      'i play both sessions and arena. if i buy the isle cheat does it cover arena too or do i need something else?',
     ],
     comments: [
       c(
         'Marrow',
         '1d',
-        'product page says raids only and separate key from arena. so no, one purchase does not cover both. the [main raids](/cheats/) license is what you are buying',
+        'product page says sessions only and separate key from arena. so no, one purchase does not cover both. the [main sessions](/cheats/) license is what you are buying',
       ),
-      c('arena_andy', '1d', 'ugh ok. so the eft one is just for main tarkov'),
+      c('arena_andy', '1d', 'ugh ok. so the isle one is just for main isle'),
       c('Marrow', '23h', 'yep'),
       c('gloomfarmer', '22h', 'classic assumption'),
       c('arena_andy', '21h', 'shut up lol'),

@@ -119,7 +119,7 @@ const heroAlt = post.imageAlt ?? post.title;
             />
           </figure>
 
-          <header class="blog-article__header">
+          <div class="blog-article__header">
             <h1 class="blog-article__title">{post.title}</h1>
             <p class="blog-article__lead">{post.desc}</p>
             {
@@ -130,7 +130,7 @@ const heroAlt = post.imageAlt ?? post.title;
                 </p>
               )
             }
-          </header>
+          </div>
 
           <Prose class="blog-article__prose prose-headings:scroll-mt-24 max-w-none text-left">
             {post.body.map((block: BlogBlock) => {

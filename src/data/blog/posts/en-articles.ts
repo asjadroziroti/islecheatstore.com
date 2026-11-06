@@ -1,32 +1,32 @@
 import type { BlogPostFull } from '../types';
 
 /** Part 6 gameplay masters only (1024×576). */
-const imgDaylight = '/images/gameplay/eft-esp-daylight-player-highlights.webp';
-const imgNight = '/images/gameplay/eft-esp-night-vision-skeletons.webp';
-const imgWall = '/images/gameplay/eft-esp-enemies-through-concrete-wall.webp';
+const imgDaylight = '/images/blog/isle-feature-overview.webp';
+const imgNight = '/images/blog/isle-esp-visual-information.webp';
+const imgWall = '/images/blog/isle-resource-visibility.webp';
 
 export const blogPostsEn: BlogPostFull[] = [
   {
     tag: 'Features',
-    title: 'Tarkov Loot ESP: How to Filter Loot by Price, Category and Container',
-    slug: 'tarkov-loot-esp-filters-price-category-containers',
-    image: imgDaylight,
-    imageAlt: 'Escape From Tarkov raid view with loot ESP labels showing item names and prices',
-    desc: 'A practical look at Tarkov loot ESP: price filters, loot categories, containers and presets, and how to keep your screen readable instead of cluttered.',
-    metaTitle: 'Tarkov Loot ESP: Filters, Price and Containers Explained',
+    title: 'The Isle Loot ESP: How to Filter Loot by Price, Category and Container',
+    slug: 'isle-loot-esp-filters-price-category-containers',
+    image: '/images/blog/isle-survival.webp',
+    imageAlt: 'The Isle session view with loot ESP labels showing item names and prices',
+    desc: 'A practical look at The Isle loot ESP: price filters, loot categories, containers and presets, and how to keep your screen readable instead of cluttered.',
+    metaTitle: 'The Isle Loot ESP: Filters, Price and Containers Explained',
     metaDescription:
-      'See how Tarkov loot ESP works: price filters, categories, containers, quest items and presets for cleaner raids.',
+      'See how The Isle loot ESP works: price filters, categories, containers, quest items and presets for cleaner, easier-to-read sessions after setup.',
     date: '2026-07-16',
     readTime: '6 min read',
     body: [
       {
         type: 'p',
-        text: 'Loot is the whole reason most people run raids in Tarkov. It is also where a lot of time gets wasted. You clear a room, open three containers, and walk out with nothing worth the slots. Loot ESP exists to fix that problem, and the difference between a good setup and a bad one comes down to filters.',
+        text: 'Loot is the whole reason most people run sessions in The Isle. It is also where a lot of time gets wasted. You clear a room, open three containers, and walk out with nothing worth the slots. Loot ESP exists to fix that problem, and the difference between a good setup and a bad one comes down to filters.',
       },
       { type: 'h2', text: 'What loot ESP actually does' },
       {
         type: 'p',
-        text: 'Loot ESP draws labels on items and containers in the world, so you can see what is nearby without checking every shelf and drawer. In the Escape From Tarkov cheat menu, the loot section covers items on the ground, containers, stashes, dead bodies, computers and similar spots, with distance and price shown next to what it finds.',
+        text: 'Loot ESP draws labels on items and containers in the world, so you can see what is nearby without checking every shelf and drawer. In the The Isle cheat menu, the loot section covers items on the ground, containers, stashes, dead bodies, computers and similar spots, with distance and price shown next to what it finds.',
       },
       {
         type: 'p',
@@ -44,7 +44,7 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Use categories instead of one giant list' },
       {
         type: 'p',
-        text: 'Loot is grouped into categories such as military, technical, medical and valuable, with a separate common group for everyday items. Picking categories lets you decide what type of raid you are doing. A quick medical run and a technical loot run need very different labels.',
+        text: 'Loot is grouped into categories such as military, technical, medical and valuable, with a separate common group for everyday items. Picking categories lets you decide what type of session you are doing. A quick medical run and a technical loot run need very different labels.',
       },
       {
         type: 'p',
@@ -58,7 +58,7 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Quest items and extracts' },
       {
         type: 'p',
-        text: 'Quest ESP marks quest related items and objectives, which saves a lot of backtracking if you are working through tasks. Extract and transition markers show where you can leave, which is useful when a raid starts going badly and you need to commit to a route.',
+        text: 'Quest ESP marks quest related items and objectives, which saves a lot of backtracking if you are working through tasks. Extract and transition markers show where you can leave, which is useful when a session starts going badly and you need to commit to a route.',
       },
       { type: 'h2', text: 'Presets save time' },
       {
@@ -73,26 +73,26 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Getting started' },
       {
         type: 'p',
-        text: 'If you want loot ESP with full price, category, container and preset controls, the [Escape From Tarkov cheats](/cheats/) include it alongside player ESP, aimbot and misc options. Check the status page after patches before you load in, review [setup requirements](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/), and note that the Cloud DMA component is required for full functionality. Plans start at a [monthly or lifetime plan](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/), with a lifetime option if you plan to stay long term.',
+        text: 'If you want loot ESP with full price, category, container and preset controls, the [The Isle cheats](/cheats/) include it alongside player ESP, aimbot and misc options. Check the status page after patches before you load in, review [setup requirements](/blog/how-to-set-up-the-isle-cheats-requirements/), and note that the branch compatibility component is required for full functionality. Plans start at a [monthly or lifetime plan](/blog/the-isle-cheats-price-monthly-vs-lifetime/), with a lifetime option if you plan to stay long term.',
       },
     ],
   },
   {
     tag: 'Features',
-    title: 'Tarkov Aimbot Settings Explained: FOV, Bones, Target Selection and More',
-    slug: 'tarkov-aimbot-settings-explained',
-    image: imgNight,
-    imageAlt: 'Escape From Tarkov cheat menu aimbot tab showing FOV and target options',
-    desc: 'Every aimbot menu looks overwhelming the first time. Here is what the main Tarkov aimbot options do and how to set them up without making a mess.',
-    metaTitle: 'Tarkov Aimbot Settings Explained: FOV, Bones and Targets',
+    title: 'The Isle Aimbot Settings Explained: FOV, Bones, Target Selection and More',
+    slug: 'isle-aimbot-settings-explained',
+    image: '/images/blog/isle-esp.webp',
+    imageAlt: 'The Isle cheat menu aimbot tab showing FOV and target options',
+    desc: 'Every aimbot menu looks overwhelming the first time. Here is what the main The Isle aimbot options do and how to set them up without making a mess.',
+    metaTitle: 'The Isle Aimbot Settings Explained: FOV, Bones and Targets',
     metaDescription:
-      'A plain guide to Tarkov aimbot options: aim key, FOV, visibility checks, smart bone, target selection and prediction.',
+      'A plain guide to The Isle aimbot options: aim key, FOV, visibility checks, smart bone, target selection, targets and prediction.',
     date: '2026-05-10',
     readTime: '7 min read',
     body: [
       {
         type: 'p',
-        text: 'The aimbot tab in a Tarkov cheat menu has a lot of toggles, and most of them are useful only if you understand what they change. This is a walkthrough of the main options, based on the options listed for the Escape From Tarkov cheats.',
+        text: 'The aimbot tab in a The Isle cheat menu has a lot of toggles, and most of them are useful only if you understand what they change. This is a walkthrough of the main options, based on the options listed for the The Isle cheats.',
       },
       { type: 'h2', text: 'The basics: aim key and FOV' },
       {
@@ -106,7 +106,7 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Distance and visibility' },
       {
         type: 'p',
-        text: 'Max aimbot distance limits how far away it will target. Tarkov engagements vary hugely between maps, so a lower value suits interior heavy maps and a higher one suits open ones.',
+        text: 'Max aimbot distance limits how far away it will target. The Isle engagements vary hugely between maps, so a lower value suits interior heavy maps and a higher one suits open ones.',
       },
       {
         type: 'p',
@@ -115,7 +115,7 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Target selection and teammates' },
       {
         type: 'p',
-        text: 'Target selection decides who gets picked when more than one person is in range. Teammate options let you mark squadmates so you do not point at them, with a bind to add a teammate quickly. If you play in groups, set this up before the raid, not during it.',
+        text: 'Target selection decides who gets picked when more than one person is in range. Teammate options let you mark squadmates so you do not point at them, with a bind to add a teammate quickly. If you play in groups, set this up before the session, not during it.',
       },
       { type: 'h2', text: 'Bones: smart bone, force bone and priority' },
       {
@@ -146,18 +146,18 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Where to get it' },
       {
         type: 'p',
-        text: 'If you want the full aimbot menu along with ESP and misc tools, see the [Tarkov aimbot options](/cheats/). It is sold for main raids only and uses a separate key from Arena, and the Cloud DMA component is required for full functionality. Pair it with [loot ESP filters](/blog/tarkov-loot-esp-filters-price-category-containers/) and read [BattlEye considerations](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/) before you raid.',
+        text: 'If you want the full aimbot menu along with ESP and misc tools, see the [The Isle aimbot options](/cheats/). It is sold for main sessions only and uses a separate key from Legacy, and the branch compatibility component is required for full functionality. Pair it with [loot ESP filters](/blog/isle-loot-esp-filters-price-category-containers/) and read [the current game protection system considerations](/blog/anti-cheat-and-the-isle-cheats-what-to-know/) before you session.',
       },
     ],
   },
   {
     tag: 'Buyer Guides',
-    title: 'Escape From Tarkov Cheats Price: Monthly vs Lifetime',
-    slug: 'escape-from-tarkov-cheats-price-monthly-vs-lifetime',
-    image: imgWall,
-    imageAlt: 'Escape From Tarkov cheats monthly and lifetime plan options',
+    title: 'The Isle Cheats Price: Monthly vs Lifetime',
+    slug: 'the-isle-cheats-price-monthly-vs-lifetime',
+    image: '/images/blog/isle-radar.webp',
+    imageAlt: 'The Isle cheats monthly and lifetime plan options',
     desc: 'Monthly or lifetime? Here are the prices, the break even point, and the extra things to check before you pay.',
-    metaTitle: 'Escape From Tarkov Cheats Price: Monthly vs Lifetime',
+    metaTitle: 'Lifetime The Isle Cheats: Monthly vs Lifetime Price Guide',
     metaDescription:
       'Monthly is $35 and lifetime is $150 with the same features. See when each makes sense, what is sold separately, and what to check before you buy.',
     date: '2026-10-15',
@@ -166,7 +166,7 @@ export const blogPostsEn: BlogPostFull[] = [
     body: [
       {
         type: 'p',
-        text: 'If you are searching for Escape From Tarkov cheats, price is probably one of the first things you want answered. Here are the actual numbers and how to decide between the two plans.',
+        text: 'If you are searching for The Isle cheats, price is probably one of the first things you want answered. Here are the actual numbers and how to decide between the two plans.',
       },
       { type: 'h2', text: 'The two plans' },
       {
@@ -184,7 +184,7 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'When monthly makes sense' },
       {
         type: 'p',
-        text: 'Monthly is the lower risk way to start. If you are testing the cheat on your own setup, only play in short bursts, or are not sure you will stay with Tarkov through the next wipe, $35 for 31 days keeps your commitment small.',
+        text: 'Monthly is the lower risk way to start. If you are testing the cheat on your own setup, only play in short bursts, or are not sure you will stay with The Isle through the next wipe, $35 for 31 days keeps your commitment small.',
       },
       { type: 'h2', text: 'When lifetime makes sense' },
       {
@@ -198,15 +198,15 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'What else you need to know before paying' },
       {
         type: 'p',
-        text: 'Cloud DMA. [Cloud DMA](/blog/tarkov-cloud-dma-explained-do-you-need-it/) is required for full functionality and is a separate purchase from the monthly and lifetime plans. Budget for it up front so there are no surprises.',
+        text: 'branch compatibility. [branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) is required for full functionality and is a separate purchase from the monthly and lifetime plans. Budget for it up front so there are no surprises.',
       },
       {
         type: 'p',
-        text: 'Raids only. This product is for main Tarkov raids. It uses a separate key from Arena, so a purchase here does not cover Arena.',
+        text: 'Raids only. This product is for main The Isle sessions. It uses a separate key from Legacy, so a purchase here does not cover Legacy.',
       },
       {
         type: 'p',
-        text: 'Your PC. You need Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Our [system requirements](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/) cover this in more detail.',
+        text: 'Your PC. You need Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Our [system requirements](/blog/how-to-set-up-the-isle-cheats-requirements/) cover this in more detail.',
       },
       {
         type: 'p',
@@ -214,7 +214,7 @@ export const blogPostsEn: BlogPostFull[] = [
       },
       {
         type: 'p',
-        text: 'After patches. Check the status page after major patches before you load into a raid.',
+        text: 'After patches. Check the status page after major patches before you load into a session.',
       },
       { type: 'h2', text: 'What is included for the price' },
       {
@@ -224,51 +224,51 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Ready to buy' },
       {
         type: 'p',
-        text: 'If you have made your choice, head to the [buy Escape From Tarkov cheats](/go/escape-from-tarkov/) page to pick monthly or lifetime. If you are undecided, start monthly. You can always decide to commit later.',
+        text: 'If you have made your choice, head to the [buy The Isle cheats](/go/the-isle/) page to pick monthly or lifetime. If you are undecided, start monthly. You can always decide to commit later.',
       },
     ],
   },
   {
     tag: 'Buyer Guides',
-    title: 'Tarkov Cloud DMA Explained: What It Is and Whether You Need It',
-    slug: 'tarkov-cloud-dma-explained-do-you-need-it',
-    image: imgDaylight,
-    imageAlt: 'Escape From Tarkov cheat setup diagram with Cloud DMA connection',
-    desc: 'Cloud DMA comes up in almost every Tarkov cheat conversation. Here is what it is and where it fits in your purchase.',
-    metaTitle: 'Tarkov Cloud DMA Explained: Do You Need It?',
+    title: 'The Isle branch compatibility Explained: What It Is and Whether You Need It',
+    slug: 'isle-cloud-dma-explained-do-you-need-it',
+    image: '/images/blog/isle-resources.webp',
+    imageAlt: 'The Isle cheat setup diagram with branch compatibility connection',
+    desc: 'branch compatibility comes up in almost every The Isle cheat conversation. Here is what it is and where it fits in your purchase.',
+    metaTitle: 'The Isle branch compatibility Explained: Do You Need It?',
     metaDescription:
-      'Cloud DMA is required for full functionality with our Escape From Tarkov cheats. Here is what it means and how it relates to the plans.',
+      'branch compatibility is required for full functionality with our The Isle cheats. Here is what it means and how it relates to the plans.',
     date: '2026-06-04',
     readTime: '6 min read',
     body: [
       {
         type: 'p',
-        text: 'If you have looked at Tarkov cheats for more than five minutes, you have seen the term DMA. Cloud DMA is the version that appears across our products, and it is worth understanding before you buy.',
+        text: 'If you have looked at The Isle cheats for more than five minutes, you have seen the term DMA. branch compatibility is the version that appears across our products, and it is worth understanding before you buy.',
       },
       { type: 'h2', text: 'DMA in plain terms' },
       {
         type: 'p',
-        text: 'DMA stands for direct memory access. In the cheat world, a DMA setup traditionally means using separate hardware to read game data instead of running everything inside the same machine as the game. That approach is popular because Tarkov uses BattlEye, which operates at kernel level.',
+        text: 'DMA stands for direct memory access. In the cheat world, a DMA setup traditionally means using separate hardware to read game data instead of running everything inside the same machine as the game. That approach is popular because The Isle uses the current game protection system, which operates at kernel level.',
       },
-      { type: 'h2', text: 'Where Cloud DMA fits' },
+      { type: 'h2', text: 'Where branch compatibility fits' },
       {
         type: 'p',
-        text: 'Cloud DMA is the hosted option listed with the [Escape From Tarkov cheats with Cloud DMA](/cheats/). The product lists Cloud DMA in its feature set, and it is described as required for full functionality. If you are looking for exact steps on how the connection is made, those are provided after purchase through the guide and support channels, so follow the current instructions rather than relying on general internet advice.',
+        text: 'branch compatibility is the hosted option listed with the [The Isle cheats with branch compatibility](/cheats/). The product lists branch compatibility in its feature set, and it is described as required for full functionality. If you are looking for exact steps on how the connection is made, those are provided after purchase through the guide and support channels, so follow the current instructions rather than relying on general internet advice.',
       },
       { type: 'h2', text: 'How it relates to the plan you buy' },
       {
         type: 'p',
-        text: 'This part trips people up. The monthly and lifetime [plans](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/) cover the cheat itself. Cloud DMA is a separate purchase. So the full cost of running the product with all functions is the plan you choose plus Cloud DMA.',
+        text: 'This part trips people up. The monthly and lifetime [plans](/blog/the-isle-cheats-price-monthly-vs-lifetime/) cover the cheat itself. branch compatibility is a separate purchase. So the full cost of running the product with all functions is the plan you choose plus branch compatibility.',
       },
       { type: 'h2', text: 'Do you need it?' },
       {
         type: 'p',
-        text: 'If you want full functionality, yes. The product page states that Cloud DMA is required for full functionality. If you only want to look around the menu, you may not need to rush into it, but you will not get the complete experience without it.',
+        text: 'If you want full functionality, yes. The product page states that branch compatibility is required for full functionality. If you only want to look around the menu, you may not need to rush into it, but you will not get the complete experience without it.',
       },
       { type: 'h2', text: 'What your PC still needs' },
       {
         type: 'p',
-        text: 'Cloud DMA does not remove your own system requirements. The product asks for Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Read our [setup checklist](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/) for a full checklist.',
+        text: 'branch compatibility does not remove your own system requirements. The product asks for Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Read our [setup checklist](/blog/how-to-set-up-the-isle-cheats-requirements/) for a full checklist.',
       },
       { type: 'h2', text: 'Questions to ask support before you buy' },
       {
@@ -278,31 +278,31 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Next step' },
       {
         type: 'p',
-        text: 'Once you know what you are buying, the [Escape From Tarkov cheats with Cloud DMA](/cheats/) page shows both plans and the Cloud DMA requirement. Remember that the product is for main raids only and uses a separate key from Arena.',
+        text: 'Once you know what you are buying, the [The Isle cheats with branch compatibility](/cheats/) page shows both plans and the branch compatibility requirement. Remember that the product is for main sessions only and uses a separate key from Legacy.',
       },
     ],
   },
   {
     tag: 'Anti-Cheat',
-    title: 'BattlEye and Escape From Tarkov Cheats: What You Should Know',
-    slug: 'battleye-and-escape-from-tarkov-cheats-what-to-know',
-    image: imgNight,
-    imageAlt: 'BattlEye anti-cheat loading screen for Escape From Tarkov',
-    desc: 'BattlEye is the anti-cheat behind Tarkov. Here is a straight explanation of what it is, what the risks are, and how to approach it sensibly.',
-    metaTitle: 'BattlEye and Tarkov Cheats: What You Should Know',
+    title: 'Anti-Cheat and The Isle Cheats: What You Should Know',
+    slug: 'anti-cheat-and-the-isle-cheats-what-to-know',
+    image: '/images/blog/isle-night.webp',
+    imageAlt: 'the current game protection system anti-cheat loading screen for The Isle',
+    desc: 'the current game protection system is the anti-cheat behind The Isle. Here is a straight explanation of what it is, what the risks are, and how to approach it sensibly.',
+    metaTitle: 'Anti-Cheat and The Isle Cheats: What to Know',
     metaDescription:
-      'An honest look at BattlEye in Escape From Tarkov, what it means for cheat users, why status checks matter after patches, and what to do if a ban happens.',
+      'Understand anti-cheat risk in The Isle, why status checks matter after patches and what to consider before using third-party software.',
     date: '2026-09-07',
     readTime: '6 min read',
     body: [
       {
         type: 'p',
-        text: 'Escape From Tarkov uses BattlEye as its anti-cheat. If you are thinking about using cheats in the game, you should understand what that means.',
+        text: 'The Isle uses the current game protection system as its anti-cheat. If you are thinking about using cheats in the game, you should understand what that means.',
       },
-      { type: 'h2', text: 'What BattlEye is' },
+      { type: 'h2', text: 'What the current game protection system is' },
       {
         type: 'p',
-        text: 'BattlEye is a kernel level anti-cheat. That means it runs with deep access to your system, and it is used across a number of games. In Tarkov, it is the main layer that tries to catch cheating software.',
+        text: 'the current game protection system is a kernel level anti-cheat. That means it runs with deep access to your system, and it is used across a number of games. In The Isle, it is the main layer that tries to catch cheating software.',
       },
       { type: 'h2', text: 'What this means for cheat users' },
       {
@@ -316,7 +316,7 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Why account bans and hardware bans differ' },
       {
         type: 'p',
-        text: 'Some bans apply to your account. Others tie the penalty to your hardware identifiers. A hardware ban follows your PC, not just your login, which makes it much more disruptive. We cover this in detail in our [HWID ban](/blog/tarkov-hwid-ban-how-hwid-spoofer-works/) article.',
+        text: 'Some bans apply to your account. Others tie the penalty to your hardware identifiers. A hardware ban follows your PC, not just your login, which makes it much more disruptive. We cover this in detail in our [HWID ban](/blog/isle-hwid-ban-how-hwid-spoofer-works/) article.',
       },
       { type: 'h2', text: 'Habits that lower your exposure' },
       {
@@ -336,31 +336,31 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'If a ban happens' },
       {
         type: 'p',
-        text: 'If your account is banned, that account is gone, and you would need a new one. If your hardware is flagged, a hardware spoofer is one way people try to return with a fresh hardware fingerprint. Our [HWID spoofer](/hwid-spoofer/) lists Escape From Tarkov under BattlEye titles and includes a cleaner.',
+        text: 'If your account is banned, that account is gone, and you would need a new one. If your hardware is flagged, a hardware spoofer is one way people try to return with a fresh hardware fingerprint. Our [HWID spoofer](/hwid-spoofer/) lists The Isle under the current game protection system titles and includes a cleaner.',
       },
       { type: 'h2', text: 'Making the decision' },
       {
         type: 'p',
-        text: 'Cheating carries risk, and you should decide with that in mind. If you decide to go ahead, the [Escape From Tarkov cheats](/cheats/) are sold for main raids with ESP, aimbot and misc features, and [Cloud DMA](/blog/tarkov-cloud-dma-explained-do-you-need-it/) is required for full functionality. Support is available by ticket if you need help with the current process.',
+        text: 'Cheating carries risk, and you should decide with that in mind. If you decide to go ahead, the [The Isle cheats](/cheats/) are sold for main sessions with ESP, aimbot and misc features, and [branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) is required for full functionality. Support is available by ticket if you need help with the current process.',
       },
     ],
   },
   {
     tag: 'Ban Help',
-    title: 'Tarkov HWID Ban: What It Is and How an HWID Spoofer Works',
-    slug: 'tarkov-hwid-ban-how-hwid-spoofer-works',
-    image: imgWall,
-    imageAlt: 'HWID spoofer interface for BattlEye games including Escape From Tarkov',
+    title: 'The Isle HWID Ban: What It Is and How an HWID Spoofer Works',
+    slug: 'isle-hwid-ban-how-hwid-spoofer-works',
+    image: '/images/blog/isle-growth.webp',
+    imageAlt: 'HWID spoofer interface for the current game protection system games including The Isle',
     desc: 'An HWID ban follows your hardware, not just your account. Here is how that works and what a spoofer with a cleaner is designed to do.',
-    metaTitle: 'Tarkov HWID Ban: How an HWID Spoofer Works',
+    metaTitle: 'The Isle HWID Ban: How an HWID Spoofer Works',
     metaDescription:
-      'Hit by a Tarkov HWID ban? Learn what it is, what a spoofer changes, what the cleaner does, and the requirements and prices for our HWID Spoofer.',
+      'Hit by a The Isle HWID ban? Learn what it is, what a spoofer changes, what the cleaner does, and the requirements and prices for our HWID Spoofer.',
     date: '2026-05-17',
     readTime: '7 min read',
     body: [
       {
         type: 'p',
-        text: 'An HWID ban is one of the most frustrating things that can happen in Tarkov, because it is not limited to your account. Here is what it is and how a spoofer fits in.',
+        text: 'An HWID ban is one of the most frustrating things that can happen in The Isle, because it is not limited to your account. Here is what it is and how a spoofer fits in.',
       },
       { type: 'h2', text: 'What an HWID ban is' },
       {
@@ -377,10 +377,10 @@ export const blogPostsEn: BlogPostFull[] = [
         type: 'p',
         text: 'Hardware spoofing alone is not always enough, since leftover traces can remain on your system. The spoofer includes a cleaner that clears those traces before you launch the game again. Running the cleanup is part of the process, not an optional extra.',
       },
-      { type: 'h2', text: 'Is Tarkov supported' },
+      { type: 'h2', text: 'Is The Isle supported' },
       {
         type: 'p',
-        text: 'Yes. Escape From Tarkov is listed under [BattlEye](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/) titles, and the product states spoofing is fine on all BattlEye games. It also lists support for EAC titles, Ricochet games, Valorant through Vanguard, and others.',
+        text: 'Yes. The Isle is listed under [the current game protection system](/blog/anti-cheat-and-the-isle-cheats-what-to-know/) titles, and the product states spoofing is fine on supported protection systems. Confirm current coverage before use because support can change after updates.',
       },
       { type: 'h2', text: 'An honest limit' },
       {
@@ -410,26 +410,26 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Next step' },
       {
         type: 'p',
-        text: 'If you have been hit by a hardware ban or want to be prepared, see the [HWID spoofer](/hwid-spoofer/). If you are also looking at the cheat itself, the [Escape From Tarkov cheats](/cheats/) are available separately.',
+        text: 'If you have been hit by a hardware ban or want to be prepared, see the [HWID spoofer](/hwid-spoofer/). If you are also looking at the cheat itself, the [The Isle cheats](/cheats/) are available separately.',
       },
     ],
   },
   {
     tag: 'Setup Guides',
-    title: 'How to Set Up Escape From Tarkov Cheats: Requirements and Troubleshooting',
-    slug: 'how-to-set-up-escape-from-tarkov-cheats-requirements',
-    image: imgDaylight,
-    imageAlt: 'Windows security settings checklist for Escape From Tarkov cheat setup',
+    title: 'How to Set Up The Isle Cheats: Requirements and Troubleshooting',
+    slug: 'how-to-set-up-the-isle-cheats-requirements',
+    image: '/images/blog/isle-pvp.webp',
+    imageAlt: 'Windows security settings checklist for The Isle cheat setup',
     desc: 'Most setup problems come from a short list of causes. Here is the checklist, plus what to do when things do not work.',
-    metaTitle: 'Tarkov Cheat Requirements and Setup Checklist',
+    metaTitle: 'The Isle Cheat Requirements and Setup Checklist',
     metaDescription:
-      'Setup checklist for Escape From Tarkov cheats: Windows, HVCI, Core Isolation, TPM, Secure Boot, loader access and Cloud DMA.',
+      'Setup checklist for The Isle cheats: Windows, HVCI, Core Isolation, TPM, Secure Boot, loader access and branch compatibility.',
     date: '2026-06-12',
     readTime: '6 min read',
     body: [
       {
         type: 'p',
-        text: 'Most problems people have getting Tarkov cheats working come from a short list of causes. Go through this checklist first.',
+        text: 'Most problems people have getting The Isle cheats working come from a short list of causes. Go through this checklist first.',
       },
       { type: 'h2', text: 'System requirements' },
       {
@@ -451,21 +451,21 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'What you receive' },
       {
         type: 'p',
-        text: 'After purchase, you get delivery right away along with access to the loader. The product is for main Tarkov raids and uses a separate key from Arena, so make sure you bought the right one.',
+        text: 'After purchase, you get delivery right away along with access to the loader. The product is for main The Isle sessions and uses a separate key from Legacy, so make sure you bought the right one.',
       },
-      { type: 'h2', text: 'Cloud DMA' },
+      { type: 'h2', text: 'branch compatibility' },
       {
         type: 'p',
-        text: '[Cloud DMA](/blog/tarkov-cloud-dma-explained-do-you-need-it/) is required for full functionality and is purchased separately from the monthly and lifetime plans. If features seem to be missing, confirm this part of your setup first.',
+        text: '[branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) is required for full functionality and is purchased separately from the monthly and lifetime plans. If features seem to be missing, confirm this part of your setup first.',
       },
       { type: 'h2', text: 'Before every session' },
       {
         type: 'ul',
         items: [
-          'Check the status page, especially after a Tarkov patch.',
+          'Check the status page, especially after a The Isle patch.',
           'Make sure your Windows security settings above are still on, since updates can change them.',
           'Follow the current guide in your account for launch order.',
-          'Load into a raid only after the above is done.',
+          'Load into a session only after the above is done.',
         ],
       },
       { type: 'h2', text: 'If something is not working' },
@@ -479,7 +479,7 @@ export const blogPostsEn: BlogPostFull[] = [
       },
       {
         type: 'p',
-        text: 'Confirm the product. Tarkov raids and Arena use different keys.',
+        text: 'Confirm the product. The Isle sessions and Legacy use different keys.',
       },
       {
         type: 'p',
@@ -493,31 +493,31 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Ready to start' },
       {
         type: 'p',
-        text: 'You can see the [plan options](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/) and full feature list on the [Escape From Tarkov cheats](/cheats/) page. Monthly access is $35 and lifetime is $150, with the same features on both.',
+        text: 'You can see the [plan options](/blog/the-isle-cheats-price-monthly-vs-lifetime/) and full feature list on the [The Isle cheats](/cheats/) page. Monthly access is $35 and lifetime is $150, with the same features on both.',
       },
     ],
   },
   {
     tag: 'Features',
-    title: 'Streamproof Tarkov Cheats: What It Means for Streamers and Recorders',
-    slug: 'streamproof-tarkov-cheats-for-streamers',
-    image: imgNight,
-    imageAlt: 'Escape From Tarkov gameplay captured in OBS without cheat overlay visible',
+    title: 'Streamproof The Isle Cheats: What It Means for Streamers and Recorders',
+    slug: 'streamproof-isle-cheats-for-streamers',
+    image: '/images/blog/isle-setup.webp',
+    imageAlt: 'The Isle gameplay captured in OBS without cheat overlay visible',
     desc: 'Streamproof means the ESP and menu do not show up in your capture. Here is what that covers and what it does not.',
-    metaTitle: 'Streamproof Tarkov Cheats: OBS and Recording Explained',
+    metaTitle: 'Streamproof The Isle Cheats: OBS and Recording Explained',
     metaDescription:
-      'What streamproof means for Tarkov cheats, how the ESP and menu stay off OBS and most capture tools, and what streamers and recorders should still keep in mind.',
+      'What streamproof means for The Isle cheats, how the ESP and menu stay off OBS and most capture tools, and what streamers and recorders should still keep in mind.',
     date: '2026-10-05',
     readTime: '6 min read',
     body: [
       {
         type: 'p',
-        text: 'If you stream or record your Tarkov raids, you probably have one question about cheats: will anyone see the overlay in my footage? That is what streamproof is about.',
+        text: 'If you stream or record your The Isle sessions, you probably have one question about cheats: will anyone see the overlay in my footage? That is what streamproof is about.',
       },
       { type: 'h2', text: 'What streamproof means' },
       {
         type: 'p',
-        text: 'Streamproof means the ESP and menu are not drawn into your capture. The Escape From Tarkov cheats are described as streamproof, with ESP and menus staying off OBS and most capture tools. What you see on your monitor is not what your viewers see.',
+        text: 'Streamproof means the ESP and menu are not drawn into your capture. The The Isle cheats are described as streamproof, with ESP and menus staying off OBS and most capture tools. What you see on your monitor is not what your viewers see.',
       },
       { type: 'h2', text: 'Why it matters' },
       {
@@ -533,7 +533,7 @@ export const blogPostsEn: BlogPostFull[] = [
         type: 'ul',
         items: [
           'The wording is “most capture tools”, not every tool. Test your own setup before going live.',
-          'Streamproof does not change how the game or [BattlEye](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/) sees your system. It only affects what is captured on screen.',
+          'Streamproof does not change how the game or [the current game protection system](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) sees your system. It only affects what is captured on screen.',
           'Your behavior still shows. Impossible looking aim, or knowing where players are through walls, is noticeable to viewers and to other players.',
         ],
       },
@@ -547,7 +547,7 @@ export const blogPostsEn: BlogPostFull[] = [
         type: 'ul',
         items: [
           'Keep ESP minimal. Fewer labels look more natural on screen.',
-          'Use a modest aimbot FOV and Only Visible, as covered in our [aimbot settings](/blog/tarkov-aimbot-settings-explained/) guide.',
+          'Use a modest aimbot FOV and Only Visible, as covered in our [aimbot settings](/blog/isle-aimbot-settings-explained/) guide.',
           'Save a stream friendly config so you can load it quickly.',
           'Keep your hotkeys memorized so you never have to fumble in the menu.',
         ],
@@ -555,12 +555,12 @@ export const blogPostsEn: BlogPostFull[] = [
       { type: 'h2', text: 'Plan and requirements' },
       {
         type: 'p',
-        text: 'The product is for main raids, uses a separate key from Arena, and requires Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Cloud DMA is required for full functionality. Monthly access is $35 and lifetime is $150.',
+        text: 'The product is for main sessions, uses a separate key from Legacy, and requires Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. branch compatibility is required for full functionality. Monthly access is $35 and lifetime is $150.',
       },
       { type: 'h2', text: 'Get started' },
       {
         type: 'p',
-        text: 'You can review features and plans on the [streamproof Tarkov cheats](/cheats/) page. Check the status page after patches before you start a session, and contact support by ticket if your capture test shows anything unexpected.',
+        text: 'You can review features and plans on the [streamproof The Isle cheats](/cheats/) page. Check the status page after patches before you start a session, and contact support by ticket if your capture test shows anything unexpected.',
       },
     ],
   },

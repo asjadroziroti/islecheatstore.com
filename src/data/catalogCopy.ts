@@ -50,7 +50,7 @@ const en: CatalogCopy = {
   chooserTitle: 'Which product do I need?',
   chooserDesc: 'Start from your situation. Each answer links to the product built for it.',
   scenarios: [
-    { slug: CHEATS_PRIMARY_SLUG, need: 'I want ESP, loot ESP and aim assist in {gameShort} raids.', answer: '{cheatProduct}' },
+    { slug: CHEATS_PRIMARY_SLUG, need: 'I want ESP, loot ESP and aim assist in {gameShort} sessions.', answer: '{cheatProduct}' },
     { slug: HWID_SPOOFER_SLUG, need: 'New accounts get banned instantly on my PC but work on another one.', answer: 'HWID Spoofer' },
     { slug: UGC_SLUG, need: 'My account was suspended, locked or banned and I want to appeal.', answer: 'UGC Account Recovery' },
     { slug: SKIN_CHANGER_SLUG, need: 'I want premium skins and outfits without buying each one.', answer: 'Skin Changer' },
@@ -62,7 +62,7 @@ const en: CatalogCopy = {
     {
       label: 'Best for',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'PMC and Scav raids',
+        [CHEATS_PRIMARY_SLUG]: 'player and creature sessions',
         [HWID_SPOOFER_SLUG]: 'Hardware-flagged PCs',
         [UGC_SLUG]: 'Restricted accounts',
         [SKIN_CHANGER_SLUG]: 'Cosmetics on your client',
@@ -139,7 +139,7 @@ const es: CatalogCopy = {
     {
       label: 'Ideal para',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'Incursiones PMC y Scav',
+        [CHEATS_PRIMARY_SLUG]: 'Incursiones player y creature',
         [HWID_SPOOFER_SLUG]: 'PCs con baneo de hardware',
         [UGC_SLUG]: 'Cuentas restringidas',
         [SKIN_CHANGER_SLUG]: 'Cosméticos en tu cliente',
@@ -216,7 +216,7 @@ const de: CatalogCopy = {
     {
       label: 'Ideal für',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'PMC- und Scav-Raids',
+        [CHEATS_PRIMARY_SLUG]: 'player- und creature-Raids',
         [HWID_SPOOFER_SLUG]: 'PCs mit Hardware-Bann',
         [UGC_SLUG]: 'Gesperrte Konten',
         [SKIN_CHANGER_SLUG]: 'Kosmetik auf deinem Client',
@@ -281,7 +281,7 @@ const fr: CatalogCopy = {
   chooserTitle: 'De quel produit ai-je besoin ?',
   chooserDesc: 'Partez de votre situation. Chaque réponse mène au produit conçu pour elle.',
   scenarios: [
-    { slug: CHEATS_PRIMARY_SLUG, need: 'Je veux l’ESP, le loot ESP et l’aide à la visée en raid.', answer: '{cheatProduct}' },
+    { slug: CHEATS_PRIMARY_SLUG, need: 'Je veux l’ESP, le loot ESP et l’aide à la visée en session.', answer: '{cheatProduct}' },
     { slug: HWID_SPOOFER_SLUG, need: 'Les nouveaux comptes sont bannis instantanément sur mon PC mais pas sur un autre.', answer: 'HWID Spoofer' },
     { slug: UGC_SLUG, need: 'Mon compte a été suspendu, verrouillé ou banni et je veux faire appel.', answer: 'UGC Récupération de compte' },
     { slug: SKIN_CHANGER_SLUG, need: 'Je veux des skins et tenues premium sans acheter chacun.', answer: 'Skin Changer' },
@@ -293,7 +293,7 @@ const fr: CatalogCopy = {
     {
       label: 'Idéal pour',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'Raids PMC et Scav',
+        [CHEATS_PRIMARY_SLUG]: 'Raids player et creature',
         [HWID_SPOOFER_SLUG]: 'PC bannis matériellement',
         [UGC_SLUG]: 'Comptes restreints',
         [SKIN_CHANGER_SLUG]: 'Cosmétiques sur votre client',

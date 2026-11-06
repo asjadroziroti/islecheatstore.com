@@ -2,8 +2,8 @@
   "site": {
     "name": "{siteName}",
     "domain": "{siteDomain}",
-    "title": "Trucos de Escape From Tarkov | ESP, aimbot y ESP de botín",
-    "description": "Player ESP, botín ESP, aimbot y sin retroceso para incursiones de PMC en Windows, con actualizaciones del cargador después de los parches. Compare planes en {siteDomain}."
+    "title": "Trucos de The Isle | ESP, aimbot y ESP de botín",
+    "description": "Player ESP, botín ESP, aimbot y sin retroceso para incursiones de player en Windows, con actualizaciones del cargador después de los parches. Compare planes en {siteDomain}."
   },
   "nav": [
     {
@@ -34,11 +34,11 @@
     }
   ],
   "hero": {
-    "status": "Escape From Tarkov, compilación de parches en línea",
+    "status": "The Isle, compilación de parches en línea",
     "eyebrow": "PROVEEDOR DE TRUCOS #1",
-    "titleLine1": "Escape From Tarkov",
-    "titleLine2": "Trucos",
-    "subtitle": "Sigue PMCs, botín y extracciones con claridad; cierra peleas con aim y control de retroceso. Configuraciones predefinidas y actualizaciones del loader en días de parche en {siteDomain}.",
+    "titleLine1": "The Isle",
+    "titleLine2": "Trucos — Aimbot y Loot",
+    "subtitle": "Sigue players, botín y extracciones con claridad; cierra peleas con aim y control de retroceso. Configuraciones predefinidas y actualizaciones del loader en días de parche en {siteDomain}.",
     "ctaPrimary": "Ver productos",
     "metrics": [
       {
@@ -47,11 +47,11 @@
       },
       {
         "label": "Velocidad del parche",
-        "strong": "<24h"
+        "strong": "Current"
       },
       {
         "label": "Usuarios",
-        "strong": "300+"
+        "strong": "Current"
       },
       {
         "label": "Soporte en vivo",
@@ -72,7 +72,7 @@
       "ESP de extracciones",
       "Soporte 24/7",
       "Entrega instantánea",
-      "Listo para raids",
+      "Listo para sessions",
       "Trigger bot",
       "Selección de hueso",
       "Estado en vivo",
@@ -82,21 +82,21 @@
   "features": {
     "eyebrow": "Características",
     "title": "Todo lo que necesitas en un solo paquete",
-    "subtitle": "ESP del jugador, ESP de botín, aimbot y herramientas de incursión para Escape From Tarkov, mantenido después de los parches.",
+    "subtitle": "ESP del jugador, ESP de botín, aimbot y herramientas de incursión para The Isle, mantenido después de los parches.",
     "items": [
       {
         "title": "ESP de jugadores",
-        "subtitle": "Seguimiento de PMC y Scavs.",
+        "subtitle": "Seguimiento de player y creatures.",
         "desc": "Las cajas de jugadores, los esqueletos, los nombres y las lecturas de distancia siguen siendo legibles en incursiones densas.",
         "bullets": [
-          "Filtros PMC, Scav y Boss",
+          "Filtros player, creature y Boss",
           "Marcadores de esqueleto y hueso.",
           "Etiquetas de nombre y lecturas de distancia",
           "Sugerencias de salud y equipo cuando estén habilitadas",
           "Reglas de color por facción"
         ],
         "tags": [
-          "escape from tarkov esp",
+          "The Isle esp",
           "player esp",
           "skeleton esp"
         ],
@@ -115,7 +115,7 @@
         "tags": [
           "loot esp",
           "container esp",
-          "tarkov loot"
+          "isle loot"
         ],
         "bento": "sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2"
       },
@@ -155,7 +155,7 @@
       },
       {
         "title": "Radar y extracciones",
-        "subtitle": "Conciencia del mapa en raid.",
+        "subtitle": "Conciencia del mapa en session.",
         "desc": "2D radar, extract markers and optional UAV-style hints for orientation between fights.",
         "bullets": [
           "Marcadores de extracción y transición.",
@@ -183,7 +183,7 @@
         "tags": [
           "trigger bot",
           "fire assist",
-          "escape from tarkov cheats"
+          "The Isle cheats"
         ],
         "bento": "sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4"
       },
@@ -216,14 +216,14 @@
         "tags": [
           "no sway",
           "night vision",
-          "tarkov utilities"
+          "isle utilities"
         ],
         "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6"
       },
       {
         "title": "Configuración en la nube y actualizaciones",
         "subtitle": "Día del parche listo.",
-        "desc": "Mismos ajustes preestablecidos en cada PC; Las actualizaciones del portal rastrean los días de parches de Escape From Tarkov y BattlEye.",
+        "desc": "Mismos ajustes preestablecidos en cada PC; Las actualizaciones del portal rastrean los días de parches de The Isle y the current game protection system.",
         "bullets": [
           "Copia de seguridad en la nube para perfiles deslizantes",
           "Empuje del cargador a pocas horas de los parches",
@@ -247,7 +247,7 @@
     "rows": [
       {
         "title": "Actualizaciones del cargador del día del parche",
-        "desc": "Construcciones compatibles con BattlEye lanzadas pocas horas después de las actualizaciones de Escape From Tarkov; Verifique el banner de estado en vivo antes de ingresar a una incursión."
+        "desc": "Construcciones compatibles con the current game protection system lanzadas pocas horas después de las actualizaciones de The Isle; Verifique el banner de estado en vivo antes de ingresar a una incursión."
       },
       {
         "title": "Objetivo humanizado y valores predeterminados de ESP",
@@ -255,15 +255,15 @@
       },
       {
         "title": "Operadores en vivo",
-        "desc": "Ingenieros reales para la configuración del cargador, configuraciones de raid y restablecimientos de HWID: cobertura de turnos 24 horas al día, 7 días a la semana, sin copiar y pegar tickets de preguntas frecuentes."
+        "desc": "Ingenieros reales para la configuración del cargador, configuraciones de session y restablecimientos de HWID: cobertura de turnos 24 horas al día, 7 días a la semana, sin copiar y pegar tickets de preguntas frecuentes."
       },
       {
         "title": "Cargador externo + prueba de flujo",
-        "desc": "Suite de superposición con modos de captura para OBS, sin inyección de DLL riesgosa en el proceso de Escape From Tarkov como todavía venden los proveedores heredados."
+        "desc": "Suite de superposición con modos de captura para OBS, sin inyección de DLL riesgosa en el proceso de The Isle como todavía venden los proveedores heredados."
       },
       {
         "title": "Sincronización preestablecida en la nube",
-        "desc": "Copia de seguridad de perfiles PMC, Scav y por mapa en el portal, los mismos controles deslizantes en cualquier PC sin reconstruir desde cero."
+        "desc": "Copia de seguridad de perfiles player, creature y por mapa en el portal, los mismos controles deslizantes en cualquier PC sin reconstruir desde cero."
       },
       {
         "title": "Restablecimiento de HWID y movimientos de licencia",
@@ -272,9 +272,9 @@
     ],
     "metrics": [
       {
-        "value": "<24h",
+        "value": "Current",
         "title": "Cambio de parche",
-        "desc": "Tiempo promedio para enviar una construcción de cargador después de cambios importantes en Escape From Tarkov o BattlEye."
+        "desc": "Tiempo promedio para enviar una construcción de cargador después de cambios importantes en The Isle o the current game protection system."
       },
       {
         "value": "24/7",
@@ -282,7 +282,7 @@
         "desc": "Ingenieros en turno para la instalación, las configuraciones y los problemas de la cuenta."
       },
       {
-        "value": "300+",
+        "value": "Current",
         "title": "Operadores activos",
         "desc": "Reproductores de Windows que ejecutan ESP, aimbot y utilidades en {siteDomain}."
       }
@@ -290,9 +290,9 @@
   },
   "setup": {
     "eyebrow": "Guía de configuración",
-    "titleLead": "Desde el pago hasta tu primer raid en tan solo",
+    "titleLead": "Desde el pago hasta tu primer session en tan solo",
     "titleHighlight": "tres sencillos pasos",
-    "intro": "Empezar es fácil. Siga el flujo del portal del operador para descargar el cargador, cargar ajustes preestablecidos e iniciar Escape From Tarkov en Windows.",
+    "intro": "Empezar es fácil. Siga el flujo del portal del operador para descargar el cargador, cargar ajustes preestablecidos e iniciar The Isle en Windows.",
     "ctaPrimary": "Ver productos",
     "ctaSecondary": "Preguntas frecuentes sobre la configuración",
     "ctaPrimaryHref": "/cheats/",
@@ -306,11 +306,11 @@
       {
         "step": "Paso 2",
         "title": "Lanzar y configurar módulos",
-        "desc": "Ejecute el cargador externo, importe ajustes preestablecidos de raid y ajuste ESP, aimbot y controles deslizantes sin retroceso."
+        "desc": "Ejecute el cargador externo, importe ajustes preestablecidos de session y ajuste ESP, aimbot y controles deslizantes sin retroceso."
       },
       {
         "step": "Paso 3",
-        "title": "Verificar el estado y ejecutar Escape From Tarkov",
+        "title": "Verificar el estado y ejecutar The Isle",
         "desc": "Consulte el banner de estado en vivo, inicie el cliente del juego y juegue con perfiles respaldados en la nube guardados en el portal."
       }
     ]
@@ -318,11 +318,11 @@
   "compatibility": {
     "eyebrow": "Soporte de plataforma",
     "title": "Funciona en tu equipo.",
-    "subtitle": "Consulte el banner de estado en vivo antes de iniciar Escape From Tarkov después de las actualizaciones.",
+    "subtitle": "Consulte el banner de estado en vivo antes de iniciar The Isle después de las actualizaciones.",
     "items": [
       "Ventanas 10 y 11",
-      "Escape From Tarkov",
-      "Cliente BattlEye",
+      "The Isle",
+      "Cliente the current game protection system",
       "Actualizador automático",
       "Configurar sincronización en la nube",
       "Restablecimiento de HWID",
@@ -331,7 +331,7 @@
   },
   "cheats": {
     "eyebrow": "Producto principal",
-    "title": "Trucos de Escape From Tarkov",
+    "title": "Trucos de The Isle",
     "subtitle": "ESP de jugador, ESP de botín, aimbot, sin retroceso y utilidades de incursión con entrega de parches prioritarios.",
     "viewAll": "Ver detalles del producto",
     "explore": "Explorar",
@@ -340,8 +340,8 @@
         "badge": "Plazas limitadas",
         "tier": "Privado",
         "name": "Elite",
-        "title": "Trucos Escape From Tarkov con ESP, aimbot y loot ESP",
-        "desc": "ESP del jugador, ESP del botín, aimbot y sin retroceso para las principales incursiones de Tarkov. Licencia independiente de Arena. Entrega instantánea; comprobar el estado después de los parches.",
+        "title": "Trucos The Isle con ESP, aimbot y loot ESP",
+        "desc": "ESP del jugador, ESP del botín, aimbot y sin retroceso para las principales incursiones de The Isle. Licencia independiente de Legacy. Entrega instantánea; comprobar el estado después de los parches.",
         "heroDesc": "Licencia solo para incursiones con overlays a prueba de stream y entrega instantánea en el portal. Empieza con presets conservadores y ajusta ESP y aim tras revisar el estado en vivo.",
         "features": [
           "ESP de jugadores",
@@ -465,7 +465,7 @@
         "badge": "Disponible",
         "category": "Utilidad del sistema",
         "title": "HWID Spoofer",
-        "subtitle": "Vuelve a jugar tras un baneo de hardware. Funciona con Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet y otros anti-cheats, con limpiador incluido.",
+        "subtitle": "Vuelve a jugar tras un baneo de hardware. Funciona con Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet y otros anti-cheats, con limpiador incluido.",
         "desc": "Cambia los seriales de disco, las direcciones MAC, los ID de GPU y otros identificadores tras un baneo de hardware. Limpiador incluido.",
         "features": [
           "Spoof de seriales de disco",
@@ -511,8 +511,8 @@
   "blog": {
     "eyebrow": "Blog",
     "title": "Guías y actualizaciones",
-    "subtitle": "Configuración de ESP y aimbot, filtros de botín y comprobaciones del día del parche para Escape From Tarkov.",
-    "latestTitle": "Guías de trucos de Escape From Tarkov y notas de parches",
+    "subtitle": "Configuración de ESP y aimbot, filtros de botín y comprobaciones del día del parche para The Isle.",
+    "latestTitle": "Guías de trucos de The Isle y notas de parches",
     "latestSubtitle": "Filtre por tema para encontrar guías de configuración, análisis detallados de funciones y notas del día del parche.",
     "filterAll": "Todos los artículos",
     "emptyFilter": "Ningún artículo coincide con este filtro.",
@@ -520,7 +520,7 @@
     "viewAll": "Ver todos los artículos",
     "read": "Leer",
     "articleActionsAria": "Continuar leyendo",
-    "buyCta": "Comprar trucos de Escape From Tarkov",
+    "buyCta": "Comprar trucos de The Isle",
     "buyHwidCta": "Comprar HWID Spoofer",
     "moreArticles": "Más artículos",
     "sidebarAria": "Barra lateral del artículo",
@@ -534,7 +534,7 @@
     "badge": "4 easy steps",
     "titleBefore": "Desde la verificación de estado hasta",
     "titleHighlight": "perfil guardado.",
-    "subtitle": "Un camino directo desde la verificación de estado hasta un perfil de raid que puedes reutilizar en cada sesión.",
+    "subtitle": "Un camino directo desde la verificación de estado hasta un perfil de session que puedes reutilizar en cada sesión.",
     "ctaLabel": "Ver productos",
     "ctaHref": "/cheats/",
     "ctaSecondary": "Preguntas frecuentes sobre la configuración",
@@ -562,13 +562,13 @@
         "num": "04",
         "phase": "En el juego",
         "title": "Guarda tu perfil",
-        "desc": "Cuando la configuración le parezca adecuada, guarde PMC y asigne ajustes preestablecidos en la nube."
+        "desc": "Cuando la configuración le parezca adecuada, guarde player y asigne ajustes preestablecidos en la nube."
       }
     ]
   },
   "support": {
     "eyebrow": "Soporte",
-    "title": "Soporte de trucos de Escape From Tarkov",
+    "title": "Soporte de trucos de The Isle",
     "subtitle": "Háganos saber cómo podemos ayudar.",
     "channels": [
       {
@@ -600,7 +600,7 @@
       },
       {
         "title": "Plataforma",
-        "desc": "Windows 10 u 11 y su versión del cliente Escape From Tarkov."
+        "desc": "Windows 10 u 11 y su versión del cliente The Isle."
       },
       {
         "title": "Detalle del error",
@@ -615,23 +615,23 @@
     "items": [
       {
         "num": "01",
-        "q": "¿Dónde verifico si los trucos de Escape From Tarkov están en línea?",
-        "a": "El banner de estado en vivo está en {siteDomain}. Siempre verifique después de una actualización de Escape From Tarkov o BattlEye."
+        "q": "¿Dónde verifico si los trucos de The Isle están en línea?",
+        "a": "El banner de estado en vivo está en {siteDomain}. Siempre verifique después de una actualización de The Isle o the current game protection system."
       },
       {
         "num": "02",
         "q": "¿Qué pasa después de comprar?",
-        "a": "Su portal desbloquea el cargador, la guía de configuración y la biblioteca de configuración a través de nuestro pago de socios. Sigue la guía antes de iniciar Escape From Tarkov."
+        "a": "Su portal desbloquea el cargador, la guía de configuración y la biblioteca de configuración a través de nuestro pago de socios. Sigue la guía antes de iniciar The Isle."
       },
       {
         "num": "03",
-        "q": "¿Me pueden banear por usar trucos de terceros en Escape From Tarkov?",
-        "a": "Sí, cualquier modificación conlleva riesgos. BattlEye y los sistemas de informes evolucionan. Lea el estado actual y acepte el riesgo antes de su uso."
+        "q": "¿Me pueden banear por usar trucos de terceros en The Isle?",
+        "a": "Sí, cualquier modificación conlleva riesgos. the current game protection system y los sistemas de informes evolucionan. Lea el estado actual y acepte el riesgo antes de su uso."
       },
       {
         "num": "04",
         "q": "¿Qué plataformas son compatibles?",
-        "a": "Escape From Tarkov solo en Windows 10/11 de 64 bits. macOS y Linux no son compatibles."
+        "a": "The Isle solo en Windows 10/11 de 64 bits. macOS y Linux no son compatibles."
       },
       {
         "num": "05",
@@ -646,7 +646,7 @@
     ]
   },
   "footer": {
-    "tagline": "Trucos de Escape From Tarkov con ESP, aimbot y botín ESP para PC. {siteDomain}",
+    "tagline": "Trucos de The Isle con ESP, aimbot y botín ESP para PC. {siteDomain}",
     "trademark": "{game} es una marca de {gamePublisher}. {siteDomain} no está afiliado ni respaldado por {gamePublisher}.",
     "explore": "Explorar",
     "exploreLinks": [
@@ -702,20 +702,20 @@
   },
   "legalPages": {
     "about": {
-      "title": "Acerca de los TRUCOS de EFT",
-      "description": "{siteName} proporciona trucos de Escape From Tarkov, HWID Spoofer y recursos de soporte para PC en {siteDomain}.",
+      "title": "Acerca de los TRUCOS de Isle",
+      "description": "{siteName} proporciona trucos de The Isle, HWID Spoofer y recursos de soporte para PC en {siteDomain}.",
       "sections": [
         {
           "heading": "Quienes somos",
           "paragraphs": [
-            "{siteName} es un recurso centrado en PC para jugadores de Escape From Tarkov que exploran ESP del jugador, ESP de botín, aimbot y flujos de trabajo sin retroceso. Publicamos guías de configuración y notas de estado en vivo para que pueda evaluar los trucos de Escape From Tarkov antes de pagar.",
+            "{siteName} es un recurso centrado en PC para jugadores de The Isle que exploran ESP del jugador, ESP de botín, aimbot y flujos de trabajo sin retroceso. Publicamos guías de configuración y notas de estado en vivo para que pueda evaluar los trucos de The Isle antes de pagar.",
             "Todos los nombres de productos se utilizan únicamente para identificación."
           ]
         },
         {
           "heading": "lo que publicamos",
           "paragraphs": [
-            "Nuestro sitio cubre los trucos de Escape From Tarkov y HWID Spoofer. Los artículos del blog explican las configuraciones de raid, las comprobaciones del día del parche y el comportamiento de actualización de BattlEye.",
+            "Nuestro sitio cubre los trucos de The Isle y HWID Spoofer. Los artículos del blog explican las configuraciones de session, las comprobaciones del día del parche y el comportamiento de actualización de the current game protection system.",
             "El contenido se actualiza cuando llegan los parches o cuando los módulos del cargador cambian. Verifique el banner de estado de la página de inicio antes de cada sesión."
           ]
         },
@@ -770,15 +770,15 @@
         {
           "heading": "lo que compras",
           "paragraphs": [
-            "Vendemos trucos de Escape From Tarkov y HWID Spoofer entregados a través de un portal de operador y un cargador para Escape From Tarkov en Windows.",
-            "Las listas de funciones en la página de cada producto describen lo que se incluye en el momento de la compra. Los módulos pueden cambiar cuando Escape From Tarkov o los sistemas anti-trampas se actualizan."
+            "Vendemos trucos de The Isle y HWID Spoofer entregados a través de un portal de operador y un cargador para The Isle en Windows.",
+            "Las listas de funciones en la página de cada producto describen lo que se incluye en el momento de la compra. Los módulos pueden cambiar cuando The Isle o los sistemas anti-trampas se actualizan."
           ]
         },
         {
           "heading": "Pago y entrega",
           "paragraphs": [
             "El pago y la entrega de licencias se realizan en páginas de pago externas. {siteDomain} no procesa ni almacena números de tarjetas de pago.",
-            "Después de la compra, utilice el portal del operador vinculado desde su flujo de pedidos para descargar el cargador actual y la guía de configuración antes de iniciar Escape From Tarkov."
+            "Después de la compra, utilice el portal del operador vinculado desde su flujo de pedidos para descargar el cargador actual y la guía de configuración antes de iniciar The Isle."
           ]
         },
         {
@@ -790,15 +790,15 @@
         {
           "heading": "Reembolsos y compras",
           "paragraphs": [
-            "Todas las ventas son definitivas una vez que se completa el pago. No reembolsamos compras por cambio de opinión, baneos de cuentas, penalizaciones de BattlEye ni problemas causados por ignorar las guías de configuración o ejecutar módulos mientras el banner de estado se muestra sin conexión.",
-            "Si el producto no funciona como se describe en una configuración compatible: Escape From Tarkov en Windows 10/11, el cargador actual del portal y el banner de estado en vivo que se muestra en línea cuando comenzó, contáctenos a través de la página de Soporte. Incluya el correo electrónico de su pedido, la versión de Windows, la compilación del juego y capturas de pantalla o el texto de error exacto del cargador.",
+            "Todas las ventas son definitivas una vez que se completa el pago. No reembolsamos compras por cambio de opinión, baneos de cuentas, penalizaciones de the current game protection system ni problemas causados por ignorar las guías de configuración o ejecutar módulos mientras el banner de estado se muestra sin conexión.",
+            "Si el producto no funciona como se describe en una configuración compatible: The Isle en Windows 10/11, el cargador actual del portal y el banner de estado en vivo que se muestra en línea cuando comenzó, contáctenos a través de la página de Soporte. Incluya el correo electrónico de su pedido, la versión de Windows, la compilación del juego y capturas de pantalla o el texto de error exacto del cargador.",
             "Podemos, a nuestra discreción, ofrecer una solución, acceso de reemplazo o un reembolso parcial/completo cuando confirmamos una falla de nuestra parte. No estamos obligados a aprobar todas las solicitudes."
           ]
         },
         {
           "heading": "Disponibilidad y riesgo",
           "paragraphs": [
-            "Las herramientas de terceros para Escape From Tarkov pueden entrar en conflicto con las actualizaciones del juego y con BattlEye. Usted utiliza este software bajo su propio riesgo, incluida la posible acción en la cuenta.",
+            "Las herramientas de terceros para The Isle pueden entrar en conflicto con las actualizaciones del juego y con the current game protection system. Usted utiliza este software bajo su propio riesgo, incluida la posible acción en la cuenta.",
             "Consulta el banner de estado de la página de inicio antes de cada incursión. No lo cargue mientras los módulos estén fuera de línea o desalineados después de un parche."
           ]
         },
@@ -844,14 +844,14 @@
   "pages": {
     "faq": {
       "eyebrow": "Centro de ayuda",
-      "title": "FAQ de trucos de Escape From Tarkov: setup, planes y BattlEye",
-      "description": "Respuestas sobre trucos de Escape From Tarkov: setup, planes mensuales y de por vida, módulos de ESP y aim, estado de BattlEye y ayuda con el pago en {siteDomain}.",
-      "schemaName": "Preguntas frecuentes sobre los trucos de Escape From Tarkov",
+      "title": "FAQ de trucos de The Isle: setup, planes y the current game protection system",
+      "description": "Respuestas sobre trucos de The Isle: setup, planes mensuales y de por vida, módulos de ESP y aim, estado de the current game protection system y ayuda con el pago en {siteDomain}.",
+      "schemaName": "Preguntas frecuentes sobre los trucos de The Isle",
       "schemaDescription": "Respuestas sobre trucos de incursión, ESP, aimbot, filtros de botín, configuración del cargador, precios y pago en {siteDomain}."
     },
     "forum": {
-      "eyebrow": "Foro de la comunidad Escape From Tarkov",
-      "title": "Foro de la comunidad Escape From Tarkov",
+      "eyebrow": "Foro de la comunidad The Isle",
+      "title": "Foro de la comunidad The Isle",
       "description": "Hilos archivados de solo lectura sobre configuración del loader, ESP de botín, estado de parches y baneos de HWID. Las respuestas están cerradas.",
       "exploreGuides": "Explora las guías",
       "postsAria": "Publicaciones de la comunidad",
@@ -908,7 +908,7 @@
   "ui": {
     "skipLink": "Saltar al contenido principal",
     "browseCheatsNav": "Pruébalo ahora",
-    "homeAria": "EFTCHEATS inicio",
+    "homeAria": "IsleCHEATS inicio",
     "menuOpen": "abrir menú",
     "themeLight": "Cambiar al modo de luz",
     "languageSwitcherLabel": "Idioma",

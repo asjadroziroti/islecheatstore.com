@@ -1,4 +1,4 @@
-@import './theme-switch.css';
+﻿@import './theme-switch.css';
 
 /* Site-specific globals (Tailwind + Starwind live in starwind.css).
    Page CSS is imported only where used to keep inlined HTML smaller. */
@@ -37,12 +37,13 @@
   margin: 0.625rem 0 0;
   max-width: 40rem;
   font-size: 0.875rem;
+  font-weight: 400;
   line-height: 1.6;
-  color: rgb(115 115 115);
+  color: var(--muted-foreground);
 }
 
 html.dark .section-header__subtitle {
-  color: rgb(163 163 163);
+  color: var(--muted-foreground);
 }
 
 @media (min-width: 1024px) {
@@ -76,8 +77,41 @@ html.dark {
   }
 }
 
+html,
 body {
   overflow-x: clip;
+}
+
+/* Keep long titles, German compounds, and CTA labels inside cards and columns. */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+td,
+th,
+label,
+blockquote,
+figcaption,
+a,
+button,
+[data-slot='button'] {
+  overflow-wrap: break-word;
+}
+
+.fill-grid > *,
+article,
+.catalog-card,
+.catalog-featured,
+.catalog-scenario,
+.blog-card,
+.forum-post-card,
+.forum-detail-card,
+.product-checkout__card {
+  min-width: 0;
 }
 
 html {
@@ -148,6 +182,23 @@ html::-webkit-scrollbar,
     padding-bottom: 3rem;
   }
 
+}
+
+/* Page hero H1s: full title one color (accent spans match the lead text). */
+:is(
+  #hero #hero-title,
+  .catalog-hero h1,
+  h1.section-header__title,
+  .forum-hero h1,
+  .forum-detail-content h1,
+  .product-detail-header h1,
+  .blog-article__title
+) {
+  color: var(--foreground);
+}
+
+:is(#hero #hero-title .hero-title-accent, .forum-hero h1 span) {
+  color: inherit;
 }
 
 /* Lucide icons via Icon.astro: white in dark mode; muted + primary accents in light */
@@ -238,6 +289,11 @@ html.dark #why-us .why-compare-other-card :hover .icon-app {
 :is(a, button).bg-primary .icon-app,
 :is(a, button)[data-variant='primary'] .icon-app {
   color: var(--primary-foreground);
+}
+
+html.dark :is(a, button).bg-primary .icon-app,
+html.dark :is(a, button).bg-primary:hover .icon-app {
+  color: var(--cta-foreground);
 }
 
 .skip-link {
@@ -454,6 +510,49 @@ html:not(.dark) .slide-reveal-btn .slide-reveal-btn__icon .icon-app:hover {
   background-color: color-mix(in oklch, var(--primary) 72%, black);
 }
 
+html.dark .slide-reveal-btn {
+  border-color: var(--cta-border);
+  background-color: var(--cta);
+  color: var(--cta-foreground);
+}
+
+html.dark .slide-reveal-btn:focus-visible {
+  box-shadow: 0 0 0 3px color-mix(in oklch, var(--cta) 45%, transparent);
+}
+
+html.dark .slide-reveal-btn__text {
+  color: var(--cta-foreground);
+}
+
+html.dark .slide-reveal-btn__icon {
+  background-color: color-mix(in oklch, var(--cta) 88%, black);
+}
+
+html.dark .slide-reveal-btn .slide-reveal-btn__icon .icon-app,
+html.dark .slide-reveal-btn:hover .slide-reveal-btn__icon .icon-app,
+html.dark .slide-reveal-btn:active .slide-reveal-btn__icon .icon-app,
+html.dark .slide-reveal-btn .slide-reveal-btn__icon .icon-app:hover {
+  color: var(--cta-foreground);
+}
+
+html.dark .slide-reveal-btn:hover {
+  background-color: var(--cta-hover);
+  border-color: var(--cta-hover);
+}
+
+html.dark .slide-reveal-btn:active {
+  border-color: color-mix(in oklch, var(--cta) 82%, black);
+}
+
+html.dark .slide-reveal-btn:active .slide-reveal-btn__icon {
+  background-color: color-mix(in oklch, var(--cta) 78%, black);
+}
+
+html.dark .skip-link {
+  background: var(--cta);
+  color: var(--cta-foreground);
+}
+
 /* Deployment / setup guide (3-step cards: reference layout) */
 .deployment-section {
   background: var(--background);
@@ -613,7 +712,7 @@ html:not(.dark) .deployment-steps-line--base {
   .deployment-step-title {
     padding-inline: 0.25rem;
   font-size: 0.75rem;
-    white-space: nowrap;
+    white-space: normal;
   }
 }
 
@@ -624,16 +723,16 @@ html:not(.dark) .deployment-steps-line--base {
 }
 
 html:not(.dark) .deployment-step-title {
-  color: #1f2937;
+  color: #0a0614;
 }
 
 html:not(.dark) .deployment-cta-secondary {
-  background: #e8e6e1;
-  color: #1a1a1a;
+  background: #ebe4f8;
+  color: #0a0614;
 }
 
 html:not(.dark) .deployment-cta-secondary:hover {
-  background: color-mix(in oklch, #e8e6e1 88%, #000000);
+  background: color-mix(in oklch, #d4c8ee 88%, #0a0614);
 }
 
 #why-us .why-compare-us-card .why-compare-card-head [data-slot='card-title'],
@@ -726,7 +825,7 @@ html:not(.dark) .deployment-cta-secondary:hover {
   border-top: 1px solid var(--border);
 }
 
-/* Brand text on near-black uses the lighter blue. Fills and buttons stay on --primary. */
+/* Violet brand text on near-black. Fills and buttons stay on --primary. */
 html.dark .text-primary {
   color: var(--primary-text);
 }

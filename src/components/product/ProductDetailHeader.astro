@@ -11,7 +11,7 @@ const { product } = Astro.props;
 const isGameProduct = product.kind === 'tier';
 ---
 
-<header class="product-detail-header space-y-4">
+<div class="product-detail-header space-y-4">
   <div class="flex flex-wrap items-center gap-2">
     <Badge variant="secondary">{product.badge}</Badge>
     {product.variant === 'popular' && <Badge>Popular</Badge>}
@@ -21,4 +21,4 @@ const isGameProduct = product.kind === 'tier';
   </div>
   <h1 class="max-w-3xl text-3xl font-bold normal-case leading-tight md:text-4xl">{product.title}</h1>
   <p class="max-w-2xl text-lg leading-relaxed text-muted-foreground">{product.subtitle || product.desc}</p>
-</header>
+</div>

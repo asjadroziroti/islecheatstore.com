@@ -1,12 +1,12 @@
-@import "./fonts.css";
+﻿@import "./fonts.css";
 @import "tailwindcss";
 @import "tw-animate-css";
 @plugin "@tailwindcss/forms";
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-sans: "Outfit", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
-  --font-heading: "Outfit", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
+  --font-sans: "outfit", "outfit Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-weight-bold: 800;
   --animate-accordion-down: accordion-down 0.2s ease-out;
   --animate-accordion-up: accordion-up 0.2s ease-out;
 
@@ -78,89 +78,93 @@
 }
 
 :root {
-  /* Levo tones: Outfit + electric blue on light surfaces */
-  --font-sans: "Outfit", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
-  --font-heading: "Outfit", ui-sans-serif, system-ui, "Segoe UI", sans-serif;
-  --background: #f5f7fa;
-  --foreground: #0a0a0a;
+  --font-outfit: "outfit", "outfit Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-outfit), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-heading: var(--font-outfit), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --background: #f4f0fb;
+  --foreground: #0a0614;
   --card: #ffffff;
-  --card-foreground: #0a0a0a;
+  --card-foreground: #0a0614;
   --popover: #ffffff;
-  --popover-foreground: #0a0a0a;
-  --primary: #2d6ee2;
-  --primary-text: #2d6ee2;
+  --popover-foreground: #0a0614;
+  --primary: #7c3aed;
+  --primary-text: #6d28d9;
   --primary-foreground: #ffffff;
-  --primary-accent: #5a8ff0;
-  --secondary: #e8ecf4;
-  --secondary-foreground: #0a0a0a;
-  --secondary-accent: #0a0a0a;
-  --muted: #eef1f6;
-  --muted-foreground: #4a4d5c;
-  --accent: #e8ecf4;
-  --accent-foreground: #0a0a0a;
-  --info: #5a8ff0;
-  --info-foreground: #061428;
-  --success: #3dd68c;
-  --success-foreground: #052e1a;
-  --warning: #5a8ff0;
-  --warning-foreground: #061428;
-  --error: #2d6ee2;
+  --primary-accent: #6d28d9;
+  --secondary: #ebe4f8;
+  --secondary-foreground: #0a0614;
+  --secondary-accent: #7c3aed;
+  --muted: #ebe4f8;
+  --muted-foreground: #5b5470;
+  --accent: #ebe4f8;
+  --accent-foreground: #0a0614;
+  --info: #6b6580;
+  --info-foreground: #0a0614;
+  --success: var(--color-green-300);
+  --success-foreground: var(--color-green-950);
+  --warning: var(--color-amber-300);
+  --warning-foreground: var(--color-amber-950);
+  --error: var(--color-red-700);
   --error-foreground: #ffffff;
-  --border: #d8dde8;
-  --input: #d8dde8;
-  --outline: #8b90a0;
+  --border: #d4c8ee;
+  --input: #d4c8ee;
+  --outline: #7c3aed;
   --radius: 0.625rem;
 
   /* sidebar variables */
-  --sidebar-background: #f5f7fa;
-  --sidebar-foreground: #0a0a0a;
-  --sidebar-primary: #2d6ee2;
+  --sidebar-background: #ffffff;
+  --sidebar-foreground: #0a0614;
+  --sidebar-primary: #7c3aed;
   --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: #e8ecf4;
-  --sidebar-accent-foreground: #0a0a0a;
-  --sidebar-border: #d8dde8;
-  --sidebar-outline: #6b6d7b;
+  --sidebar-accent: #ebe4f8;
+  --sidebar-accent-foreground: #0a0614;
+  --sidebar-border: #d4c8ee;
+  --sidebar-outline: #7c3aed;
 }
 
 .dark {
-  --background: #0b1018;
+  --background: #0a0614;
   --foreground: #ffffff;
-  --card: #121a28;
+  --card: #0f0b1f;
   --card-foreground: #ffffff;
-  --popover: #0c1420;
+  --popover: #0f0b1f;
   --popover-foreground: #ffffff;
-  --primary: #2d6ee2;
-  --primary-text: #5a8ff0;
+  --primary: #a855f7;
+  --primary-text: #c4a7ff;
   --primary-foreground: #ffffff;
-  --primary-accent: #5a8ff0;
-  --secondary: #161a24;
+  --primary-accent: #c084fc;
+  --secondary: #15102a;
   --secondary-foreground: #ffffff;
-  --secondary-accent: #ffffff;
-  --muted: #161a24;
-  --muted-foreground: #a8b0c0;
-  --accent: #1a2030;
+  --secondary-accent: #a855f7;
+  --muted: #15102a;
+  --muted-foreground: #a1a1aa;
+  --accent: #15102a;
   --accent-foreground: #ffffff;
-  --info: #5a8ff0;
-  --info-foreground: #061428;
-  --success: #3dd68c;
-  --success-foreground: #052e1a;
-  --warning: #5a8ff0;
-  --warning-foreground: #061428;
-  --error: #3b82f6;
+  --info: #6b6580;
+  --info-foreground: #0a0614;
+  --success: var(--color-green-300);
+  --success-foreground: var(--color-green-950);
+  --warning: var(--color-amber-300);
+  --warning-foreground: var(--color-amber-950);
+  --error: var(--color-red-800);
   --error-foreground: #ffffff;
-  --border: #1e2533;
-  --input: #243044;
-  --outline: #6b7a94;
+  --border: #2a2240;
+  --input: #2a2240;
+  --outline: #a855f7;
+  --cta: #ffffff;
+  --cta-foreground: #0a0614;
+  --cta-hover: #e4e4e7;
+  --cta-border: #ffffff;
 
   /* sidebars variables */
-  --sidebar-background: #0c1018;
+  --sidebar-background: #0f0b1f;
   --sidebar-foreground: #ffffff;
-  --sidebar-primary: #2d6ee2;
+  --sidebar-primary: #a855f7;
   --sidebar-primary-foreground: #ffffff;
-  --sidebar-accent: #161a24;
+  --sidebar-accent: #15102a;
   --sidebar-accent-foreground: #ffffff;
-  --sidebar-border: #1e2533;
-  --sidebar-outline: #6b7a94;
+  --sidebar-border: #2a2240;
+  --sidebar-outline: #a855f7;
 }
 
 @layer base {
@@ -176,7 +180,7 @@
   }
   body {
     @apply bg-background text-foreground scheme-light dark:scheme-dark antialiased;
-    font-family: var(--font-sans);
+    font-family: var(--font-outfit), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
     font-size: 14px;
     line-height: 1.5;
   }
@@ -186,10 +190,8 @@
   h4,
   h5,
   h6 {
-    font-family: var(--font-heading);
     font-size: inherit;
     font-weight: inherit;
-    letter-spacing: -0.01em;
   }
   p {
     font-size: 14px;

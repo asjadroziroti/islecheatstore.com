@@ -65,11 +65,11 @@ const tagIcon = (tag: string): IconName => blogTagIcons[tag] ?? 'tag';
 
   <section class="border-y border-border bg-muted/20 py-12 md:py-16" aria-labelledby="blog-latest-title">
     <div class="mx-auto max-w-6xl px-5">
-      <header class="section-header max-w-2xl" data-reveal>
+      <div class="section-header max-w-2xl" data-reveal>
         <p class="section-header__eyebrow">{t.blog.eyebrow}</p>
         <h1 id="blog-latest-title" class="section-header__title">{t.blog.latestTitle}</h1>
         <p class="section-header__subtitle">{t.blog.latestSubtitle}</p>
-      </header>
+      </div>
 
       <div
         id="blog-topic-filters"

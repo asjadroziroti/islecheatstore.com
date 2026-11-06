@@ -11,7 +11,7 @@ export type CheckoutProduct = keyof typeof CHECKOUT;
 
 /** URL slug for /go/[slug]/ checkout redirect pages. */
 export const CHECKOUT_SLUGS: Record<CheckoutProduct, string> = {
-  eftCheats: 'escape-from-tarkov',
+  isleCheats: 'the-isle',
   hwidSpoofer: 'hwid-spoofer',
   skinChanger: 'skin-changer',
   ugc: 'ugc',
@@ -27,7 +27,7 @@ export function checkoutPath(product: CheckoutProduct): string {
 }
 
 /** Default main-product buy URL (header, hero CTAs, support). */
-export const PRIMARY_CHECKOUT_PATH = checkoutPath('eftCheats');
+export const PRIMARY_CHECKOUT_PATH = checkoutPath('isleCheats');
 
 /** HWID Spoofer buy URL. Hover shows this path; click 302s to the configured referral. */
 export const HWID_CHECKOUT_PATH = checkoutPath('hwidSpoofer');
@@ -39,7 +39,7 @@ export const UGC_CHECKOUT_PATH = checkoutPath('ugc');
 /** Map internal product slugs to cloaked checkout paths. */
 export function checkoutForSlug(slug: string): string {
   const product = CHECKOUT_SLUG_TO_PRODUCT[slug];
-  return checkoutPath(product ?? 'eftCheats');
+  return checkoutPath(product ?? 'isleCheats');
 }
 
 /** Blog / legacy hrefs → cloaked `/go/…` paths (never the partner URL). */
@@ -49,8 +49,8 @@ export function resolveCheckoutHref(href: string): string {
     const goMatch = normalized.match(/^\/go\/([^/?#]+)\/?/);
     if (goMatch) {
       const slug = goMatch[1];
-      if (slug === 'dota-2') {
-        return checkoutPath('eftCheats');
+      if (slug === 'dota-2' || slug === 'the-isle') {
+        return checkoutPath('isleCheats');
       }
       const product = CHECKOUT_SLUG_TO_PRODUCT[slug];
       if (product) return checkoutPath(product);
@@ -61,7 +61,7 @@ export function resolveCheckoutHref(href: string): string {
   if (
     href.includes('%2Fproducts%2Fhwid-spoofer') ||
     href.includes('/products/hwid-spoofer') ||
-    (href.includes('zadeyo.com/go/') && href.includes('hwid-spoofer'))
+    (href.includes('levocheats.com/go/') && href.includes('hwid-spoofer'))
   ) {
     return checkoutPath('hwidSpoofer');
   }
@@ -75,14 +75,14 @@ export function resolveCheckoutHref(href: string): string {
   }
 
   if (
-    href.includes('%2Fproducts%2Fescape-from-tarkov') ||
-    href.includes('/products/escape-from-tarkov') ||
+    href.includes('%2Fproducts%2Fthe-isle') ||
+    href.includes('/products/the-isle') ||
     href.includes('%2Fproducts%2Fdota-2') ||
     href.includes('/products/dota-2') ||
     href.includes('%2Fproducts%2Fcloud-dma') ||
     href.includes('/products/cloud-dma')
   ) {
-    return checkoutPath('eftCheats');
+    return checkoutPath('isleCheats');
   }
 
   for (const [product, url] of Object.entries(CHECKOUT) as [CheckoutProduct, string][]) {

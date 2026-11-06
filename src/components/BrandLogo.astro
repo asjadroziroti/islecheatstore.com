@@ -1,5 +1,4 @@
 ---
-import ResponsiveImage from './ResponsiveImage.astro';
 import { BRAND_LOGO_ALT, BRAND_LOGO_MASTER } from '../config/brand';
 
 interface Props {
@@ -12,18 +11,6 @@ interface Props {
 
 const { size = 32, class: className, priority = false } = Astro.props;
 
-const brandWidths =
-  size <= 32 ? ([32, 64] as const) : size <= 48 ? ([64, 128] as const) : ([128, 512] as const);
 ---
 
-<ResponsiveImage
-  src={BRAND_LOGO_MASTER}
-  alt={BRAND_LOGO_ALT}
-  width={size}
-  height={size}
-  widths={brandWidths}
-  sizes={`${size}px`}
-  loading={priority ? 'eager' : 'lazy'}
-  fetchPriority={priority ? 'high' : undefined}
-  class={className}
-/>
+<img src={BRAND_LOGO_MASTER} alt={BRAND_LOGO_ALT} width={size} height={size} loading={priority ? 'eager' : 'lazy'} fetchpriority={priority ? 'high' : undefined} class={className} />

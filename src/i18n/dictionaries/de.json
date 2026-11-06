@@ -2,8 +2,8 @@
   "site": {
     "name": "{siteName}",
     "domain": "{siteDomain}",
-    "title": "Escape From Tarkov Cheats |ESP, Aimbot & Loot ESP",
-    "description": "Player-ESP, Loot-ESP, Aimbot und kein Rückstoß für PMC-Raids unter Windows, mit Loader-Updates nach Patches. Vergleichen Sie Pläne unter {siteDomain}."
+    "title": "The Isle Cheats |ESP, Aimbot & Loot ESP",
+    "description": "Player-ESP, Loot-ESP, Aimbot und kein Rückstoß für player-Raids unter Windows, mit Loader-Updates nach Patches. Vergleichen Sie Pläne unter {siteDomain}."
   },
   "nav": [
     {
@@ -34,11 +34,11 @@
     }
   ],
   "hero": {
-    "status": "Escape From Tarkov, Patch-Build online",
+    "status": "The Isle, Patch-Build online",
     "eyebrow": "Nr. 1 CHEATS-ANBIETER",
-    "titleLine1": "Escape From Tarkov",
-    "titleLine2": "Cheats",
-    "subtitle": "PMCs, Loot und Extrakte klar im Blick, dann Kämpfe mit abgestimmtem Aim und Recoil-Kontrolle beenden. Presets und Loader-Updates an Patch-Tagen über {siteDomain}.",
+    "titleLine1": "The Isle",
+    "titleLine2": "Cheats — ESP Aimbot",
+    "subtitle": "players, Loot und Extrakte klar im Blick, dann Kämpfe mit abgestimmtem Aim und Recoil-Kontrolle beenden. Presets und Loader-Updates an Patch-Tagen über {siteDomain}.",
     "ctaPrimary": "Produkte ansehen",
     "metrics": [
       {
@@ -47,11 +47,11 @@
       },
       {
         "label": "Patch-Geschwindigkeit",
-        "strong": "<24h"
+        "strong": "Current"
       },
       {
         "label": "Benutzer",
-        "strong": "300+"
+        "strong": "Current"
       },
       {
         "label": "Live-Support",
@@ -82,21 +82,21 @@
   "features": {
     "eyebrow": "Funktionen",
     "title": "Alles, was Sie brauchen, in einem Paket",
-    "subtitle": "Spieler-ESP, Beute-ESP, Aimbot und Raid-Tools für Escape From Tarkov, gepflegt nach Patches.",
+    "subtitle": "Spieler-ESP, Beute-ESP, Aimbot und Raid-Tools für The Isle, gepflegt nach Patches.",
     "items": [
       {
         "title": "Spieler-ESP",
-        "subtitle": "Verfolgen Sie PMCs und Scavs.",
+        "subtitle": "Verfolgen Sie players und creatures.",
         "desc": "Spielerboxen, Skelette, Namen und Entfernungsanzeigen bleiben auch bei dichten Raids lesbar.",
         "bullets": [
-          "PMC-, Scav- und Boss-Filter",
+          "player-, creature- und Boss-Filter",
           "Skelett- und Knochenmarker",
           "Namensschilder und Entfernungsanzeigen",
           "Gesundheits- und Ausrüstungshinweise waren aktiviert",
           "Farbregeln pro Fraktion"
         ],
         "tags": [
-          "escape from tarkov esp",
+          "The Isle esp",
           "player esp",
           "skeleton esp"
         ],
@@ -115,7 +115,7 @@
         "tags": [
           "loot esp",
           "container esp",
-          "tarkov loot"
+          "isle loot"
         ],
         "bento": "sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2"
       },
@@ -183,7 +183,7 @@
         "tags": [
           "trigger bot",
           "fire assist",
-          "escape from tarkov cheats"
+          "The Isle cheats"
         ],
         "bento": "sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4"
       },
@@ -216,14 +216,14 @@
         "tags": [
           "no sway",
           "night vision",
-          "tarkov utilities"
+          "isle utilities"
         ],
         "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6"
       },
       {
         "title": "Cloud-Konfiguration & Updates",
         "subtitle": "Patch-Day bereit.",
-        "desc": "Gleiche Voreinstellungen auf jedem PC; Portal-Updates verfolgen Escape From Tarkov- und BattlEye-Patchtage.",
+        "desc": "Gleiche Voreinstellungen auf jedem PC; Portal-Updates verfolgen The Isle- und the current game protection system-Patchtage.",
         "bullets": [
           "Cloud-Backup für Slider-Profile",
           "Loader-Push innerhalb weniger Stunden nach Patches",
@@ -247,7 +247,7 @@
     "rows": [
       {
         "title": "Patch-Day-Loader-Updates",
-        "desc": "BattlEye-fähige Builds werden innerhalb weniger Stunden nach den Escape From Tarkov-Updates veröffentlicht; Überprüfen Sie das Live-Statusbanner, bevor Sie in einen Raid laden."
+        "desc": "the current game protection system-fähige Builds werden innerhalb weniger Stunden nach den The Isle-Updates veröffentlicht; Überprüfen Sie das Live-Statusbanner, bevor Sie in einen Raid laden."
       },
       {
         "title": "Humanisierte Ziel- und ESP-Standardeinstellungen",
@@ -259,11 +259,11 @@
       },
       {
         "title": "Externer Loader + Stream-Proof",
-        "desc": "Overlay-Suite mit OBS-Aufnahmemodi, keine riskante DLL-Injektion in den Escape From Tarkov-Prozess, wie sie bei älteren Anbietern noch üblich ist."
+        "desc": "Overlay-Suite mit OBS-Aufnahmemodi, keine riskante DLL-Injektion in den The Isle-Prozess, wie sie bei älteren Anbietern noch üblich ist."
       },
       {
         "title": "Cloud-Voreinstellungssynchronisierung",
-        "desc": "PMC-, Scav- und Per-Map-Profile werden im Portal gesichert, dieselben Schieberegler auf jedem PC, ohne dass sie von Grund auf neu erstellt werden müssen."
+        "desc": "player-, creature- und Per-Map-Profile werden im Portal gesichert, dieselben Schieberegler auf jedem PC, ohne dass sie von Grund auf neu erstellt werden müssen."
       },
       {
         "title": "HWID-Reset und Lizenzverschiebungen",
@@ -272,9 +272,9 @@
     ],
     "metrics": [
       {
-        "value": "<24h",
+        "value": "Current",
         "title": "Patch-Turnaround",
-        "desc": "Durchschnittliche Zeit bis zum Versand eines Lader-Builds nach größeren Änderungen an Escape From Tarkov oder BattlEye."
+        "desc": "Durchschnittliche Zeit bis zum Versand eines Lader-Builds nach größeren Änderungen an The Isle oder the current game protection system."
       },
       {
         "value": "24/7",
@@ -282,7 +282,7 @@
         "desc": "Techniker sind für Einrichtungs-, Konfigurations- und Kontoprobleme im Einsatz."
       },
       {
-        "value": "300+",
+        "value": "Current",
         "title": "Aktive Betreiber",
         "desc": "Windows-Spieler, die ESP, Aimbot und Dienstprogramme auf {siteDomain} ausführen."
       }
@@ -292,7 +292,7 @@
     "eyebrow": "Einrichtungsanleitung",
     "titleLead": "Von der Kasse bis zu Ihrem ersten Raid in nur wenigen Minuten",
     "titleHighlight": "drei einfache Schritte",
-    "intro": "Der Einstieg ist einfach. Folgen Sie dem Ablauf des Betreiberportals, um den Loader herunterzuladen, Voreinstellungen zu laden und Escape From Tarkov unter Windows zu starten.",
+    "intro": "Der Einstieg ist einfach. Folgen Sie dem Ablauf des Betreiberportals, um den Loader herunterzuladen, Voreinstellungen zu laden und The Isle unter Windows zu starten.",
     "ctaPrimary": "Produkte ansehen",
     "ctaSecondary": "Häufig gestellte Fragen zur Einrichtung",
     "ctaPrimaryHref": "/cheats/",
@@ -310,7 +310,7 @@
       },
       {
         "step": "Schritt 3",
-        "title": "Überprüfen Sie den Status und starten Sie Escape From Tarkov",
+        "title": "Überprüfen Sie den Status und starten Sie The Isle",
         "desc": "Überprüfen Sie das Live-Statusbanner, starten Sie den Spielclient und spielen Sie mit im Portal gespeicherten Cloud-Profilen."
       }
     ]
@@ -318,11 +318,11 @@
   "compatibility": {
     "eyebrow": "Plattformunterstützung",
     "title": "Läuft auf Ihrem Gerät.",
-    "subtitle": "Überprüfen Sie nach Aktualisierungen das Live-Statusbanner, bevor Sie Escape From Tarkov starten.",
+    "subtitle": "Überprüfen Sie nach Aktualisierungen das Live-Statusbanner, bevor Sie The Isle starten.",
     "items": [
       "Windows 10 und 11",
-      "Escape From Tarkov",
-      "BattlEye-Client",
+      "The Isle",
+      "the current game protection system-Client",
       "Automatischer Updater",
       "Cloud-Synchronisierung konfigurieren",
       "HWID zurückgesetzt",
@@ -331,7 +331,7 @@
   },
   "cheats": {
     "eyebrow": "Hauptprodukt",
-    "title": "Escape From Tarkov-Cheats",
+    "title": "The Isle-Cheats",
     "subtitle": "Player-ESP, Loot-ESP, Aimbot, kein Rückstoß und Raid-Dienstprogramme mit vorrangiger Patch-Lieferung.",
     "viewAll": "Produktdetails anzeigen",
     "explore": "Entdecken",
@@ -340,8 +340,8 @@
         "badge": "Begrenzte Slots",
         "tier": "Privat",
         "name": "Elite",
-        "title": "Escape From Tarkov Cheats mit ESP, Aimbot & Loot ESP",
-        "desc": "Spieler-ESP, Loot-ESP, Aimbot und kein Rückstoß für die wichtigsten Tarkov-Raids. Separate Lizenz von Arena. Sofortige Lieferung; Überprüfen Sie den Status nach Patches.",
+        "title": "The Isle Cheats mit ESP, Aimbot & Loot ESP",
+        "desc": "Spieler-ESP, Loot-ESP, Aimbot und kein Rückstoß für die wichtigsten The Isle-Raids. Separate Lizenz von Legacy. Sofortige Lieferung; Überprüfen Sie den Status nach Patches.",
         "heroDesc": "Nur-Raid-Lizenz mit streamproof Overlays und sofortiger Portal-Lieferung. Starte mit konservativen Presets und tune ESP sowie Aim nach dem Live-Status.",
         "features": [
           "Spieler-ESP",
@@ -465,7 +465,7 @@
         "badge": "Verfügbar",
         "category": "Systemdienstprogramm",
         "title": "HWID Spoofer",
-        "subtitle": "Nach einem Hardware-Bann wieder spielen. Funktioniert mit Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet und weiteren Anti-Cheats, Cleaner inklusive.",
+        "subtitle": "Nach einem Hardware-Bann wieder spielen. Funktioniert mit Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet und weiteren Anti-Cheats, Cleaner inklusive.",
         "desc": "Ändert Festplatten-Seriennummern, MAC-Adressen, GPU-IDs und verwandte Kennungen nach einem Hardware-Bann. Cleaner inklusive.",
         "features": [
           "Festplatten-Seriennummern spoofen",
@@ -511,8 +511,8 @@
   "blog": {
     "eyebrow": "Blog",
     "title": "Anleitungen und Updates",
-    "subtitle": "ESP- und Aimbot-Setup, Beutefilter und Patch-Day-Checks für Escape From Tarkov.",
-    "latestTitle": "Escape From Tarkov Cheat Guides & Patch-Day-Notizen",
+    "subtitle": "ESP- und Aimbot-Setup, Beutefilter und Patch-Day-Checks für The Isle.",
+    "latestTitle": "The Isle Cheat Guides & Patch-Day-Notizen",
     "latestSubtitle": "Filtern Sie nach Themen, um Einrichtungsanleitungen, detaillierte Informationen zu Funktionen und Patch-Day-Notizen zu finden.",
     "filterAll": "Alle Artikel",
     "emptyFilter": "Keine Artikel entsprechen diesem Filter.",
@@ -520,7 +520,7 @@
     "viewAll": "Alle Artikel ansehen",
     "read": "Lesen",
     "articleActionsAria": "Lesen Sie weiter",
-    "buyCta": "Escape From Tarkov Cheats kaufen",
+    "buyCta": "The Isle Cheats kaufen",
     "buyHwidCta": "HWID-Spoofer kaufen",
     "moreArticles": "Weitere Artikel",
     "sidebarAria": "Artikelseitenleiste",
@@ -562,13 +562,13 @@
         "num": "04",
         "phase": "Im Spiel",
         "title": "Speichern Sie Ihr Profil",
-        "desc": "Wenn sich die Einstellungen richtig anfühlen, speichern Sie PMC und ordnen Sie die Voreinstellungen der Cloud zu."
+        "desc": "Wenn sich die Einstellungen richtig anfühlen, speichern Sie player und ordnen Sie die Voreinstellungen der Cloud zu."
       }
     ]
   },
   "support": {
     "eyebrow": "Unterstützung",
-    "title": "Escape From Tarkov Cheats Support",
+    "title": "The Isle Cheats Support",
     "subtitle": "Lassen Sie uns wissen, wie wir helfen können.",
     "channels": [
       {
@@ -600,7 +600,7 @@
       },
       {
         "title": "Plattform",
-        "desc": "Windows 10 oder 11 und Ihre Escape From Tarkov-Clientversion."
+        "desc": "Windows 10 oder 11 und Ihre The Isle-Clientversion."
       },
       {
         "title": "Fehlerdetails",
@@ -615,23 +615,23 @@
     "items": [
       {
         "num": "01",
-        "q": "Wo überprüfe ich, ob Escape From Tarkov-Cheats online sind?",
-        "a": "Das Live-Status-Banner befindet sich auf {siteDomain}. Schauen Sie immer nach einem Escape From Tarkov- oder BattlEye-Update nach."
+        "q": "Wo überprüfe ich, ob The Isle-Cheats online sind?",
+        "a": "Das Live-Status-Banner befindet sich auf {siteDomain}. Schauen Sie immer nach einem The Isle- oder the current game protection system-Update nach."
       },
       {
         "num": "02",
         "q": "Was passiert nach dem Kauf?",
-        "a": "Ihr Portal schaltet den Loader, die Setup-Anleitung und die Konfigurationsbibliothek über unseren Partner-Checkout frei. Befolgen Sie die Anleitung, bevor Sie Escape From Tarkov starten."
+        "a": "Ihr Portal schaltet den Loader, die Setup-Anleitung und die Konfigurationsbibliothek über unseren Partner-Checkout frei. Befolgen Sie die Anleitung, bevor Sie The Isle starten."
       },
       {
         "num": "03",
-        "q": "Kann ich für Escape From Tarkov-Cheats von Drittanbietern gesperrt werden?",
-        "a": "Ja, jede Änderung birgt Risiken. BattlEye- und Berichtssysteme entwickeln sich weiter. Lesen Sie vor der Verwendung den aktuellen Status und akzeptieren Sie das Risiko."
+        "q": "Kann ich für The Isle-Cheats von Drittanbietern gesperrt werden?",
+        "a": "Ja, jede Änderung birgt Risiken. the current game protection system- und Berichtssysteme entwickeln sich weiter. Lesen Sie vor der Verwendung den aktuellen Status und akzeptieren Sie das Risiko."
       },
       {
         "num": "04",
         "q": "Welche Plattformen werden unterstützt?",
-        "a": "Escape From Tarkov nur unter Windows 10/11 64-Bit. macOS und Linux werden nicht unterstützt."
+        "a": "The Isle nur unter Windows 10/11 64-Bit. macOS und Linux werden nicht unterstützt."
       },
       {
         "num": "05",
@@ -646,7 +646,7 @@
     ]
   },
   "footer": {
-    "tagline": "Escape From Tarkov-Cheats mit ESP, Aimbot und Loot ESP für PC. {siteDomain}",
+    "tagline": "The Isle-Cheats mit ESP, Aimbot und Loot ESP für PC. {siteDomain}",
     "trademark": "{game} ist eine Marke von {gamePublisher}. {siteDomain} steht in keiner Verbindung zu {gamePublisher} und wird nicht von {gamePublisher} unterstützt.",
     "explore": "Entdecken",
     "exploreLinks": [
@@ -703,19 +703,19 @@
   "legalPages": {
     "about": {
       "title": "Über {siteName}",
-      "description": "{siteName} bietet Escape From Tarkov-Cheats, HWID-Spoofer und PC-Supportressourcen unter {siteDomain}.",
+      "description": "{siteName} bietet The Isle-Cheats, HWID-Spoofer und PC-Supportressourcen unter {siteDomain}.",
       "sections": [
         {
           "heading": "Wer wir sind",
           "paragraphs": [
-            "{siteName} ist eine PC-orientierte Ressource für Escape From Tarkov-Spieler, die Spieler-ESP, Loot-ESP, Aimbot und No-Reoil-Workflows erkunden. Wir veröffentlichen Einrichtungsanleitungen und Live-Statusnotizen, damit Sie die Escape From Tarkov-Cheats vor dem Auschecken bewerten können.",
+            "{siteName} ist eine PC-orientierte Ressource für The Isle-Spieler, die Spieler-ESP, Loot-ESP, Aimbot und No-Reoil-Workflows erkunden. Wir veröffentlichen Einrichtungsanleitungen und Live-Statusnotizen, damit Sie die The Isle-Cheats vor dem Auschecken bewerten können.",
             "Alle Produktnamen werden nur zur Identifizierung verwendet."
           ]
         },
         {
           "heading": "Was wir veröffentlichen",
           "paragraphs": [
-            "Unsere Website behandelt Escape From Tarkov Cheats und HWID Spoofer. Blog-Artikel erläutern Raid-Konfigurationen, Patch-Day-Checks und das Update-Verhalten von BattlEye.",
+            "Unsere Website behandelt The Isle Cheats und HWID Spoofer. Blog-Artikel erläutern Raid-Konfigurationen, Patch-Day-Checks und das Update-Verhalten von the current game protection system.",
             "Der Inhalt wird aktualisiert, wenn Patches verfügbar sind oder Loader-Module verschoben werden. Überprüfen Sie vor jeder Sitzung das Statusbanner der Homepage."
           ]
         },
@@ -770,15 +770,15 @@
         {
           "heading": "Was Sie kaufen",
           "paragraphs": [
-            "Wir verkaufen Escape From Tarkov Cheats und HWID Spoofer, die über ein Betreiberportal und einen Loader für Escape From Tarkov unter Windows bereitgestellt werden.",
-            "Funktionslisten auf jeder Produktseite beschreiben, was zum Zeitpunkt des Kaufs enthalten ist. Module können sich ändern, wenn Escape From Tarkov oder Anti-Cheat-Systeme aktualisiert werden."
+            "Wir verkaufen The Isle Cheats und HWID Spoofer, die über ein Betreiberportal und einen Loader für The Isle unter Windows bereitgestellt werden.",
+            "Funktionslisten auf jeder Produktseite beschreiben, was zum Zeitpunkt des Kaufs enthalten ist. Module können sich ändern, wenn The Isle oder Anti-Cheat-Systeme aktualisiert werden."
           ]
         },
         {
           "heading": "Kasse und Lieferung",
           "paragraphs": [
             "Zahlung und Lizenzlieferung erfolgen über externe Checkout-Seiten. {siteDomain} verarbeitet oder speichert keine Zahlungskartennummern.",
-            "Verwenden Sie nach dem Kauf das in Ihrem Bestellvorgang verlinkte Betreiberportal, um den aktuellen Loader und die Einrichtungsanleitung herunterzuladen, bevor Sie Escape From Tarkov starten."
+            "Verwenden Sie nach dem Kauf das in Ihrem Bestellvorgang verlinkte Betreiberportal, um den aktuellen Loader und die Einrichtungsanleitung herunterzuladen, bevor Sie The Isle starten."
           ]
         },
         {
@@ -790,15 +790,15 @@
         {
           "heading": "Rückerstattungen und Einkäufe",
           "paragraphs": [
-            "Alle Verkäufe sind endgültig, sobald die Kaufabwicklung abgeschlossen ist. Wir erstatten keine Rückerstattung für Kaufentscheidungen, Kontosperrungen, BattlEye-Strafen oder Probleme, die durch das Ignorieren von Einrichtungsanleitungen oder das Ausführen von Modulen entstehen, während das Statusbanner offline angezeigt wird.",
-            "Wenn das Produkt bei einem unterstützten Setup nicht wie beschrieben funktioniert: Escape From Tarkov unter Windows 10/11, aktueller Loader vom Portal und das Live-Status-Banner, das beim Start online angezeigt wird, kontaktieren Sie uns über die Support-Seite. Fügen Sie Ihre Bestell-E-Mail, Windows-Version, Spiel-Build und Screenshots oder den genauen Fehlertext vom Loader hinzu.",
+            "Alle Verkäufe sind endgültig, sobald die Kaufabwicklung abgeschlossen ist. Wir erstatten keine Rückerstattung für Kaufentscheidungen, Kontosperrungen, the current game protection system-Strafen oder Probleme, die durch das Ignorieren von Einrichtungsanleitungen oder das Ausführen von Modulen entstehen, während das Statusbanner offline angezeigt wird.",
+            "Wenn das Produkt bei einem unterstützten Setup nicht wie beschrieben funktioniert: The Isle unter Windows 10/11, aktueller Loader vom Portal und das Live-Status-Banner, das beim Start online angezeigt wird, kontaktieren Sie uns über die Support-Seite. Fügen Sie Ihre Bestell-E-Mail, Windows-Version, Spiel-Build und Screenshots oder den genauen Fehlertext vom Loader hinzu.",
             "Wir können nach unserem Ermessen eine Reparatur, einen Ersatzzugang oder eine teilweise/vollständige Rückerstattung anbieten, wenn wir einen Fehler unsererseits bestätigen. Wir sind nicht verpflichtet, jede Anfrage zu genehmigen."
           ]
         },
         {
           "heading": "Verfügbarkeit und Risiko",
           "paragraphs": [
-            "Tools von Drittanbietern für Escape From Tarkov können zu Konflikten mit Spielaktualisierungen und BattlEye führen. Sie nutzen diese Software auf eigenes Risiko, einschließlich möglicher Kontoaktionen.",
+            "Tools von Drittanbietern für The Isle können zu Konflikten mit Spielaktualisierungen und the current game protection system führen. Sie nutzen diese Software auf eigenes Risiko, einschließlich möglicher Kontoaktionen.",
             "Überprüfen Sie vor jedem Raid den Statusbanner der Homepage. Nicht laden, während Module offline sind oder nach einem Patch falsch ausgerichtet sind."
           ]
         },
@@ -844,14 +844,14 @@
   "pages": {
     "faq": {
       "eyebrow": "Hilfecenter",
-      "title": "Escape From Tarkov Cheats FAQ: Setup, Pläne & BattlEye",
-      "description": "Antworten zu Escape From Tarkov Cheats: Setup, Monats- und Lifetime-Pläne, ESP- und Aim-Module, BattlEye-Status und Checkout-Hilfe auf {siteDomain}.",
-      "schemaName": "FAQ zu Escape From Tarkov-Cheats",
+      "title": "The Isle Cheats FAQ: Setup, Pläne & the current game protection system",
+      "description": "Antworten zu The Isle Cheats: Setup, Monats- und Lifetime-Pläne, ESP- und Aim-Module, the current game protection system-Status und Checkout-Hilfe auf {siteDomain}.",
+      "schemaName": "FAQ zu The Isle-Cheats",
       "schemaDescription": "Antworten zu Raid-Cheats, ESP, Aimbot, Beutefiltern, Loader-Setup, Preisen und Checkout unter {siteDomain}."
     },
     "forum": {
-      "eyebrow": "Escape From Tarkov-Community-Forum",
-      "title": "Escape From Tarkov Community-Forum",
+      "eyebrow": "The Isle-Community-Forum",
+      "title": "The Isle Community-Forum",
       "description": "Archivierte, schreibgeschützte Threads zu Loader-Setup, Loot-ESP, Patch-Status und HWID-Banns. Antworten sind geschlossen.",
       "exploreGuides": "Entdecken Sie die Reiseführer",
       "postsAria": "Community-Beiträge",
@@ -908,7 +908,7 @@
   "ui": {
     "skipLink": "Zum Hauptinhalt springen",
     "browseCheatsNav": "Versuchen Sie es jetzt",
-    "homeAria": "EFTCHEATS Startseite",
+    "homeAria": "IsleCHEATS Startseite",
     "menuOpen": "Menü öffnen",
     "themeLight": "Wechseln Sie in den Lichtmodus",
     "languageSwitcherLabel": "Sprache",

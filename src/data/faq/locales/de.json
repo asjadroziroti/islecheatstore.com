@@ -1,23 +1,23 @@
 [
   {
     "id": "status",
-    "q": "Wo überprüfe ich, ob Escape From Tarkov-Cheats online sind?",
-    "a": "Das Live-Status-Banner befindet sich auf {siteDomain}. Schauen Sie immer nach einem Escape From Tarkov- oder BattlEye-Update nach."
+    "q": "Wo überprüfe ich, ob The Isle-Cheats online sind?",
+    "a": "Das Live-Status-Banner befindet sich auf {siteDomain}. Schauen Sie immer nach einem The Isle- oder the current game protection system-Update nach."
   },
   {
     "id": "after-buy",
     "q": "Was passiert nach dem Kauf?",
-    "a": "Ihr Portal schaltet den Loader, die Setup-Anleitung und die Konfigurationsbibliothek über unseren Partner-Checkout frei. Befolgen Sie die Anleitung, bevor Sie Escape From Tarkov starten."
+    "a": "Ihr Portal schaltet den Loader, die Setup-Anleitung und die Konfigurationsbibliothek über unseren Partner-Checkout frei. Befolgen Sie die Anleitung, bevor Sie The Isle starten."
   },
   {
     "id": "ban-risk",
-    "q": "Kann ich für Escape From Tarkov-Cheats von Drittanbietern gesperrt werden?",
-    "a": "Ja, jede Änderung birgt Risiken. BattlEye- und Berichtssysteme entwickeln sich weiter. Lesen Sie vor der Verwendung den aktuellen Status und akzeptieren Sie das Risiko. Den Kontext finden Sie in unserem <a href=\"/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/\">BattlEye- und Escape From Tarkov-Cheats</a>-Leitfaden."
+    "q": "Kann ich für The Isle-Cheats von Drittanbietern gesperrt werden?",
+    "a": "Ja, jede Änderung birgt Risiken. the current game protection system- und Berichtssysteme entwickeln sich weiter. Lesen Sie vor der Verwendung den aktuellen Status und akzeptieren Sie das Risiko. Den Kontext finden Sie in unserem <a href=\"/blog/the current game protection system-and-the-isle-cheats-what-to-know/\">the current game protection system- und The Isle-Cheats</a>-Leitfaden."
   },
   {
     "id": "platforms",
     "q": "Welche Plattformen werden unterstützt?",
-    "a": "Escape From Tarkov nur unter Windows 10/11 64-Bit. macOS und Linux werden nicht unterstützt."
+    "a": "The Isle nur unter Windows 10/11 64-Bit. macOS und Linux werden nicht unterstützt."
   },
   {
     "id": "license-move",
@@ -31,33 +31,33 @@
   },
   {
     "id": "what-is-esp",
-    "q": "Was ist Escape From Tarkov ESP?",
-    "a": "Spieler-ESP zeigt PMCs, Scavs und Bosse mit Kisten, Skeletten und Entfernungsanzeigen. Loot ESP hebt Container und wertvolle Gegenstände hervor.<a href=\"/cheats/\">Escape From Tarkov Cheats</a> umfasst Awareness-Overlays sowie optionale Aimbot- und keine Rückstoßmodule."
+    "q": "Was ist The Isle ESP?",
+    "a": "Spieler-ESP zeigt players, creatures und Bosse mit Kisten, Skeletten und Entfernungsanzeigen. Loot ESP hebt Container und wertvolle Gegenstände hervor.<a href=\"/cheats/\">The Isle Cheats</a> umfasst Awareness-Overlays sowie optionale Aimbot- und keine Rückstoßmodule."
   },
   {
     "id": "esp-vs-aim",
     "q": "Was ist der Unterschied zwischen ESP und Aimbot?",
-    "a": "ESP- und Beute-Highlights sind Informationseinblendungen; Sie bewegen Ihr Fadenkreuz nicht. Aimbot, No Recoil und Trigger Bot sind Kampfhilfen für <a href=\"/cheats/\">Escape From Tarkov Cheats</a>, die separat im Lader eingestellt werden."
+    "a": "ESP- und Beute-Highlights sind Informationseinblendungen; Sie bewegen Ihr Fadenkreuz nicht. Aimbot, No Recoil und Trigger Bot sind Kampfhilfen für <a href=\"/cheats/\">The Isle Cheats</a>, die separat im Lader eingestellt werden."
   },
   {
     "id": "elite-slots",
-    "q": "Warum sind die Slots für Escape From Tarkov Cheats begrenzt?",
-    "a": "Escape From Tarkov Cheats ist ein privater Build mit direkter Entwicklerunterstützung und vorrangiger Patch-Bereitstellung. Begrenzte Slots halten die Patch-Zyklen kurz. Überprüfen Sie vor dem Bezahlen das Statusbanner."
+    "q": "Warum sind die Slots für The Isle Cheats begrenzt?",
+    "a": "The Isle Cheats ist ein privater Build mit direkter Entwicklerunterstützung und vorrangiger Patch-Bereitstellung. Begrenzte Slots halten die Patch-Zyklen kurz. Überprüfen Sie vor dem Bezahlen das Statusbanner."
   },
   {
     "id": "stream-proof",
     "q": "Kann OBS mein Overlay erfassen?",
-    "a": "Der Stream-Proof-Modus für <a href=\"/cheats/\">Escape From Tarkov Cheats</a> verbirgt Overlays von OBS. Testen Sie eine lokale Aufnahme, bevor Sie live gehen."
+    "a": "Der Stream-Proof-Modus für <a href=\"/cheats/\">The Isle Cheats</a> verbirgt Overlays von OBS. Testen Sie eine lokale Aufnahme, bevor Sie live gehen."
   },
   {
     "id": "build-status",
     "q": "Bleibt der Build nach jedem Patch online?",
-    "a": "Nein. Der Online-Status wird nur zum Zeitpunkt des Kaufs auf der Produktseite und im Statusbanner angezeigt. Stoppen Sie, wenn der Build nach einem BattlEye-Update anzeigt, dass er aktualisiert, getestet oder offline ist."
+    "a": "Nein. Der Online-Status wird nur zum Zeitpunkt des Kaufs auf der Produktseite und im Statusbanner angezeigt. Stoppen Sie, wenn der Build nach einem the current game protection system-Update anzeigt, dass er aktualisiert, getestet oder offline ist."
   },
   {
     "id": "esp-safer",
     "q": "Ist ESP unauffälliger als Aimbot?",
-    "a": "ESP ist oft weniger offensichtlich als Maxed Aimbot, aber es ist immer noch ein Betrug. BattlEye ignoriert Overlays nicht, weil Sie die Zielhilfe deaktiviert haben."
+    "a": "ESP ist oft weniger offensichtlich als Maxed Aimbot, aber es ist immer noch ein Betrug. the current game protection system ignoriert Overlays nicht, weil Sie die Zielhilfe deaktiviert haben."
   },
   {
     "id": "hwid-when",
@@ -67,12 +67,12 @@
   {
     "id": "external-loader",
     "q": "Wird der Loader in den Spieleordner eingeschleust?",
-    "a": "{siteName} läuft extern mit Cloud-Konfigurationssynchronisierung, es werden keine Dateien in das Escape From Tarkov-Verzeichnis eingefügt. Das BattlEye-Risiko besteht weiterhin. Siehe <a href=\"/cheats/\">Escape From Tarkov Cheats</a>."
+    "a": "{siteName} läuft extern mit Cloud-Konfigurationssynchronisierung, es werden keine Dateien in das The Isle-Verzeichnis eingefügt. Das the current game protection system-Risiko besteht weiterhin. Siehe <a href=\"/cheats/\">The Isle Cheats</a>."
   },
   {
     "id": "blog-vs-cheats",
     "q": "Sind Blog-Cheat-Codes dasselbe wie Live-Raid-Cheats?",
-    "a": "Nein. Blogartikel über Offline- oder lokale Tests ersetzen nicht den Live Loader. PMC-Raids verwenden <a href=\"/cheats/\">Escape From Tarkov Cheats</a>, wenn der Status online ist."
+    "a": "Nein. Blogartikel über Offline- oder lokale Tests ersetzen nicht den Live Loader. player-Raids verwenden <a href=\"/cheats/\">The Isle Cheats</a>, wenn der Status online ist."
   },
   {
     "id": "blog-setup",
@@ -81,37 +81,37 @@
   },
   {
     "id": "who-cheats",
-    "q": "Wer sollte Escape From Tarkov Cheats kaufen?",
-    "a": "PMC-Raider, die Spieler-ESP, Beute-ESP, Aimbot, keinen Rückstoß und vorrangige Patch-Lieferung wünschen, wenn Plätze frei sind."
+    "q": "Wer sollte The Isle Cheats kaufen?",
+    "a": "player-Raider, die Spieler-ESP, Beute-ESP, Aimbot, keinen Rückstoß und vorrangige Patch-Lieferung wünschen, wenn Plätze frei sind."
   },
   {
     "id": "vac-update",
-    "q": "Was soll ich nach einem BattlEye-Update tun?",
+    "q": "Was soll ich nach einem the current game protection system-Update tun?",
     "a": "Überprüfen Sie den Status von {siteDomain}. Starten Sie es erst, wenn das Banner online angezeigt wird. Laden Sie nach jedem Patch konservative Voreinstellungen."
   },
   {
     "id": "discord-help",
     "q": "Wie erhalte ich Installationshilfe?",
-    "a": "Öffnen Sie nach dem Kauf ein Support-Ticket mit Ihrer Bestell-E-Mail, der Windows-Version und dem Escape From Tarkov-Client-Build. Die Mitarbeiter gehen von dort durch die Einrichtung des Laders."
+    "a": "Öffnen Sie nach dem Kauf ein Support-Ticket mit Ihrer Bestell-E-Mail, der Windows-Version und dem The Isle-Client-Build. Die Mitarbeiter gehen von dort durch die Einrichtung des Laders."
   },
   {
-    "id": "pmc-scav-raids",
-    "q": "Funktionieren Module in PMC- und Scav-Raids?",
-    "a": "Ja.<a href=\"/cheats/\">Escape From Tarkov Cheats</a> enthält PMC- und Scav-Voreinstellungen im Portal. Passen Sie die ESP-Entfernungsgrenzen und die Zielglättung vor Ihrem ersten Angriff an."
+    "id": "pmc-scav-sessions",
+    "q": "Funktionieren Module in player- und creature-Raids?",
+    "a": "Ja.<a href=\"/cheats/\">The Isle Cheats</a> enthält player- und creature-Voreinstellungen im Portal. Passen Sie die ESP-Entfernungsgrenzen und die Zielglättung vor Ihrem ersten Angriff an."
   },
   {
     "id": "zoom-hack",
     "q": "Welche Stufe umfasst Radar und Extrakt-ESP?",
-    "a": "2D-Radar und Extraktionsmarker sind in <a href=\"/cheats/\">Escape From Tarkov Cheats</a> enthalten. Nutze sie zur Orientierung zwischen Gefechten und zur Planung deiner Extracts."
+    "a": "2D-Radar und Extraktionsmarker sind in <a href=\"/cheats/\">The Isle Cheats</a> enthalten. Nutze sie zur Orientierung zwischen Gefechten und zur Planung deiner Extracts."
   },
   {
     "id": "trigger-bot",
     "q": "Enthält das Produkt einen Trigger-Bot?",
-    "a": "Der optionale Trigger-Bot wird zusammen mit dem Aimbot und ohne Rückstoß mit <a href=\"/cheats/\">Escape From Tarkov Cheats</a> geliefert. Beginnen Sie mit konservativen Verzögerungsvoreinstellungen im Portal."
+    "a": "Der optionale Trigger-Bot wird zusammen mit dem Aimbot und ohne Rückstoß mit <a href=\"/cheats/\">The Isle Cheats</a> geliefert. Beginnen Sie mit konservativen Verzögerungsvoreinstellungen im Portal."
   },
   {
     "id": "private-cheats",
-    "q": "Was sind private Escape From Tarkov-Cheats?",
+    "q": "Was sind private The Isle-Cheats?",
     "a": "Privat bedeutet Schlüssel pro Benutzer und verwaltete Builds, keine öffentlichen Zip-Pakete. {siteName} liefert die Portalbereitstellung für die vollständige Raid-Suite mit einer Cheats-Lizenz."
   },
   {

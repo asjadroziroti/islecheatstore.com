@@ -16,7 +16,7 @@ import { deepApplySiteTokens } from '../i18n/brandTokens';
 import type { SiteLocale } from '../i18n/locales';
 import type { Translations } from '../i18n/types';
 import { checkoutForSlug } from '../config/checkout';
-import { EFT_SHOWCASE_GALLERY_KEYS } from '../config/gameplayMedia';
+import { Isle_SHOWCASE_GALLERY_KEYS } from '../config/gameplayMedia';
 import { HWID_GALLERY_KEYS } from '../config/hwidMedia';
 import type { IconName } from '../components/icons/types';
 import { getProductCopyBundle, registerProductCopyBundle, type ProductCopyBundle } from './products/exportCopy';
@@ -87,32 +87,32 @@ export interface ProductPage {
 /** Guides paired with each product detail page */
 export const productRelatedBlogSlugs: Record<string, string[]> = {
   elite: [
-    'escape-from-tarkov-cheats-price-monthly-vs-lifetime',
-    'how-to-set-up-escape-from-tarkov-cheats-requirements',
-    'tarkov-cloud-dma-explained-do-you-need-it',
-    'tarkov-loot-esp-filters-price-category-containers',
-    'tarkov-aimbot-settings-explained',
-    'streamproof-tarkov-cheats-for-streamers',
-    'battleye-and-escape-from-tarkov-cheats-what-to-know',
+    'the-isle-cheats-price-monthly-vs-lifetime',
+    'how-to-set-up-the-isle-cheats-requirements',
+    'isle-cloud-dma-explained-do-you-need-it',
+    'isle-loot-esp-filters-price-category-containers',
+    'isle-aimbot-settings-explained',
+    'streamproof-isle-cheats-for-streamers',
+    'anti-cheat-and-the-isle-cheats-what-to-know',
   ],
   'hwid-spoofer': [
-    'tarkov-hwid-ban-how-hwid-spoofer-works',
-    'battleye-and-escape-from-tarkov-cheats-what-to-know',
+    'isle-hwid-ban-how-hwid-spoofer-works',
+    'anti-cheat-and-the-isle-cheats-what-to-know',
   ],
-  ugc: ['battleye-and-escape-from-tarkov-cheats-what-to-know', 'tarkov-hwid-ban-how-hwid-spoofer-works'],
-  'skin-changer': ['streamproof-tarkov-cheats-for-streamers', 'how-to-set-up-escape-from-tarkov-cheats-requirements'],
+  ugc: ['anti-cheat-and-the-isle-cheats-what-to-know', 'isle-hwid-ban-how-hwid-spoofer-works'],
+  'skin-changer': ['streamproof-isle-cheats-for-streamers', 'how-to-set-up-the-isle-cheats-requirements'],
 };
 
 /** Community threads paired with each product detail page */
 export const productRelatedForumSlugs: Record<string, string[]> = {
   elite: [
-    'tarkov-cheats-monthly-or-lifetime-worth-it',
-    'do-i-need-cloud-dma-for-tarkov-cheats',
-    'tarkov-cheat-loader-not-working-what-to-check',
-    'how-to-check-tarkov-cheat-status-after-patch',
+    'isle-cheats-monthly-or-lifetime-worth-it',
+    'do-i-need-cloud-dma-for-isle-cheats',
+    'isle-cheat-loader-not-working-what-to-check',
+    'how-to-check-isle-cheat-status-after-patch',
   ],
-  'hwid-spoofer': ['tarkov-hwid-ban-does-a-spoofer-help', 'tarkov-battleye-ban-honest-talk-risk'],
-  ugc: ['tarkov-battleye-ban-honest-talk-risk', 'tarkov-hwid-ban-does-a-spoofer-help'],
+  'hwid-spoofer': ['isle-hwid-ban-does-a-spoofer-help', 'isle-the current game protection system-ban-honest-talk-risk'],
+  ugc: ['isle-the current game protection system-ban-honest-talk-risk', 'isle-hwid-ban-does-a-spoofer-help'],
 };
 
 const productBase = PRODUCT_BASE;
@@ -133,7 +133,7 @@ const hwidAcquisitionSteps: AcquisitionStep[] = [
   {
     num: '01',
     title: 'Check your game is covered',
-    desc: 'The spoofer supports Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet and other anti-cheats. Confirm your game is on the list and check the status banner on {siteDomain} before you buy.',
+    desc: 'The spoofer supports Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet and other anti-cheats. Confirm your game is on the list and check the status banner on {siteDomain} before you buy.',
   },
   planStep,
   { ...windowsSecurityStep, desc: `${windowsSecurityStep.desc} Use a Windows account with administrator rights.` },
@@ -178,12 +178,12 @@ const defaultAcquisitionSteps: AcquisitionStep[] = [
   {
     num: '01',
     title: 'Review current status',
-    desc: 'Check the live banner on {siteDomain} before purchase, especially after an Escape From Tarkov or BattlEye update.',
+    desc: 'Check the live banner on {siteDomain} before purchase, especially after an The Isle or the current game protection system update.',
   },
   {
     num: '02',
     title: 'Choose your access tier',
-    desc: 'Select Escape From Tarkov Cheats or the utility that matches your goal. Review the feature list before checkout via our partner checkout.',
+    desc: 'Select The Isle Cheats or the utility that matches your goal. Review the feature list before checkout via our partner checkout.',
   },
   {
     num: '03',
@@ -193,7 +193,7 @@ const defaultAcquisitionSteps: AcquisitionStep[] = [
   {
     num: '04',
     title: 'Follow guided setup',
-    desc: 'Use only the operator portal, patch loader, and setup guide. Test offline, load presets, then run PMC raids when status is online.',
+    desc: 'Use only the operator portal, patch loader, and setup guide. Test offline, load presets, then run player sessions when status is online.',
   },
 ];
 
@@ -205,44 +205,47 @@ function acquisitionFor(productName: string): ProductAcquisition {
 }
 
 const sharedGoodToKnow =
-  'Escape From Tarkov and BattlEye receive frequent updates. Confirm module availability on the live status panel at {siteDomain} before you purchase or launch. Cloud DMA is a separate purchase when required for full functionality.';
+  'The Isle and the current game protection system receive frequent updates. Confirm module availability on the live status panel at {siteDomain} before you purchase or launch. branch compatibility is a separate purchase when required for full functionality.';
 
 const sharedLimitations =
-  'Third-party software in Escape From Tarkov can violate {gamePublisher} terms and lead to BattlEye bans or account action. You use this software at your own risk. Compatibility and availability can change after game, BattlEye, or Windows updates without notice.';
+  'Third-party software in The Isle can violate {gamePublisher} terms and lead to the current game protection system bans or account action. You use this software at your own risk. Compatibility and availability can change after game, the current game protection system, or Windows updates without notice.';
 
 const windowsSecurityRequirements: SystemRequirement[] = [
   { icon: 'reqShieldGuide', text: 'HVCI and Core Isolation turned on in Windows Security.' },
   { icon: 'reqSettings', text: 'TPM and Secure Boot enabled in BIOS/UEFI.' },
 ];
 
-const eftSystemRequirements: SystemRequirement[] = [
+const isleSystemRequirements: SystemRequirement[] = [
   { icon: 'reqWindows', text: 'Windows 10 or 11 64-bit (Intel or AMD).' },
   ...windowsSecurityRequirements,
   { icon: 'reqWifi', text: 'Stable internet and loader access after purchase.' },
-  { icon: 'reqShieldGuide', text: 'Cloud DMA is required for full functionality.' },
+  { icon: 'reqShieldGuide', text: 'branch compatibility is required for full functionality.' },
 ];
 
 const galleryRaw = {
-  gpDaylightEsp: {
-    src: '/images/gameplay/eft-esp-daylight-player-highlights.webp',
-    alt: 'Escape From Tarkov first-person view with player ESP showing red-highlighted figures, skeleton outlines, and distance labels in a sunlit industrial yard.',
-    caption: 'Player ESP in daylight raids',
-    captionDesc:
-      'Red and green player highlights, skeleton wireframes, and distance readouts over an outdoor industrial map.',
+  gpMenuComposite: {
+    src: '/images/gameplay/isle-menu-composite.webp',
+    alt: 'The Isle jungle gameplay scene with a purple Visuals menu open as an in-game overlay.',
+    caption: 'Visuals menu in a live session',
+    captionDesc: 'A refined purple Visuals panel sits over a The Isle gameplay scene for a clear feature preview.',
   },
-  gpNightEsp: {
-    src: '/images/gameplay/eft-esp-night-vision-skeletons.webp',
-    alt: 'Escape From Tarkov night-vision scene with skeleton ESP, PMC and Scav labels, and meter readouts visible through interior walls.',
-    caption: 'Skeleton ESP at night',
-    captionDesc:
-      'Stick-figure skeletons, name tags, and distance markers through walls in a green-tinted indoor raid.',
+  gpGameplayForest: {
+    src: '/images/gameplay/isle-gameplay-forest.webp',
+    alt: 'The Isle dinosaur gameplay in a lush forest environment.',
+    caption: 'The Isle gameplay environment',
+    captionDesc: 'A clean gameplay view showing the atmosphere and environment of The Isle.',
   },
-  gpWallEsp: {
-    src: '/images/gameplay/eft-esp-enemies-through-concrete-wall.webp',
-    alt: 'Escape From Tarkov first-person aim with red wallhack silhouettes and weapon labels visible through a concrete wall outdoors.',
-    caption: 'ESP through hard cover',
-    captionDesc:
-      'Red enemy silhouettes and weapon callouts rendered through a concrete barrier while aiming down sights.',
+  gpRadar: {
+    src: '/images/gameplay/isle-radar.webp',
+    alt: 'The Isle gameplay with a radar interface and nearby player and resource markers.',
+    caption: 'Radar interface preview',
+    captionDesc: 'A distinct radar view showing nearby entities and map information during a live session.',
+  },
+  gpExploit: {
+    src: '/images/gameplay/isle-exploit.webp',
+    alt: 'The Isle gameplay with an exploit settings panel open over a forest scene.',
+    caption: 'Exploit controls preview',
+    captionDesc: 'A separate in-game control view showing the exploit panel and session HUD.',
   },
 } satisfies Record<
   string,
@@ -266,7 +269,7 @@ function slide(...keys: GalleryKey[]): ProductSlide[] {
   });
 }
 
-const eftShowcaseSlides = slide(...EFT_SHOWCASE_GALLERY_KEYS);
+const isleShowcaseSlides = slide(...Isle_SHOWCASE_GALLERY_KEYS);
 
 const hwidGalleryRaw = {
   hwidSerialCheck: {
@@ -329,7 +332,7 @@ function slugFromHref(href: string): string {
     if (normalized === slug || normalized.endsWith(`/${slug}`)) return slug;
   }
   const segment = href.replace(productBase, '').replace(/^\//, '').replace(/\/$/, '');
-  if (!segment || segment === 'dota-2-cheats' || segment === 'cheats' || segment === 'product') {
+  if (!segment || segment === 'the-isle-cheats' || segment === 'cheats' || segment === 'product') {
     return CHEATS_PRIMARY_SLUG;
   }
   return segment;
@@ -339,12 +342,12 @@ const tierAbout: Record<string, ProductPage['about']> = {
   elite: [
     {
       type: 'p',
-      text: 'This license covers main Escape From Tarkov raids with player ESP, loot ESP, aimbot, no recoil, radar and extract helpers. Arena is a separate product key. Cloud DMA is required for full functionality.',
+      text: 'The Isle Cheats is presented around the game\'s online survival loop, with visual cues, radar, resource visibility and combat assistance described in the supplied product summary. Check the selected branch before using any feature.',
     },
     { type: 'h2', text: 'Tune before you queue' },
     {
       type: 'p',
-      text: 'Load portal presets offline first, then raise ESP distance and aim smoothing over several sessions. Support can help with loader tabs if a module conflicts after a BattlEye patch.',
+      text: 'Review the feature list and compatibility notes before checkout. The Isle has Evrima and Legacy branches, and updates can change how third-party software behaves.',
     },
   ],
 };
@@ -354,12 +357,12 @@ const tierBodies: Record<string, ProductPage['body']> = {
     { type: 'h2', text: 'Plans and delivery' },
     {
       type: 'p',
-      text: 'Choose monthly ($35 for 31 days) or lifetime ($150) at checkout. The operator portal unlocks instantly with loader download, preset library and patch notes. Check the live status banner before every session.',
+      text: 'Plan details and current pricing are controlled by the linked checkout reference. Review the current offer and branch compatibility before purchase.',
     },
     { type: 'h2', text: 'Module layout' },
     {
       type: 'p',
-      text: 'ESP, loot, aim, weapons, radar and utilities each have their own loader tab so you can disable combat assists while keeping loot filters during stash runs.',
+      text: 'The supplied summary describes aimbot, wallhack, item visibility, radar and additional survival utilities. Availability should be confirmed against the current product listing.',
     },
   ],
 };
@@ -374,7 +377,7 @@ const utilityBodies: Record<string, ProductPage['body']> = {
     { type: 'h2', text: 'Supported anti-cheats' },
     {
       type: 'p',
-      text: 'It works across Riot Vanguard (Valorant), Easy Anti-Cheat, BattlEye, Ricochet (Call of Duty) and other systems such as ACE and Javelin. Confirm your game is covered before you buy, since support can change after anti-cheat updates.',
+      text: 'It works across several major anti-cheat systems, including Easy Anti-Cheat, the current game protection system, and other protected environments. Confirm your game is covered before you buy, since support can change after anti-cheat updates.',
     },
     { type: 'h2', text: 'Cleaner included' },
     {
@@ -433,32 +436,26 @@ const productContent: Record<
   Pick<ProductPage, 'overview' | 'images' | 'fullFeatures' | 'goodToKnow' | 'limitations' | 'systemRequirements'>
 > = {
   elite: {
-    images: eftShowcaseSlides,
-    goodToKnow: sharedGoodToKnow,
-    limitations: sharedLimitations,
-    systemRequirements: eftSystemRequirements,
+    images: isleShowcaseSlides,
+    goodToKnow: 'The Isle is fully online and has separate Evrima and Legacy branches. Confirm the branch and current status before using the product.',
+    limitations: 'Third-party software may conflict with game rules or server policies. Compatibility, availability and behavior can change after game updates.',
+    systemRequirements: isleSystemRequirements,
     fullFeatures: [
-      'Player ESP (box, skeleton, health, distance)',
-      'PMC, Scav and boss ESP filters',
-      'Loot ESP with category and price filters',
-      'Container, corpse and quest item highlights',
-      'Extract and transition markers',
-      'Aimbot with FOV, smoothing and bone select',
-      'No recoil and no sway toggles',
-      'Stream-proof overlays',
-      'Hotkeys and config save/load',
-      '2D radar and OOF arrows',
-      'Raids only (separate key from Arena)',
-      'Instant delivery via operator portal',
-      'Windows 10/11; Intel/AMD',
-      'Check live status after BattlEye patches',
-      'Cloud DMA required for full functionality',
+      'Aimbot with activation key, target lock and FOV controls',
+      'Distance filter and directional arrows',
+      'Wallhack with entity, box, snapline and health display',
+      'Names, growth, weight and class information',
+      'Evrima item visibility for corpses, meat, fruit, herbs, mushrooms and water',
+      'Radar with 2D and 3D display options',
+      'Zoom, colors and rotation controls',
+      'Night reshade and custom time or weather options',
+      'Branch and update compatibility checks',
     ],
     overview: {
-      title: 'One license for PMC raids on Windows',
+      title: 'Tools for The Isle survival sessions',
       paragraphs: [
-        'Escape From Tarkov Cheats bundles awareness and combat modules for main raids: player and loot ESP, aimbot, no recoil, radar, extract markers and stream-proof overlays. The loader groups settings by tab so you can run loot-only profiles or full combat loadouts.',
-        'Licenses cover Windows 10 and 11 on Intel or AMD, with HVCI, Core Isolation, TPM and Secure Boot turned on. Raids-only access excludes Arena, and Cloud DMA is required for full functionality. Monthly (31 days) and lifetime plans are listed at checkout. Confirm online status on {siteDomain} before you buy or launch.',
+        'The supplied product summary describes visual and tactical features for The Isle, including aimbot, wallhack, resource visibility and radar. It positions the tool around the game\'s growth, survival and PvP systems.',
+        'The Isle is online-only and includes Evrima and Legacy branches. Review the current listing for compatibility, setup requirements and pricing before checkout.',
       ],
     },
   },
@@ -480,16 +477,16 @@ const productContent: Record<
       'GPU ID spoofing',
       'Related hardware IDs spoofed',
       'Cleaner included',
-      'Riot Vanguard (Valorant)',
+      'Major anti-cheat systems',
       'Easy Anti-Cheat titles',
-      'BattlEye titles',
-      'Ricochet (Call of Duty)',
+      'the current game protection system titles',
+      'Protected game environments',
       'ACE, Javelin and other anti-cheats',
     ],
     overview: {
       title: 'Hardware ID ban recovery across major anti-cheats',
       paragraphs: [
-        'HWID Spoofer changes disk serials, MAC addresses, GPU IDs and related identifiers so you can come back after a hardware ban on a clean hardware profile. It covers Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet and other anti-cheats, and a cleaner is included.',
+        'HWID Spoofer changes disk serials, MAC addresses, GPU IDs and related identifiers so you can come back after a hardware ban on a clean hardware profile. It covers Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet and other anti-cheats, and a cleaner is included.',
         'Use it when new accounts get banned straight away on your PC but work on another. It does not lift a ban on an existing account. Monthly (31 days) and lifetime plans include the same tool.',
       ],
     },
@@ -680,7 +677,7 @@ export function getAllCheatSlugs() {
 }
 
 export function getHeroSlides(_locale: SiteLocale): ProductSlide[] {
-  return eftShowcaseSlides;
+  return isleShowcaseSlides;
 }
 
 const productCopyByLocale: Record<Exclude<SiteLocale, 'en'>, ProductCopyBundle> = {
@@ -738,7 +735,7 @@ function buildEnglishProductCopyBundle(): ProductCopyBundle {
     sharedGoodToKnow,
     sharedLimitations,
     acquisitionSteps: defaultAcquisitionSteps.map(({ num, title, desc }) => ({ num, title, desc })),
-    systemRequirements: eftSystemRequirements.map((r) => r.text),
+    systemRequirements: isleSystemRequirements.map((r) => r.text),
     gallery: Object.values(galleryRaw).map(({ alt, caption, captionDesc }) => ({
       alt,
       caption,

@@ -1,15 +1,15 @@
 {
   "/": {
-    "title": "Cheats Escape From Tarkov | ESP, aimbot et loot ESP",
-    "description": "ESP joueurs, loot ESP, aimbot et sans recul pour les raids PMC sous Windows, avec mises à jour du loader après les patchs. Comparez les offres sur {siteDomain}."
+    "title": "Cheats The Isle | ESP, aimbot et loot ESP",
+    "description": "ESP joueurs, loot ESP, aimbot et sans recul pour les sessions player sous Windows, avec mises à jour du loader après les patchs. Comparez les offres sur {siteDomain}."
   },
   "/cheats/": {
-    "title": "Cheats Escape From Tarkov | Acheter ESP, loot ESP et aimbot",
-    "description": "Pack raid avec ESP joueurs, filtres de loot, aimbot et sans recul sur Tarkov, pas Arena. Formules sur {siteDomain}."
+    "title": "Cheats The Isle | Acheter ESP, loot ESP et aimbot",
+    "description": "Pack session avec ESP joueurs, filtres de loot, aimbot et sans recul sur The Isle, pas Legacy. Formules sur {siteDomain}."
   },
   "/hwid-spoofer/": {
     "title": "HWID Spoofer | Sortir d’un ban matériel",
-    "description": "Modifie les identifiants disque, MAC et GPU après un ban matériel. Vanguard, EAC, BattlEye, Ricochet, nettoyeur inclus. Formules sur {siteDomain}."
+    "description": "Modifie les identifiants disque, MAC et GPU après un ban matériel. Vanguard, EAC, the current game protection system, Ricochet, nettoyeur inclus. Formules sur {siteDomain}."
   },
   "/products/": {
     "title": "{cheatProduct} et outils | Tous les produits",
@@ -24,16 +24,16 @@
     "description": "Skin changer léger qui débloque skins d’armes premium, tenues et couteaux rares sur les principaux titres. Formules mensuelles et à vie sur {siteDomain}."
   },
   "/blog/": {
-    "title": "Guides cheats Escape From Tarkov | ESP, aimbot et BattlEye",
-    "description": "Guides de presets pour les raids, réglages ESP et aim, filtres de loot et checklists de statut BattlEye publiés sur {siteDomain}."
+    "title": "Guides cheats The Isle | ESP, aimbot et the current game protection system",
+    "description": "Guides de presets pour les sessions, réglages ESP et aim, filtres de loot et checklists de statut the current game protection system publiés sur {siteDomain}."
   },
   "/forum/": {
-    "title": "Forum cheats Escape From Tarkov | Setup, statut et HWID",
-    "description": "Discussions Escape From Tarkov en lecture seule sur l'équipement, les patchs et les guides. Les nouveaux sujets et réponses sont fermés."
+    "title": "Forum cheats The Isle | Setup, statut et HWID",
+    "description": "Discussions The Isle en lecture seule sur l'équipement, les patchs et les guides. Les nouveaux sujets et réponses sont fermés."
   },
   "/faq/": {
-    "title": "FAQ cheats Escape From Tarkov | Setup, offres et BattlEye",
-    "description": "Réponses sur les cheats Escape From Tarkov : installation, offres mensuelles et à vie, modules ESP et aim, statut BattlEye et aide au paiement sur {siteDomain}."
+    "title": "FAQ cheats The Isle | Setup, offres et the current game protection system",
+    "description": "Réponses sur les cheats The Isle : installation, offres mensuelles et à vie, modules ESP et aim, statut the current game protection system et aide au paiement sur {siteDomain}."
   },
   "/terms/": {
     "title": "Conditions de vente et d'utilisation de la licence",
@@ -45,10 +45,10 @@
   },
   "/about/": {
     "title": "À propos de {siteDomain} et {siteName}",
-    "description": "Qui publie les ressources Escape From Tarkov Cheats, les notes d'état et les canaux d'assistance sur {siteDomain}."
+    "description": "Qui publie les ressources The Isle Cheats, les notes d'état et les canaux d'assistance sur {siteDomain}."
   },
   "/support/": {
-    "title": "Support cheats Escape From Tarkov | Loader, HWID et paiement",
+    "title": "Support cheats The Isle | Loader, HWID et paiement",
     "description": "Contactez le support pour l'accès au portail, les erreurs de module et les questions de facturation avant ou après le paiement sur {siteDomain}."
   }
 }

@@ -1,23 +1,23 @@
 [
   {
     "id": "status",
-    "q": "¿Dónde verifico si los trucos de Escape From Tarkov están en línea?",
-    "a": "El banner de estado en vivo está en {siteDomain}. Siempre verifique después de una actualización de Escape From Tarkov o BattlEye."
+    "q": "¿Dónde verifico si los trucos de The Isle están en línea?",
+    "a": "El banner de estado en vivo está en {siteDomain}. Siempre verifique después de una actualización de The Isle o the current game protection system."
   },
   {
     "id": "after-buy",
     "q": "¿Qué pasa después de comprar?",
-    "a": "Su portal desbloquea el cargador, la guía de configuración y la biblioteca de configuración a través de nuestro pago de socios. Sigue la guía antes de iniciar Escape From Tarkov."
+    "a": "Su portal desbloquea el cargador, la guía de configuración y la biblioteca de configuración a través de nuestro pago de socios. Sigue la guía antes de iniciar The Isle."
   },
   {
     "id": "ban-risk",
-    "q": "¿Me pueden banear por usar trucos de terceros en Escape From Tarkov?",
-    "a": "Sí, cualquier modificación conlleva riesgos. BattlEye y los sistemas de informes evolucionan. Lea el estado actual y acepte el riesgo antes de su uso. Consulta nuestra guía de <a href=\"/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/\">trucos de BattlEye y Tarkov</a> para conocer el contexto."
+    "q": "¿Me pueden banear por usar trucos de terceros en The Isle?",
+    "a": "Sí, cualquier modificación conlleva riesgos. the current game protection system y los sistemas de informes evolucionan. Lea el estado actual y acepte el riesgo antes de su uso. Consulta nuestra guía de <a href=\"/blog/the current game protection system-and-the-isle-cheats-what-to-know/\">trucos de the current game protection system y The Isle</a> para conocer el contexto."
   },
   {
     "id": "platforms",
     "q": "¿Qué plataformas son compatibles?",
-    "a": "Escape From Tarkov solo en Windows 10/11 de 64 bits. macOS y Linux no son compatibles."
+    "a": "The Isle solo en Windows 10/11 de 64 bits. macOS y Linux no son compatibles."
   },
   {
     "id": "license-move",
@@ -31,33 +31,33 @@
   },
   {
     "id": "what-is-esp",
-    "q": "¿Qué es Escape From Tarkov ESP?",
-    "a": "Player ESP muestra PMC, Scavs y jefes con cajas, esqueletos y lecturas de distancia. Loot ESP destaca contenedores y artículos valiosos.<a href=\"/cheats/\">Escape From Tarkov Cheats</a> incluye superposiciones de reconocimiento más aimbot opcional y módulos sin retroceso."
+    "q": "¿Qué es The Isle ESP?",
+    "a": "Player ESP muestra player, creatures y jefes con cajas, esqueletos y lecturas de distancia. Loot ESP destaca contenedores y artículos valiosos.<a href=\"/cheats/\">The Isle Cheats</a> incluye superposiciones de reconocimiento más aimbot opcional y módulos sin retroceso."
   },
   {
     "id": "esp-vs-aim",
     "q": "¿Cuál es la diferencia entre ESP y aimbot?",
-    "a": "ESP y aspectos destacados del botín son superposiciones de información; no mueven tu punto de mira. Aimbot, sin retroceso y disparador son asistencias de combate en <a href=\"/cheats/\">Escape From Tarkov Cheats</a>, ajustadas por separado en el cargador."
+    "a": "ESP y aspectos destacados del botín son superposiciones de información; no mueven tu punto de mira. Aimbot, sin retroceso y disparador son asistencias de combate en <a href=\"/cheats/\">The Isle Cheats</a>, ajustadas por separado en el cargador."
   },
   {
     "id": "elite-slots",
-    "q": "¿Por qué son limitadas las plazas de Escape From Tarkov Cheats?",
-    "a": "Escape From Tarkov Cheats es una compilación privada con soporte directo de desarrolladores y entrega prioritaria de parches. El límite de plazas mantiene rápidos los ciclos de parches. Consulte el banner de estado antes de realizar el pago."
+    "q": "¿Por qué son limitadas las plazas de The Isle Cheats?",
+    "a": "The Isle Cheats es una compilación privada con soporte directo de desarrolladores y entrega prioritaria de parches. El límite de plazas mantiene rápidos los ciclos de parches. Consulte el banner de estado antes de realizar el pago."
   },
   {
     "id": "stream-proof",
     "q": "¿Puede OBS capturar mi superposición?",
-    "a": "El modo a prueba de transmisión en <a href=\"/cheats/\">Escape From Tarkov Cheats</a> oculta superposiciones de OBS. Pruebe una grabación local antes de emitirla."
+    "a": "El modo a prueba de transmisión en <a href=\"/cheats/\">The Isle Cheats</a> oculta superposiciones de OBS. Pruebe una grabación local antes de emitirla."
   },
   {
     "id": "build-status",
     "q": "¿La build seguirá en línea después de cada parche?",
-    "a": "No. El estado en línea se muestra en la página del producto y en el banner de estado únicamente en el momento de la compra. Deténgase si la compilación muestra actualización, prueba o fuera de línea después de una actualización de BattlEye."
+    "a": "No. El estado en línea se muestra en la página del producto y en el banner de estado únicamente en el momento de la compra. Deténgase si la compilación muestra actualización, prueba o fuera de línea después de una actualización de the current game protection system."
   },
   {
     "id": "esp-safer",
     "q": "¿Es el ESP más discreto que el aimbot?",
-    "a": "El ESP suele ser menos obvio que el aimbot al máximo, pero sigue siendo una trampa. BattlEye no ignora las superposiciones porque dejaste desactivada la asistencia para apuntar."
+    "a": "El ESP suele ser menos obvio que el aimbot al máximo, pero sigue siendo una trampa. the current game protection system no ignora las superposiciones porque dejaste desactivada la asistencia para apuntar."
   },
   {
     "id": "hwid-when",
@@ -67,12 +67,12 @@
   {
     "id": "external-loader",
     "q": "¿El cargador se inyecta en la carpeta del juego?",
-    "a": "{siteName} se ejecuta de forma externa con sincronización de configuración en la nube, no se inyectan archivos en el directorio Escape From Tarkov. El riesgo de BattlEye aún se aplica. Consulte <a href=\"/cheats/\">Escape From Tarkov Cheats</a>."
+    "a": "{siteName} se ejecuta de forma externa con sincronización de configuración en la nube, no se inyectan archivos en el directorio The Isle. El riesgo de the current game protection system aún se aplica. Consulte <a href=\"/cheats/\">The Isle Cheats</a>."
   },
   {
     "id": "blog-vs-cheats",
     "q": "¿Los códigos de trucos de blogs son lo mismo que los trucos de incursiones en vivo?",
-    "a": "No. Los artículos de blog sobre pruebas locales o sin conexión no reemplazan el cargador en vivo. Las incursiones de PMC utilizan <a href=\"/cheats/\">Escape From Tarkov Cheats</a> cuando el estado está en línea."
+    "a": "No. Los artículos de blog sobre pruebas locales o sin conexión no reemplazan el cargador en vivo. Las incursiones de player utilizan <a href=\"/cheats/\">The Isle Cheats</a> cuando el estado está en línea."
   },
   {
     "id": "blog-setup",
@@ -81,37 +81,37 @@
   },
   {
     "id": "who-cheats",
-    "q": "¿Quién debería comprar trucos de Escape From Tarkov?",
-    "a": "Asaltantes de PMC que quieren ESP de jugador, ESP de botín, aimbot, sin retroceso y entrega de parches prioritarios cuando hay espacios abiertos."
+    "q": "¿Quién debería comprar trucos de The Isle?",
+    "a": "Asaltantes de player que quieren ESP de jugador, ESP de botín, aimbot, sin retroceso y entrega de parches prioritarios cuando hay espacios abiertos."
   },
   {
     "id": "vac-update",
-    "q": "¿Qué debo hacer después de una actualización de BattlEye?",
+    "q": "¿Qué debo hacer después de una actualización de the current game protection system?",
     "a": "Verifique el estado de {siteDomain}. No lo inicie hasta que el banner se muestre en línea. Cargue ajustes preestablecidos conservadores después de cualquier parche."
   },
   {
     "id": "discord-help",
     "q": "¿Cómo obtengo ayuda para la instalación?",
-    "a": "Abra un ticket de soporte después de la compra con el correo electrónico de su pedido, la versión de Windows y la compilación del cliente Escape From Tarkov. El personal recorre la configuración del cargador desde ahí."
+    "a": "Abra un ticket de soporte después de la compra con el correo electrónico de su pedido, la versión de Windows y la compilación del cliente The Isle. El personal recorre la configuración del cargador desde ahí."
   },
   {
-    "id": "pmc-scav-raids",
-    "q": "¿Los módulos funcionan en raids PMC y Scav?",
-    "a": "Sí.<a href=\"/cheats/\">Escape From Tarkov Cheats</a> incluye ajustes preestablecidos de PMC y Scav en el portal. Ajusta los límites de distancia ESP y apunta suavemente antes de tu primera incursión."
+    "id": "pmc-scav-sessions",
+    "q": "¿Los módulos funcionan en sessions player y creature?",
+    "a": "Sí.<a href=\"/cheats/\">The Isle Cheats</a> incluye ajustes preestablecidos de player y creature en el portal. Ajusta los límites de distancia ESP y apunta suavemente antes de tu primera incursión."
   },
   {
     "id": "zoom-hack",
     "q": "¿Qué nivel incluye radar y extracción de ESP?",
-    "a": "El radar 2D y los marcadores de extracción vienen con <a href=\"/cheats/\">Escape From Tarkov Cheats</a>. Úsalos para orientarte entre combates y planificar extracciones."
+    "a": "El radar 2D y los marcadores de extracción vienen con <a href=\"/cheats/\">The Isle Cheats</a>. Úsalos para orientarte entre combates y planificar extracciones."
   },
   {
     "id": "trigger-bot",
     "q": "¿El producto incluye disparador bot?",
-    "a": "El robot disparador opcional se envía con <a href=\"/cheats/\">Escape From Tarkov Cheats</a> junto con aimbot y sin retroceso. Comience con ajustes preestablecidos de retraso conservadores en el portal."
+    "a": "El robot disparador opcional se envía con <a href=\"/cheats/\">The Isle Cheats</a> junto con aimbot y sin retroceso. Comience con ajustes preestablecidos de retraso conservadores en el portal."
   },
   {
     "id": "private-cheats",
-    "q": "¿Qué son los trucos privados de Escape From Tarkov?",
+    "q": "¿Qué son los trucos privados de The Isle?",
     "a": "Privado significa claves por usuario y compilaciones mantenidas, no paquetes zip públicos. {siteName} envía la entrega del portal para el conjunto completo de incursiones en una licencia de trucos."
   },
   {

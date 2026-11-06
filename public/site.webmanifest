@@ -1,24 +1,19 @@
 {
-  "name": "EFT CHEATS",
-  "short_name": "EFT CHEATS",
-  "description": "Escape From Tarkov cheats with player ESP, loot ESP, aimbot and no recoil for PMC raids.",
+  "name": "The Isle Cheats",
+  "short_name": "The Isle Cheats",
+  "description": "The Isle cheats with player visibility, radar, aim assistance, and resource tools for PC.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#0a0d10",
-  "theme_color": "#7f3dee",
+  "theme_color": "#5311ee",
   "lang": "en-US",
   "icons": [
+    { "src": "/favicon.svg?v=3", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
     {
       "src": "/apple-touch-icon.png?v=2",
       "sizes": "180x180",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "/images/brand/eft-cheats-logo-512.webp",
-      "sizes": "512x512",
-      "type": "image/webp",
       "purpose": "any"
     },
     {

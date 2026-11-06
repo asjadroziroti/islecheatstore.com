@@ -6,11 +6,11 @@
  * marketing copy (homepage, cheat product page, blog, forum) still has to be rewritten per game.
  */
 export const GAME = {
-  name: 'Escape From Tarkov',
-  shortName: 'Tarkov',
-  publisher: 'Battlestate Games',
-  antiCheat: 'BattlEye',
-  officialUrl: 'https://www.escapefromtarkov.com/',
+  name: 'The Isle',
+  shortName: 'The Isle',
+  publisher: 'The Isle',
+  antiCheat: 'the current game protection system',
+  officialUrl: 'https://www.survivetheisle.com/',
 } as const;
 
 /** Display name of the main cheat product, used in menus, cards and comparison headers. */

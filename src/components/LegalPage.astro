@@ -26,10 +26,10 @@ const { t, lp } = useLocale(Astro.currentLocale);
       ]}
     />
     </div>
-    <header class="mt-4 space-y-4 text-center">
+    <div class="mt-4 space-y-4 text-center">
       <h1 class="text-3xl font-bold normal-case md:text-4xl">{title}</h1>
       <p class="text-lg leading-relaxed text-muted-foreground">{description}</p>
-    </header>
+    </div>
 
     <Prose class="mt-10 max-w-none text-left">
       {sections.map((section) => (

@@ -19,7 +19,7 @@ export function withTrailingSlash(path: string): string {
   return hash ? `${withQuery}#${hash}` : withQuery;
 }
 
-const legacyProductRoot = '/products/dota-2-cheats';
+const legacyProductRoot = '/products/the-isle-cheats';
 
 /** Former product URLs → `/cheats/` (301 targets match scripts/redirects.mjs). */
 export const LEGACY_PATH_MAP: Record<string, string> = {
@@ -104,7 +104,7 @@ export function blogPostPath(slug: string): string {
 }
 
 export function productPath(slug: string): string {
-  if (slug === CHEATS_PRIMARY_SLUG || slug === 'dota-2-cheats') {
+  if (slug === CHEATS_PRIMARY_SLUG || slug === 'the-isle-cheats') {
     return PRODUCT_BASE;
   }
   const utilityPath = UTILITY_PRODUCT_PATHS[slug as UtilityProductSlug];

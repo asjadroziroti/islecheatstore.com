@@ -5,4 +5,4 @@ Disallow: /es/go/
 Disallow: /de/go/
 Disallow: /fr/go/
 
-Sitemap: https://eftcheat.net/sitemap.xml
+Sitemap: https://islecheatstore.com/sitemap.xml

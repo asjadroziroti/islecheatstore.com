@@ -260,7 +260,7 @@ export interface Translations {
   };
   footer: {
     tagline: string;
-    /** `{game}` is replaced by a link to the official Escape From Tarkov site. */
+    /** `{game}` is replaced by a link to the official The Isle site. */
     trademark: string;
     explore: string;
     exploreLinks: NavLink[];

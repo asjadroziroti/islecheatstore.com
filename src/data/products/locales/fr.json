@@ -1,16 +1,16 @@
 {
-  "sharedGoodToKnow": "Escape From Tarkov et BattlEye reçoivent des mises à jour fréquentes. Confirmez la disponibilité du module sur le panneau d'état en direct sur {siteDomain} avant d'acheter ou de lancer. Cloud DMA constitue un achat distinct lorsque cela est nécessaire pour bénéficier de toutes les fonctionnalités.",
-  "sharedLimitations": "Les logiciels tiers dans Escape From Tarkov peuvent enfreindre les conditions de {gamePublisher} et entraîner des bans ou des actions sur le compte de BattlEye. Vous utilisez ce logiciel à vos propres risques. La compatibilité et la disponibilité peuvent changer après les mises à jour du jeu, de BattlEye ou de Windows sans préavis.",
+  "sharedGoodToKnow": "The Isle et the current game protection system reçoivent des mises à jour fréquentes. Confirmez la disponibilité du module sur le panneau d'état en direct sur {siteDomain} avant d'acheter ou de lancer. branch compatibility constitue un achat distinct lorsque cela est nécessaire pour bénéficier de toutes les fonctionnalités.",
+  "sharedLimitations": "Les logiciels tiers dans The Isle peuvent enfreindre les conditions de {gamePublisher} et entraîner des bans ou des actions sur le compte de the current game protection system. Vous utilisez ce logiciel à vos propres risques. La compatibilité et la disponibilité peuvent changer après les mises à jour du jeu, de the current game protection system ou de Windows sans préavis.",
   "acquisitionSteps": [
     {
       "num": "01",
       "title": "Vérifier l'état actuel",
-      "desc": "Vérifiez la bannière en direct sur {siteDomain} avant l'achat, surtout après une mise à jour d'Escape From Tarkov ou de BattlEye."
+      "desc": "Vérifiez la bannière en direct sur {siteDomain} avant l'achat, surtout après une mise à jour d'The Isle ou de the current game protection system."
     },
     {
       "num": "02",
       "title": "Choisissez votre niveau d'accès",
-      "desc": "Sélectionnez Escape From Tarkov Cheats ou l'utilitaire qui correspond à votre objectif. Consultez la liste des fonctionnalités avant de procéder au paiement via notre paiement partenaire."
+      "desc": "Sélectionnez The Isle Cheats ou l'utilitaire qui correspond à votre objectif. Consultez la liste des fonctionnalités avant de procéder au paiement via notre paiement partenaire."
     },
     {
       "num": "03",
@@ -20,7 +20,7 @@
     {
       "num": "04",
       "title": "Suivez la configuration guidée",
-      "desc": "Utilisez uniquement le portail opérateur, le chargeur de correctifs et le guide de configuration. Testez hors ligne, chargez les préréglages, puis exécutez des raids PMC lorsque l'état est en ligne."
+      "desc": "Utilisez uniquement le portail opérateur, le chargeur de correctifs et le guide de configuration. Testez hors ligne, chargez les préréglages, puis exécutez des sessions player lorsque l'état est en ligne."
     }
   ],
   "systemRequirements": [
@@ -28,21 +28,21 @@
     "HVCI et Core Isolation activés dans Sécurité Windows.",
     "TPM et Secure Boot activés dans le BIOS/UEFI.",
     "Accès Internet et chargeur stable après l'achat.",
-    "Cloud DMA est nécessaire pour bénéficier de toutes les fonctionnalités."
+    "branch compatibility est nécessaire pour bénéficier de toutes les fonctionnalités."
   ],
   "gallery": [
     {
-      "alt": "Vue à la première personne d'Escape From Tarkov avec le joueur ESP montrant des personnages surlignés en rouge, des contours de squelette et des étiquettes de distance dans une cour industrielle ensoleillée.",
-      "caption": "Joueur ESP dans les raids de jour",
+      "alt": "Vue à la première personne d'The Isle avec le joueur ESP montrant des personnages surlignés en rouge, des contours de squelette et des étiquettes de distance dans une cour industrielle ensoleillée.",
+      "caption": "Joueur ESP dans les sessions de jour",
       "captionDesc": "Points forts des joueurs rouges et verts, squelettes filaires et lectures de distance sur une carte industrielle extérieure."
     },
     {
-      "alt": "Scène de vision nocturne Escape From Tarkov avec étiquettes squelettes ESP, PMC et Scav et relevés de compteurs visibles à travers les murs intérieurs.",
+      "alt": "Scène de vision nocturne The Isle avec étiquettes squelettes ESP, player et creature et relevés de compteurs visibles à travers les murs intérieurs.",
       "caption": "Squelette ESP la nuit",
-      "captionDesc": "Des squelettes en forme de bâton, des badges nominatifs et des marqueurs de distance à travers les murs lors d'un raid intérieur teinté de vert."
+      "captionDesc": "Des squelettes en forme de bâton, des badges nominatifs et des marqueurs de distance à travers les murs lors d'un session intérieur teinté de vert."
     },
     {
-      "alt": "Escape From Tarkov vise à la première personne avec des silhouettes de wallhack rouges et des étiquettes d'armes visibles à travers un mur de béton à l'extérieur.",
+      "alt": "The Isle vise à la première personne avec des silhouettes de wallhack rouges et des étiquettes d'armes visibles à travers un mur de béton à l'extérieur.",
       "caption": "ESP à travers une couverture rigide",
       "captionDesc": "Silhouettes ennemies rouges et appels d'armes rendus à travers une barrière en béton tout en visant vers le bas."
     }
@@ -52,7 +52,7 @@
       "about": [
         {
           "type": "p",
-          "text": "Cette licence couvre les principaux raids Escape From Tarkov avec le joueur ESP, le butin ESP, l'aimbot, pas de recul, le radar et les aides à l'extraction. Arena est une clé de produit distincte. Cloud DMA est nécessaire pour bénéficier de toutes les fonctionnalités."
+          "text": "Cette licence couvre les principaux sessions The Isle avec le joueur ESP, le butin ESP, l'aimbot, pas de recul, le radar et les aides à l'extraction. Legacy est une clé de produit distincte. branch compatibility est nécessaire pour bénéficier de toutes les fonctionnalités."
         },
         {
           "type": "h2",
@@ -60,7 +60,7 @@
         },
         {
           "type": "p",
-          "text": "Chargez d'abord les préréglages du portail hors ligne, puis augmentez la distance ESP et visez le lissage sur plusieurs sessions. Le support aide avec les onglets du chargeur si un module entre en conflit après un patch BattlEye."
+          "text": "Chargez d'abord les préréglages du portail hors ligne, puis augmentez la distance ESP et visez le lissage sur plusieurs sessions. Le support aide avec les onglets du chargeur si un module entre en conflit après un patch the current game protection system."
         }
       ],
       "body": [
@@ -82,18 +82,18 @@
         }
       ],
       "overview": {
-        "title": "Une licence pour les raids PMC sous Windows",
+        "title": "Une licence pour les sessions player sous Windows",
         "paragraphs": [
-          "Escape From Tarkov Cheats regroupe des modules de sensibilisation et de combat pour les raids principaux : ESP du joueur et du butin, aimbot, pas de recul, radar, marqueurs d'extraction et superpositions à l'épreuve des flux. Le chargeur regroupe les paramètres par onglet afin que vous puissiez exécuter des profils réservés au butin ou des chargements de combat complets.",
-          "Les licences couvrent Windows 10 et 11 sur Intel ou AMD, avec HVCI, Core Isolation, TPM et Secure Boot activés.L'accès aux raids uniquement exclut l'arène ;Cloud DMA est nécessaire pour bénéficier de toutes les fonctionnalités. Les forfaits mensuels et à vie sont répertoriés lors du paiement : confirmez l'état en ligne sur {siteDomain} avant d'acheter ou de lancer."
+          "The Isle Cheats regroupe des modules de sensibilisation et de combat pour les sessions principaux : ESP du joueur et du butin, aimbot, pas de recul, radar, marqueurs d'extraction et superpositions à l'épreuve des flux. Le chargeur regroupe les paramètres par onglet afin que vous puissiez exécuter des profils réservés au butin ou des chargements de combat complets.",
+          "Les licences couvrent Windows 10 et 11 sur Intel ou AMD, avec HVCI, Core Isolation, TPM et Secure Boot activés.L'accès aux sessions uniquement exclut l'arène ;branch compatibility est nécessaire pour bénéficier de toutes les fonctionnalités. Les forfaits mensuels et à vie sont répertoriés lors du paiement : confirmez l'état en ligne sur {siteDomain} avant d'acheter ou de lancer."
         ]
       },
-      "goodToKnow": "Escape From Tarkov et BattlEye reçoivent des mises à jour fréquentes. Confirmez la disponibilité du module sur le panneau d'état en direct sur {siteDomain} avant d'acheter ou de lancer. Cloud DMA constitue un achat distinct lorsque cela est nécessaire pour bénéficier de toutes les fonctionnalités.",
-      "limitations": "Les logiciels tiers dans Escape From Tarkov peuvent enfreindre les conditions de {gamePublisher} et entraîner des bans ou des actions sur le compte de BattlEye. Vous utilisez ce logiciel à vos propres risques. La compatibilité et la disponibilité peuvent changer après les mises à jour du jeu, de BattlEye ou de Windows sans préavis.",
-      "acquisitionTitle": "Comment obtenir Escape From Tarkov Cheats",
+      "goodToKnow": "The Isle et the current game protection system reçoivent des mises à jour fréquentes. Confirmez la disponibilité du module sur le panneau d'état en direct sur {siteDomain} avant d'acheter ou de lancer. branch compatibility constitue un achat distinct lorsque cela est nécessaire pour bénéficier de toutes les fonctionnalités.",
+      "limitations": "Les logiciels tiers dans The Isle peuvent enfreindre les conditions de {gamePublisher} et entraîner des bans ou des actions sur le compte de the current game protection system. Vous utilisez ce logiciel à vos propres risques. La compatibilité et la disponibilité peuvent changer après les mises à jour du jeu, de the current game protection system ou de Windows sans préavis.",
+      "acquisitionTitle": "Comment obtenir The Isle Cheats",
       "fullFeatures": [
         "ESP joueur (boîte, squelette, santé, distance)",
-        "Filtres ESP PMC, Scav et boss",
+        "Filtres ESP player, creature et boss",
         "ESP de butin avec filtres de catégorie et de prix",
         "Surbrillance des conteneurs, corps et objets de quête",
         "Marqueurs d’extraction et de transition",
@@ -102,11 +102,11 @@
         "Overlays invisibles au stream",
         "Raccourcis et sauvegarde de la configuration",
         "Radar 2D et flèches hors écran",
-        "Raids uniquement (clé séparée d’Arena)",
+        "Raids uniquement (clé séparée d’Legacy)",
         "Livraison instantanée via le portail",
         "Windows 10/11 ; Intel/AMD",
-        "Vérifier le statut en direct après les patchs BattlEye",
-        "Cloud DMA requis pour toutes les fonctions"
+        "Vérifier le statut en direct après les patchs the current game protection system",
+        "branch compatibility requis pour toutes les fonctions"
       ]
     }
   },
@@ -127,7 +127,7 @@
         },
         {
           "type": "p",
-          "text": "Il fonctionne avec Riot Vanguard (Valorant), Easy Anti-Cheat, BattlEye, Ricochet (Call of Duty) et d’autres systèmes comme ACE et Javelin. Vérifiez que votre jeu est couvert avant d’acheter, car la prise en charge peut changer après une mise à jour de l’anti-cheat."
+          "text": "Il fonctionne avec Riot Vanguard (Valorant), Easy Anti-Cheat, the current game protection system, Ricochet (Call of Duty) et d’autres systèmes comme ACE et Javelin. Vérifiez que votre jeu est couvert avant d’acheter, car la prise en charge peut changer après une mise à jour de l’anti-cheat."
         },
         {
           "type": "h2",
@@ -149,7 +149,7 @@
       "overview": {
         "title": "Sortir d’un ban matériel sur les principaux anti-cheats",
         "paragraphs": [
-          "HWID Spoofer modifie les numéros de série des disques, les adresses MAC, les identifiants GPU et d’autres identifiants associés pour revenir après un ban matériel avec un profil matériel propre. Il couvre Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet et d’autres anti-cheats, et un nettoyeur est inclus.",
+          "HWID Spoofer modifie les numéros de série des disques, les adresses MAC, les identifiants GPU et d’autres identifiants associés pour revenir après un ban matériel avec un profil matériel propre. Il couvre Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet et d’autres anti-cheats, et un nettoyeur est inclus.",
           "Utilisez-le quand les nouveaux comptes sont bannis immédiatement sur votre PC mais fonctionnent sur un autre. Il ne lève pas le ban d’un compte existant. Les forfaits mensuel (31 jours) et à vie incluent le même outil."
         ]
       },
@@ -160,7 +160,7 @@
         {
           "num": "01",
           "title": "Vérifiez que votre jeu est couvert",
-          "desc": "Le spoofer prend en charge Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet et d’autres anti-cheats. Vérifiez que votre jeu figure dans la liste et consultez la bannière d’état sur {siteDomain} avant d’acheter."
+          "desc": "Le spoofer prend en charge Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet et d’autres anti-cheats. Vérifiez que votre jeu figure dans la liste et consultez la bannière d’état sur {siteDomain} avant d’acheter."
         },
         {
           "num": "02",
@@ -193,7 +193,7 @@
         "Nettoyeur inclus",
         "Riot Vanguard (Valorant)",
         "Titres Easy Anti-Cheat",
-        "Titres BattlEye",
+        "Titres the current game protection system",
         "Ricochet (Call of Duty)",
         "ACE, Javelin et autres anti-cheats"
       ],

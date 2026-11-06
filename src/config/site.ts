@@ -8,7 +8,7 @@ const publicSiteName =
     ? (import.meta.env?.PUBLIC_SITE_NAME as string | undefined)
     : undefined;
 
-export const SITE_NAME = publicSiteName?.trim() || 'EFT CHEATS';
+export const SITE_NAME = publicSiteName?.trim() || 'The Isle Cheats';
 export const PRODUCT_BASE = '/cheats/';
 export const HWID_SPOOFER_PATH = '/hwid-spoofer/';
 export const UGC_PATH = '/ugc/';

@@ -1,19 +1,19 @@
 [
   {
     "tag": "Caractéristiques",
-    "title": "Tarkov Loot ESP : Comment filtrer le butin par prix, catégorie et conteneur",
-    "slug": "tarkov-loot-esp-filters-price-category-containers",
-    "image": "/images/gameplay/eft-esp-daylight-player-highlights.webp",
-    "imageAlt": "Vue du raid Escape From Tarkov avec étiquettes ESP de butin indiquant les noms et les prix des articles",
-    "desc": "Un aperçu pratique du butin ESP de Tarkov : filtres de prix, catégories de butin, conteneurs et préréglages, et comment garder votre écran lisible au lieu d'être encombré.",
-    "metaTitle": "Tarkov Loot ESP : filtres, prix et conteneurs expliqués",
-    "metaDescription": "Comment fonctionne le loot ESP Tarkov : prix minimum, catégories, conteneurs, objets de quête et préréglages pour des raids plus lisibles.",
+    "title": "The Isle Loot ESP : Comment filtrer le butin par prix, catégorie et conteneur",
+    "slug": "isle-loot-esp-filters-price-category-containers",
+    "image": "/images/gameplay/isle-esp-daylight-player-highlights.webp",
+    "imageAlt": "Vue du session The Isle avec étiquettes ESP de butin indiquant les noms et les prix des articles",
+    "desc": "Un aperçu pratique du butin ESP de The Isle : filtres de prix, catégories de butin, conteneurs et préréglages, et comment garder votre écran lisible au lieu d'être encombré.",
+    "metaTitle": "The Isle Loot ESP : filtres, prix et conteneurs expliqués",
+    "metaDescription": "Comment fonctionne le loot ESP The Isle : prix minimum, catégories, conteneurs, objets de quête et préréglages pour des sessions plus lisibles.",
     "date": "2026-07-16",
     "readTime": "6 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "Le butin est la seule raison pour laquelle la plupart des gens organisent des raids à Tarkov. C’est aussi là que l’on perd beaucoup de temps. Vous videz une pièce, ouvrez trois conteneurs et repartez sans rien qui vaut les emplacements. Loot ESP existe pour résoudre ce problème, et la différence entre une bonne et une mauvaise configuration se résume aux filtres."
+        "text": "Le butin est la seule raison pour laquelle la plupart des gens organisent des sessions à The Isle. C’est aussi là que l’on perd beaucoup de temps. Vous videz une pièce, ouvrez trois conteneurs et repartez sans rien qui vaut les emplacements. Loot ESP existe pour résoudre ce problème, et la différence entre une bonne et une mauvaise configuration se résume aux filtres."
       },
       {
         "type": "h2",
@@ -21,7 +21,7 @@
       },
       {
         "type": "p",
-        "text": "Loot ESP dessine des étiquettes sur les objets et les conteneurs dans le monde, afin que vous puissiez voir ce qui se trouve à proximité sans vérifier chaque étagère et chaque tiroir. Dans le menu de triche d'Escape From Tarkov, la section de butin couvre les objets au sol, les conteneurs, les cachettes, les cadavres, les ordinateurs et autres endroits similaires, avec la distance et le prix indiqués à côté de ce qu'elle trouve."
+        "text": "Loot ESP dessine des étiquettes sur les objets et les conteneurs dans le monde, afin que vous puissiez voir ce qui se trouve à proximité sans vérifier chaque étagère et chaque tiroir. Dans le menu de triche d'The Isle, la section de butin couvre les objets au sol, les conteneurs, les cachettes, les cadavres, les ordinateurs et autres endroits similaires, avec la distance et le prix indiqués à côté de ce qu'elle trouve."
       },
       {
         "type": "p",
@@ -45,7 +45,7 @@
       },
       {
         "type": "p",
-        "text": "Le butin est regroupé en catégories telles que militaire, technique, médical et précieux, avec un groupe commun distinct pour les objets du quotidien. La sélection de catégories vous permet de décider du type de raid que vous effectuez. Une course médicale rapide et une course de butin technique nécessitent des étiquettes très différentes."
+        "text": "Le butin est regroupé en catégories telles que militaire, technique, médical et précieux, avec un groupe commun distinct pour les objets du quotidien. La sélection de catégories vous permet de décider du type de session que vous effectuez. Une course médicale rapide et une course de butin technique nécessitent des étiquettes très différentes."
       },
       {
         "type": "p",
@@ -65,7 +65,7 @@
       },
       {
         "type": "p",
-        "text": "Quest ESP marque les éléments et objectifs liés à la quête, ce qui vous évite beaucoup de retours en arrière si vous travaillez sur des tâches. Les marqueurs d'extraction et de transition indiquent où vous pouvez partir, ce qui est utile lorsqu'un raid commence à mal se dérouler et que vous devez vous engager sur un itinéraire."
+        "text": "Quest ESP marque les éléments et objectifs liés à la quête, ce qui vous évite beaucoup de retours en arrière si vous travaillez sur des tâches. Les marqueurs d'extraction et de transition indiquent où vous pouvez partir, ce qui est utile lorsqu'un session commence à mal se dérouler et que vous devez vous engager sur un itinéraire."
       },
       {
         "type": "h2",
@@ -89,25 +89,25 @@
       },
       {
         "type": "p",
-        "text": "Si vous souhaitez obtenir un butin ESP avec le prix complet, la catégorie, le conteneur et les commandes prédéfinies, les [Escape From Tarkov cheats](/cheats/) l'incluent aux côtés du joueur ESP, de l'aimbot et des options diverses. Vérifiez la page d'état après les correctifs avant de les charger, consultez [setup Requirements](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/) et notez que le composant Cloud DMA est requis pour bénéficier de toutes les fonctionnalités. Les forfaits commencent par un [abonnement mensuel ou à vie](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/), avec une option à vie si vous prévoyez de rester à long terme."
+        "text": "Si vous souhaitez obtenir un butin ESP avec le prix complet, la catégorie, le conteneur et les commandes prédéfinies, les [The Isle cheats](/cheats/) l'incluent aux côtés du joueur ESP, de l'aimbot et des options diverses. Vérifiez la page d'état après les correctifs avant de les charger, consultez [setup Requirements](/blog/how-to-set-up-the-isle-cheats-requirements/) et notez que le composant branch compatibility est requis pour bénéficier de toutes les fonctionnalités. Les forfaits commencent par un [abonnement mensuel ou à vie](/blog/the-isle-cheats-price-monthly-vs-lifetime/), avec une option à vie si vous prévoyez de rester à long terme."
       }
     ]
   },
   {
     "tag": "Caractéristiques",
-    "title": "Réglages de l'aimbot Tarkov expliqués : FOV, os, choix de cible et plus",
-    "slug": "tarkov-aimbot-settings-explained",
-    "image": "/images/gameplay/eft-esp-night-vision-skeletons.webp",
-    "imageAlt": "Onglet Aimbot du menu de triche Escape From Tarkov affichant les options de FOV et de cible",
-    "desc": "Chaque menu Aimbot semble écrasant la première fois. Voici ce que font les principales options de l’aimbot Tarkov et comment les configurer sans faire de dégâts.",
-    "metaTitle": "Réglages de l'aimbot Tarkov expliqués : FOV, os et cibles",
-    "metaDescription": "Options de l'aimbot Tarkov : touche, champ de vision, visibilité, os, sélection de cible et prédiction.",
+    "title": "Réglages de l'aimbot The Isle expliqués : FOV, os, choix de cible et plus",
+    "slug": "isle-aimbot-settings-explained",
+    "image": "/images/gameplay/isle-esp-night-vision-skeletons.webp",
+    "imageAlt": "Onglet Aimbot du menu de triche The Isle affichant les options de FOV et de cible",
+    "desc": "Chaque menu Aimbot semble écrasant la première fois. Voici ce que font les principales options de l’aimbot The Isle et comment les configurer sans faire de dégâts.",
+    "metaTitle": "Réglages de l'aimbot The Isle expliqués : FOV, os et cibles",
+    "metaDescription": "Options de l'aimbot The Isle : touche, champ de vision, visibilité, os, sélection de cible et prédiction.",
     "date": "2026-05-10",
     "readTime": "7 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "L'onglet Aimbot dans un menu de triche de Tarkov comporte de nombreuses options, et la plupart d'entre elles ne sont utiles que si vous comprenez ce qu'elles changent. Ceci est une présentation pas à pas des principales options, basée sur les options répertoriées pour les cheats Escape From Tarkov."
+        "text": "L'onglet Aimbot dans un menu de triche de The Isle comporte de nombreuses options, et la plupart d'entre elles ne sont utiles que si vous comprenez ce qu'elles changent. Ceci est une présentation pas à pas des principales options, basée sur les options répertoriées pour les cheats The Isle."
       },
       {
         "type": "h2",
@@ -127,7 +127,7 @@
       },
       {
         "type": "p",
-        "text": "La distance maximale de l'aimbot limite la distance à laquelle il ciblera. Les engagements de Tarkov varient énormément d'une carte à l'autre, donc une valeur inférieure convient aux cartes intérieures lourdes et une valeur plus élevée aux cartes ouvertes."
+        "text": "La distance maximale de l'aimbot limite la distance à laquelle il ciblera. Les engagements de The Isle varient énormément d'une carte à l'autre, donc une valeur inférieure convient aux cartes intérieures lourdes et une valeur plus élevée aux cartes ouvertes."
       },
       {
         "type": "p",
@@ -139,7 +139,7 @@
       },
       {
         "type": "p",
-        "text": "La sélection de la cible décide qui sera choisi lorsque plus d'une personne est à portée. Les options de coéquipier vous permettent de marquer vos coéquipiers afin de ne pas les pointer du doigt, avec la possibilité d'ajouter rapidement un coéquipier. Si vous jouez en groupe, configurez-le avant le raid, pas pendant celui-ci."
+        "text": "La sélection de la cible décide qui sera choisi lorsque plus d'une personne est à portée. Les options de coéquipier vous permettent de marquer vos coéquipiers afin de ne pas les pointer du doigt, avec la possibilité d'ajouter rapidement un coéquipier. Si vous jouez en groupe, configurez-le avant le session, pas pendant celui-ci."
       },
       {
         "type": "h2",
@@ -182,18 +182,18 @@
       },
       {
         "type": "p",
-        "text": "Si vous souhaitez le menu complet de l'aimbot ainsi que les outils ESP et divers, consultez les [Tarkov aimbot options](/cheats/). Il est vendu uniquement pour les raids principaux et utilise une clé distincte d'Arena, et le composant Cloud DMA est requis pour bénéficier de toutes les fonctionnalités. Associez-le à [loot ESP filters](/blog/tarkov-loot-esp-filters-price-category-containers/) et lisez [BattlEye considérations](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/) avant de partir en raid."
+        "text": "Si vous souhaitez le menu complet de l'aimbot ainsi que les outils ESP et divers, consultez les [The Isle aimbot options](/cheats/). Il est vendu uniquement pour les sessions principaux et utilise une clé distincte d'Legacy, et le composant branch compatibility est requis pour bénéficier de toutes les fonctionnalités. Associez-le à [loot ESP filters](/blog/isle-loot-esp-filters-price-category-containers/) et lisez [the current game protection system considérations](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) avant de partir en session."
       }
     ]
   },
   {
     "tag": "Guides d'achat",
-    "title": "Prix des cheats Escape From Tarkov : mensuel ou à vie",
-    "slug": "escape-from-tarkov-cheats-price-monthly-vs-lifetime",
-    "image": "/images/gameplay/eft-esp-enemies-through-concrete-wall.webp",
-    "imageAlt": "Escape From Tarkov triche les options de plan mensuel et à vie",
+    "title": "Prix des cheats The Isle : mensuel ou à vie",
+    "slug": "the-isle-cheats-price-monthly-vs-lifetime",
+    "image": "/images/gameplay/isle-esp-enemies-through-concrete-wall.webp",
+    "imageAlt": "The Isle triche les options de plan mensuel et à vie",
     "desc": "Mensuel ou à vie ?Voici les prix, le seuil de rentabilité et les éléments supplémentaires à vérifier avant de payer.",
-    "metaTitle": "Prix des cheats Escape From Tarkov : mensuel ou à vie",
+    "metaTitle": "Prix des cheats The Isle : mensuel ou à vie",
     "metaDescription": "Mensuel 35 $ et à vie 150 $, avec les mêmes fonctions. Quand chacun est utile et quoi vérifier avant d’acheter.",
     "date": "2026-10-15",
     "readTime": "5 min de lecture",
@@ -201,7 +201,7 @@
     "body": [
       {
         "type": "p",
-        "text": "Si vous recherchez des cheats pour Escape From Tarkov, le prix est probablement l’une des premières choses auxquelles vous souhaitez obtenir une réponse. Voici les chiffres réels et comment choisir entre les deux plans."
+        "text": "Si vous recherchez des cheats pour The Isle, le prix est probablement l’une des premières choses auxquelles vous souhaitez obtenir une réponse. Voici les chiffres réels et comment choisir entre les deux plans."
       },
       {
         "type": "h2",
@@ -237,7 +237,7 @@
       },
       {
         "type": "p",
-        "text": "Une mensualité est la façon la moins risquée de commencer. Si vous testez la triche sur votre propre configuration, ne jouez que par courtes rafales ou si vous n'êtes pas sûr de rester avec Tarkov jusqu'au prochain wipe, 35 $ pour 31 jours maintiennent votre engagement faible."
+        "text": "Une mensualité est la façon la moins risquée de commencer. Si vous testez la triche sur votre propre configuration, ne jouez que par courtes rafales ou si vous n'êtes pas sûr de rester avec The Isle jusqu'au prochain wipe, 35 $ pour 31 jours maintiennent votre engagement faible."
       },
       {
         "type": "h2",
@@ -257,15 +257,15 @@
       },
       {
         "type": "p",
-        "text": "DMA en nuage.[Cloud DMA](/blog/tarkov-cloud-dma-explained-do-you-need-it/) est requis pour bénéficier de toutes les fonctionnalités et constitue un achat distinct des forfaits mensuels et à vie. Prévoyez-le à l’avance pour qu’il n’y ait pas de surprises."
+        "text": "DMA en nuage.[branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) est requis pour bénéficier de toutes les fonctionnalités et constitue un achat distinct des forfaits mensuels et à vie. Prévoyez-le à l’avance pour qu’il n’y ait pas de surprises."
       },
       {
         "type": "p",
-        "text": "Raids uniquement. Ce produit est destiné aux principaux raids Tarkov. Il utilise une clé distincte d’Arena, donc un achat ici ne couvre pas Arena."
+        "text": "Raids uniquement. Ce produit est destiné aux principaux sessions The Isle. Il utilise une clé distincte d’Legacy, donc un achat ici ne couvre pas Legacy."
       },
       {
         "type": "p",
-        "text": "Votre PC. Vous avez besoin de Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. Notre [system requis](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/) couvre cela plus en détail."
+        "text": "Votre PC. Vous avez besoin de Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. Notre [system requis](/blog/how-to-set-up-the-isle-cheats-requirements/) couvre cela plus en détail."
       },
       {
         "type": "p",
@@ -273,7 +273,7 @@
       },
       {
         "type": "p",
-        "text": "Après les correctifs. Vérifiez la page d'état après les correctifs majeurs avant de vous lancer dans un raid."
+        "text": "Après les correctifs. Vérifiez la page d'état après les correctifs majeurs avant de vous lancer dans un session."
       },
       {
         "type": "h2",
@@ -289,25 +289,25 @@
       },
       {
         "type": "p",
-        "text": "Si vous avez fait votre choix, rendez-vous sur la page [buy Escape From Tarkov cheats](/go/escape-from-tarkov/) pour choisir mensuellement ou à vie. Si vous êtes indécis, commencez mensuellement. Vous pouvez toujours décider de vous engager plus tard."
+        "text": "Si vous avez fait votre choix, rendez-vous sur la page [buy The Isle cheats](/go/the-isle/) pour choisir mensuellement ou à vie. Si vous êtes indécis, commencez mensuellement. Vous pouvez toujours décider de vous engager plus tard."
       }
     ]
   },
   {
     "tag": "Guides d'achat",
-    "title": "Tarkov Cloud DMA expliqué : qu'est-ce que c'est et si vous en avez besoin",
-    "slug": "tarkov-cloud-dma-explained-do-you-need-it",
-    "image": "/images/gameplay/eft-esp-daylight-player-highlights.webp",
-    "imageAlt": "Schéma de configuration de la triche Escape From Tarkov avec connexion Cloud DMA",
-    "desc": "Cloud DMA apparaît dans presque toutes les conversations de triche de Tarkov. Voici de quoi il s’agit et où il s’intègre dans votre achat.",
-    "metaTitle": "Tarkov Cloud DMA expliqué : en avez-vous besoin ?",
-    "metaDescription": "Cloud DMA est requis pour toutes les fonctions des cheats Escape From Tarkov, et comment il se rattache aux formules.",
+    "title": "The Isle branch compatibility expliqué : qu'est-ce que c'est et si vous en avez besoin",
+    "slug": "isle-cloud-dma-explained-do-you-need-it",
+    "image": "/images/gameplay/isle-esp-daylight-player-highlights.webp",
+    "imageAlt": "Schéma de configuration de la triche The Isle avec connexion branch compatibility",
+    "desc": "branch compatibility apparaît dans presque toutes les conversations de triche de The Isle. Voici de quoi il s’agit et où il s’intègre dans votre achat.",
+    "metaTitle": "The Isle branch compatibility expliqué : en avez-vous besoin ?",
+    "metaDescription": "branch compatibility est requis pour toutes les fonctions des cheats The Isle, et comment il se rattache aux formules.",
     "date": "2026-06-04",
     "readTime": "6 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "Si vous avez regardé les cheats de Tarkov pendant plus de cinq minutes, vous avez vu le terme DMA. Cloud DMA est la version qui apparaît dans nos produits, et il vaut la peine de la comprendre avant d'acheter."
+        "text": "Si vous avez regardé les cheats de The Isle pendant plus de cinq minutes, vous avez vu le terme DMA. branch compatibility est la version qui apparaît dans nos produits, et il vaut la peine de la comprendre avant d'acheter."
       },
       {
         "type": "h2",
@@ -315,7 +315,7 @@
       },
       {
         "type": "p",
-        "text": "DMA signifie accès direct à la mémoire. Dans le monde de la triche, une configuration DMA signifie traditionnellement utiliser un matériel distinct pour lire les données du jeu au lieu de tout exécuter sur la même machine que le jeu. Cette approche est populaire car Tarkov utilise BattlEye, qui fonctionne au niveau du noyau."
+        "text": "DMA signifie accès direct à la mémoire. Dans le monde de la triche, une configuration DMA signifie traditionnellement utiliser un matériel distinct pour lire les données du jeu au lieu de tout exécuter sur la même machine que le jeu. Cette approche est populaire car The Isle utilise the current game protection system, qui fonctionne au niveau du noyau."
       },
       {
         "type": "h2",
@@ -323,7 +323,7 @@
       },
       {
         "type": "p",
-        "text": "Cloud DMA est l'option hébergée répertoriée avec les cheats [Escape From Tarkov avec Cloud DMA](/cheats/). Le produit répertorie Cloud DMA dans son ensemble de fonctionnalités et il est décrit comme requis pour bénéficier de toutes les fonctionnalités. Si vous recherchez des étapes exactes sur la manière dont la connexion est établie, celles-ci sont fournies après l'achat via le guide et les canaux d'assistance, suivez donc les instructions actuelles plutôt que de vous fier aux conseils généraux d'Internet."
+        "text": "branch compatibility est l'option hébergée répertoriée avec les cheats [The Isle avec branch compatibility](/cheats/). Le produit répertorie branch compatibility dans son ensemble de fonctionnalités et il est décrit comme requis pour bénéficier de toutes les fonctionnalités. Si vous recherchez des étapes exactes sur la manière dont la connexion est établie, celles-ci sont fournies après l'achat via le guide et les canaux d'assistance, suivez donc les instructions actuelles plutôt que de vous fier aux conseils généraux d'Internet."
       },
       {
         "type": "h2",
@@ -331,7 +331,7 @@
       },
       {
         "type": "p",
-        "text": "Cette partie fait trébucher les gens. Les [plans](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/) mensuels et à vie couvrent la triche elle-même. Cloud DMA est un achat distinct. Ainsi, le coût total de fonctionnement du produit avec toutes les fonctions correspond au forfait que vous choisissez plus Cloud DMA."
+        "text": "Cette partie fait trébucher les gens. Les [plans](/blog/the-isle-cheats-price-monthly-vs-lifetime/) mensuels et à vie couvrent la triche elle-même. branch compatibility est un achat distinct. Ainsi, le coût total de fonctionnement du produit avec toutes les fonctions correspond au forfait que vous choisissez plus branch compatibility."
       },
       {
         "type": "h2",
@@ -339,7 +339,7 @@
       },
       {
         "type": "p",
-        "text": "Si vous voulez toutes les fonctionnalités, oui. La page produit indique que Cloud DMA est requis pour bénéficier de toutes les fonctionnalités. Si vous souhaitez uniquement parcourir le menu, vous n’aurez peut-être pas besoin de vous y précipiter, mais vous n’obtiendrez pas une expérience complète sans lui."
+        "text": "Si vous voulez toutes les fonctionnalités, oui. La page produit indique que branch compatibility est requis pour bénéficier de toutes les fonctionnalités. Si vous souhaitez uniquement parcourir le menu, vous n’aurez peut-être pas besoin de vous y précipiter, mais vous n’obtiendrez pas une expérience complète sans lui."
       },
       {
         "type": "h2",
@@ -347,7 +347,7 @@
       },
       {
         "type": "p",
-        "text": "Cloud DMA ne supprime pas votre propre configuration système requise. Le produit demande Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. Lisez notre [setup checklist](/blog/how-to-set-up-escape-from-tarkov-cheats-requirements/) pour une liste de contrôle complète."
+        "text": "branch compatibility ne supprime pas votre propre configuration système requise. Le produit demande Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. Lisez notre [setup checklist](/blog/how-to-set-up-the-isle-cheats-requirements/) pour une liste de contrôle complète."
       },
       {
         "type": "h2",
@@ -363,25 +363,25 @@
       },
       {
         "type": "p",
-        "text": "Une fois que vous savez ce que vous achetez, la page [Escape From Tarkov triche avec Cloud DMA](/cheats/) affiche les deux plans et les exigences Cloud DMA.N'oubliez pas que le produit est uniquement destiné aux raids principaux et utilise une clé distincte de celle d'Arena."
+        "text": "Une fois que vous savez ce que vous achetez, la page [The Isle triche avec branch compatibility](/cheats/) affiche les deux plans et les exigences branch compatibility.N'oubliez pas que le produit est uniquement destiné aux sessions principaux et utilise une clé distincte de celle d'Legacy."
       }
     ]
   },
   {
     "tag": "Anti-triche",
-    "title": "BattlEye et cheats Escape From Tarkov : ce que vous devez savoir",
-    "slug": "battleye-and-escape-from-tarkov-cheats-what-to-know",
-    "image": "/images/gameplay/eft-esp-night-vision-skeletons.webp",
-    "imageAlt": "Écran de chargement anti-triche BattlEye pour Escape From Tarkov",
-    "desc": "BattlEye est l'anti-triche derrière Tarkov. Voici une explication claire de ce que c’est, des risques et de la manière de l’aborder de manière judicieuse.",
-    "metaTitle": "BattlEye et cheats Tarkov : ce que vous devez savoir",
-    "metaDescription": "BattlEye dans Escape From Tarkov : ce que cela change pour une triche, pourquoi vérifier le statut après un patch, et quoi faire en cas de ban.",
+    "title": "the current game protection system et cheats The Isle : ce que vous devez savoir",
+    "slug": "the current game protection system-and-the-isle-cheats-what-to-know",
+    "image": "/images/gameplay/isle-esp-night-vision-skeletons.webp",
+    "imageAlt": "Écran de chargement anti-triche the current game protection system pour The Isle",
+    "desc": "the current game protection system est l'anti-triche derrière The Isle. Voici une explication claire de ce que c’est, des risques et de la manière de l’aborder de manière judicieuse.",
+    "metaTitle": "the current game protection system et cheats The Isle : ce que vous devez savoir",
+    "metaDescription": "the current game protection system dans The Isle : ce que cela change pour une triche, pourquoi vérifier le statut après un patch, et quoi faire en cas de ban.",
     "date": "2026-09-07",
     "readTime": "6 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "Escape From Tarkov utilise BattlEye comme anti-triche. Si vous envisagez d’utiliser des cheats dans le jeu, vous devez comprendre ce que cela signifie."
+        "text": "The Isle utilise the current game protection system comme anti-triche. Si vous envisagez d’utiliser des cheats dans le jeu, vous devez comprendre ce que cela signifie."
       },
       {
         "type": "h2",
@@ -389,7 +389,7 @@
       },
       {
         "type": "p",
-        "text": "BattlEye est un anti-triche au niveau du noyau. Cela signifie qu'il fonctionne avec un accès approfondi à votre système et qu'il est utilisé dans un certain nombre de jeux. Dans Tarkov, c'est la couche principale qui tente d'attraper les logiciels de triche."
+        "text": "the current game protection system est un anti-triche au niveau du noyau. Cela signifie qu'il fonctionne avec un accès approfondi à votre système et qu'il est utilisé dans un certain nombre de jeux. Dans The Isle, c'est la couche principale qui tente d'attraper les logiciels de triche."
       },
       {
         "type": "h2",
@@ -409,7 +409,7 @@
       },
       {
         "type": "p",
-        "text": "Certaines bans s'appliquent à votre compte. D'autres associent la pénalité à vos identifiants matériels. Une ban matériel suit votre PC, pas seulement votre connexion, ce qui la rend beaucoup plus perturbatrice. Nous abordons cela en détail dans notre article [HWID ban](/blog/tarkov-hwid-ban-how-hwid-spoofer-works/)."
+        "text": "Certaines bans s'appliquent à votre compte. D'autres associent la pénalité à vos identifiants matériels. Une ban matériel suit votre PC, pas seulement votre connexion, ce qui la rend beaucoup plus perturbatrice. Nous abordons cela en détail dans notre article [HWID ban](/blog/isle-hwid-ban-how-hwid-spoofer-works/)."
       },
       {
         "type": "h2",
@@ -435,7 +435,7 @@
       },
       {
         "type": "p",
-        "text": "Si votre compte est banni, ce compte disparaît et vous en aurez besoin d’un nouveau. Si votre matériel est signalé, un usurpateur matériel est un moyen par lequel les gens tentent de revenir avec une nouvelle empreinte matérielle. Notre [HWID spoofer](/hwid-spoofer/) répertorie Escape From Tarkov sous les titres BattlEye et comprend un nettoyeur."
+        "text": "Si votre compte est banni, ce compte disparaît et vous en aurez besoin d’un nouveau. Si votre matériel est signalé, un usurpateur matériel est un moyen par lequel les gens tentent de revenir avec une nouvelle empreinte matérielle. Notre [HWID spoofer](/hwid-spoofer/) répertorie The Isle sous les titres the current game protection system et comprend un nettoyeur."
       },
       {
         "type": "h2",
@@ -443,25 +443,25 @@
       },
       {
         "type": "p",
-        "text": "La tricherie comporte des risques et vous devez décider en gardant cela à l’esprit. Si vous décidez d'aller de l'avant, les [Escape From Tarkov cheats](/cheats/) sont vendus pour les raids principaux avec ESP, aimbot et diverses fonctionnalités, et [Cloud DMA](/blog/tarkov-cloud-dma-explained-do-you-need-it/) est requis pour une fonctionnalité complète. L'assistance est disponible par ticket si vous avez besoin d'aide avec le processus en cours."
+        "text": "La tricherie comporte des risques et vous devez décider en gardant cela à l’esprit. Si vous décidez d'aller de l'avant, les [The Isle cheats](/cheats/) sont vendus pour les sessions principaux avec ESP, aimbot et diverses fonctionnalités, et [branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) est requis pour une fonctionnalité complète. L'assistance est disponible par ticket si vous avez besoin d'aide avec le processus en cours."
       }
     ]
   },
   {
     "tag": "Aide au bannissement",
-    "title": "Ban HWID sur Tarkov : ce que c'est et comment fonctionne un spoofer HWID",
-    "slug": "tarkov-hwid-ban-how-hwid-spoofer-works",
-    "image": "/images/gameplay/eft-esp-enemies-through-concrete-wall.webp",
-    "imageAlt": "Interface de spoofer HWID pour les jeux BattlEye, y compris Escape From Tarkov",
+    "title": "Ban HWID sur The Isle : ce que c'est et comment fonctionne un spoofer HWID",
+    "slug": "isle-hwid-ban-how-hwid-spoofer-works",
+    "image": "/images/gameplay/isle-esp-enemies-through-concrete-wall.webp",
+    "imageAlt": "Interface de spoofer HWID pour les jeux the current game protection system, y compris The Isle",
     "desc": "Un ban HWID suit votre matériel, pas seulement votre compte. Voici comment cela fonctionne et pour quoi un spoofer équipé d’un nettoyeur est conçu.",
-    "metaTitle": "Ban HWID sur Tarkov : comment fonctionne un spoofer HWID",
-    "metaDescription": "Ban HWID Tarkov : ce qu’un spoofer change, ce que fait le nettoyeur, et les conditions et prix de notre HWID Spoofer.",
+    "metaTitle": "Ban HWID sur The Isle : comment fonctionne un spoofer HWID",
+    "metaDescription": "Ban HWID The Isle : ce qu’un spoofer change, ce que fait le nettoyeur, et les conditions et prix de notre HWID Spoofer.",
     "date": "2026-05-17",
     "readTime": "7 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "Un ban HWID est l’une des choses les plus frustrantes qui puissent arriver dans Tarkov, car elle ne se limite pas à votre compte. Voici de quoi il s’agit et comment un spoofer s’intègre."
+        "text": "Un ban HWID est l’une des choses les plus frustrantes qui puissent arriver dans The Isle, car elle ne se limite pas à votre compte. Voici de quoi il s’agit et comment un spoofer s’intègre."
       },
       {
         "type": "h2",
@@ -489,11 +489,11 @@
       },
       {
         "type": "h2",
-        "text": "Tarkov est-il pris en charge"
+        "text": "The Isle est-il pris en charge"
       },
       {
         "type": "p",
-        "text": "Oui. Escape From Tarkov est répertorié sous les titres [BattlEye](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/), et le produit indique que le spoofing est acceptable sur tous les jeux BattlEye. Il répertorie également la prise en charge des titres EAC, des jeux Ricochet, de Valorant via Vanguard et autres."
+        "text": "Oui. The Isle est répertorié sous les titres [the current game protection system](/blog/the current game protection system-and-the-isle-cheats-what-to-know/), et le produit indique que le spoofing est acceptable sur tous les jeux the current game protection system. Il répertorie également la prise en charge des titres EAC, des jeux Ricochet, de Valorant via Vanguard et autres."
       },
       {
         "type": "h2",
@@ -538,25 +538,25 @@
       },
       {
         "type": "p",
-        "text": "Si vous avez été frappé par un ban matériel ou si vous souhaitez vous préparer, consultez le [HWID spoofer](/hwid-spoofer/). Si vous regardez également la triche elle-même, les [Escape From Tarkov cheats](/cheats/) sont disponibles séparément."
+        "text": "Si vous avez été frappé par un ban matériel ou si vous souhaitez vous préparer, consultez le [HWID spoofer](/hwid-spoofer/). Si vous regardez également la triche elle-même, les [The Isle cheats](/cheats/) sont disponibles séparément."
       }
     ]
   },
   {
     "tag": "Guides de configuration",
-    "title": "Comment installer les cheats Escape From Tarkov : prérequis et dépannage",
-    "slug": "how-to-set-up-escape-from-tarkov-cheats-requirements",
-    "image": "/images/gameplay/eft-esp-daylight-player-highlights.webp",
-    "imageAlt": "Liste de contrôle des paramètres de sécurité Windows pour la configuration de la triche Escape From Tarkov",
+    "title": "Comment installer les cheats The Isle : prérequis et dépannage",
+    "slug": "how-to-set-up-the-isle-cheats-requirements",
+    "image": "/images/gameplay/isle-esp-daylight-player-highlights.webp",
+    "imageAlt": "Liste de contrôle des paramètres de sécurité Windows pour la configuration de la triche The Isle",
     "desc": "La plupart des problèmes de configuration proviennent d'une courte liste de causes. Voici la liste de contrôle et les mesures à prendre lorsque les choses ne fonctionnent pas.",
-    "metaTitle": "Prérequis et checklist d'installation des cheats Tarkov",
-    "metaDescription": "Checklist d’installation des cheats Escape From Tarkov : Windows, HVCI, Core Isolation, TPM, Secure Boot, chargeur et Cloud DMA.",
+    "metaTitle": "Prérequis et checklist d'installation des cheats The Isle",
+    "metaDescription": "Checklist d’installation des cheats The Isle : Windows, HVCI, Core Isolation, TPM, Secure Boot, chargeur et branch compatibility.",
     "date": "2026-06-12",
     "readTime": "6 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "La plupart des problèmes rencontrés par les gens pour faire fonctionner les cheats Tarkov proviennent d'une courte liste de causes. Parcourez d’abord cette liste de contrôle."
+        "text": "La plupart des problèmes rencontrés par les gens pour faire fonctionner les cheats The Isle proviennent d'une courte liste de causes. Parcourez d’abord cette liste de contrôle."
       },
       {
         "type": "h2",
@@ -584,15 +584,15 @@
       },
       {
         "type": "p",
-        "text": "Après l'achat, vous bénéficiez d'une livraison immédiate ainsi que d'un accès au chargeur. Le produit est destiné aux raids principaux de Tarkov et utilise une clé distincte de celle d'Arena, alors assurez-vous d'avoir acheté la bonne."
+        "text": "Après l'achat, vous bénéficiez d'une livraison immédiate ainsi que d'un accès au chargeur. Le produit est destiné aux sessions principaux de The Isle et utilise une clé distincte de celle d'Legacy, alors assurez-vous d'avoir acheté la bonne."
       },
       {
         "type": "h2",
-        "text": "Cloud DMA"
+        "text": "branch compatibility"
       },
       {
         "type": "p",
-        "text": "[Cloud DMA](/blog/tarkov-cloud-dma-explained-do-you-need-it/) est requis pour bénéficier de toutes les fonctionnalités et est acheté séparément des forfaits mensuels et à vie. Si des fonctionnalités semblent manquer, confirmez d’abord cette partie de votre configuration."
+        "text": "[branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) est requis pour bénéficier de toutes les fonctionnalités et est acheté séparément des forfaits mensuels et à vie. Si des fonctionnalités semblent manquer, confirmez d’abord cette partie de votre configuration."
       },
       {
         "type": "h2",
@@ -601,10 +601,10 @@
       {
         "type": "ul",
         "items": [
-          "Vérifiez la page d'état, surtout après un patch Tarkov.",
+          "Vérifiez la page d'état, surtout après un patch The Isle.",
           "Assurez-vous que vos paramètres de sécurité Windows ci-dessus sont toujours activés, car les mises à jour peuvent les modifier.",
           "Suivez le guide actuel dans votre compte pour la commande de lancement.",
-          "Chargez-vous dans un raid seulement après avoir effectué ce qui précède."
+          "Chargez-vous dans un session seulement après avoir effectué ce qui précède."
         ]
       },
       {
@@ -621,7 +621,7 @@
       },
       {
         "type": "p",
-        "text": "Confirmez le produit. Les raids Tarkov et Arena utilisent des clés différentes."
+        "text": "Confirmez le produit. Les sessions The Isle et Legacy utilisent des clés différentes."
       },
       {
         "type": "p",
@@ -641,25 +641,25 @@
       },
       {
         "type": "p",
-        "text": "Vous pouvez voir les [plan options](/blog/escape-from-tarkov-cheats-price-monthly-vs-lifetime/) et la liste complète des fonctionnalités sur la page [Escape From Tarkov cheats](/cheats/). L'accès mensuel coûte 35 $ et la durée de vie est de 150 $, avec les mêmes fonctionnalités sur les deux."
+        "text": "Vous pouvez voir les [plan options](/blog/the-isle-cheats-price-monthly-vs-lifetime/) et la liste complète des fonctionnalités sur la page [The Isle cheats](/cheats/). L'accès mensuel coûte 35 $ et la durée de vie est de 150 $, avec les mêmes fonctionnalités sur les deux."
       }
     ]
   },
   {
     "tag": "Caractéristiques",
-    "title": "Cheats streamproof Tarkov : ce que cela signifie pour les streamers",
-    "slug": "streamproof-tarkov-cheats-for-streamers",
-    "image": "/images/gameplay/eft-esp-night-vision-skeletons.webp",
-    "imageAlt": "Gameplay d'Escape From Tarkov capturé dans OBS sans superposition de triche visible",
+    "title": "Cheats streamproof The Isle : ce que cela signifie pour les streamers",
+    "slug": "streamproof-isle-cheats-for-streamers",
+    "image": "/images/gameplay/isle-esp-night-vision-skeletons.webp",
+    "imageAlt": "Gameplay d'The Isle capturé dans OBS sans superposition de triche visible",
     "desc": "Streamproof signifie que l'ESP et le menu n'apparaissent pas dans votre capture. Voici ce que cela couvre et ce que cela ne couvre pas.",
-    "metaTitle": "Cheats streamproof Tarkov : OBS et enregistrement expliqués",
-    "metaDescription": "Streamproof pour les cheats Tarkov : l'ESP et le menu restent hors d'OBS et de la plupart des outils de capture.",
+    "metaTitle": "Cheats streamproof The Isle : OBS et enregistrement expliqués",
+    "metaDescription": "Streamproof pour les cheats The Isle : l'ESP et le menu restent hors d'OBS et de la plupart des outils de capture.",
     "date": "2026-10-05",
     "readTime": "6 min de lecture",
     "body": [
       {
         "type": "p",
-        "text": "Si vous diffusez ou enregistrez vos raids Tarkov, vous vous posez probablement une question sur les cheats : est-ce que quelqu'un verra la superposition dans mes images ?C’est à cela que sert Streamproof."
+        "text": "Si vous diffusez ou enregistrez vos sessions The Isle, vous vous posez probablement une question sur les cheats : est-ce que quelqu'un verra la superposition dans mes images ?C’est à cela que sert Streamproof."
       },
       {
         "type": "h2",
@@ -667,7 +667,7 @@
       },
       {
         "type": "p",
-        "text": "Streamproof signifie que l'ESP et le menu ne sont pas intégrés dans votre capture. Les cheats Escape From Tarkov sont décrites comme étant à l'épreuve du streaming, l'ESP et les menus restant hors OBS et la plupart des outils de capture. Ce que vous voyez sur votre moniteur n’est pas ce que voient vos téléspectateurs."
+        "text": "Streamproof signifie que l'ESP et le menu ne sont pas intégrés dans votre capture. Les cheats The Isle sont décrites comme étant à l'épreuve du streaming, l'ESP et les menus restant hors OBS et la plupart des outils de capture. Ce que vous voyez sur votre moniteur n’est pas ce que voient vos téléspectateurs."
       },
       {
         "type": "h2",
@@ -689,7 +689,7 @@
         "type": "ul",
         "items": [
           "Le libellé est « la plupart des outils de capture », pas tous les outils. Testez votre propre configuration avant de passer en direct.",
-          "Streamproof ne change pas la façon dont le jeu ou [BattlEye](/blog/battleye-and-escape-from-tarkov-cheats-what-to-know/) voit votre système. Cela n'affecte que ce qui est capturé à l'écran.",
+          "Streamproof ne change pas la façon dont le jeu ou [the current game protection system](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) voit votre système. Cela n'affecte que ce qui est capturé à l'écran.",
           "Votre comportement se voit toujours. La visée impossible, ou le fait de savoir où se trouvent les joueurs à travers les murs, est perceptible par les spectateurs et les autres joueurs."
         ]
       },
@@ -709,7 +709,7 @@
         "type": "ul",
         "items": [
           "Gardez l'ESP minimal. Moins d’étiquettes semblent plus naturelles à l’écran.",
-          "Utilisez un champ de vision aimbot modeste et uniquement visible, comme indiqué dans notre guide [aimbot settings](/blog/tarkov-aimbot-settings-explained/).",
+          "Utilisez un champ de vision aimbot modeste et uniquement visible, comme indiqué dans notre guide [aimbot settings](/blog/isle-aimbot-settings-explained/).",
           "Enregistrez une configuration conviviale pour le flux afin de pouvoir la charger rapidement.",
           "Gardez vos raccourcis clavier mémorisés pour ne jamais avoir à fouiller dans le menu."
         ]
@@ -720,7 +720,7 @@
       },
       {
         "type": "p",
-        "text": "Le produit est destiné aux raids principaux, utilise une clé distincte d'Arena et nécessite Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. Cloud DMA est requis pour bénéficier de toutes les fonctionnalités. L'accès mensuel coûte 35 $ et la durée de vie est de 150 $."
+        "text": "Le produit est destiné aux sessions principaux, utilise une clé distincte d'Legacy et nécessite Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. branch compatibility est requis pour bénéficier de toutes les fonctionnalités. L'accès mensuel coûte 35 $ et la durée de vie est de 150 $."
       },
       {
         "type": "h2",
@@ -728,7 +728,7 @@
       },
       {
         "type": "p",
-        "text": "Vous pouvez consulter les fonctionnalités et les plans sur la page [streamproof Tarkov cheats](/cheats/). Vérifiez la page d'état après les correctifs avant de démarrer une session et contactez l'assistance par ticket si votre test de capture montre quelque chose d'inattendu."
+        "text": "Vous pouvez consulter les fonctionnalités et les plans sur la page [streamproof The Isle cheats](/cheats/). Vérifiez la page d'état après les correctifs avant de démarrer une session et contactez l'assistance par ticket si votre test de capture montre quelque chose d'inattendu."
       }
     ]
   }
