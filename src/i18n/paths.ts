@@ -25,6 +25,10 @@ export function localizePath(pathname: string, locale: SiteLocale): string {
 }
 
 export function getLocalizedPath(currentPathname: string, targetLocale: SiteLocale): string {
+  const path = stripLocalePrefix(normalizeInternalPath(currentPathname));
+  // Astro's generated 404 page is emitted as /404.html, not /404/index.html.
+  // Its language switcher should therefore point to the target language homepage.
+  if (path === '/404/' || path === '/404') return localizePath('/', targetLocale);
   return localizePath(currentPathname, targetLocale);
 }
 

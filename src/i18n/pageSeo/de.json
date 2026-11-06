@@ -1,15 +1,15 @@
 {
   "/": {
-    "title": "The Isle Cheats | ESP, Aimbot & Loot für Raids",
-    "description": "Spieler-ESP, Loot-ESP, Aimbot und No-Recoil für player-Raids unter Windows, mit Loader-Updates nach Patches. Pläne vergleichen auf {siteDomain}."
+    "title": "The Isle Cheats | Produktfunktionen und Informationen",
+    "description": "Informationen zu The Isle Cheats und den in der Zusammenfassung genannten Funktionen auf {siteDomain}."
   },
   "/cheats/": {
-    "title": "The Isle Cheats | ESP, Loot ESP & Aimbot kaufen",
-    "description": "Volles Raid-Paket mit Spieler-ESP, Loot-Filtern, Aimbot und No-Recoil für Haupt-The Isle-Karten, nicht Legacy. Monats- und Lifetime-Pläne auf {siteDomain}."
+    "title": "The Isle Cheats | Produktfunktionen und Informationen",
+    "description": "Informationen zu The Isle Cheats und den in der Zusammenfassung genannten Funktionen auf {siteDomain}."
   },
   "/hwid-spoofer/": {
     "title": "HWID Spoofer | Hilfe bei Hardware-Banns",
-    "description": "Ändert Festplatten-, MAC- und GPU-Kennungen nach einem Hardware-Bann. Vanguard, EAC, the current game protection system, Ricochet, Cleaner inklusive. Pläne auf {siteDomain}."
+    "description": "The Isle Cheats Informationen auf {siteDomain}."
   },
   "/products/": {
     "title": "{cheatProduct} & Tools | Alle Produkte",
@@ -24,16 +24,16 @@
     "description": "Leichter Skin Changer, der Premium-Waffen-Skins, Outfits und seltene Messer in großen Titeln freischaltet. Monats- und Lifetime-Pläne auf {siteDomain}."
   },
   "/blog/": {
-    "title": "The Isle Guides | ESP-Setup, Aimbot & the current game protection system",
-    "description": "Raid-Preset-Anleitungen, ESP- und Aim-Tuning, Loot-Filter und the current game protection system-Status-Checklisten auf {siteDomain}."
+    "title": "The Isle Cheats | Produktfunktionen und Informationen",
+    "description": "Informationen zu The Isle Cheats und den in der Zusammenfassung genannten Funktionen auf {siteDomain}."
   },
   "/forum/": {
-    "title": "The Isle Forum | Setup-, Status- & HWID-Threads",
-    "description": "Schreibgeschützte The Isle-Diskussionen zu Loadouts, Patches und Guides. Neue Threads und Antworten sind geschlossen."
+    "title": "The Isle Cheats | Produktfunktionen und Informationen",
+    "description": "Informationen zu The Isle Cheats und den in der Zusammenfassung genannten Funktionen auf {siteDomain}."
   },
   "/faq/": {
-    "title": "The Isle Cheats FAQ | Setup, Pläne & the current game protection system",
-    "description": "Antworten zu The Isle Cheats: Setup, Monats- und Lifetime-Pläne, ESP- und Aim-Module, the current game protection system-Status und Checkout-Hilfe auf {siteDomain}."
+    "title": "The Isle Cheats | Produktfunktionen und Informationen",
+    "description": "Informationen zu The Isle Cheats und den in der Zusammenfassung genannten Funktionen auf {siteDomain}."
   },
   "/terms/": {
     "title": "Verkaufsbedingungen und Lizenznutzung",
@@ -45,10 +45,10 @@
   },
   "/about/": {
     "title": "Über {siteDomain} & {siteName}",
-    "description": "Wer veröffentlicht The Isle Cheats-Ressourcen, Statusnotizen und Supportkanäle auf {siteDomain}?"
+    "description": "Informationen zu The Isle Cheats und den in der Zusammenfassung genannten Funktionen auf {siteDomain}."
   },
   "/support/": {
-    "title": "The Isle Support | Loader-, HWID- & Checkout-Hilfe",
+    "title": "The Isle Cheats Informationen auf {siteDomain}.",
     "description": "Support auf {siteDomain} vor oder nach dem Bezahlen: Portalzugriff, Modulfehler und Rechnungen."
   }
 }

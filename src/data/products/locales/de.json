@@ -1,50 +1,50 @@
 {
-  "sharedGoodToKnow": "The Isle und the current game protection system erhalten regelmäßig Updates. Bestätigen Sie die Modulverfügbarkeit im Live-Statusbereich unter {siteDomain}, bevor Sie es kaufen oder starten. branch compatibility ist ein separater Kauf, wenn die volle Funktionalität erforderlich ist.",
-  "sharedLimitations": "Software von Drittanbietern in The Isle kann gegen die Bedingungen von {gamePublisher} verstoßen und zu the current game protection system-Sperren oder Kontoaktionen führen. Sie nutzen diese Software auf eigenes Risiko. Kompatibilität und Verfügbarkeit können sich nach Spiel-, the current game protection system- oder Windows-Updates ohne Vorankündigung ändern.",
+  "sharedGoodToKnow": "Die Zusammenfassung nennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Weitere Funktionen, Bedingungen und Checkout-Angaben finden Sie auf der aktuellen Produktseite.",
+  "sharedLimitations": "Die Zusammenfassung bestätigt keine Branch-Kompatibilität, Systemanforderungen oder Verfügbarkeit. Prüfen Sie die aktuelle Produktbeschreibung und die geltenden Spiel- und Serverregeln.",
   "acquisitionSteps": [
     {
       "num": "01",
-      "title": "Überprüfen Sie den aktuellen Status",
-      "desc": "Überprüfen Sie vor dem Kauf das Live-Banner auf {siteDomain}, insbesondere nach einem The Isle- oder the current game protection system-Update."
+      "title": "Produktdetails prüfen",
+      "desc": "Prüfen Sie vor dem Kauf die aktuelle Produktbeschreibung und die im Checkout angezeigten Bedingungen."
     },
     {
       "num": "02",
-      "title": "Wählen Sie Ihre Zugriffsstufe",
-      "desc": "Wählen Sie The Isle Cheats oder das Dienstprogramm, das Ihrem Ziel entspricht. Sehen Sie sich die Funktionsliste vor dem Bezahlen über unseren Partner-Checkout an."
+      "title": "Checkout-Bedingungen prüfen",
+      "desc": "Prüfen Sie vor dem Kauf die aktuelle Produktbeschreibung und die im Checkout angezeigten Bedingungen."
     },
     {
       "num": "03",
-      "title": "Kontaktieren Sie das Team",
-      "desc": "Kontaktieren Sie den Support und bestätigen Sie die Verfügbarkeit, die Windows-Einrichtung und die Zahlungsdetails, während Ihre Bestell-E-Mail bereit ist."
+      "title": "Bei Fragen den Support kontaktieren",
+      "desc": "Prüfen Sie vor dem Kauf die aktuelle Produktbeschreibung und die im Checkout angezeigten Bedingungen."
     },
     {
       "num": "04",
-      "title": "Folgen Sie der geführten Einrichtung",
-      "desc": "Verwenden Sie ausschließlich das Betreiberportal, den Patch-Loader und die Einrichtungsanleitung. Testen Sie offline, laden Sie Voreinstellungen und führen Sie dann player-Raids durch, wenn der Status „Online“ lautet."
+      "title": "Aktuelle Produktinformationen beachten",
+      "desc": "Prüfen Sie vor dem Kauf die aktuelle Produktbeschreibung und die im Checkout angezeigten Bedingungen."
     }
   ],
   "systemRequirements": [
-    "Windows 10 oder 11 64-Bit (Intel oder AMD).",
-    "HVCI und Core Isolation in der Windows-Sicherheit aktiviert.",
-    "TPM und Secure Boot im BIOS/UEFI aktiviert.",
-    "Stabiler Internet- und Loader-Zugang nach dem Kauf.",
-    "branch compatibility ist für den vollen Funktionsumfang erforderlich."
+    "Prüfen Sie die aktuelle Produktbeschreibung auf bestätigte Angaben.",
+    "Prüfen Sie die aktuelle Produktbeschreibung auf bestätigte Angaben.",
+    "Prüfen Sie die aktuelle Produktbeschreibung auf bestätigte Angaben.",
+    "Prüfen Sie die aktuelle Produktbeschreibung auf bestätigte Angaben.",
+    "Prüfen Sie die aktuelle Produktbeschreibung auf bestätigte Angaben."
   ],
   "gallery": [
     {
-      "alt": "The Isle-Egoperspektive mit Spieler-ESP, der rot hervorgehobene Figuren, Skelettumrisse und Entfernungsmarkierungen in einem sonnenbeschienenen Industriehof zeigt.",
-      "caption": "Spieler-ESP bei Tageslicht-Raids",
-      "captionDesc": "Rote und grüne Spieler-Highlights, Skelett-Drahtgitter und Entfernungsanzeigen auf einer Industriekarte im Freien."
+      "alt": "The Isle-Spielszene als Produktvorschau.",
+      "caption": "The Isle Produktvorschau",
+      "captionDesc": "Spielszene zur Veranschaulichung von The Isle."
     },
     {
-      "alt": "The Isle-Nachtsichtszene mit skelettierten ESP-, player- und creature-Etiketten und Zählerständen, die durch Innenwände sichtbar sind.",
-      "caption": "Skelett-ESP bei Nacht",
-      "captionDesc": "Strichmännchenskelette, Namensschilder und Entfernungsmarkierungen durch Wände in einem grün getönten Indoor-Raid."
+      "alt": "The Isle-Spielszene als Produktvorschau.",
+      "caption": "The Isle Produktvorschau",
+      "captionDesc": "Spielszene zur Veranschaulichung von The Isle."
     },
     {
-      "alt": "The Isle-Ziel aus der ersten Person mit roten Wallhack-Silhouetten und Waffenetiketten, die durch eine Betonwand im Freien sichtbar sind.",
-      "caption": "ESP durch Hardcover",
-      "captionDesc": "Rote feindliche Silhouetten und Waffenrufe, die durch eine Betonbarriere gerendert werden, während sie auf das Visier zielen."
+      "alt": "The Isle-Spielszene als Produktvorschau.",
+      "caption": "The Isle Produktvorschau",
+      "captionDesc": "Spielszene zur Veranschaulichung von The Isle."
     }
   ],
   "tiers": {
@@ -52,61 +52,61 @@
       "about": [
         {
           "type": "p",
-          "text": "Diese Lizenz deckt die wichtigsten The Isle-Raids mit Player-ESP, Loot-ESP, Aimbot, No Recoil, Radar und Extraktionshelfern ab. Legacy ist ein separater Produktschlüssel. branch compatibility ist für den vollen Funktionsumfang erforderlich."
+          "text": "The Isle ist ein Online-Spiel. Die Produktzusammenfassung benennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Prüfen Sie die aktuelle Produktbeschreibung für bestätigte Einzelheiten."
         },
         {
           "type": "h2",
-          "text": "Schalten Sie ein, bevor Sie in die Warteschlange kommen"
+          "text": "Produktinformationen"
         },
         {
           "type": "p",
-          "text": "Laden Sie die Portalvoreinstellungen zunächst offline, erhöhen Sie dann die ESP-Distanz und die Zielglättung über mehrere Sitzungen hinweg. Der Support hilft bei Loader-Registerkarten, wenn nach einem the current game protection system-Patch ein Modulkonflikt auftritt."
+          "text": "The Isle ist ein Online-Spiel. Die Produktzusammenfassung benennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Prüfen Sie die aktuelle Produktbeschreibung für bestätigte Einzelheiten."
         }
       ],
       "body": [
         {
           "type": "h2",
-          "text": "Pläne und Lieferung"
+          "text": "Produktinformationen"
         },
         {
           "type": "p",
-          "text": "Wählen Sie an der Kasse monatlich (35 $ für 31 Tage) oder lebenslang (150 $). Das Betreiberportal wird sofort mit Loader-Download, Preset-Bibliothek und Patchnotizen freigeschaltet. Überprüfen Sie vor jeder Sitzung das Live-Statusbanner."
+          "text": "Wählen Sie monatlich (35 $ für 31 Tage) oder lebenslang (150 $). Die aktuellen Kaufbedingungen stehen im Checkout."
         },
         {
           "type": "h2",
-          "text": "Modullayout"
+          "text": "Produktinformationen"
         },
         {
           "type": "p",
-          "text": "ESP, Beute, Ziel, Waffen, Radar und Dienstprogramme verfügen jeweils über eine eigene Lader-Registerkarte, sodass Sie die Kampfhilfen deaktivieren und gleichzeitig die Beutefilter während der Stash-Läufe beibehalten können."
+          "text": "The Isle ist ein Online-Spiel. Die Produktzusammenfassung benennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Prüfen Sie die aktuelle Produktbeschreibung für bestätigte Einzelheiten."
         }
       ],
       "overview": {
-        "title": "Eine Lizenz für player-Raids unter Windows",
+        "title": "The Isle ist ein Online-Spiel. Die Produktzusammenfassung benennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Prüfen Sie die aktuelle Produktbeschreibung für bestätigte Einzelheiten.",
         "paragraphs": [
-          "The Isle Cheats bündelt Bewusstseins- und Kampfmodule für Hauptangriffe: Spieler- und Beute-ESP, Aimbot, kein Rückstoß, Radar, Extraktionsmarkierungen und stromsichere Overlays. Der Loader gruppiert die Einstellungen nach Registerkarten, sodass Sie reine Beuteprofile oder vollständige Kampf-Loadouts ausführen können.",
-          "Die Lizenzen decken Windows 10 und 11 auf Intel oder AMD ab, mit aktiviertem HVCI, Core Isolation, TPM und Secure Boot. Nur Raid-Zugriff, Legacy ausgeschlossen; branch compatibility ist für den vollen Funktionsumfang erforderlich. Monats- und Lebenszeitpläne werden an der Kasse aufgelistet, bestätigen Sie den Online-Status auf {siteDomain}, bevor Sie kaufen oder starten."
+          "Die Produktzusammenfassung nennt Aimbot, Wallhack beziehungsweise visuelle Hinweise, Ressourcenanzeige für Wasser, Kadaver und Früchte sowie Radar. Sie bestätigt keine Einzelheiten zu Branches, Anforderungen oder Verfügbarkeit.",
+          "Die Zusammenfassung nennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Weitere Funktionen, Bedingungen und Checkout-Angaben finden Sie auf der aktuellen Produktseite."
         ]
       },
-      "goodToKnow": "The Isle und the current game protection system erhalten regelmäßig Updates. Bestätigen Sie die Modulverfügbarkeit im Live-Statusbereich unter {siteDomain}, bevor Sie es kaufen oder starten. branch compatibility ist ein separater Kauf, wenn die volle Funktionalität erforderlich ist.",
-      "limitations": "Software von Drittanbietern in The Isle kann gegen die Bedingungen von {gamePublisher} verstoßen und zu the current game protection system-Sperren oder Kontoaktionen führen. Sie nutzen diese Software auf eigenes Risiko. Kompatibilität und Verfügbarkeit können sich nach Spiel-, the current game protection system- oder Windows-Updates ohne Vorankündigung ändern.",
-      "acquisitionTitle": "So erhalten Sie The Isle Cheats",
+      "goodToKnow": "Die Zusammenfassung nennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Weitere Funktionen, Bedingungen und Checkout-Angaben finden Sie auf der aktuellen Produktseite.",
+      "limitations": "Die Zusammenfassung bestätigt keine Branch-Kompatibilität, Systemanforderungen oder Verfügbarkeit. Prüfen Sie die aktuelle Produktbeschreibung und die geltenden Spiel- und Serverregeln.",
+      "acquisitionTitle": "Produktinformationen ansehen",
       "fullFeatures": [
-        "Spieler-ESP (Box, Skelett, Gesundheit, Distanz)",
-        "ESP-Filter für player, creature und Bosse",
-        "Loot-ESP mit Kategorie- und Preisfiltern",
-        "Markierung von Containern, Leichen und Quest-Items",
-        "Extrakt- und Transitionsmarker",
-        "Aimbot mit FOV, Glättung und Knochenwahl",
-        "Kein Rückstoß und kein Wackeln",
-        "Streamsichere Overlays",
-        "Hotkeys und Konfiguration speichern oder laden",
-        "2D-Radar und Offscreen-Pfeile",
-        "Nur Raids (eigener Key, getrennt von Legacy)",
-        "Sofortige Lieferung über das Portal",
-        "Windows 10/11; Intel/AMD",
-        "Live-Status nach the current game protection system-Patches prüfen",
-        "branch compatibility für die volle Funktion erforderlich"
+        "Aimbot ist als Feature-Kategorie genannt.",
+        "Wallhack beziehungsweise visuelle Hinweise sind als Kategorie genannt.",
+        "Ressourcenanzeige ist als Kategorie genannt.",
+        "Wasser wird als Ressourcenbeispiel erwähnt.",
+        "Kadaver werden als Ressourcenbeispiel erwähnt.",
+        "Früchte werden als Ressourcenbeispiel erwähnt.",
+        "Radar ist als Feature-Kategorie genannt.",
+        "The Isle wird als Online-Spiel beschrieben.",
+        "Die Zusammenfassung erwähnt benutzerdefinierte Server.",
+        "Evrima wird im Spielkontext genannt.",
+        "Legacy wird im Spielkontext genannt.",
+        "Die Zusammenfassung bestätigt keine Branch-Unterstützung.",
+        "Sie bestätigt keine Systemanforderungen.",
+        "Sie bestätigt keine bestimmten Steuerungen.",
+        "Prüfen Sie die aktuelle Produktbeschreibung für weitere Details."
       ]
     }
   },
@@ -127,7 +127,7 @@
         },
         {
           "type": "p",
-          "text": "Er funktioniert mit Riot Vanguard (Valorant), Easy Anti-Cheat, the current game protection system, Ricochet (Call of Duty) und weiteren Systemen wie ACE und Javelin. Prüfe vor dem Kauf, ob dein Spiel abgedeckt ist, da sich die Unterstützung nach Anti-Cheat-Updates ändern kann."
+          "text": "Er funktioniert mit Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet und weiteren Systemen wie ACE und Javelin. Prüfe vor dem Kauf, ob dein Spiel abgedeckt ist, da sich die Unterstützung nach Anti-Cheat-Updates ändern kann."
         },
         {
           "type": "h2",
@@ -149,7 +149,7 @@
       "overview": {
         "title": "Hilfe bei Hardware-Banns für die großen Anti-Cheats",
         "paragraphs": [
-          "HWID Spoofer ändert Festplatten-Seriennummern, MAC-Adressen, GPU-IDs und verwandte Kennungen, damit du nach einem Hardware-Bann mit einem sauberen Hardware-Profil zurückkommst. Er deckt Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet und weitere Anti-Cheats ab, ein Cleaner ist enthalten.",
+          "HWID Spoofer ändert Festplatten-Seriennummern, MAC-Adressen, GPU-IDs und verwandte Kennungen, damit du nach einem Hardware-Bann mit einem sauberen Hardware-Profil zurückkommst. Er deckt Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet und weitere Anti-Cheats ab, ein Cleaner ist enthalten.",
           "Nutze ihn, wenn neue Accounts auf deinem PC sofort gebannt werden, auf einem anderen aber funktionieren. Einen Bann auf einem bestehenden Account hebt er nicht auf. Monatlich (31 Tage) und Lifetime enthalten dasselbe Tool."
         ]
       },
@@ -160,7 +160,7 @@
         {
           "num": "01",
           "title": "Prüfen, ob dein Spiel abgedeckt ist",
-          "desc": "Der Spoofer unterstützt Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet und weitere Anti-Cheats. Prüfe, ob dein Spiel auf der Liste steht, und sieh vor dem Kauf auf das Status-Banner auf {siteDomain}."
+          "desc": "Der Spoofer unterstützt Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet und weitere Anti-Cheats. Prüfe, ob dein Spiel auf der Liste steht, und sieh vor dem Kauf auf das Status-Banner auf {siteDomain}."
         },
         {
           "num": "02",
@@ -191,10 +191,10 @@
         "GPU-IDs spoofen",
         "Weitere Hardware-IDs spoofen",
         "Cleaner inklusive",
-        "Riot Vanguard (Valorant)",
+        "Riot Vanguard",
         "Easy-Anti-Cheat-Titel",
-        "the current game protection system-Titel",
-        "Ricochet (Call of Duty)",
+        "BattlEye-Titel",
+        "Ricochet",
         "ACE, Javelin und weitere Anti-Cheats"
       ],
       "gallery": [

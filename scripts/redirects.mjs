@@ -1,7 +1,5 @@
 /** Static path redirects (301). Keys are pathname without query/hash. */
 const LOCALES = ['es', 'de', 'fr'];
-const LEGACY_PRODUCT = '/products/dota-2-cheats';
-const LEGACY_EFT_PRODUCT = '/products/escape-from-tarkov-cheats';
 const PRODUCT_HOME = '/cheats/';
 
 function addLocaleRedirects(map, fromPath, toPath) {
@@ -12,6 +10,14 @@ function addLocaleRedirects(map, fromPath, toPath) {
 }
 
 export const PATH_REDIRECTS = new Map([
+  ['/blog/isle-loot-esp-filters-price-category-containers/', '/blog/the-isle-resource-visibility-guide/'],
+  ['/blog/isle-aimbot-settings-explained/', '/blog/the-isle-aimbot-summary-guide/'],
+  ['/blog/the-isle-cheats-price-monthly-vs-lifetime/', '/blog/the-isle-branch-product-checklist/'],
+  ['/blog/isle-cloud-dma-explained-do-you-need-it/', '/blog/the-isle-branch-product-checklist/'],
+  ['/blog/anti-cheat-and-the-isle-cheats-what-to-know/', '/blog/the-isle-cheats-product-summary-overview/'],
+  ['/blog/isle-hwid-ban-how-hwid-spoofer-works/', '/hwid-spoofer/'],
+  ['/blog/how-to-set-up-the-isle-cheats-requirements/', '/cheats/'],
+  ['/blog/streamproof-isle-cheats-for-streamers/', '/cheats/'],
   ['/blog', '/blog/'],
   ['/about', '/about/'],
   ['/contact', '/support/'],
@@ -26,10 +32,6 @@ export const PATH_REDIRECTS = new Map([
   ['/cheats/compare/', '/blog/'],
   ['/product/compare', '/blog/'],
   ['/product/compare/', '/blog/'],
-  [`${LEGACY_PRODUCT}`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/`, PRODUCT_HOME],
-  [`${LEGACY_EFT_PRODUCT}`, PRODUCT_HOME],
-  [`${LEGACY_EFT_PRODUCT}/`, PRODUCT_HOME],
   ['/cheats/lite', PRODUCT_HOME],
   ['/cheats/lite/', PRODUCT_HOME],
   ['/cheats/pro', PRODUCT_HOME],
@@ -42,24 +44,6 @@ export const PATH_REDIRECTS = new Map([
   ['/product/pro/', PRODUCT_HOME],
   ['/product/elite', PRODUCT_HOME],
   ['/product/elite/', PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/lite`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/lite/`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/pro`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/pro/`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/elite`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/elite/`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/utilities`, '/hwid-spoofer/'],
-  [`${LEGACY_PRODUCT}/utilities/`, '/hwid-spoofer/'],
-  [`${LEGACY_PRODUCT}/hwid-spoofer`, '/hwid-spoofer/'],
-  [`${LEGACY_PRODUCT}/hwid-spoofer/`, '/hwid-spoofer/'],
-  [`${LEGACY_PRODUCT}/ugc`, '/ugc/'],
-  [`${LEGACY_PRODUCT}/ugc/`, '/ugc/'],
-  [`${LEGACY_PRODUCT}/skin-changer`, '/skin-changer/'],
-  [`${LEGACY_PRODUCT}/skin-changer/`, '/skin-changer/'],
-  [`${LEGACY_PRODUCT}/unlock-all`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/unlock-all/`, PRODUCT_HOME],
-  [`${LEGACY_PRODUCT}/account-recovery`, '/ugc/'],
-  [`${LEGACY_PRODUCT}/account-recovery/`, '/ugc/'],
 ]);
 
 for (const [from, to] of [...PATH_REDIRECTS.entries()]) {

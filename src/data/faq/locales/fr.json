@@ -1,152 +1,152 @@
 [
   {
     "id": "status",
-    "q": "Où puis-je vérifier si les cheats d'The Isle sont en ligne ?",
-    "a": "La bannière de statut en direct se trouve sur {siteDomain}. Vérifiez toujours après une mise à jour d'The Isle ou de the current game protection system."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "after-buy",
-    "q": "Que se passe-t-il après mon achat ?",
-    "a": "Votre portail déverrouille le chargeur, le guide de configuration et la bibliothèque de configuration via notre caisse partenaire. Suivez le guide avant de lancer The Isle."
+    "q": "Que se passe-t-il après l’achat ?",
+    "a": "Consultez les informations et les étapes affichées sur la fiche produit et lors du paiement."
   },
   {
     "id": "ban-risk",
-    "q": "Puis-je être banni en utilisant des cheats tiers sur The Isle ?",
-    "a": "Oui, toute modification comporte des risques. BattleEye et les systèmes de rapport évoluent. Lisez l'état actuel et acceptez le risque avant utilisation. Consultez notre guide <a href=\"/blog/the current game protection system-and-the-isle-cheats-what-to-know/\">cheats the current game protection system et The Isle</a> pour connaître le contexte."
+    "q": "L’utilisation d’un logiciel tiers peut-elle avoir des conséquences ?",
+    "a": "Un logiciel tiers peut enfreindre les règles du jeu ou du serveur et entraîner des mesures sur le compte. Consultez les règles applicables ; aucun résultat n’est garanti."
   },
   {
     "id": "platforms",
     "q": "Quelles plateformes sont prises en charge ?",
-    "a": "The Isle sur Windows 10/11 64 bits uniquement. macOS et Linux ne sont pas pris en charge."
+    "a": "Le résumé du produit ne précise ni plateforme ni configuration requise. Consultez la description actuelle avant l’achat."
   },
   {
     "id": "license-move",
-    "q": "Puis-je déplacer ma licence vers un nouveau PC ?",
-    "a": "Oui, utilisez la réinitialisation HWID dans votre portail ou ouvrez un ticket de support. Les limites dépendent de votre niveau."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "products-page",
-    "q": "Où les produits et utilitaires sont-ils répertoriés ?",
-    "a": "Tous les produits sont sur la <a href=\"/products/\">page produits</a> : {productList}. Chacun a sa propre page avec la liste des fonctionnalités et un paiement via notre partenaire."
+    "q": "Où consulter les produits ?",
+    "a": "Tous les produits figurent sur la <a href=\"/products/\">page des produits</a>, avec leur description et les informations de paiement."
   },
   {
     "id": "what-is-esp",
-    "q": "Qu’est-ce qu’The Isle ESP ?",
-    "a": "Le joueur ESP montre les player, les creatures et les boss avec des boîtes, des squelettes et des lectures de distance. Loot ESP met en évidence les conteneurs et les objets de valeur. Le <a href=\"/cheats/\">Produit</a> comprend des superpositions de sensibilisation ainsi qu'un aimbot en option et des modules sans recul."
+    "q": "Quelles fonctionnalités le résumé de The Isle mentionne-t-il ?",
+    "a": "Il mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité de l’eau, des cadavres et des fruits, ainsi que le radar. Consultez la <a href=\"/cheats/\">fiche produit</a> pour les détails."
   },
   {
     "id": "esp-vs-aim",
-    "q": "Quelle est la différence entre ESP et aimbot ?",
-    "a": "L'ESP et les points forts du butin sont des superpositions d'informations ;ils ne bougent pas votre réticule. Aimbot, No Recoil et Trigger Bot sont des aides au combat sur <a href=\"/cheats/\">The Isle Cheats</a>, réglées séparément dans le chargeur."
+    "q": "Quelles catégories de fonctionnalités sont mentionnées ?",
+    "a": "Le résumé mentionne l’aimbot, les repères visuels, la visibilité des ressources et le radar. Il ne confirme pas de commandes ou réglages précis."
   },
   {
     "id": "elite-slots",
-    "q": "Pourquoi les places pour The Isle Cheats sont-elles limitées ?",
-    "a": "The Isle Cheats est une version privée avec prise en charge directe des développeurs et livraison prioritaire des correctifs. Le nombre limité de places garde des cycles de patch rapides. Vérifiez la bannière d'état avant de procéder au paiement."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "stream-proof",
-    "q": "OBS peut-il capturer ma superposition ?",
-    "a": "Le mode anti-diffusion sur <a href=\"/cheats/\">Produit</a> masque les superpositions OBS. Testez un enregistrement local avant de passer en direct."
+    "q": "Le résumé confirme-t-il cette fonctionnalité ?",
+    "a": "Non. Le résumé fourni ne confirme pas cette fonctionnalité. Consultez la fiche actuelle du produit."
   },
   {
     "id": "build-status",
-    "q": "La version restera-t-elle en ligne après chaque patch ?",
-    "a": "Non. Le statut en ligne est affiché sur la page du produit et sur la bannière de statut au moment de l'achat uniquement. Arrêtez-vous si la version affiche une mise à jour, des tests ou hors ligne après une mise à jour de the current game protection system."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "esp-safer",
-    "q": "L'ESP est-il plus discret que l'aimbot ?",
-    "a": "L'ESP est souvent moins évident que l'aimbot au maximum, mais cela reste une triche. the current game protection system n'ignore pas les superpositions car vous avez désactivé l'assistance à la visée."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "hwid-when",
-    "q": "Quand dois-je ajouter le HWID Spoofer à ma configuration ?",
-    "a": "<a href=\"/hwid-spoofer/\">HWID Spoofer</a> sert en cas de ban matériel : les nouveaux comptes sont bannis immédiatement sur un PC mais fonctionnent sur un autre. Il modifie les numéros de série des disques, les adresses MAC, les identifiants GPU et d'autres identifiants associés, et inclut un nettoyeur. Il ne lève pas le ban d'un compte existant."
+    "q": "Que fait le HWID Spoofer ?",
+    "a": "Le <a href=\"/hwid-spoofer/\">HWID Spoofer</a> modifie les numéros de série des disques, les adresses MAC, les identifiants GPU et d’autres identifiants associés, et inclut un nettoyeur. Il ne lève pas la sanction d’un compte existant."
   },
   {
     "id": "external-loader",
-    "q": "Le chargeur est-il injecté dans le dossier du jeu ?",
-    "a": "{siteName} s'exécute en externe avec la synchronisation de la configuration cloud, aucun fichier n'est injecté dans le répertoire The Isle. Le risque BattleEye s’applique toujours. Voir <a href=\"/cheats/\">Produit</a>."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "blog-vs-cheats",
-    "q": "Les codes de triche des blogs sont-ils les mêmes que les codes de triche des sessions en direct ?",
-    "a": "Non. Les articles de blog sur les tests hors ligne ou locaux ne remplacent pas le liveloader. Les sessions player utilisent <a href=\"/cheats/\">Produit</a> lorsque le statut est en ligne."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "blog-setup",
-    "q": "Où les guides de configuration de blog pointent-ils pour l’achat ?",
-    "a": "Les guides renvoient vers les pages produit, par exemple <a href=\"/cheats/\">{cheatProduct}</a>. Le paiement s'effectue via notre partenaire ; n'utilisez jamais de fichiers de loader reçus dans des messages au hasard."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "who-cheats",
-    "q": "Qui devrait acheter les cheats The Isle ?",
-    "a": "Les sessioners player qui veulent un joueur ESP, un butin ESP, un aimbot, pas de recul et une livraison prioritaire des correctifs lorsque les emplacements sont ouverts."
+    "q": "Quelles fonctionnalités le résumé de The Isle mentionne-t-il ?",
+    "a": "Il mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité de l’eau, des cadavres et des fruits, ainsi que le radar. Consultez la <a href=\"/cheats/\">fiche produit</a> pour les détails."
   },
   {
     "id": "vac-update",
-    "q": "Que dois-je faire après une mise à jour de the current game protection system ?",
-    "a": "Vérifiez le statut de {siteDomain}. Ne lancez pas tant que la bannière n'est pas affichée en ligne. Chargez des préréglages conservateurs après n’importe quel patch."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "discord-help",
-    "q": "Comment puis-je obtenir de l'aide pour l'installation ?",
-    "a": "Ouvrez un ticket de support après l'achat avec votre e-mail de commande, la version Windows et la version du client The Isle. Le personnel parcourt la configuration du chargeur à partir de là."
+    "q": "Comment obtenir de l’aide ?",
+    "a": "Utilisez la page d’assistance pour toute question sur les informations actuelles du produit ou le paiement."
   },
   {
     "id": "pmc-scav-sessions",
-    "q": "Les modules fonctionnent-ils dans les sessions player et creature ?",
-    "a": "Oui.<a href=\"/cheats/\">Produit</a> inclut les préréglages player et creature dans le portail. Réglez les plafonds de distance ESP et visez le lissage avant votre premier session."
+    "q": "Quels modes ou branches sont pris en charge ?",
+    "a": "Le résumé ne confirme pas la prise en charge de modes ou branches spécifiques. Consultez la description actuelle du produit."
   },
   {
     "id": "zoom-hack",
-    "q": "Quel niveau inclut le radar et l'extrait ESP ?",
-    "a": "Le radar 2D et les marqueurs d'extraction sont inclus avec <a href=\"/cheats/\">The Isle Cheats</a>. Utilisez-les pour vous orienter entre les combats et planifier vos extractions."
+    "q": "Quelles fonctionnalités le résumé de The Isle mentionne-t-il ?",
+    "a": "Il mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité de l’eau, des cadavres et des fruits, ainsi que le radar. Consultez la <a href=\"/cheats/\">fiche produit</a> pour les détails."
   },
   {
     "id": "trigger-bot",
-    "q": "Le produit inclut-il un robot déclencheur ?",
-    "a": "Le robot déclencheur en option est livré avec un <a href=\"/cheats/\">Produit</a> aux côtés de l'aimbot et sans recul. Commencez par des préréglages de délai conservateurs dans le portail."
+    "q": "Le résumé confirme-t-il cette fonctionnalité ?",
+    "a": "Non. Le résumé fourni ne confirme pas cette fonctionnalité. Consultez la fiche actuelle du produit."
   },
   {
     "id": "private-cheats",
-    "q": "Que sont les cheats privés d'The Isle ?",
-    "a": "Privé signifie les clés par utilisateur et les versions maintenues, et non les packs zip publics. {siteName} expédie la livraison du portail pour la suite complète de session sur une seule licence de triche."
+    "q": "Où consulter les informations confirmées sur le produit ?",
+    "a": "La fiche actuelle du produit indique les fonctionnalités et conditions confirmées. Le résumé mentionne l’aimbot, le wallhack ou les repères visuels, la visibilité des ressources et le radar."
   },
   {
     "id": "faq-more",
-    "q": "Où est la FAQ complète ?",
-    "a": "Ce site comprend des FAQ d'atterrissage et des sections par page. Consultez la <a href=\"/faq/\">FAQ complète</a> pour toutes les réponses sur les produits, les cheats et les blogs, ou lisez les <a href=\"/blog/\">guides de blog</a> pour des guides détaillés."
+    "q": "Où trouver la FAQ complète ?",
+    "a": "Consultez la <a href=\"/faq/\">page FAQ</a> pour les informations sur les produits et le paiement, et le <a href=\"/blog/\">blog</a> pour les guides."
   },
   {
     "id": "ugc-what",
-    "q": "Que fait exactement UGC ?",
-    "a": "<a href=\"/ugc/\">UGC</a> (Unban & Governance Control) est un outil de récupération de compte. Vous créez des workflows d’appel personnalisés et automatisez les litiges pour les comptes restreints sur toutes les plateformes : profils de jeu, réseaux sociaux ou boutiques sur des marketplaces."
+    "q": "Que fait UGC Account Recovery ?",
+    "a": "<a href=\"/ugc/\">UGC Account Recovery</a> propose des démarches d’appel personnalisées et l’automatisation des contestations. La plateforme chargée de l’examen décide ; certaines sanctions sont définitives."
   },
   {
     "id": "ugc-guarantee",
-    "q": "UGC garantit-il le déban de mon compte ?",
-    "a": "Non. UGC vous aide à préparer et gérer vos appels, mais la plateforme qui les examine prend la décision finale, et certains bans sont définitifs. Aucun outil ne peut promettre un résultat."
+    "q": "UGC garantit-il la récupération d’un compte ?",
+    "a": "Non. UGC aide à préparer et gérer les recours, mais la plateforme chargée de l’examen décide. Aucun résultat n’est garanti."
   },
   {
     "id": "ugc-vs-hwid",
-    "q": "Dois-je acheter UGC ou le HWID Spoofer ?",
-    "a": "Tout dépend de ce qui a été banni. Si la plateforme a restreint votre compte, <a href=\"/ugc/\">UGC</a> sert à faire appel. Si les nouveaux comptes sont bannis immédiatement sur un PC mais fonctionnent sur un autre, le ban est lié à votre matériel et <a href=\"/hwid-spoofer/\">HWID Spoofer</a> est le bon choix."
+    "q": "Faut-il choisir UGC ou le HWID Spoofer ?",
+    "a": "Cela dépend de la restriction. UGC aide à contester les sanctions de compte ; le spoofer modifie des identifiants matériels. Aucun des deux ne garantit la levée d’une sanction."
   },
   {
     "id": "skin-visible",
-    "q": "Les skins du Skin Changer sont-ils ajoutés à mon compte ?",
-    "a": "Non. <a href=\"/skin-changer/\">Skin Changer</a> débloque les cosmétiques dans votre propre client de jeu : rien n’est ajouté à votre compte, et les objets ne peuvent être ni échangés ni vendus. Partez du principe que les autres joueurs ne les voient pas."
+    "q": "Les cosmétiques Skin Changer sont-ils ajoutés à mon compte ?",
+    "a": "Non. Les cosmétiques de <a href=\"/skin-changer/\">Skin Changer</a> apparaissent dans le client de jeu de l’utilisateur, ne sont pas ajoutés au compte et disparaissent lorsque l’outil est fermé. Les autres joueurs peuvent ne pas les voir."
   },
   {
     "id": "skin-games",
-    "q": "Quels jeux le Skin Changer prend-il en charge ?",
-    "a": "Il fonctionne sur plusieurs grands titres, et la couverture peut changer après une mise à jour du jeu. Demandez au support de confirmer votre jeu avant d’acheter."
+    "q": "Quels jeux Skin Changer prend-il en charge ?",
+    "a": "La couverture peut évoluer. Avant l’achat, demandez à l’assistance de confirmer la compatibilité avec votre jeu."
   },
   {
     "id": "utility-requirements",
-    "q": "Quels réglages Windows les utilitaires demandent-ils ?",
-    "a": "Windows 10 ou 11 avec HVCI, Core Isolation, TPM et Secure Boot activés. Activez-les dans Sécurité Windows et dans le BIOS/UEFI avant le premier lancement. Chaque page produit indique ses prérequis exacts."
+    "q": "Quelles sont les exigences des utilitaires ?",
+    "a": "Les exigences dépendent du produit. Consultez sa fiche et confirmez la compatibilité avant l’achat."
   }
 ]

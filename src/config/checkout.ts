@@ -49,7 +49,7 @@ export function resolveCheckoutHref(href: string): string {
     const goMatch = normalized.match(/^\/go\/([^/?#]+)\/?/);
     if (goMatch) {
       const slug = goMatch[1];
-      if (slug === 'dota-2' || slug === 'the-isle') {
+      if (slug === 'the-isle') {
         return checkoutPath('isleCheats');
       }
       const product = CHECKOUT_SLUG_TO_PRODUCT[slug];
@@ -77,8 +77,6 @@ export function resolveCheckoutHref(href: string): string {
   if (
     href.includes('%2Fproducts%2Fthe-isle') ||
     href.includes('/products/the-isle') ||
-    href.includes('%2Fproducts%2Fdota-2') ||
-    href.includes('/products/dota-2') ||
     href.includes('%2Fproducts%2Fcloud-dma') ||
     href.includes('/products/cloud-dma')
   ) {

@@ -2,8 +2,8 @@
   "site": {
     "name": "{siteName}",
     "domain": "{siteDomain}",
-    "title": "Cheats The Isle | ESP, aimbot et ESP de butin",
-    "description": "Player ESP, loot ESP, aimbot et aucun recul pour les sessions player sous Windows, avec mises à jour du chargeur après les correctifs. Comparez les forfaits sur {siteDomain}."
+    "title": "The Isle Cheats | Informations produit",
+    "description": "Informations sur The Isle Cheats et les fonctionnalités mentionnées dans le résumé sur {siteDomain}."
   },
   "nav": [
     {
@@ -34,205 +34,205 @@
     }
   ],
   "hero": {
-    "status": "The Isle, patch build en ligne",
+    "status": "Fonctionnalités de The Isle en bref.",
     "eyebrow": "FOURNISSEUR DE CHEATS N°1",
-    "titleLine1": "The Isle",
-    "titleLine2": "Cheats",
-    "subtitle": "Suivez players, loot et extracts clairement, puis finissez les combats avec un aim et un recul réglés. Presets et mises à jour loader les jours de patch via {siteDomain}.",
+    "titleLine1": "The Isle Cheats",
+    "titleLine2": "pour survivre dans The Isle",
+    "subtitle": "Le résumé mentionne l’aimbot, les repères visuels, la visibilité des ressources et le radar. Détails sur {siteDomain}.",
     "ctaPrimary": "Voir les produits",
     "metrics": [
       {
-        "label": "Streamproof",
-        "strong": "Oui"
+        "label": "Catégories de fonctions",
+        "strong": "4"
       },
       {
-        "label": "Vitesse des correctifs",
-        "strong": "Current"
+        "label": "Informations sur les branches",
+        "strong": "—"
       },
       {
-        "label": "Utilisateurs",
-        "strong": "Current"
+        "label": "Résumé",
+        "strong": "—"
       },
       {
-        "label": "Assistance en direct",
-        "strong": "24/7"
+        "label": "Détails du produit",
+        "strong": "—"
       }
     ],
     "statusPills": [
-      "ESP actif",
-      "Radar en ligne",
-      "Build de saison",
-      "Aimbot prêt",
-      "Soft aim prêt",
-      "Sans recul",
-      "Streamproof",
-      "ESP butin",
-      "ESP squelette",
-      "Radar UAV",
-      "ESP extractions",
-      "Support 24/7",
-      "Livraison instantanée",
-      "Prêt pour les sessions",
-      "Trigger bot",
-      "Choix de l'os",
-      "Statut en direct",
-      "Mises à jour auto"
+      "Repères visuels",
+      "Visibilité des ressources",
+      "Aimbot",
+      "Radar",
+      "Jeu en ligne",
+      "Informations sur les branches",
+      "Eau, cadavres et fruits",
+      "Périmètre du produit",
+      "Informations produit",
+      "Repères visuels",
+      "Visibilité des ressources",
+      "Aimbot",
+      "Radar",
+      "Jeu en ligne",
+      "Informations sur les branches",
+      "Eau, cadavres et fruits",
+      "Périmètre du produit",
+      "Informations produit"
     ]
   },
   "features": {
     "eyebrow": "Caractéristiques",
     "title": "Tout ce dont vous avez besoin dans un seul paquet",
-    "subtitle": "Joueur ESP, loot ESP, aimbot et outils de session pour The Isle, maintenus après les correctifs.",
+    "subtitle": "Aimbot, repères visuels, ressources et radar selon le résumé.",
     "items": [
       {
-        "title": "ESP joueurs",
-        "subtitle": "Suivez les player et les creatures.",
-        "desc": "Les cases des joueurs, les squelettes, les noms et les indications de distance restent lisibles lors de sessions denses.",
+        "title": "Repères visuels",
+        "subtitle": "Aimbot, repères visuels, visibilité des ressources et radar selon le résumé.",
+        "desc": "Consultez la fiche actuelle pour les détails.",
         "bullets": [
-          "Filtres player, creature et Boss",
-          "Marqueurs de squelette et d'os",
-          "Étiquettes de nom et lectures de distance",
-          "Conseils de santé et d'équipement lorsqu'ils sont activés",
-          "Règles de couleur par faction"
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails."
         ],
         "tags": [
-          "The Isle esp",
-          "player esp",
-          "skeleton esp"
+          "repères visuels",
+          "repères visuels",
+          "repères visuels"
         ],
         "bento": "sm:col-span-2 lg:col-span-12 lg:col-start-1 lg:row-start-1"
       },
       {
-        "title": "ESP butin",
-        "subtitle": "Trouvez rapidement de la valeur.",
-        "desc": "Mettez en surbrillance les conteneurs, les clés, les médicaments et le butin de haut niveau sans parcourir tous les tiroirs.",
+        "title": "Visibilité des ressources",
+        "subtitle": "L’eau, les cadavres et les fruits sont cités en exemple.",
+        "desc": "La fiche précise les modalités d’affichage.",
         "bullets": [
-          "Filtres de catégories d'articles et niveaux de prix",
-          "Faits saillants du butin des conteneurs et des cadavres",
-          "Marqueurs de quête et d’objets clés",
-          "Étiquettes de distance et de nom"
+          "La fiche précise les modalités d’affichage.",
+          "La fiche précise les modalités d’affichage.",
+          "La fiche précise les modalités d’affichage.",
+          "La fiche précise les modalités d’affichage."
         ],
         "tags": [
-          "loot esp",
-          "container esp",
-          "isle loot"
+          "visibilité des ressources",
+          "visibilité des ressources",
+          "visibilité des ressources"
         ],
         "bento": "sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2"
       },
       {
         "title": "Aimbot",
-        "subtitle": "Aide à la visée contrôlée.",
-        "desc": "Visée douce et sélection des os avec FOV et curseurs de lissage adaptés aux sessions, pas aux valeurs par défaut de la rage.",
+        "subtitle": "L’aimbot figure parmi les catégories mentionnées.",
+        "desc": "Le résumé ne précise pas les réglages.",
         "bullets": [
-          "FOV et commandes de lissage",
-          "Sélection des os et priorité de la cible",
-          "Contrôles de visibilité",
-          "Basculement de raccourci clavier par classe d'arme"
+          "Le résumé ne précise pas les réglages.",
+          "Le résumé ne précise pas les réglages.",
+          "Le résumé ne précise pas les réglages.",
+          "Le résumé ne précise pas les réglages."
         ],
         "tags": [
           "aimbot",
-          "soft aim",
-          "bone select"
+          "aimbot",
+          "aimbot"
         ],
         "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-3"
       },
       {
-        "title": "Sans recul",
-        "subtitle": "Un système entièrement automatique plus stable.",
-        "desc": "Profils de compensation de recul par famille d'armes avec préréglages de portail pour les versions courantes.",
+        "title": "Radar",
+        "subtitle": "Le radar figure parmi les catégories mentionnées.",
+        "desc": "Consultez la fiche actuelle pour les détails.",
         "bullets": [
-          "Profils de recul par arme",
-          "Curseurs de force avec capuchons",
-          "Paires avec les limites FOV de l'Aimbot",
-          "Enregistrer les profils dans le cloud"
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails."
         ],
         "tags": [
-          "no recoil",
-          "recoil control",
-          "weapon profiles"
+          "radar",
+          "radar",
+          "radar"
         ],
         "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-3"
       },
       {
-        "title": "Radar et extractions",
-        "subtitle": "Conscience de la carte en session.",
-        "desc": "2D radar, extract markers and optional UAV-style hints for orientation between fights.",
+        "title": "Jeu en ligne",
+        "subtitle": "Le résumé décrit The Isle comme un jeu entièrement en ligne.",
+        "desc": "Cela ne confirme pas la compatibilité du produit.",
         "bullets": [
-          "Marqueurs d'extraction et de transition",
-          "2D radar with player blips",
-          "Aperçu du style UAV en option",
-          "Zoom et opacité personnalisés"
+          "Cela ne confirme pas la compatibilité du produit.",
+          "Cela ne confirme pas la compatibilité du produit.",
+          "Cela ne confirme pas la compatibilité du produit.",
+          "Cela ne confirme pas la compatibilité du produit."
         ],
         "tags": [
-          "radar hack",
-          "extract esp",
-          "map awareness"
+          "jeu en ligne",
+          "jeu en ligne",
+          "jeu en ligne"
         ],
         "bento": "sm:col-span-2 lg:col-span-8 lg:row-span-2 lg:col-start-1 lg:row-start-4"
       },
       {
-        "title": "Trigger bot",
-        "subtitle": "Tirez une fois aligné.",
-        "desc": "Aide au déclenchement en option lorsque le réticule atteint des cibles valides, avec retard et portes clés.",
+        "title": "Informations sur les branches",
+        "subtitle": "La fiche actuelle du produit contient les informations confirmées.",
+        "desc": "Le résumé ne confirme la compatibilité avec aucune branche.",
         "bullets": [
-          "Réglage du retard et du temps de maintien",
-          "L'équipe et le bot ignorent les règles",
-          "Basculer séparément de l'aimbot",
-          "Valeurs par défaut conservatrices dans le portail"
+          "Le résumé ne confirme la compatibilité avec aucune branche.",
+          "Le résumé ne confirme la compatibilité avec aucune branche.",
+          "Le résumé ne confirme la compatibilité avec aucune branche.",
+          "Le résumé ne confirme la compatibilité avec aucune branche."
         ],
         "tags": [
-          "trigger bot",
-          "fire assist",
-          "The Isle cheats"
+          "informations sur les branches",
+          "informations sur les branches",
+          "informations sur les branches"
         ],
         "bento": "sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4"
       },
       {
-        "title": "Streamproof",
-        "subtitle": "Pensé pour les créateurs.",
-        "desc": "Gardez les superpositions sur votre moniteur pendant que le logiciel de capture enregistre un flux de jeu propre.",
+        "title": "Eau, cadavres et fruits",
+        "subtitle": "Trois exemples de ressources mentionnés dans le résumé.",
+        "desc": "Aucune autre ressource n’est confirmée.",
         "bullets": [
-          "Modes de capture OBS et Game Bar",
-          "Streamproof activable par module",
-          "Checklist de test dans la documentation du portail"
+          "Aucune autre ressource n’est confirmée.",
+          "Aucune autre ressource n’est confirmée.",
+          "Aucune autre ressource n’est confirmée."
         ],
         "tags": [
-          "obs capture",
-          "stream proof",
-          "capture hide"
+          "eau, cadavres et fruits",
+          "eau, cadavres et fruits",
+          "eau, cadavres et fruits"
         ],
         "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-6"
       },
       {
-        "title": "Utilitaires divers",
-        "subtitle": "Outils de qualité de vie Raid.",
-        "desc": "Vision nocturne, points forts de style thermique, aucun balancement et autres bascules regroupées dans un seul onglet utilitaires.",
+        "title": "Périmètre du produit",
+        "subtitle": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
+        "desc": "Consultez la fiche actuelle pour les détails.",
         "bullets": [
-          "Aucune aide au balancement et à l'endurance lorsqu'elle est activée",
-          "Modes de vision nocturne et de style thermique",
-          "Aides en réticule et FOV",
-          "Gestionnaire de raccourcis clavier"
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails.",
+          "Consultez la fiche actuelle pour les détails."
         ],
         "tags": [
-          "no sway",
-          "night vision",
-          "isle utilities"
+          "périmètre du produit",
+          "périmètre du produit",
+          "périmètre du produit"
         ],
         "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6"
       },
       {
-        "title": "Config cloud et mises à jour",
-        "subtitle": "Le jour du patch est prêt.",
-        "desc": "Mêmes préréglages sur chaque PC ;les mises à jour du portail suivent les jours de patch The Isle et the current game protection system.",
+        "title": "Informations produit",
+        "subtitle": "Consultez les informations disponibles avant l’achat.",
+        "desc": "La fiche produit indique la disponibilité et les conditions.",
         "bullets": [
-          "Sauvegarde cloud pour les profils de curseur",
-          "Poussée du chargeur quelques heures après les correctifs",
-          "Bannière de statut pour les notes de construction"
+          "La fiche produit indique la disponibilité et les conditions.",
+          "La fiche produit indique la disponibilité et les conditions.",
+          "La fiche produit indique la disponibilité et les conditions."
         ],
         "tags": [
-          "cloud sync",
-          "auto update",
-          "presets"
+          "informations produit",
+          "informations produit",
+          "informations produit"
         ],
         "bento": "sm:col-span-2 lg:col-span-4 lg:col-start-9 lg:row-start-2"
       }
@@ -240,41 +240,41 @@
   },
   "whyUs": {
     "eyebrow": "Pourquoi nous",
-    "title": "Des outils Raid soutenus par des correctifs, pas des promesses",
-    "subtitle": "De nombreux magasins de triche proposent des chargeurs obsolètes, des préréglages de rage évidents et des robots de tickets. {siteDomain} se concentre sur les versions de chargeur du jour du patch, les valeurs par défaut d'ESP et d'objectif conservatrices, ainsi que les opérateurs en direct.",
+    "title": "La fiche actuelle du produit contient les informations confirmées.",
+    "subtitle": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
     "usLabel": "{siteName}",
     "otherLabel": "Fournisseur type",
     "rows": [
       {
-        "title": "Mises à jour du chargeur le jour du patch",
-        "desc": "Les versions compatibles avec the current game protection system ont été poussées quelques heures après les mises à jour d'The Isle ;vérifiez la bannière de statut en direct avant de vous lancer dans un session."
+        "title": "Repères visuels",
+        "desc": "Aimbot, repères visuels, visibilité des ressources et radar selon le résumé."
       },
       {
-        "title": "Objectif humanisé et paramètres par défaut de l'ESP",
-        "desc": "Les capuchons FOV, les filtres de lissage et de distance sont livrés de manière conservatrice dans le portail afin que les superpositions restent lisibles, et non les modes de rage du mur de la boîte."
+        "title": "Visibilité des ressources",
+        "desc": "L’eau, les cadavres et les fruits sont cités en exemple."
       },
       {
-        "title": "Opérateurs en direct",
-        "desc": "De vrais ingénieurs pour la configuration du chargeur, les configurations de session et les réinitialisations HWID : couverture 24h/24 et 7j/7, pas de tickets FAQ copiés-collés."
+        "title": "Aimbot",
+        "desc": "L’aimbot figure parmi les catégories mentionnées."
       },
       {
-        "title": "Chargeur externe + preuve de flux",
-        "desc": "Suite de superposition avec modes de capture OBS, pas d'injection de DLL risquée dans le processus The Isle comme les anciens fournisseurs le vendent encore."
+        "title": "Radar",
+        "desc": "Le radar figure parmi les catégories mentionnées."
       },
       {
-        "title": "Synchronisation prédéfinie dans le cloud",
-        "desc": "Sauvegarde des profils player, creature et par carte sur le portail, mêmes curseurs sur n'importe quel PC sans reconstruction à partir de zéro."
+        "title": "Jeu en ligne",
+        "desc": "Le résumé décrit The Isle comme un jeu entièrement en ligne."
       },
       {
-        "title": "Réinitialisation du HWID et déplacements de licence",
-        "desc": "Effacements HWID et transferts de machines gérés via le support, la plupart des fournisseurs verrouillent une plate-forme ou facturent pour chaque échange."
+        "title": "Informations sur les branches",
+        "desc": "La fiche actuelle du produit contient les informations confirmées."
       }
     ],
     "metrics": [
       {
         "value": "Current",
         "title": "Retournement des correctifs",
-        "desc": "Temps moyen pour expédier une version de chargeur après des changements majeurs dans The Isle ou the current game protection system."
+        "desc": "La fiche actuelle du produit contient les informations confirmées."
       },
       {
         "value": "24/7",
@@ -290,9 +290,9 @@
   },
   "setup": {
     "eyebrow": "Guide de configuration",
-    "titleLead": "Du paiement à votre premier session en seulement",
+    "titleLead": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
     "titleHighlight": "trois étapes simples",
-    "intro": "Commencer est facile. Suivez le flux du portail de l'opérateur pour télécharger le chargeur, charger les préréglages et lancer The Isle sur Windows.",
+    "intro": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
     "ctaPrimary": "Voir les produits",
     "ctaSecondary": "FAQ de configuration",
     "ctaPrimaryHref": "/cheats/",
@@ -300,56 +300,56 @@
     "steps": [
       {
         "step": "Étape 1",
-        "title": "Déverrouiller le portail et le chargeur de téléchargement",
-        "desc": "Terminez le paiement, ouvrez le tableau de bord de votre opérateur et extrayez la dernière version du chargeur de correctifs pour Windows."
+        "title": "Repères visuels",
+        "desc": "Aimbot, repères visuels, visibilité des ressources et radar selon le résumé."
       },
       {
         "step": "Étape 2",
-        "title": "Lancer et configurer les modules",
-        "desc": "Exécutez le chargeur externe, importez les préréglages de session et réglez l'ESP, l'aimbot et les curseurs sans recul."
+        "title": "Visibilité des ressources",
+        "desc": "L’eau, les cadavres et les fruits sont cités en exemple."
       },
       {
         "step": "Étape 3",
-        "title": "Vérifier le statut et lancer The Isle",
-        "desc": "Vérifiez la bannière d'état en direct, lancez le client du jeu et jouez avec les profils sauvegardés dans le cloud enregistrés dans le portail."
+        "title": "Aimbot",
+        "desc": "L’aimbot figure parmi les catégories mentionnées."
       }
     ]
   },
   "compatibility": {
     "eyebrow": "Prise en charge de la plateforme",
     "title": "Fonctionne sur votre plate-forme.",
-    "subtitle": "Vérifiez la bannière d'état en direct avant de lancer The Isle après les mises à jour.",
+    "subtitle": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
     "items": [
-      "Windows 10 et 11",
+      "La fiche actuelle du produit contient les informations confirmées.",
       "The Isle",
       "Client BattleEye",
       "Programme de mise à jour automatique",
       "Configurer la synchronisation cloud",
       "Réinitialisation du HWID",
-      "Chargeur externe"
+      "La fiche actuelle du produit contient les informations confirmées."
     ]
   },
   "cheats": {
     "eyebrow": "Produit principal",
     "title": "Cheats The Isle",
-    "subtitle": "Joueur ESP, loot ESP, aimbot, utilitaires sans recul et session avec livraison prioritaire des correctifs.",
+    "subtitle": "Aimbot, repères visuels, visibilité des ressources et radar selon le résumé.",
     "viewAll": "Voir les détails du produit",
     "explore": "Explorer",
     "items": [
       {
-        "badge": "Places limitées",
-        "tier": "Privé",
+        "badge": "Détails du produit",
+        "tier": "Produit",
         "name": "Elite",
-        "title": "Cheats The Isle avec ESP, aimbot et loot ESP",
-        "desc": "Joueur ESP, butin ESP, aimbot et pas de recul pour les principaux sessions The Isle. Licence distincte d’Legacy. Livraison instantanée ;vérifier l'état après les correctifs.",
-        "heroDesc": "Licence sessions uniquement, overlays stream-proof et livraison portail instantanée. Commencez avec des presets prudents, puis ajustez ESP et aim après le statut en direct.",
+        "title": "Aimbot et repères visuels",
+        "desc": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
+        "heroDesc": "Consultez les informations disponibles avant l’achat.",
         "features": [
-          "ESP joueurs",
-          "ESP butin",
+          "Repères visuels",
+          "Visibilité des ressources",
           "Aimbot",
-          "Sans recul",
-          "Marqueurs d'extraction",
-          "Streamproof"
+          "Radar",
+          "Jeu en ligne",
+          "Informations sur les branches"
         ],
         "more": 9,
         "href": "/cheats/",
@@ -465,7 +465,7 @@
         "badge": "Disponible",
         "category": "Utilitaire système",
         "title": "HWID Spoofer",
-        "subtitle": "Rejouez après un ban matériel. Fonctionne avec Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet et d’autres anti-cheats, nettoyeur inclus.",
+        "subtitle": "La fiche actuelle du produit contient les informations confirmées.",
         "desc": "Modifie les numéros de série des disques, les adresses MAC, les identifiants GPU et d’autres identifiants après un ban matériel. Nettoyeur inclus.",
         "features": [
           "Spoof des numéros de série disque",
@@ -511,8 +511,8 @@
   "blog": {
     "eyebrow": "Blogue",
     "title": "Guides et mises à jour",
-    "subtitle": "Configuration de l'ESP et de l'aimbot, filtres de butin et vérifications des jours de patch pour The Isle.",
-    "latestTitle": "Guides de cheats The Isle et notes de patch",
+    "subtitle": "La fiche actuelle du produit contient les informations confirmées.",
+    "latestTitle": "La fiche actuelle du produit contient les informations confirmées.",
     "latestSubtitle": "Filtrez par sujet pour trouver des guides de configuration, des informations détaillées sur les fonctionnalités et des notes sur les mises à jour.",
     "filterAll": "Tous les articles",
     "emptyFilter": "Aucun article ne correspond à ce filtre.",
@@ -534,7 +534,7 @@
     "badge": "4 easy steps",
     "titleBefore": "De la vérification de l'état à",
     "titleHighlight": "profil enregistré.",
-    "subtitle": "Un chemin direct depuis la vérification de l'état vers un profil session que vous pouvez réutiliser à chaque session.",
+    "subtitle": "Quatre grandes catégories de fonctionnalités sont mentionnées.",
     "ctaLabel": "Voir les produits",
     "ctaHref": "/cheats/",
     "ctaSecondary": "FAQ de configuration",
@@ -543,26 +543,26 @@
       {
         "num": "01",
         "phase": "Avant l'achat",
-        "title": "Vérifier le statut en direct",
-        "desc": "Lisez la bannière en direct sur {siteDomain} avant d'acheter ou de lancer."
+        "title": "Repères visuels",
+        "desc": "Aimbot, repères visuels, visibilité des ressources et radar selon le résumé."
       },
       {
         "num": "02",
         "phase": "Vérifier",
-        "title": "Choisissez votre produit",
-        "desc": "Choisissez des cheats de session ou l'utilitaire matériel, selon ce qui correspond aux bans, aux plates-formes ou aux réinitialisations de compte auxquelles vous êtes confronté."
+        "title": "Visibilité des ressources",
+        "desc": "L’eau, les cadavres et les fruits sont cités en exemple."
       },
       {
         "num": "03",
-        "phase": "Chargeur",
-        "title": "Lancer et configurer",
-        "desc": "Téléchargez à partir du portail, activez les modules et réglez d'abord l'ESP et les curseurs de visée hors ligne."
+        "phase": "La fiche actuelle du produit contient les informations confirmées.",
+        "title": "Aimbot",
+        "desc": "L’aimbot figure parmi les catégories mentionnées."
       },
       {
         "num": "04",
         "phase": "En jeu",
-        "title": "Enregistrez votre profil",
-        "desc": "Lorsque les paramètres vous conviennent, enregistrez le player et mappez les préréglages sur le cloud."
+        "title": "Radar",
+        "desc": "Le radar figure parmi les catégories mentionnées."
       }
     ]
   },
@@ -580,7 +580,7 @@
       {
         "icon": "headphones",
         "title": "Discutez pour soutenir",
-        "desc": "Nous sommes là pour les problèmes de chargeur, de HWID et de compte.",
+        "desc": "La fiche actuelle du produit contient les informations confirmées.",
         "linkLabel": "{supportEmail}",
         "href": "mailto:{supportEmail}"
       },
@@ -600,53 +600,53 @@
       },
       {
         "title": "Plateforme",
-        "desc": "Windows 10 ou 11 et votre version du client The Isle."
+        "desc": "La fiche actuelle du produit contient les informations confirmées."
       },
       {
         "title": "Détail de l'erreur",
-        "desc": "Capture d'écran ou message exact du chargeur ou du client du jeu."
+        "desc": "La fiche actuelle du produit contient les informations confirmées."
       }
     ]
   },
   "faq": {
     "eyebrow": "FAQ",
-    "title": "Des réponses claires avant le paiement.",
-    "subtitle": "Compatibilité, bans et accès, pas de vagues promesses.",
+    "title": "Questions sur The Isle Cheats",
+    "subtitle": "Réponses fondées sur le résumé fourni et les informations actuelles du produit.",
     "items": [
       {
         "num": "01",
-        "q": "Où puis-je vérifier si les cheats d'The Isle sont en ligne ?",
-        "a": "La bannière de statut en direct se trouve sur {siteDomain}. Vérifiez toujours après une mise à jour d'The Isle ou de the current game protection system."
+        "q": "Quelles fonctionnalités le résumé mentionne-t-il ?",
+        "a": "Il mentionne l’aimbot, les repères visuels, la visibilité des ressources et le radar."
       },
       {
         "num": "02",
-        "q": "Que se passe-t-il après mon achat ?",
-        "a": "Votre portail déverrouille le chargeur, le guide de configuration et la bibliothèque de configuration via notre caisse partenaire. Suivez le guide avant de lancer The Isle."
+        "q": "Quelles ressources sont citées ?",
+        "a": "L’eau, les cadavres et les fruits sont mentionnés en exemple."
       },
       {
         "num": "03",
-        "q": "Puis-je être banni en utilisant des cheats tiers sur The Isle ?",
-        "a": "Oui, toute modification comporte des risques. BattleEye et les systèmes de rapport évoluent. Lisez l'état actuel et acceptez le risque avant utilisation."
+        "q": "Quelles branches sont prises en charge ?",
+        "a": "Le résumé ne confirme la compatibilité avec aucune branche."
       },
       {
         "num": "04",
         "q": "Quelles plateformes sont prises en charge ?",
-        "a": "The Isle sur Windows 10/11 64 bits uniquement. macOS et Linux ne sont pas pris en charge."
+        "a": "Le résumé ne précise ni plateforme ni configuration requise."
       },
       {
         "num": "05",
-        "q": "Puis-je déplacer ma licence vers un nouveau PC ?",
-        "a": "Oui, utilisez la réinitialisation HWID dans votre portail ou ouvrez un ticket de support. Les limites dépendent de votre niveau."
+        "q": "Où consulter les prix et conditions ?",
+        "a": "Consultez la fiche actuelle du produit et les informations affichées au paiement."
       },
       {
         "num": "06",
-        "q": "Où les produits et utilitaires sont-ils répertoriés ?",
-        "a": "Tous les produits sont sur {siteDomain}/products/ et chacun a sa propre page avec la liste des fonctionnalités et un paiement via notre partenaire."
+        "q": "Où trouver les autres produits ?",
+        "a": "Consultez la page des produits pour voir toutes les options."
       }
     ]
   },
   "footer": {
-    "tagline": "The Isle triche avec ESP, aimbot et loot ESP pour PC. {siteDomain}",
+    "tagline": "Aimbot, repères visuels, ressources et radar selon le résumé. {siteDomain}",
     "trademark": "{game} est une marque de {gamePublisher}. {siteDomain} n'est ni affilié à {gamePublisher} ni approuvé par {gamePublisher}.",
     "explore": "Explorer",
     "exploreLinks": [
@@ -708,14 +708,14 @@
         {
           "heading": "Qui nous sommes",
           "paragraphs": [
-            "{siteName} est une ressource axée sur PC pour les joueurs d'The Isle explorant l'ESP du joueur, l'ESP de butin, l'aimbot et les flux de travail sans recul. Nous publions des guides de configuration et des notes d'état en direct afin que vous puissiez évaluer les cheats The Isle avant de passer à la caisse.",
+            "La fiche actuelle du produit contient les informations confirmées.",
             "Tous les noms de produits sont utilisés uniquement à des fins d’identification."
           ]
         },
         {
           "heading": "Ce que nous publions",
           "paragraphs": [
-            "Notre site couvre The Isle Cheats et HWID Spoofer. Les articles du blog expliquent les configurations de session, les vérifications des jours de mise à jour et le comportement de mise à jour de the current game protection system.",
+            "La fiche actuelle du produit contient les informations confirmées.",
             "Le contenu est mis à jour lorsque des correctifs arrivent ou lorsque les modules de chargement sont déplacés. Vérifiez la bannière d'état de la page d'accueil avant chaque session."
           ]
         },
@@ -770,7 +770,7 @@
         {
           "heading": "Ce que vous achetez",
           "paragraphs": [
-            "Nous vendons des cheats The Isle et HWID Spoofer livrés via un portail opérateur et un chargeur pour The Isle sous Windows.",
+            "La fiche actuelle du produit contient les informations confirmées.",
             "Les listes de fonctionnalités sur chaque page de produit décrivent ce qui est inclus au moment de l'achat. Les modules peuvent changer lors de la mise à jour d'The Isle ou des systèmes anti-triche."
           ]
         },
@@ -778,27 +778,27 @@
           "heading": "Paiement et livraison",
           "paragraphs": [
             "Le paiement et la livraison des licences s'effectuent sur des pages de paiement externes. {siteDomain} ne traite ni ne stocke les numéros de carte de paiement.",
-            "Après l'achat, utilisez le portail de l'opérateur lié à votre flux de commande pour télécharger le chargeur actuel et le guide de configuration avant de lancer The Isle."
+            "La fiche actuelle du produit contient les informations confirmées."
           ]
         },
         {
           "heading": "Utilisation de la licence",
           "paragraphs": [
-            "Les licences sont réservées à votre usage personnel. Ne partagez pas de fichiers de chargeur, de connexions au portail ou de clés de licence. Les limites de HWID et d’appareils dépendent de votre niveau et sont appliquées dans le portail."
+            "La fiche actuelle du produit contient les informations confirmées."
           ]
         },
         {
           "heading": "Remboursements et achats",
           "paragraphs": [
-            "Toutes les ventes sont définitives une fois le paiement terminé. Nous ne remboursons pas les achats pour changement d'avis, les bans de compte, les pénalités the current game protection system ou les problèmes causés par l'ignorance des guides de configuration ou de l'exécution de modules alors que la bannière d'état s'affiche hors ligne.",
-            "Si le produit ne fonctionne pas comme décrit sur une configuration prise en charge : The Isle sur Windows 10/11, le chargeur actuel du portail et la bannière d'état en direct affichée en ligne lorsque vous avez démarré, contactez-nous via la page d'assistance. Incluez votre e-mail de commande, la version de Windows, la version du jeu et des captures d'écran ou le texte d'erreur exact du chargeur.",
+            "La fiche actuelle du produit contient les informations confirmées.",
+            "La fiche actuelle du produit contient les informations confirmées.",
             "Nous pouvons, à notre discrétion, proposer une solution, un accès au remplacement ou un remboursement partiel/total lorsque nous confirmons un défaut de notre part. Nous ne sommes pas obligés d’approuver chaque demande."
           ]
         },
         {
           "heading": "Disponibilité et risque",
           "paragraphs": [
-            "Les outils tiers pour The Isle peuvent entrer en conflit avec les mises à jour du jeu et the current game protection system. Vous utilisez ce logiciel à vos propres risques, y compris en cas d'action éventuelle sur votre compte.",
+            "La fiche actuelle du produit contient les informations confirmées.",
             "Vérifiez la bannière d'état de la page d'accueil avant chaque session. Ne chargez pas lorsque les modules sont hors ligne ou mal alignés après un correctif."
           ]
         },
@@ -811,14 +811,14 @@
         {
           "heading": "Assistance",
           "paragraphs": [
-            "Pour les questions sur les conditions, la facturation ou le chargeur, utilisez les boutons de la page Support. Consultez également notre politique de confidentialité pour savoir comment nous traitons les données du site."
+            "La fiche actuelle du produit contient les informations confirmées."
           ]
         }
       ]
     },
     "support": {
       "title": "Assistance {siteName}",
-      "description": "Obtenez de l'aide pour les questions relatives au chargeur, au HWID et au paiement sur {siteDomain}."
+      "description": "La fiche actuelle du produit contient les informations confirmées."
     }
   },
   "common": {
@@ -844,15 +844,15 @@
   "pages": {
     "faq": {
       "eyebrow": "Centre d'aide",
-      "title": "FAQ des cheats The Isle : setup, offres et the current game protection system",
-      "description": "Réponses sur les cheats The Isle : installation, offres mensuelles et à vie, modules ESP et aim, statut the current game protection system et aide au paiement sur {siteDomain}.",
+      "title": "The Isle Cheats | Fonctionnalités et informations produit",
+      "description": "Informations sur The Isle Cheats et les fonctionnalités mentionnées dans le résumé sur {siteDomain}.",
       "schemaName": "FAQ sur les cheats The Isle",
-      "schemaDescription": "Réponses sur les cheats de session, l'ESP, l'aimbot, les filtres de butin, la configuration du chargeur, les prix et le paiement sur {siteDomain}."
+      "schemaDescription": "Informations sur The Isle Cheats et les fonctionnalités mentionnées dans le résumé sur {siteDomain}."
     },
     "forum": {
       "eyebrow": "Forum communautaire The Isle",
-      "title": "Forum communautaire The Isle",
-      "description": "Discussions archivées en lecture seule sur l'installation du loader, l'ESP butin, le statut des patchs et les bans HWID. Les réponses sont fermées.",
+      "title": "The Isle Cheats | Fonctionnalités et informations produit",
+      "description": "Informations sur The Isle Cheats et les fonctionnalités mentionnées dans le résumé sur {siteDomain}.",
       "exploreGuides": "Découvrez les guides",
       "postsAria": "Messages de la communauté",
       "sortAria": "Tri des messages",
@@ -877,7 +877,7 @@
       "emptyArchive": "Aucune discussion pour l'instant. De nouveaux sujets apparaîtront ici.",
       "categoryGeneral": "Général",
       "categoryGuides": "Guides et constructions",
-      "categoryPatch": "Discussion sur les patchs",
+      "categoryPatch": "La fiche actuelle du produit contient les informations confirmées.",
       "categoryCommunity": "Communauté",
       "paginationAria": "Pages de discussions",
       "pagePrevious": "Précédent",

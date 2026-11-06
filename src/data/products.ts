@@ -87,32 +87,26 @@ export interface ProductPage {
 /** Guides paired with each product detail page */
 export const productRelatedBlogSlugs: Record<string, string[]> = {
   elite: [
-    'the-isle-cheats-price-monthly-vs-lifetime',
-    'how-to-set-up-the-isle-cheats-requirements',
-    'isle-cloud-dma-explained-do-you-need-it',
-    'isle-loot-esp-filters-price-category-containers',
-    'isle-aimbot-settings-explained',
-    'streamproof-isle-cheats-for-streamers',
-    'anti-cheat-and-the-isle-cheats-what-to-know',
+    'the-isle-cheats-product-summary-overview',
+    'the-isle-resource-visibility-guide',
+    'the-isle-aimbot-summary-guide',
+    'the-isle-visual-cues-wallhack-feature',
+    'the-isle-online-only-multiplayer-context',
+    'the-isle-evrima-legacy-overview',
+    'the-isle-growth-and-survival-guide',
+    'the-isle-branch-product-checklist',
   ],
-  'hwid-spoofer': [
-    'isle-hwid-ban-how-hwid-spoofer-works',
-    'anti-cheat-and-the-isle-cheats-what-to-know',
-  ],
-  ugc: ['anti-cheat-and-the-isle-cheats-what-to-know', 'isle-hwid-ban-how-hwid-spoofer-works'],
-  'skin-changer': ['streamproof-isle-cheats-for-streamers', 'how-to-set-up-the-isle-cheats-requirements'],
+  'hwid-spoofer': [],
+  ugc: [],
+  'skin-changer': [],
 };
 
 /** Community threads paired with each product detail page */
 export const productRelatedForumSlugs: Record<string, string[]> = {
-  elite: [
-    'isle-cheats-monthly-or-lifetime-worth-it',
-    'do-i-need-cloud-dma-for-isle-cheats',
-    'isle-cheat-loader-not-working-what-to-check',
-    'how-to-check-isle-cheat-status-after-patch',
-  ],
-  'hwid-spoofer': ['isle-hwid-ban-does-a-spoofer-help', 'isle-the current game protection system-ban-honest-talk-risk'],
-  ugc: ['isle-the current game protection system-ban-honest-talk-risk', 'isle-hwid-ban-does-a-spoofer-help'],
+  elite: [],
+  'hwid-spoofer': [],
+  ugc: [],
+  'skin-changer': [],
 };
 
 const productBase = PRODUCT_BASE;
@@ -133,7 +127,7 @@ const hwidAcquisitionSteps: AcquisitionStep[] = [
   {
     num: '01',
     title: 'Check your game is covered',
-    desc: 'The spoofer supports Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet and other anti-cheats. Confirm your game is on the list and check the status banner on {siteDomain} before you buy.',
+    desc: 'The spoofer supports Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet and other anti-cheats. Confirm your game is on the list and check the status banner on {siteDomain} before you buy.',
   },
   planStep,
   { ...windowsSecurityStep, desc: `${windowsSecurityStep.desc} Use a Windows account with administrator rights.` },
@@ -178,22 +172,22 @@ const defaultAcquisitionSteps: AcquisitionStep[] = [
   {
     num: '01',
     title: 'Review current status',
-    desc: 'Check the live banner on {siteDomain} before purchase, especially after an The Isle or the current game protection system update.',
+    desc: 'Review the current feature description, supported game branch, and checkout terms before purchase.',
   },
   {
     num: '02',
     title: 'Choose your access tier',
-    desc: 'Select The Isle Cheats or the utility that matches your goal. Review the feature list before checkout via our partner checkout.',
+    desc: 'Choose the product that matches the feature you are looking for, then review its current listing and checkout terms.',
   },
   {
     num: '03',
     title: 'Contact the team',
-    desc: 'Contact support and confirm availability, Windows setup, and payment details with your order email ready.',
+    desc: 'Use the Support page if the current product description does not answer a question about features or terms.',
   },
   {
     num: '04',
     title: 'Follow guided setup',
-    desc: 'Use only the operator portal, patch loader, and setup guide. Test offline, load presets, then run player sessions when status is online.',
+    desc: 'Follow the current product instructions and check that the feature you selected is listed for your game branch and version.',
   },
 ];
 
@@ -205,10 +199,10 @@ function acquisitionFor(productName: string): ProductAcquisition {
 }
 
 const sharedGoodToKnow =
-  'The Isle and the current game protection system receive frequent updates. Confirm module availability on the live status panel at {siteDomain} before you purchase or launch. branch compatibility is a separate purchase when required for full functionality.';
+  'The supplied summary names broad feature categories but does not confirm every control or branch. Review the current product description for supported details before purchase.';
 
 const sharedLimitations =
-  'Third-party software in The Isle can violate {gamePublisher} terms and lead to the current game protection system bans or account action. You use this software at your own risk. Compatibility and availability can change after game, the current game protection system, or Windows updates without notice.';
+  'Review applicable game and server rules before using third-party software. The supplied summary does not guarantee a particular outcome or availability on every server or branch.';
 
 const windowsSecurityRequirements: SystemRequirement[] = [
   { icon: 'reqShieldGuide', text: 'HVCI and Core Isolation turned on in Windows Security.' },
@@ -216,10 +210,7 @@ const windowsSecurityRequirements: SystemRequirement[] = [
 ];
 
 const isleSystemRequirements: SystemRequirement[] = [
-  { icon: 'reqWindows', text: 'Windows 10 or 11 64-bit (Intel or AMD).' },
-  ...windowsSecurityRequirements,
-  { icon: 'reqWifi', text: 'Stable internet and loader access after purchase.' },
-  { icon: 'reqShieldGuide', text: 'branch compatibility is required for full functionality.' },
+  { icon: 'reqShieldGuide', text: 'Check the current product description for supported branch and version details.' },
 ];
 
 const galleryRaw = {
@@ -377,7 +368,7 @@ const utilityBodies: Record<string, ProductPage['body']> = {
     { type: 'h2', text: 'Supported anti-cheats' },
     {
       type: 'p',
-      text: 'It works across several major anti-cheat systems, including Easy Anti-Cheat, the current game protection system, and other protected environments. Confirm your game is covered before you buy, since support can change after anti-cheat updates.',
+      text: 'It works across several major anti-cheat systems, including Easy Anti-Cheat, BattlEye, and other protected environments. Confirm your game is covered before you buy, since support can change after anti-cheat updates.',
     },
     { type: 'h2', text: 'Cleaner included' },
     {
@@ -437,25 +428,21 @@ const productContent: Record<
 > = {
   elite: {
     images: isleShowcaseSlides,
-    goodToKnow: 'The Isle is fully online and has separate Evrima and Legacy branches. Confirm the branch and current status before using the product.',
+    goodToKnow: 'The supplied summary describes The Isle as an online game with Evrima and Legacy branches. It does not confirm product compatibility for either branch.',
     limitations: 'Third-party software may conflict with game rules or server policies. Compatibility, availability and behavior can change after game updates.',
     systemRequirements: isleSystemRequirements,
     fullFeatures: [
-      'Aimbot with activation key, target lock and FOV controls',
-      'Distance filter and directional arrows',
-      'Wallhack with entity, box, snapline and health display',
-      'Names, growth, weight and class information',
-      'Evrima item visibility for corpses, meat, fruit, herbs, mushrooms and water',
-      'Radar with 2D and 3D display options',
-      'Zoom, colors and rotation controls',
-      'Night reshade and custom time or weather options',
-      'Branch and update compatibility checks',
+      'Aimbot feature category',
+      'Wallhack and visual cues',
+      'Item and resource visibility: water, corpses, and fruit',
+      'Radar feature category',
+      'Check the current listing for branch-specific availability',
     ],
     overview: {
-      title: 'Tools for The Isle survival sessions',
+      title: 'The Isle product feature overview',
       paragraphs: [
-        'The supplied product summary describes visual and tactical features for The Isle, including aimbot, wallhack, resource visibility and radar. It positions the tool around the game\'s growth, survival and PvP systems.',
-        'The Isle is online-only and includes Evrima and Legacy branches. Review the current listing for compatibility, setup requirements and pricing before checkout.',
+        'The supplied summary names four broad feature categories: aimbot, wallhack or visual cues, item and resource visibility, and radar. It gives water, corpses, and fruit as examples of resources.',
+        'The summary does not establish every control or confirm product compatibility for Evrima or Legacy. Review the current listing for branch-specific details and terms.',
       ],
     },
   },
@@ -479,14 +466,14 @@ const productContent: Record<
       'Cleaner included',
       'Major anti-cheat systems',
       'Easy Anti-Cheat titles',
-      'the current game protection system titles',
+      'BattlEye titles',
       'Protected game environments',
       'ACE, Javelin and other anti-cheats',
     ],
     overview: {
       title: 'Hardware ID ban recovery across major anti-cheats',
       paragraphs: [
-        'HWID Spoofer changes disk serials, MAC addresses, GPU IDs and related identifiers so you can come back after a hardware ban on a clean hardware profile. It covers Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet and other anti-cheats, and a cleaner is included.',
+        'HWID Spoofer changes disk serials, MAC addresses, GPU IDs and related identifiers so you can come back after a hardware ban on a clean hardware profile. It covers Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet and other anti-cheats, and a cleaner is included.',
         'Use it when new accounts get banned straight away on your PC but work on another. It does not lift a ban on an existing account. Monthly (31 days) and lifetime plans include the same tool.',
       ],
     },

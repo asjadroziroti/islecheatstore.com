@@ -1,458 +1,151 @@
 import type { ForumComment, ForumPost } from '../types';
 
-function c(author: string, age: string, body: string): ForumComment {
-  return { author, age, score: 0, body };
+const brand = 'The Isle Cheats';
+
+function reply(body: string): ForumComment {
+  return { author: brand, age: '0d', score: 0, body };
+}
+
+function thread(input: {
+  slug: string;
+  category: string;
+  tone: ForumPost['categoryTone'];
+  title: string;
+  excerpt: string;
+  date: string;
+  question: string;
+  replies: string[];
+  sourceTitle: string;
+  sourcePath: string;
+}): ForumPost {
+  return {
+    slug: input.slug,
+    category: input.category,
+    categoryTone: input.tone,
+    title: input.title,
+    excerpt: input.excerpt,
+    author: brand,
+    age: '0d',
+    published: input.date,
+    commentsCount: input.replies.length,
+    upvotes: 0,
+    flair: 'Guide-based Q&A',
+    body: [input.question],
+    comments: input.replies.map(reply),
+    sourceTitle: input.sourceTitle,
+    sourcePath: input.sourcePath,
+  };
 }
 
 export const forumPostsEn: ForumPost[] = [
-  {
-    slug: 'isle-cheats-monthly-or-lifetime-worth-it',
-    category: 'Buying Questions',
-    categoryTone: 'blue',
-    title: 'The Isle cheats monthly or lifetime, which one is actually worth it?',
-    excerpt:
-      'A player asks whether to pay monthly or go lifetime, and the thread works out the break even point and what else costs extra.',
-    author: 'NightRaidNate',
-    age: '12h',
-    published: '2026-09-23',
-    commentsCount: 11,
-    upvotes: 142,
-    body: [
-      'ok so im looking at the isle cheat on the site and theres monthly and lifetime. monthly is 35 and lifetime is 150. i usually play like 3 or 4 nights a week and i dont really know if ill still be playing after next wipe. anyone have a take on which one makes more sense? dont wanna waste 150 and then quit in 2 months lol',
+  thread({
+    slug: 'what-features-does-the-isle-summary-confirm', category: 'Features', tone: 'purple',
+    title: 'What features does The Isle Cheats summary actually confirm?',
+    excerpt: 'A guide to the four broad categories in the supplied summary and what still needs checking.', date: '2026-11-07',
+    question: 'The feature labels can sound more specific than the summary really is. Which details can I take from it, and which should I verify on the product page?',
+    replies: [
+      'The supplied summary names aimbot, wallhack or visual cues, item and resource visibility, and radar. It gives water, corpses, and fruit as resource examples.',
+      'It does not list every control, object, range, or branch-specific behavior. The [feature overview](/blog/the-isle-cheats-product-summary-overview/) separates named categories from details the source does not confirm.',
     ],
-    comments: [
-      c('creatureBoi_Kev', '11h', 'if you dont know if youll play after wipe then monthly, thats literally the point of it'),
-      c('NightRaidNate', '10h', 'yeah thats where my head is at too, just wanted a second opinion'),
-      c(
-        'Marrow',
-        '9h',
-        'quick math for you. 35 x 4 is 140. 35 x 5 is 175. so lifetime starts winning around month 5. if you think youll hit 5 months total go lifetime, if not stay monthly. see the [monthly vs lifetime breakdown](/blog/the-isle-cheats-price-monthly-vs-lifetime/) on the blog if you want it spelled out',
-      ),
-      c('creatureBoi_Kev', '9h', 'this guy does math at 2am respect'),
-      c('Marrow', '8h', 'its 2pm'),
-      c('creatureBoi_Kev', '8h', 'even worse'),
-      c(
-        'dusk_gunner',
-        '7h',
-        'do both plans have the same features or does lifetime unlock extra stuff? thats what always gets me with these',
-      ),
-      c(
-        'Marrow',
-        '6h',
-        'same features per the product page for [The Isle cheats](/cheats/). monthly is 31 days, lifetime is unlimited access. no tiers',
-      ),
-      c('dusk_gunner', '5h', 'nice, thanks'),
-      c(
-        'Halvorsen',
-        '4h',
-        'one thing nobody mentioned. cloud dma is separate from both plans and its needed for full functionality. so budget for that on top or you’ll be annoyed at checkout',
-      ),
-      c('NightRaidNate', '3h', 'wait really? ok good to know before i pay. thanks man'),
+    sourceTitle: 'The Isle Cheats feature overview', sourcePath: '/blog/the-isle-cheats-product-summary-overview/',
+  }),
+  thread({
+    slug: 'which-resources-are-named-for-the-isle', category: 'Features', tone: 'purple',
+    title: 'Which resources are specifically named in the Isle visibility summary?',
+    excerpt: 'The supplied examples are water, corpses, and fruit; the summary does not promise a complete object list.', date: '2026-10-29',
+    question: 'I am comparing the feature summary with the longer product listing. Which resource examples are actually in the source text?',
+    replies: [
+      'The examples it names are water, corpses, and fruit. It does not enumerate every object, category, or filter.',
+      'Use the [resource visibility guide](/blog/the-isle-resource-visibility-guide/) for that scope, then compare it with the current listing if you need a specific item confirmed.',
     ],
-  },
-  {
-    slug: 'do-i-need-cloud-dma-for-isle-cheats',
-    category: 'Buying Questions',
-    categoryTone: 'blue',
-    title: 'Do I really need branch compatibility for The Isle cheats or is it optional?',
-    excerpt:
-      'Someone sees conflicting wording about branch compatibility and asks what it actually means for their purchase.',
-    author: 'pixelhoarder',
-    age: '1d',
-    published: '2026-08-05',
-    commentsCount: 10,
-    upvotes: 89,
-    body: [
-      'the isle product page says cloud dma is optional in one spot and required for full functionality in another. which is it?? i dont wanna buy and then find out half the menu doesnt work',
+    sourceTitle: 'The Isle resource visibility guide', sourcePath: '/blog/the-isle-resource-visibility-guide/',
+  }),
+  thread({
+    slug: 'what-does-the-isle-visual-cues-description-mean', category: 'Features', tone: 'purple',
+    title: 'What does the visual-cues description say about The Isle?',
+    excerpt: 'The summary mentions cues for an approaching predator without specifying range or every display behavior.', date: '2026-10-21',
+    question: 'The wording mentions visual cues and an approaching predator. Does that tell me how far away it works or exactly what appears on screen?',
+    replies: [
+      'It gives the general purpose, not a measured range or a complete display specification. The product detail page is the place to confirm exact behavior.',
+      'The [visual cues and wallhack guide](/blog/the-isle-visual-cues-wallhack-overview/) separates confirmed points from open questions.',
     ],
-    comments: [
-      c(
-        'Halvorsen',
-        '23h',
-        'read it as required for full functionality. you can have the plan without it technically but you wont get the full thing. the [branch compatibility requirement](/cheats/) is spelled out on the product page',
-      ),
-      c('pixelhoarder', '22h', 'so its a separate purchase from the monthly/lifetime?'),
-      c('Halvorsen', '21h', 'yeah separate. plan covers the cheat, cloud dma is its own thing'),
-      c('gloomfarmer', '20h', 'lol every isle cheat thread is just people asking about dma'),
-      c('pixelhoarder', '19h', 'because nobody explains it!!'),
-      c('gloomfarmer', '18h', 'fair'),
-      c(
-        'Marrow',
-        '17h',
-        'short version since people keep asking. dma normally means reading game data from outside the machine the game runs on. cloud dma is the hosted version so youre not building a hardware setup. exact steps are given after purchase so follow those instead of random forum advice, mine included. [branch compatibility explained](/blog/isle-cloud-dma-explained-do-you-need-it/) is on the blog if you want the long version',
-      ),
-      c('pixelhoarder', '16h', 'ok that actually makes sense. whats the price on it?'),
-      c('Marrow', '15h', 'dont remember a number and i dont want to guess. check the product page or ask support'),
-      c('pixelhoarder', '14h', 'fair, will ask. thanks'),
+    sourceTitle: 'The Isle visual cues guide', sourcePath: '/blog/the-isle-visual-cues-wallhack-overview/',
+  }),
+  thread({
+    slug: 'does-the-isle-summary-list-radar-range', category: 'Features', tone: 'purple',
+    title: 'Does the Isle Cheats summary specify radar range or controls?',
+    excerpt: 'Radar is named as a category, but the supplied summary does not provide its settings or range.', date: '2026-10-13',
+    question: 'I see radar mentioned in the feature list. Is there a documented range, layout, or set of indicators in the summary?',
+    replies: [
+      'No. The supplied text names radar but does not describe its layout, range, indicators, or controls.',
+      'Check the current product listing for those specifics. The [summary overview](/blog/the-isle-cheats-product-summary-overview/) explains why the category name alone is not a full specification.',
     ],
-  },
-  {
-    slug: 'the-isle-cheat-features-full-rundown',
-    category: 'Features',
-    categoryTone: 'purple',
-    title: 'What features does an Isle cheat menu actually have? Full rundown',
-    excerpt:
-      'A newcomer asks what you actually get in the menu, and people break it down tab by tab.',
-    author: 'freshspawn22',
-    age: '2d',
-    published: '2026-07-24',
-    commentsCount: 12,
-    upvotes: 256,
-    body: [
-      'new to all this. when people say isle esp and aimbot and whatever, what does the menu actually include? is it just boxes on players or is there more',
+    sourceTitle: 'The Isle Cheats feature overview', sourcePath: '/blog/the-isle-cheats-product-summary-overview/',
+  }),
+  thread({
+    slug: 'are-evrima-and-legacy-both-confirmed', category: 'Buying Questions', tone: 'blue',
+    title: 'Does the product summary confirm support for Evrima and Legacy?',
+    excerpt: 'The game has both branches, but the supplied summary does not confirm product compatibility for either one.', date: '2026-10-06',
+    question: 'The Isle has Evrima and Legacy. Can I assume the same listed features apply to both branches?',
+    replies: [
+      'The summary describes both branches as part of the game context. It does not establish which product features are compatible with either branch.',
+      'Check the current listing before choosing a plan. The [branch checklist](/blog/the-isle-branch-product-checklist/) shows what to confirm.',
     ],
-    comments: [
-      c(
-        'Marrow',
-        '1d',
-        'way more than boxes. going off the [full feature list](/cheats/) on the product page, tabs are visuals, world, aimbot and misc',
-      ),
-      c(
-        'Marrow',
-        '1d',
-        'visuals has player, boss, bot and scav esp, plus box, chams, skeleton, nickname, distance, weapon, health, radar, oof arrows. also exfils and transitions',
-      ),
-      c('freshspawn22', '23h', 'damn thats a lot'),
-      c(
-        'dusk_gunner',
-        '22h',
-        'world tab is the loot stuff. loot esp with price filter, categories, containers, presets. also weather, fog, rain, that kind of thing. [loot ESP filters](/blog/isle-loot-esp-filters-price-category-containers/) walks through the filter side',
-      ),
-      c(
-        'gloomfarmer',
-        '21h',
-        'aimbot has fov, only visible, smart bone, prediction, target lock, teammates list so you dont aim at your own squad. [aimbot settings guide](/blog/isle-aimbot-settings-explained/) if you want the option names explained',
-      ),
-      c('gloomfarmer', '21h', 'please dont forget the teammates list lol'),
-      c('freshspawn22', '20h', 'why would that matter'),
-      c('gloomfarmer', '19h', 'because otherwise it picks whoever is closest. ask me how i know'),
-      c('Halvorsen', '18h', 'careful, thats the kind of story you cant back up'),
-      c('gloomfarmer', '17h', 'it was a joke chill'),
-      c(
-        'Marrow',
-        '16h',
-        'misc is the weird tab. no recoil, no sway, instant ads, instant reload, infinite stamina, loot through walls, thirdperson, free camera. and a config system where you can save, load, import, export',
-      ),
-      c('freshspawn22', '15h', 'ok thats way beyond what i thought. thanks everyone'),
+    sourceTitle: 'The Isle branch checklist', sourcePath: '/blog/the-isle-branch-product-checklist/',
+  }),
+  thread({
+    slug: 'why-online-only-context-matters-for-the-isle', category: 'Features', tone: 'purple',
+    title: 'Why does the product summary call The Isle online-only?',
+    excerpt: 'The source describes The Isle as fully online with no single-player campaign; compatibility still needs separate confirmation.', date: '2026-09-29',
+    question: 'I noticed the source says The Isle is fully online. Does that describe where the game is played, or does it confirm product compatibility?',
+    replies: [
+      'It describes the game context: online play, without a single-player campaign. It does not by itself prove that a product feature works on a particular branch or server.',
+      'The [online-only context guide](/blog/the-isle-online-only-multiplayer-context/) covers that distinction and links back to the feature scope.',
     ],
-  },
-  {
-    slug: 'isle-loot-esp-price-filter-profit-runs',
-    category: 'Features',
-    categoryTone: 'purple',
-    title: 'Is loot ESP with price filters actually good for profit runs?',
-    excerpt:
-      'Players trade tips on setting a minimum price and categories so loot ESP stays readable.',
-    author: 'ragfair_goblin',
-    age: '3d',
-    published: '2026-10-09',
-    commentsCount: 11,
-    upvotes: 118,
-    body: [
-      'trying to figure out if loot esp is worth caring about vs just the player stuff. i mostly run for money. does the price filter really help or does the screen just turn into confetti',
+    sourceTitle: 'The Isle online-only context', sourcePath: '/blog/the-isle-online-only-multiplayer-context/',
+  }),
+  thread({
+    slug: 'is-aimbot-a-complete-feature-specification', category: 'Features', tone: 'purple',
+    title: 'Is “aimbot” a complete The Isle feature specification?',
+    excerpt: 'The summary names an aimbot category but does not document keybinds, filters, or behavior.', date: '2026-09-22',
+    question: 'The product summary includes the word aimbot. I do not see settings or controls listed there. Should I read the category label as a complete specification?',
+    replies: [
+      'No. It confirms that the category is named in the summary, but it does not list controls or describe behavior in detail.',
+      'The [aimbot feature guide](/blog/the-isle-aimbot-feature-overview/) sticks to the supplied facts and points to the current listing for specifics.',
     ],
-    comments: [
-      c(
-        'Halvorsen',
-        '2d',
-        'it turns into confetti if you leave everything on. set a minimal price and it cuts most of the junk. the [loot ESP filter guide](/blog/isle-loot-esp-filters-price-category-containers/) covers presets too',
-      ),
-      c('ragfair_goblin', '2d', 'what do you set it to?'),
-      c(
-        'Halvorsen',
-        '2d',
-        'depends on the map and what youre hunting. higher floor for profit, lower if you want specific barter stuff',
-      ),
-      c(
-        'dusk_gunner',
-        '1d',
-        'also categories. military, technical, medical, valuable, common. just pick the one or two you need that session',
-      ),
-      c('ragfair_goblin', '1d', 'is there a way to ignore stuff i dont care about'),
-      c(
-        'dusk_gunner',
-        '23h',
-        'yeah theres an ignore not selected items option, plus search and loot presets',
-      ),
-      c(
-        'Marrow',
-        '22h',
-        'containers are separate too. you can toggle woodcrates, stashes, computers, dead bodies. fewer containers checked means less time standing around',
-      ),
-      c(
-        'ragfair_goblin',
-        '21h',
-        'that actually sounds more useful than the player esp for what i do. [loot ESP](/cheats/) is the tab im gonna live in',
-      ),
-      c('gloomfarmer', '20h', 'every scav in the lobby just read that and felt a chill'),
-      c('ragfair_goblin', '19h', 'lmao'),
-      c(
-        'Marrow',
-        '18h',
-        'draw distance and custom colors help too. make the expensive stuff a color you cant miss',
-      ),
+    sourceTitle: 'The Isle aimbot feature overview', sourcePath: '/blog/the-isle-aimbot-feature-overview/',
+  }),
+  thread({
+    slug: 'what-to-check-before-choosing-an-isle-plan', category: 'Buying Questions', tone: 'blue',
+    title: 'What should I check before choosing a plan for The Isle Cheats?',
+    excerpt: 'Match the feature you want to the current listing, confirm branch details, and read checkout terms.', date: '2026-09-15',
+    question: 'I know which broad feature category I am looking for, but what should I confirm before checking out?',
+    replies: [
+      'Start with the exact feature details and whether the listing confirms your game branch. Then review the plan duration, current price, and checkout terms shown at purchase.',
+      'The [branch checklist](/blog/the-isle-branch-product-checklist/) is a useful companion to the current [The Isle Cheats product page](/cheats/).',
     ],
-  },
-  {
-    slug: 'isle-cheat-loader-not-working-what-to-check',
-    category: 'Setup Help',
-    categoryTone: 'green',
-    title: 'The Isle cheat loader not working, what should I check first?',
-    excerpt:
-      'Someone cannot get things running and the thread builds a checklist of Windows settings, status and support steps.',
-    author: 'cableknot',
-    age: '5h',
-    published: '2026-09-02',
-    commentsCount: 12,
-    upvotes: 67,
-    body: ['i got the loader but its not doing what its supposed to. no idea where to start. windows 11. help pls'],
-    comments: [
-      c(
-        'Marrow',
-        '4h',
-        'first thing, did a patch drop recently? check the [status page](/) before anything else',
-      ),
-      c('cableknot', '4h', 'hmm not sure, how do i know'),
-      c('Marrow', '3h', 'status page on the site shows it. if its mid update then waiting is the fix'),
-      c(
-        'dusk_gunner',
-        '3h',
-        'second thing is windows settings. product lists hvci on, core isolation on, tpm on, secure boot on. updates sometimes flip stuff so recheck. [setup checklist](/blog/how-to-set-up-the-isle-cheats-requirements/) has the full list',
-      ),
-      c('cableknot', '2h', 'how do i check hvci lol'),
-      c(
-        'dusk_gunner',
-        '2h',
-        'windows security, device security, core isolation details. memory integrity is the hvci toggle',
-      ),
-      c(
-        'Halvorsen',
-        '2h',
-        'also make sure youre running whatever needs admin rights as admin. and cloud dma if you want full functionality',
-      ),
-      c('cableknot', '1h', 'ok checking now'),
-      c('cableknot', '45m', 'memory integrity was off. turned it on and restarted, will test tonight'),
-      c('gloomfarmer', '40m', 'classic'),
-      c(
-        'Marrow',
-        '30m',
-        'if its still broken, [open a ticket](/support/) on the site and include your order id. they cant find your stuff without it',
-      ),
-      c('cableknot', '20m', 'thanks all'),
+    sourceTitle: 'The Isle branch checklist', sourcePath: '/blog/the-isle-branch-product-checklist/',
+  }),
+  thread({
+    slug: 'how-growth-context-shapes-isle-feature-questions', category: 'General', tone: 'green',
+    title: 'How do growth and survival shape feature questions in The Isle?',
+    excerpt: 'A guide discussion about checking features against the long growth and survival loop described in the source.', date: '2026-09-08',
+    question: 'The source describes growth and survival as central to The Isle. How should that context shape the questions I ask about a product?',
+    replies: [
+      'Use the game context to decide what you need clarified, but do not infer a product outcome from it. Ask about the exact listed category, branch, and conditions that matter to you.',
+      'The [growth and survival overview](/blog/the-isle-growth-and-survival-guide/) explains the game context without adding unverified product promises.',
     ],
-  },
-  {
-    slug: 'how-to-check-isle-cheat-status-after-patch',
-    category: 'Status and Updates',
-    categoryTone: 'orange',
-    title: 'How do I know if the The Isle cheat is updated after a patch?',
-    excerpt:
-      'A big patch just landed and everyone asks the same thing: is it safe to load in yet? The thread covers checking status first.',
-    author: 'lastextract',
-    age: '6h',
-    published: '2026-10-04',
-    commentsCount: 10,
-    upvotes: 203,
-    body: [
-      'patch just dropped and im itching to play. how do i know if the cheat is good to go or should i just wait?',
+    sourceTitle: 'The Isle growth and survival guide', sourcePath: '/blog/the-isle-growth-and-survival-guide/',
+  }),
+  thread({
+    slug: 'how-to-read-a-short-isle-cheats-summary', category: 'Setup Help', tone: 'orange',
+    title: 'How should I read a short Isle Cheats feature summary?',
+    excerpt: 'Treat summary labels as broad categories and use the current listing for specific controls and compatibility.', date: '2026-08-31',
+    question: 'A short summary is helpful, but it leaves some of my questions open. What is a sensible way to compare it with the full product page?',
+    replies: [
+      'Make a small list of the category, item, branch, or plan detail you need. Match each one against an explicit line on the current product page rather than filling gaps by assumption.',
+      'The [product summary overview](/blog/the-isle-cheats-product-summary-overview/) and [branch checklist](/blog/the-isle-branch-product-checklist/) cover that review process.',
     ],
-    comments: [
-      c(
-        'Marrow',
-        '5h',
-        '[status page](/). the product page literally tells you to check it after big patches before loading in',
-      ),
-      c('lastextract', '5h', 'thats it? no announcement?'),
-      c('Marrow', '4h', 'status page is the first stop for questions'),
-      c('gloomfarmer', '4h', 'patience is hard when the wipe just started lol'),
-      c(
-        'Halvorsen',
-        '3h',
-        'nobody wants to hear it but waiting a few hours beats rushing in. patches change things and the tool may need a refresh',
-      ),
-      c('lastextract', '3h', 'yeah ok. feels like im losing time though'),
-      c('dusk_gunner', '2h', 'you lose less time than if something breaks mid session'),
-      c('lastextract', '2h', 'fair'),
-      c(
-        'Marrow',
-        '1h',
-        'also dont assume the same rules apply to arena. sessions and arena are separate keys on this one. [The Isle cheats](/cheats/) page calls out sessions only',
-      ),
-      c('lastextract', '45m', 'noted, thanks'),
-    ],
-  },
-  {
-    slug: 'isle-the current game protection system-ban-honest-talk-risk',
-    category: 'Anti-Cheat',
-    categoryTone: 'orange',
-    title: 'the current game protection system in The Isle, honest talk about ban risk',
-    excerpt:
-      'A straight conversation about the current game protection system, why no tool is risk free and what habits matter.',
-    author: 'quietpmc',
-    age: '4d',
-    published: '2026-08-14',
-    commentsCount: 11,
-    upvotes: 331,
-    body: [
-      'i know people want a yes or no here but how risky is it really with the current game protection system? no marketing talk please',
-    ],
-    comments: [
-      c('Halvorsen', '3d', 'straight answer is there is risk. anyone who tells you otherwise is selling something'),
-      c('quietpmc', '3d', 'appreciate that'),
-      c('Marrow', '3d', 'the current game protection system is kernel level and gets updated, so yeah. nothing here is a promise'),
-      c('gloomfarmer', '2d', 'this thread is going to ruin my night'),
-      c('Marrow', '2d', 'it should ruin your night a little. thats called being informed'),
-      c(
-        'dusk_gunner',
-        '2d',
-        'things people usually say help: modest settings, follow the guide exactly, meet the windows requirements, check status after patches',
-      ),
-      c('quietpmc', '1d', 'is obvious behavior a factor?'),
-      c(
-        'dusk_gunner',
-        '1d',
-        'it gets you reported, and reports matter. spinning on people through walls in a lobby full of people is not subtle',
-      ),
-      c('gloomfarmer', '1d', 'lmao thats basically every cheater clip ever'),
-      c('quietpmc', '23h', 'ok yeah that makes sense. thanks for not sugarcoating'),
-      c(
-        'Halvorsen',
-        '22h',
-        'if you decide to do it, you accept the risk. thats the deal. [the current game protection system and The Isle cheats](/blog/anti-cheat-and-the-isle-cheats-what-to-know/) is the longer writeup if you want it',
-      ),
-    ],
-  },
-  {
-    slug: 'isle-hwid-ban-does-a-spoofer-help',
-    category: 'Ban Help',
-    categoryTone: 'green',
-    title: 'Got an HWID ban in The Isle, does a spoofer actually help?',
-    excerpt:
-      'A player is stuck after a hardware ban and the thread explains what a spoofer changes, what it cannot fix and how to run it.',
-    author: 'brokenpc_dave',
-    age: '1d',
-    published: '2026-09-09',
-    commentsCount: 12,
-    upvotes: 174,
-    body: [
-      'my new account got banned within minutes and everyone says its an hwid ban. whats that and does a spoofer fix it? tired of buying new copies',
-    ],
-    comments: [
-      c(
-        'Halvorsen',
-        '23h',
-        'hwid ban means the ban follows your hardware ids, not just the account. thats why new accounts keep dying. [HWID bans](/blog/isle-hwid-ban-how-hwid-spoofer-works/) explains the difference',
-      ),
-      c('brokenpc_dave', '22h', 'ahh ok that explains it'),
-      c(
-        'Marrow',
-        '21h',
-        'a spoofer changes those ids. the [HWID spoofer](/hwid-spoofer/) we have changes disk serials, mac addresses, gpu ids and related stuff. The Isle is listed under the the current game protection system titles',
-      ),
-      c('brokenpc_dave', '20h', 'does it need anything else?'),
-      c(
-        'Marrow',
-        '19h',
-        'the cleaner. leftover traces can still be on your system so cleanup is part of it. product says cleaner is included. [how an HWID spoofer works](/blog/isle-hwid-ban-how-hwid-spoofer-works/) covers the order',
-      ),
-      c('gloomfarmer', '18h', 'so basically spoof, clean, then launch'),
-      c('Marrow', '17h', 'follow the current guide for exact order, dont rely on my summary'),
-      c(
-        'dusk_gunner',
-        '16h',
-        'requirements are windows 10/11 64 bit, admin rights, stable internet, and hvci, core isolation, tpm, secure boot on',
-      ),
-      c('brokenpc_dave', '15h', 'and if my old account is banned?'),
-      c(
-        'Halvorsen',
-        '14h',
-        'that account stays banned. spoofer is for hardware, not for undoing an account ban. you need a fresh account',
-      ),
-      c('brokenpc_dave', '13h', 'makes sense. price?'),
-      c('dusk_gunner', '12h', '50 monthly or 150 lifetime on the product page'),
-    ],
-  },
-  {
-    slug: 'can-you-stream-isle-with-esp-streamproof-obs',
-    category: 'Features',
-    categoryTone: 'purple',
-    title: 'Can you stream or record The Isle with ESP on without it showing in OBS?',
-    excerpt:
-      'A streamer asks what streamproof really means and the thread covers what it does and does not cover.',
-    author: 'smallstreamer_ash',
-    age: '8h',
-    published: '2026-08-26',
-    commentsCount: 10,
-    upvotes: 95,
-    body: [
-      'i have like 12 viewers lol but i do record. does streamproof esp actually stay off obs or is that just a buzzword?',
-    ],
-    comments: [
-      c(
-        'dusk_gunner',
-        '7h',
-        'product page says esp and menus stay off obs and most capture tools. [streamproof explained](/blog/streamproof-isle-cheats-for-streamers/) goes into what most means',
-      ),
-      c('smallstreamer_ash', '6h', 'most?'),
-      c('dusk_gunner', '6h', 'yeah thats the wording. so test your own setup'),
-      c(
-        'Marrow',
-        '5h',
-        'do a quick test record. open menu, turn esp on, record ten seconds, watch it back. if anything shows, stop',
-      ),
-      c('gloomfarmer', '5h', '12 viewers will absolutely spot you pre firing every corner'),
-      c('smallstreamer_ash', '4h', 'rude but fair'),
-      c(
-        'Halvorsen',
-        '4h',
-        'that is the actual issue. streamproof hides the overlay, it doesnt hide behavior. clips get reviewed',
-      ),
-      c('smallstreamer_ash', '3h', 'yeah thats a good point. so keep settings modest then'),
-      c(
-        'Marrow',
-        '2h',
-        'yeah, small fov, only visible, minimal labels. looks more normal on screen. [streamproof The Isle cheats](/cheats/) page lists it under features if you want to confirm',
-      ),
-      c('smallstreamer_ash', '1h', 'thanks all'),
-    ],
-  },
-  {
-    slug: 'isle-sessions-key-vs-arena-key-same-cheat',
-    category: 'Buying Questions',
-    categoryTone: 'blue',
-    title: 'The Isle sessions key vs Legacy key: are they the same cheat?',
-    excerpt:
-      'Someone assumes one purchase covers everything. It does not, and the thread explains why.',
-    author: 'arena_andy',
-    age: '2d',
-    published: '2026-08-09',
-    commentsCount: 8,
-    upvotes: 58,
-    body: [
-      'i play both sessions and arena. if i buy the isle cheat does it cover arena too or do i need something else?',
-    ],
-    comments: [
-      c(
-        'Marrow',
-        '1d',
-        'product page says sessions only and separate key from arena. so no, one purchase does not cover both. the [main sessions](/cheats/) license is what you are buying',
-      ),
-      c('arena_andy', '1d', 'ugh ok. so the isle one is just for main isle'),
-      c('Marrow', '23h', 'yep'),
-      c('gloomfarmer', '22h', 'classic assumption'),
-      c('arena_andy', '21h', 'shut up lol'),
-      c(
-        'dusk_gunner',
-        '20h',
-        'its worth reading that line before you buy. says it near the top and in the faq',
-      ),
-      c(
-        'Halvorsen',
-        '19h',
-        'if you are unsure about anything just [ask support](/support/) before paying',
-      ),
-      c('arena_andy', '18h', 'will do. thanks'),
-    ],
-  },
+    sourceTitle: 'The Isle Cheats feature overview', sourcePath: '/blog/the-isle-cheats-product-summary-overview/',
+  }),
 ];
-

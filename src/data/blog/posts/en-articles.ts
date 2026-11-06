@@ -1,567 +1,445 @@
 import type { BlogPostFull } from '../types';
 
-/** Part 6 gameplay masters only (1024×576). */
-const imgDaylight = '/images/blog/isle-feature-overview.webp';
-const imgNight = '/images/blog/isle-esp-visual-information.webp';
-const imgWall = '/images/blog/isle-resource-visibility.webp';
-
+/** Reviewed replacement guides based on the supplied product summary. */
 export const blogPostsEn: BlogPostFull[] = [
   {
-    tag: 'Features',
-    title: 'The Isle Loot ESP: How to Filter Loot by Price, Category and Container',
-    slug: 'isle-loot-esp-filters-price-category-containers',
-    image: '/images/blog/isle-survival.webp',
-    imageAlt: 'The Isle session view with loot ESP labels showing item names and prices',
-    desc: 'A practical look at The Isle loot ESP: price filters, loot categories, containers and presets, and how to keep your screen readable instead of cluttered.',
-    metaTitle: 'The Isle Loot ESP: Filters, Price and Containers Explained',
-    metaDescription:
-      'See how The Isle loot ESP works: price filters, categories, containers, quest items and presets for cleaner, easier-to-read sessions after setup.',
-    date: '2026-07-16',
-    readTime: '6 min read',
-    body: [
+    "tag": "Features",
+    "title": "The Isle Cheats: Product Summary Overview",
+    "slug": "the-isle-cheats-product-summary-overview",
+    "image": "/images/blog/isle-survival.webp",
+    "imageAlt": "The Isle landscape illustrating the four feature categories named in the product overview",
+    "desc": "A plain-language overview of the feature categories named in the supplied The Isle product summary, with a reminder to verify exact details before choosing.",
+    "metaTitle": "The Isle Cheats: Product Feature Overview",
+    "metaDescription": "See which high-level features The Isle Cheats summary names, including aimbot, visual cues, resource visibility and radar. Check current product details for specifics.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'Loot is the whole reason most people run sessions in The Isle. It is also where a lot of time gets wasted. You clear a room, open three containers, and walk out with nothing worth the slots. Loot ESP exists to fix that problem, and the difference between a good setup and a bad one comes down to filters.',
-      },
-      { type: 'h2', text: 'What loot ESP actually does' },
-      {
-        type: 'p',
-        text: 'Loot ESP draws labels on items and containers in the world, so you can see what is nearby without checking every shelf and drawer. In the The Isle cheat menu, the loot section covers items on the ground, containers, stashes, dead bodies, computers and similar spots, with distance and price shown next to what it finds.',
+        "type": "p",
+        "text": "The Isle Cheats product summary names four broad areas: aimbot, wallhack, item or resource visibility, and radar. Those labels describe the scope of the product at a high level. The summary does not document every control, coverage condition, or behavior, so readers should use the current product information for those details."
       },
       {
-        type: 'p',
-        text: 'The mistake most people make is turning everything on. A screen full of labels for common items is just noise. The tools that matter are the filters.',
-      },
-      { type: 'h2', text: 'Start with a minimal price' },
-      {
-        type: 'p',
-        text: 'The most useful single setting is the minimal price. Set a floor, and anything below it simply does not get drawn. If you are running for profit, a higher floor keeps your view clean and points you at items worth carrying. If you are hunting for specific barter items or quest needs, drop it lower and use the search and category options instead.',
+        "type": "h2",
+        "text": "Start with the feature categories"
       },
       {
-        type: 'p',
-        text: 'There is also an option to ignore items you have not selected, which is handy once you have a short list of what you care about.',
-      },
-      { type: 'h2', text: 'Use categories instead of one giant list' },
-      {
-        type: 'p',
-        text: 'Loot is grouped into categories such as military, technical, medical and valuable, with a separate common group for everyday items. Picking categories lets you decide what type of session you are doing. A quick medical run and a technical loot run need very different labels.',
+        "type": "p",
+        "text": "The summary presents aimbot as one part of the listed toolset. It does not describe its controls or how the feature behaves in every situation. Treat the term as a category, then check the current feature description before relying on a particular capability or outcome."
       },
       {
-        type: 'p',
-        text: 'Container types are filtered separately. You can choose whether woodcrates, stashes, computers, dead bodies and corpses are shown, which matters because every container you check costs time and exposes your position.',
+        "type": "p",
+        "text": "Wallhack and visual cues are another category named in the summary. It describes visual cues that can show an approaching predator. That gives readers a general idea of the intended context: noticing something nearby in a survival environment. It does not establish a specific detection range, which objects are visible, or how the display works."
       },
-      { type: 'h2', text: 'Draw distance, price display and colors' },
       {
-        type: 'p',
-        text: 'Draw distance controls how far out labels appear. Short distance keeps things tidy inside buildings. Longer distance helps on open maps. The price display adds value to each label, and custom loot coloring lets you make high value items stand out so your eye finds them instantly. Pick colors you can read at a glance.',
+        "type": "p",
+        "text": "The item and resource visibility description is more concrete at the example level. It mentions water, corpses, and fruit. The summary does not provide a complete inventory of objects or say that every resource is available in every branch or situation. For an article focused on these examples, see the guide to [The Isle resource visibility](/blog/the-isle-resource-visibility-guide/)."
       },
-      { type: 'h2', text: 'Quest items and extracts' },
       {
-        type: 'p',
-        text: 'Quest ESP marks quest related items and objectives, which saves a lot of backtracking if you are working through tasks. Extract and transition markers show where you can leave, which is useful when a session starts going badly and you need to commit to a route.',
+        "type": "p",
+        "text": "Radar is also named, but the source summary does not describe its layout, range, indicators, or controls. Avoid inferring those details from radar tools in other games. Check the current product information if a specific capability matters to you."
       },
-      { type: 'h2', text: 'Presets save time' },
       {
-        type: 'p',
-        text: 'Loot presets let you store a filter setup and switch between them. One preset for high value runs, one for quest hunting, one for a general sweep. The config system also supports saving, loading, importing and exporting, so you are not rebuilding your setup every time.',
+        "type": "h2",
+        "text": "Keep the summary and the details separate"
       },
-      { type: 'h2', text: 'Keep it readable' },
       {
-        type: 'p',
-        text: 'A good rule is to show less than you think you need. Set a price floor, pick two or three categories, and keep your draw distance reasonable. If you find yourself squinting at labels, you have too many on.',
+        "type": "p",
+        "text": "A short feature summary helps readers understand the broad subject of a product. It is not a substitute for a complete specification. Before making a decision, compare the feature names with the detailed listing and confirm that the information answers your actual questions."
       },
-      { type: 'h2', text: 'Getting started' },
       {
-        type: 'p',
-        text: 'If you want loot ESP with full price, category, container and preset controls, the [The Isle cheats](/cheats/) include it alongside player ESP, aimbot and misc options. Check the status page after patches before you load in, review [setup requirements](/blog/how-to-set-up-the-isle-cheats-requirements/), and note that the branch compatibility component is required for full functionality. Plans start at a [monthly or lifetime plan](/blog/the-isle-cheats-price-monthly-vs-lifetime/), with a lifetime option if you plan to stay long term.',
+        "type": "p",
+        "text": "The Isle has distinct Evrima and Legacy branches. The supplied summary does not say which product features apply to each branch. Do not infer support from a general feature label. Review the branch information separately, and ask for clarification through the site’s normal information channel if the listing leaves a material question unanswered."
       },
-    ],
+      {
+        "type": "p",
+        "text": "This overview is useful as a starting point, not a promise about a specific setup or result. Keep each feature claim tied to its published description. When the details are not stated, leave them open rather than filling the gap with assumptions."
+      }
+    ]
   },
   {
-    tag: 'Features',
-    title: 'The Isle Aimbot Settings Explained: FOV, Bones, Target Selection and More',
-    slug: 'isle-aimbot-settings-explained',
-    image: '/images/blog/isle-esp.webp',
-    imageAlt: 'The Isle cheat menu aimbot tab showing FOV and target options',
-    desc: 'Every aimbot menu looks overwhelming the first time. Here is what the main The Isle aimbot options do and how to set them up without making a mess.',
-    metaTitle: 'The Isle Aimbot Settings Explained: FOV, Bones and Targets',
-    metaDescription:
-      'A plain guide to The Isle aimbot options: aim key, FOV, visibility checks, smart bone, target selection, targets and prediction.',
-    date: '2026-05-10',
-    readTime: '7 min read',
-    body: [
+    "tag": "Features",
+    "title": "The Isle Resource Visibility: Water, Corpses and Fruit",
+    "slug": "the-isle-resource-visibility-guide",
+    "image": "/images/blog/isle-resources.webp",
+    "imageAlt": "Water and fruit in a forested The Isle environment, illustrating the resource examples in the guide",
+    "desc": "The supplied summary names water, corpses, and fruit as resource examples. This guide keeps those examples clear and separates them from unverified controls.",
+    "metaTitle": "The Isle Resource Visibility: Water, Corpses and Fruit",
+    "metaDescription": "The Isle product summary mentions visual resource cues for water, corpses and fruit. Learn what that wording supports and what details still need confirmation.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'The aimbot tab in a The Isle cheat menu has a lot of toggles, and most of them are useful only if you understand what they change. This is a walkthrough of the main options, based on the options listed for the The Isle cheats.',
-      },
-      { type: 'h2', text: 'The basics: aim key and FOV' },
-      {
-        type: 'p',
-        text: 'Enable Aim turns the feature on, and the aim key decides when it engages. Most people bind it to a mouse button they already press when fighting, so it feels natural.',
+        "type": "p",
+        "text": "The supplied description of The Isle Cheats mentions visual cues for finding resources, including water, corpses, and fruit. Those examples fit the game’s survival setting, where attention and patience matter over a long growth period. They also give readers a concrete way to understand what “resource visibility” refers to in the product summary."
       },
       {
-        type: 'p',
-        text: 'FOV is the circle around your crosshair in which targets can be picked. You can draw it on screen, set its size, color it, and make it dynamic. A smaller FOV means the aimbot only reacts to targets near where you are already looking. A large FOV means it can grab people far from your crosshair, which is more powerful but also looks far more obvious to anyone watching you.',
-      },
-      { type: 'h2', text: 'Distance and visibility' },
-      {
-        type: 'p',
-        text: 'Max aimbot distance limits how far away it will target. The Isle engagements vary hugely between maps, so a lower value suits interior heavy maps and a higher one suits open ones.',
+        "type": "h2",
+        "text": "The three examples in the summary"
       },
       {
-        type: 'p',
-        text: 'Only Visible tells the aimbot to ignore targets you cannot actually see. Turn it on if you want behavior that stays closer to what a normal player could see. Leave it off and you are asking the tool to track through cover.',
-      },
-      { type: 'h2', text: 'Target selection and teammates' },
-      {
-        type: 'p',
-        text: 'Target selection decides who gets picked when more than one person is in range. Teammate options let you mark squadmates so you do not point at them, with a bind to add a teammate quickly. If you play in groups, set this up before the session, not during it.',
-      },
-      { type: 'h2', text: 'Bones: smart bone, force bone and priority' },
-      {
-        type: 'p',
-        text: 'Smart bone lets the aimbot choose from a list of body parts, and the priority option lets you rank them. Force bone locks it to one. In a game where armor and ammo decide fights, choosing bones deliberately matters more than leaving it on a default.',
-      },
-      { type: 'h2', text: 'Extras worth knowing about' },
-      {
-        type: 'ul',
-        items: [
-          'Prediction accounts for target movement.',
-          'Target lock keeps you on one target once chosen.',
-          'Show target and target color highlight who is currently selected.',
-          'Draw crosshair gives you a clear reference point.',
-          'Bullet tracers show where your shots are going, which helps when tuning a config.',
-          'Instant hit exists as an option, but it is the most aggressive setting in the list.',
-        ],
-      },
-      { type: 'h2', text: 'A sensible way to build a config' },
-      {
-        type: 'p',
-        text: 'Start small. Pick a modest FOV, turn on Only Visible, set a distance that suits your usual map, and use smart bone with a short list. Change one setting at a time and test it. Save the result in the config system, which supports saving, loading, importing and exporting.',
+        "type": "p",
+        "text": "Water is one of the named resources. The summary says the tool can help surface visual information about water, but it does not describe a map, an exact marker, a distance measurement, or how water locations are represented. Keep those details open unless the current product listing explains them."
       },
       {
-        type: 'p',
-        text: 'Settings that look blatant tend to draw attention from other players, and no setting removes risk entirely. Cheating in an online game can lead to bans, so build your config with that in mind.',
+        "type": "p",
+        "text": "Corpses are another example. The supplied text refers to finding meaty corpses. That is the extent of the source-supported detail here. It does not specify whether the feature identifies age, quantity, location history, or any other property. Avoid adding those claims to a guide or product card."
       },
-      { type: 'h2', text: 'Where to get it' },
       {
-        type: 'p',
-        text: 'If you want the full aimbot menu along with ESP and misc tools, see the [The Isle aimbot options](/cheats/). It is sold for main sessions only and uses a separate key from Legacy, and the branch compatibility component is required for full functionality. Pair it with [loot ESP filters](/blog/isle-loot-esp-filters-price-category-containers/) and read [the current game protection system considerations](/blog/anti-cheat-and-the-isle-cheats-what-to-know/) before you session.',
+        "type": "p",
+        "text": "Fruit is the third example. The summary refers to rare fruit in remote locations. It does not name particular fruit types or promise that every item is highlighted. The careful description is simply that fruit is among the examples given for resource visibility."
       },
-    ],
+      {
+        "type": "h2",
+        "text": "Separate examples from assumptions"
+      },
+      {
+        "type": "p",
+        "text": "Feature names can invite readers to assume more than a source actually says. A reference to resource visibility does not confirm that every object appears, that the display works on every server, or that a specific filter or distance control exists. Those details belong in a verified specification, not in an explanatory article built from a short summary."
+      },
+      {
+        "type": "p",
+        "text": "Readers comparing information can use a simple checklist: identify the objects explicitly named, note any controls actually described, and write down unanswered questions. If a detail matters, check the current product information rather than borrowing language from another game or another tool."
+      },
+      {
+        "type": "h2",
+        "text": "Why precise wording helps"
+      },
+      {
+        "type": "p",
+        "text": "Clear scope makes a feature easier to understand. Water, corpses, and fruit are useful examples because the supplied summary names them. A longer list may sound more complete, but it would create expectations unsupported by the available description."
+      },
+      {
+        "type": "p",
+        "text": "For the wider set of feature categories, read [The Isle Cheats overview](/blog/the-isle-cheats-product-summary-overview/). Keep the distinction simple: this guide explains the resource examples in the summary; the product listing should provide any additional verified detail."
+      }
+    ]
   },
   {
-    tag: 'Buyer Guides',
-    title: 'The Isle Cheats Price: Monthly vs Lifetime',
-    slug: 'the-isle-cheats-price-monthly-vs-lifetime',
-    image: '/images/blog/isle-radar.webp',
-    imageAlt: 'The Isle cheats monthly and lifetime plan options',
-    desc: 'Monthly or lifetime? Here are the prices, the break even point, and the extra things to check before you pay.',
-    metaTitle: 'Lifetime The Isle Cheats: Monthly vs Lifetime Price Guide',
-    metaDescription:
-      'Monthly is $35 and lifetime is $150 with the same features. See when each makes sense, what is sold separately, and what to check before you buy.',
-    date: '2026-10-15',
-    readTime: '5 min read',
-    featured: true,
-    body: [
+    "tag": "Features",
+    "title": "Aimbot in The Isle: What the Summary Supports",
+    "slug": "the-isle-aimbot-feature-overview",
+    "image": "/images/blog/isle-pvp.webp",
+    "imageAlt": "The Isle dinosaur scene used to illustrate the aimbot feature overview",
+    "desc": "The supplied summary lists aimbot as a broad feature category. It does not document settings, target logic, or specific outcomes.",
+    "metaTitle": "The Isle Aimbot: A Source-Based Feature Overview",
+    "metaDescription": "Aimbot is named in The Isle product summary. See what can be stated from that source and which controls require confirmation.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'If you are searching for The Isle cheats, price is probably one of the first things you want answered. Here are the actual numbers and how to decide between the two plans.',
-      },
-      { type: 'h2', text: 'The two plans' },
-      {
-        type: 'table',
-        headers: ['Plan', 'Access', 'Price'],
-        rows: [
-          ['Monthly', '31 days', '$35'],
-          ['Lifetime', 'Unlimited access', '$150 once'],
-        ],
+        "type": "p",
+        "text": "Aimbot appears in the supplied summary of The Isle Cheats. That confirms the feature category is part of the product description. It does not tell readers which controls are available, how targeting works, or how the feature behaves in different situations. This guide keeps that boundary clear."
       },
       {
-        type: 'p',
-        text: 'Both plans include the same features. You are not paying more for extra tools. The only difference is how long you have access.',
-      },
-      { type: 'h2', text: 'When monthly makes sense' },
-      {
-        type: 'p',
-        text: 'Monthly is the lower risk way to start. If you are testing the cheat on your own setup, only play in short bursts, or are not sure you will stay with The Isle through the next wipe, $35 for 31 days keeps your commitment small.',
-      },
-      { type: 'h2', text: 'When lifetime makes sense' },
-      {
-        type: 'p',
-        text: 'The math is simple. Four months of monthly access costs $140. The fifth month takes you past $150. If you expect to use the cheat for five months or more, lifetime is the cheaper option, and you stop thinking about renewals.',
+        "type": "h2",
+        "text": "What the source says"
       },
       {
-        type: 'p',
-        text: 'Lifetime also suits people who play steadily across wipes and do not want to rebuy.',
-      },
-      { type: 'h2', text: 'What else you need to know before paying' },
-      {
-        type: 'p',
-        text: 'branch compatibility. [branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) is required for full functionality and is a separate purchase from the monthly and lifetime plans. Budget for it up front so there are no surprises.',
+        "type": "p",
+        "text": "The summary places aimbot alongside wallhack, resource visibility, and radar. It gives no menu screenshot or technical specification for the aimbot. As a result, a reliable overview can explain the role of the term in the product summary, but should not present an invented list of settings."
       },
       {
-        type: 'p',
-        text: 'Raids only. This product is for main The Isle sessions. It uses a separate key from Legacy, so a purchase here does not cover Legacy.',
+        "type": "p",
+        "text": "The supplied text does not establish specific controls, targeting behavior, or feature limits. Details may sound familiar from other products, but they cannot be attributed to this one from the available source. Check the current product description for any capability that matters to your decision."
       },
       {
-        type: 'p',
-        text: 'Your PC. You need Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Our [system requirements](/blog/how-to-set-up-the-isle-cheats-requirements/) cover this in more detail.',
+        "type": "h2",
+        "text": "Questions to answer before relying on a feature label"
       },
       {
-        type: 'p',
-        text: 'Delivery and support. Delivery is instant after purchase, and you get a loader to use. If something goes wrong, you can open a ticket on the site with your order ID.',
+        "type": "p",
+        "text": "When a listing uses a broad term, readers can check whether the full description answers practical questions. Does it explain the feature’s available controls? Does it define any limitations? Does it say which game branch the feature applies to? If these details are missing, record them as unanswered rather than assuming the feature behaves like a similarly named tool elsewhere."
       },
       {
-        type: 'p',
-        text: 'After patches. Check the status page after major patches before you load into a session.',
+        "type": "p",
+        "text": "This is especially relevant for The Isle because the supplied summary distinguishes Evrima and Legacy. The summary does not connect a particular aimbot version or behavior to either branch. A broad feature name should not be treated as a compatibility statement."
       },
-      { type: 'h2', text: 'What is included for the price' },
       {
-        type: 'p',
-        text: 'The feature set covers player ESP with box, skeleton, health, distance and more, loot ESP with price and category filters, an aimbot with FOV, bone and visibility options, no recoil and other misc options, and a config system for saving and sharing setups. It is also described as streamproof for most capture tools.',
+        "type": "h2",
+        "text": "Keep claims tied to evidence"
       },
-      { type: 'h2', text: 'Ready to buy' },
       {
-        type: 'p',
-        text: 'If you have made your choice, head to the [buy The Isle cheats](/go/the-isle/) page to pick monthly or lifetime. If you are undecided, start monthly. You can always decide to commit later.',
+        "type": "p",
+        "text": "An article can be useful without pretending to know more than its source. Here, the confirmed point is narrow: aimbot is named in the supplied product summary. Exact settings and performance details need a current, approved product specification before they can be added."
       },
-    ],
+      {
+        "type": "p",
+        "text": "For the other high-level feature names, see [The Isle Cheats product overview](/blog/the-isle-cheats-product-summary-overview/). Before making a decision, use the current product details for any question that depends on specific controls or branch coverage. This keeps the distinction between a feature category and a complete specification clear for readers."
+      }
+    ]
   },
   {
-    tag: 'Buyer Guides',
-    title: 'The Isle branch compatibility Explained: What It Is and Whether You Need It',
-    slug: 'isle-cloud-dma-explained-do-you-need-it',
-    image: '/images/blog/isle-resources.webp',
-    imageAlt: 'The Isle cheat setup diagram with branch compatibility connection',
-    desc: 'branch compatibility comes up in almost every The Isle cheat conversation. Here is what it is and where it fits in your purchase.',
-    metaTitle: 'The Isle branch compatibility Explained: Do You Need It?',
-    metaDescription:
-      'branch compatibility is required for full functionality with our The Isle cheats. Here is what it means and how it relates to the plans.',
-    date: '2026-06-04',
-    readTime: '6 min read',
-    body: [
+    "tag": "Features",
+    "title": "Visual Cues in The Isle: Understanding the Wallhack Description",
+    "slug": "the-isle-visual-cues-wallhack-overview",
+    "image": "/images/blog/isle-night.webp",
+    "imageAlt": "A predator silhouette among trees in The Isle, representing the visual-cue example in the summary",
+    "desc": "The supplied summary names wallhack and gives visual cues for an approaching predator as an example. It does not specify further behavior.",
+    "metaTitle": "The Isle Wallhack: What the Summary Describes",
+    "metaDescription": "The Isle product summary mentions wallhack and visual cues for an approaching predator. Review the stated scope without assuming extra functions.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'If you have looked at The Isle cheats for more than five minutes, you have seen the term DMA. branch compatibility is the version that appears across our products, and it is worth understanding before you buy.',
+        "type": "p",
+        "text": "The supplied product summary names wallhack and describes visual cues that can show an approaching predator. That example connects the feature to a central part of The Isle’s survival setting: paying attention to the environment. It does not provide a full technical description of the feature, so this article stays with the stated example."
       },
-      { type: 'h2', text: 'DMA in plain terms' },
       {
-        type: 'p',
-        text: 'DMA stands for direct memory access. In the cheat world, a DMA setup traditionally means using separate hardware to read game data instead of running everything inside the same machine as the game. That approach is popular because The Isle uses the current game protection system, which operates at kernel level.',
+        "type": "h2",
+        "text": "A visual cue, described carefully"
       },
-      { type: 'h2', text: 'Where branch compatibility fits' },
       {
-        type: 'p',
-        text: 'branch compatibility is the hosted option listed with the [The Isle cheats with branch compatibility](/cheats/). The product lists branch compatibility in its feature set, and it is described as required for full functionality. If you are looking for exact steps on how the connection is made, those are provided after purchase through the guide and support channels, so follow the current instructions rather than relying on general internet advice.',
+        "type": "p",
+        "text": "The summary’s example is straightforward: a cue can show an approaching predator. It does not say how the cue appears, how far away it works, whether it applies to every creature, or whether it works through terrain. Avoid turning the broad feature label into a detailed promise about visibility."
       },
-      { type: 'h2', text: 'How it relates to the plan you buy' },
       {
-        type: 'p',
-        text: 'This part trips people up. The monthly and lifetime [plans](/blog/the-isle-cheats-price-monthly-vs-lifetime/) cover the cheat itself. branch compatibility is a separate purchase. So the full cost of running the product with all functions is the plan you choose plus branch compatibility.',
+        "type": "p",
+        "text": "The distinction matters because readers often map a familiar term onto controls and behavior they have seen elsewhere. A feature name by itself does not confirm a specific interface or a particular result. The current product information should answer those questions if they are supported and available."
       },
-      { type: 'h2', text: 'Do you need it?' },
       {
-        type: 'p',
-        text: 'If you want full functionality, yes. The product page states that branch compatibility is required for full functionality. If you only want to look around the menu, you may not need to rush into it, but you will not get the complete experience without it.',
+        "type": "h2",
+        "text": "Keep the game context in view"
       },
-      { type: 'h2', text: 'What your PC still needs' },
       {
-        type: 'p',
-        text: 'branch compatibility does not remove your own system requirements. The product asks for Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. Read our [setup checklist](/blog/how-to-set-up-the-isle-cheats-requirements/) for a full checklist.',
+        "type": "p",
+        "text": "The Isle is described in the supplied summary as an online survival game where attention and patience matter. A visual cue for an approaching predator is presented as information related to awareness in that environment. The summary does not say what effect, if any, the cue has on the outcome of a session."
       },
-      { type: 'h2', text: 'Questions to ask support before you buy' },
       {
-        type: 'p',
-        text: 'If you are unsure, ask before you pay, not after. Good questions are what the current setup order is, what to do after a patch, and what information to include in a ticket. Support is available through a ticket on the site. Include your order ID when you contact them.',
+        "type": "p",
+        "text": "When reading feature descriptions, separate the example from the result you might hope for. “Shows a cue” is a description of information. “Prevents a loss” would be an outcome claim, and the source does not establish it. This simple distinction keeps an overview useful without overstating what the feature can do."
       },
-      { type: 'h2', text: 'Next step' },
       {
-        type: 'p',
-        text: 'Once you know what you are buying, the [The Isle cheats with branch compatibility](/cheats/) page shows both plans and the branch compatibility requirement. Remember that the product is for main sessions only and uses a separate key from Legacy.',
+        "type": "h2",
+        "text": "What to confirm in the product details"
       },
-    ],
+      {
+        "type": "p",
+        "text": "If the exact behavior matters, check whether the current feature description explains what appears on screen, what entities are included, and which branch is covered. If the listing does not say, treat the point as unknown rather than borrowing a setting from a different game."
+      },
+      {
+        "type": "p",
+        "text": "The product summary also names aimbot, resource visibility, and radar. Their high-level descriptions are collected in [the feature overview](/blog/the-isle-cheats-product-summary-overview/). This article focuses only on the visual-cue example and does not add claims about how it performs."
+      }
+    ]
   },
   {
-    tag: 'Anti-Cheat',
-    title: 'Anti-Cheat and The Isle Cheats: What You Should Know',
-    slug: 'anti-cheat-and-the-isle-cheats-what-to-know',
-    image: '/images/blog/isle-night.webp',
-    imageAlt: 'the current game protection system anti-cheat loading screen for The Isle',
-    desc: 'the current game protection system is the anti-cheat behind The Isle. Here is a straight explanation of what it is, what the risks are, and how to approach it sensibly.',
-    metaTitle: 'Anti-Cheat and The Isle Cheats: What to Know',
-    metaDescription:
-      'Understand anti-cheat risk in The Isle, why status checks matter after patches and what to consider before using third-party software.',
-    date: '2026-09-07',
-    readTime: '6 min read',
-    body: [
+    "tag": "Setup Guides",
+    "title": "The Isle Is Online-Only: Understanding the Multiplayer Context",
+    "slug": "the-isle-online-only-multiplayer-context",
+    "image": "/images/blog/isle-survival.webp",
+    "imageAlt": "Players’ dinosaurs sharing an online The Isle environment",
+    "desc": "The Isle is described as fully online, without a single-player campaign. This guide explains that context and why server-specific information matters.",
+    "metaTitle": "The Isle Online-Only: Multiplayer Context Explained",
+    "metaDescription": "The supplied description presents The Isle as an online game with custom servers. Learn what that context means for evaluating game and server information.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'The Isle uses the current game protection system as its anti-cheat. If you are thinking about using cheats in the game, you should understand what that means.',
-      },
-      { type: 'h2', text: 'What the current game protection system is' },
-      {
-        type: 'p',
-        text: 'the current game protection system is a kernel level anti-cheat. That means it runs with deep access to your system, and it is used across a number of games. In The Isle, it is the main layer that tries to catch cheating software.',
-      },
-      { type: 'h2', text: 'What this means for cheat users' },
-      {
-        type: 'p',
-        text: 'Let us be direct. There is no cheat that removes the risk of a ban, and any seller who tells you otherwise is overselling. Anti-cheat vendors update their detection, and games patch. What you can do is use a product that is actively maintained and approach it carefully.',
+        "type": "p",
+        "text": "The supplied description presents The Isle as a fully online game with no single-player campaign. It also mentions custom servers and the human factors that can affect an online session. These details shape the setting in which players experience the game, but they should not be expanded into claims about every server or every administrator."
       },
       {
-        type: 'p',
-        text: 'That is why the product page tells you to check the status page after patches before you load in. If a patch has just landed, wait for the status to update.',
-      },
-      { type: 'h2', text: 'Why account bans and hardware bans differ' },
-      {
-        type: 'p',
-        text: 'Some bans apply to your account. Others tie the penalty to your hardware identifiers. A hardware ban follows your PC, not just your login, which makes it much more disruptive. We cover this in detail in our [HWID ban](/blog/isle-hwid-ban-how-hwid-spoofer-works/) article.',
-      },
-      { type: 'h2', text: 'Habits that lower your exposure' },
-      {
-        type: 'p',
-        text: 'These are practical points, not guarantees.',
+        "type": "h2",
+        "text": "Online play has a shared context"
       },
       {
-        type: 'ul',
-        items: [
-          'Keep your settings modest. Obvious behavior draws reports from other players.',
-          'Follow the current setup guide exactly, and do not skip steps.',
-          'Meet the system requirements listed for the product, including HVCI, Core Isolation, TPM and Secure Boot.',
-          'Check status after every large patch.',
-          'Do not share your loader or order details.',
-        ],
+        "type": "p",
+        "text": "In an online game, a session takes place in a connected environment with other participants. The summary specifically notes custom servers. Their presence means players may encounter different communities and server-specific expectations. The description does not provide a complete list of server rules, so players should read the information provided by the server they choose."
       },
-      { type: 'h2', text: 'If a ban happens' },
       {
-        type: 'p',
-        text: 'If your account is banned, that account is gone, and you would need a new one. If your hardware is flagged, a hardware spoofer is one way people try to return with a fresh hardware fingerprint. Our [HWID spoofer](/hwid-spoofer/) lists The Isle under the current game protection system titles and includes a cleaner.',
+        "type": "p",
+        "text": "The summary also mentions network interruptions as a possible disruption. It does not state how often they occur or what causes them. Treat this as a reminder that online sessions depend on a connection, not as a measurement of reliability or a promise about what will happen during play."
       },
-      { type: 'h2', text: 'Making the decision' },
       {
-        type: 'p',
-        text: 'Cheating carries risk, and you should decide with that in mind. If you decide to go ahead, the [The Isle cheats](/cheats/) are sold for main sessions with ESP, aimbot and misc features, and [branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) is required for full functionality. Support is available by ticket if you need help with the current process.',
+        "type": "h2",
+        "text": "Consider the time invested"
       },
-    ],
+      {
+        "type": "p",
+        "text": "The Isle’s described survival loop involves growing a dinosaur over time. When a session represents a meaningful investment, it is sensible to understand the game environment before joining. Check which branch you intend to play, read the server’s published information, and make sure you understand the expectations for that community."
+      },
+      {
+        "type": "p",
+        "text": "These are general preparation steps. They cannot determine how a particular session will unfold. The supplied description itself emphasizes attention and patience. Knowing the context helps a player make an informed choice about where to spend time."
+      },
+      {
+        "type": "h2",
+        "text": "Separate context from product claims"
+      },
+      {
+        "type": "p",
+        "text": "The online-only nature of The Isle does not establish whether a third-party product works on a particular server or branch. The supplied product summary names broad feature categories, but it does not specify server-by-server compatibility. Do not infer that a feature is supported everywhere because the game is online or because a server is custom."
+      },
+      {
+        "type": "p",
+        "text": "For branch context, read [the Evrima and Legacy overview](/blog/the-isle-evrima-legacy-overview/). For the game’s growth stakes, see [the survival guide](/blog/the-isle-growth-and-survival-guide/). Keep server rules and product compatibility as separate questions, and verify each from the relevant current information."
+      }
+    ]
   },
   {
-    tag: 'Ban Help',
-    title: 'The Isle HWID Ban: What It Is and How an HWID Spoofer Works',
-    slug: 'isle-hwid-ban-how-hwid-spoofer-works',
-    image: '/images/blog/isle-growth.webp',
-    imageAlt: 'HWID spoofer interface for the current game protection system games including The Isle',
-    desc: 'An HWID ban follows your hardware, not just your account. Here is how that works and what a spoofer with a cleaner is designed to do.',
-    metaTitle: 'The Isle HWID Ban: How an HWID Spoofer Works',
-    metaDescription:
-      'Hit by a The Isle HWID ban? Learn what it is, what a spoofer changes, what the cleaner does, and the requirements and prices for our HWID Spoofer.',
-    date: '2026-05-17',
-    readTime: '7 min read',
-    body: [
+    "tag": "Buyer Guides",
+    "title": "The Isle Evrima vs Legacy: A High-Level Branch Overview",
+    "slug": "the-isle-evrima-legacy-overview",
+    "image": "/images/blog/isle-growth.webp",
+    "imageAlt": "Two contrasting The Isle landscapes representing the Evrima and Legacy branches",
+    "desc": "The supplied description treats Evrima and Legacy as distinct branches. This overview explains that distinction without assuming product support.",
+    "metaTitle": "The Isle Evrima vs Legacy: Branch Overview",
+    "metaDescription": "The Isle has Evrima and Legacy branches with distinct identities. Review the high-level differences described in the supplied summary.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'An HWID ban is one of the most frustrating things that can happen in The Isle, because it is not limited to your account. Here is what it is and how a spoofer fits in.',
+        "type": "p",
+        "text": "The Isle has two branches named in the supplied game summary: Evrima and Legacy. The description presents them as distinct versions with separate identities. That distinction is useful for players reading about the game, and it is important to keep separate from any claim about a product’s compatibility."
       },
-      { type: 'h2', text: 'What an HWID ban is' },
       {
-        type: 'p',
-        text: 'HWID means hardware ID. An HWID ban ties the punishment to identifiers on your PC, such as disk serials, MAC addresses and GPU IDs, rather than only to your account. That is why making a new account often does not fix it. The game still recognizes the machine.',
+        "type": "h2",
+        "text": "How the summary characterizes Evrima"
       },
-      { type: 'h2', text: 'What a spoofer changes' },
       {
-        type: 'p',
-        text: 'A spoofer changes those hardware identifiers so your PC presents a different fingerprint. The [HWID spoofer](/hwid-spoofer/) is designed for this, and it changes disk serials, MAC addresses, GPU IDs and related identifiers.',
+        "type": "p",
+        "text": "The supplied description calls Evrima Horde the modern branch and says it updated graphics, performance, DLSS and FSR, and mechanics. This is a high-level characterization, not a technical comparison or a benchmark. It does not quantify performance or explain which settings are available on a player’s computer."
       },
-      { type: 'h2', text: 'What the cleaner is for' },
       {
-        type: 'p',
-        text: 'Hardware spoofing alone is not always enough, since leftover traces can remain on your system. The spoofer includes a cleaner that clears those traces before you launch the game again. Running the cleanup is part of the process, not an optional extra.',
+        "type": "p",
+        "text": "The word “modern” in the description should not be treated as a promise that every visual or performance improvement applies to every configuration. The source provides no hardware requirements or comparative measurements. Readers looking for those details should consult current game information rather than infer them from a short overview."
       },
-      { type: 'h2', text: 'Is The Isle supported' },
       {
-        type: 'p',
-        text: 'Yes. The Isle is listed under [the current game protection system](/blog/anti-cheat-and-the-isle-cheats-what-to-know/) titles, and the product states spoofing is fine on supported protection systems. Confirm current coverage before use because support can change after updates.',
+        "type": "h2",
+        "text": "How the summary characterizes Legacy"
       },
-      { type: 'h2', text: 'An honest limit' },
       {
-        type: 'p',
-        text: 'A spoofer deals with hardware identifiers. It does not undo an account ban. If your account has been banned, you will need a new account to play. And no tool guarantees a result, so follow the current guide closely.',
+        "type": "p",
+        "text": "The same description associates Legacy with classic fans and says the branches “live their own lives.” In plain terms, the summary asks readers to view the two branches as distinct experiences rather than interchangeable labels. It does not provide a feature-by-feature comparison, a player-count comparison, or a timeline of updates."
       },
-      { type: 'h2', text: 'Requirements before you start' },
       {
-        type: 'ul',
-        items: [
-          'Windows 10 or 11, 64-bit',
-          'HVCI, Core Isolation, TPM and Secure Boot turned on',
-          'Administrator rights for the spoof and cleanup steps',
-          'A stable internet connection for activation and updates',
-        ],
+        "type": "h2",
+        "text": "Keep product compatibility a separate question"
       },
-      { type: 'h2', text: 'The order matters' },
       {
-        type: 'p',
-        text: 'Run the spoof and cleanup before launching the game, and follow the current instructions in your account or ticket channel for the exact sequence. If you are unsure about a step, ask support before you launch the game.',
+        "type": "p",
+        "text": "The supplied product summary mentions both branches in its game context. It does not confirm that every product feature works in Evrima, Legacy, or both. A branch overview cannot fill that gap. Check the current product information for an explicit compatibility statement before relying on one."
       },
-      { type: 'h2', text: 'Pricing' },
       {
-        type: 'p',
-        text: 'The HWID Spoofer is $50 monthly for 31 days, or $150 for lifetime access. Delivery is instant, and support is available around the clock.',
+        "type": "p",
+        "text": "This distinction also helps avoid a common reading mistake: seeing a branch name in a general article and assuming it applies to a specific product. Game context describes the title. Compatibility describes a product’s supported environment. They require different evidence."
       },
-      { type: 'h2', text: 'Next step' },
       {
-        type: 'p',
-        text: 'If you have been hit by a hardware ban or want to be prepared, see the [HWID spoofer](/hwid-spoofer/). If you are also looking at the cheat itself, the [The Isle cheats](/cheats/) are available separately.',
-      },
-    ],
+        "type": "p",
+        "text": "For a practical reading checklist, see [how to verify branch and product details](/blog/the-isle-branch-product-checklist/). For the multiplayer setting, read [The Isle’s online-only overview](/blog/the-isle-online-only-multiplayer-context/). These guides address related questions while keeping their claims within the available source. Taken together, they help separate what the game description says from what a product listing must establish. That distinction matters whenever a page mentions a branch without making an explicit compatibility statement."
+      }
+    ]
   },
   {
-    tag: 'Setup Guides',
-    title: 'How to Set Up The Isle Cheats: Requirements and Troubleshooting',
-    slug: 'how-to-set-up-the-isle-cheats-requirements',
-    image: '/images/blog/isle-pvp.webp',
-    imageAlt: 'Windows security settings checklist for The Isle cheat setup',
-    desc: 'Most setup problems come from a short list of causes. Here is the checklist, plus what to do when things do not work.',
-    metaTitle: 'The Isle Cheat Requirements and Setup Checklist',
-    metaDescription:
-      'Setup checklist for The Isle cheats: Windows, HVCI, Core Isolation, TPM, Secure Boot, loader access and branch compatibility.',
-    date: '2026-06-12',
-    readTime: '6 min read',
-    body: [
+    "tag": "Features",
+    "title": "The Isle Growth and Survival: Why Patience Matters",
+    "slug": "the-isle-growth-and-survival-guide",
+    "image": "/images/blog/isle-radar.webp",
+    "imageAlt": "A growing dinosaur in a quiet The Isle landscape",
+    "desc": "The supplied description frames The Isle around patient growth and survival, where losing a dinosaur can mean losing progress from a long session.",
+    "metaTitle": "The Isle Growth and Survival: Why Patience Matters",
+    "metaDescription": "The Isle centers on dinosaur growth and survival. Learn why attention and patience matter during long sessions and what losing a dinosaur can cost.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'Most problems people have getting The Isle cheats working come from a short list of causes. Go through this checklist first.',
-      },
-      { type: 'h2', text: 'System requirements' },
-      {
-        type: 'ul',
-        items: [
-          'Windows 10 or 11',
-          'Intel or AMD processor',
-          'HVCI turned on',
-          'Core Isolation turned on',
-          'TPM turned on',
-          'Secure Boot turned on',
-          'A stable internet connection',
-        ],
+        "type": "p",
+        "text": "The supplied description frames The Isle as a survival game where dinosaur growth takes time. Attention and patience matter because a long session can represent meaningful progress, and losing a dinosaur can cost that progress. This gives the game a different rhythm from a match built around a single short encounter."
       },
       {
-        type: 'p',
-        text: 'These settings are listed on the product page, so do not assume you can skip them.',
-      },
-      { type: 'h2', text: 'What you receive' },
-      {
-        type: 'p',
-        text: 'After purchase, you get delivery right away along with access to the loader. The product is for main The Isle sessions and uses a separate key from Legacy, so make sure you bought the right one.',
-      },
-      { type: 'h2', text: 'branch compatibility' },
-      {
-        type: 'p',
-        text: '[branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) is required for full functionality and is purchased separately from the monthly and lifetime plans. If features seem to be missing, confirm this part of your setup first.',
-      },
-      { type: 'h2', text: 'Before every session' },
-      {
-        type: 'ul',
-        items: [
-          'Check the status page, especially after a The Isle patch.',
-          'Make sure your Windows security settings above are still on, since updates can change them.',
-          'Follow the current guide in your account for launch order.',
-          'Load into a session only after the above is done.',
-        ],
-      },
-      { type: 'h2', text: 'If something is not working' },
-      {
-        type: 'p',
-        text: 'Check status first. If a patch just released, the product may be waiting on an update.',
+        "type": "h2",
+        "text": "Growth gives a session weight"
       },
       {
-        type: 'p',
-        text: 'Recheck your Windows settings. Verify HVCI, Core Isolation, TPM and Secure Boot.',
+        "type": "p",
+        "text": "When progress develops over time, each session becomes part of a longer effort. The summary emphasizes that hours spent growing a dinosaur matter. It does not give exact growth durations or explain every stage, so those details should not be guessed. The central point is the time investment: players care about what they have built during a session."
       },
       {
-        type: 'p',
-        text: 'Confirm the product. The Isle sessions and Legacy use different keys.',
+        "type": "p",
+        "text": "That investment changes how the game is described. Attention and patience are not decorative themes in the supplied summary. They are part of its explanation of survival. The player is asked to remain aware of the environment and understand that a decision can affect the progress accumulated over a long period."
       },
       {
-        type: 'p',
-        text: 'Contact support. You can open a ticket on the site. Include your order ID so they can find your purchase quickly. Describe what you did and what happened in plain terms.',
+        "type": "h2",
+        "text": "Loss is part of the stakes"
       },
-      { type: 'h2', text: 'Config tips for new users' },
       {
-        type: 'p',
-        text: 'The menu has a config system that lets you save, load, import and export setups. Once you find a layout that works, save it. It saves a lot of time after a patch or reinstall.',
+        "type": "p",
+        "text": "The summary says losing a dinosaur can be easy while getting it back is hard. It does not describe a recovery process or a respawn system. The useful takeaway is narrower: a loss can carry weight because of the time associated with growth."
       },
-      { type: 'h2', text: 'Ready to start' },
       {
-        type: 'p',
-        text: 'You can see the [plan options](/blog/the-isle-cheats-price-monthly-vs-lifetime/) and full feature list on the [The Isle cheats](/cheats/) page. Monthly access is $35 and lifetime is $150, with the same features on both.',
+        "type": "p",
+        "text": "Avoid turning that idea into a promise that any tool or strategy prevents loss. The source does not support such an outcome. A clear guide can explain why the stakes matter without claiming to remove them."
       },
-    ],
+      {
+        "type": "h2",
+        "text": "Read the game on its own terms"
+      },
+      {
+        "type": "p",
+        "text": "The Isle is described as fully online, with no single-player campaign. The online setting and the growth loop together shape the summary’s picture of play: progress develops across time, while sessions happen in a shared environment. The description also mentions custom servers, though it does not make a universal claim about how each server operates."
+      },
+      {
+        "type": "p",
+        "text": "For the multiplayer context, see [the online-only guide](/blog/the-isle-online-only-multiplayer-context/). For examples of resource cues mentioned in the summary, read [the resource visibility guide](/blog/the-isle-resource-visibility-guide/). Both topics connect to survival while staying distinct from the central point here: growth makes time and attention matter."
+      }
+    ]
   },
   {
-    tag: 'Features',
-    title: 'Streamproof The Isle Cheats: What It Means for Streamers and Recorders',
-    slug: 'streamproof-isle-cheats-for-streamers',
-    image: '/images/blog/isle-setup.webp',
-    imageAlt: 'The Isle gameplay captured in OBS without cheat overlay visible',
-    desc: 'Streamproof means the ESP and menu do not show up in your capture. Here is what that covers and what it does not.',
-    metaTitle: 'Streamproof The Isle Cheats: OBS and Recording Explained',
-    metaDescription:
-      'What streamproof means for The Isle cheats, how the ESP and menu stay off OBS and most capture tools, and what streamers and recorders should still keep in mind.',
-    date: '2026-10-05',
-    readTime: '6 min read',
-    body: [
+    "tag": "Buyer Guides",
+    "title": "The Isle Branch and Product Checklist: What to Verify",
+    "slug": "the-isle-branch-product-checklist",
+    "image": "/images/blog/isle-growth.webp",
+    "imageAlt": "A checklist with Evrima and Legacy labels beside a The Isle landscape",
+    "desc": "The Isle has Evrima and Legacy branches. Use this checklist to separate game-version context from product-specific compatibility details.",
+    "metaTitle": "The Isle Cheats: Branch and Product Checklist",
+    "metaDescription": "Before choosing The Isle Cheats, confirm your game branch and review the current feature and compatibility details in the product information.",
+    "date": "2026-11-07",
+    "readTime": "2 min read",
+    "body": [
       {
-        type: 'p',
-        text: 'If you stream or record your The Isle sessions, you probably have one question about cheats: will anyone see the overlay in my footage? That is what streamproof is about.',
-      },
-      { type: 'h2', text: 'What streamproof means' },
-      {
-        type: 'p',
-        text: 'Streamproof means the ESP and menu are not drawn into your capture. The The Isle cheats are described as streamproof, with ESP and menus staying off OBS and most capture tools. What you see on your monitor is not what your viewers see.',
-      },
-      { type: 'h2', text: 'Why it matters' },
-      {
-        type: 'p',
-        text: 'Beyond viewers, recordings get shared, clipped and reviewed. If an overlay appears in a clip, anyone can see it. Keeping the capture clean removes that particular problem.',
-      },
-      { type: 'h2', text: 'What it does not cover' },
-      {
-        type: 'p',
-        text: 'Be realistic about the limits.',
+        "type": "p",
+        "text": "The Isle has Evrima and Legacy branches, but a general description of the game does not answer whether a particular product supports one branch or both. The supplied summary distinguishes the branches while leaving product compatibility unspecified. Use this checklist to keep those two questions separate."
       },
       {
-        type: 'ul',
-        items: [
-          'The wording is “most capture tools”, not every tool. Test your own setup before going live.',
-          'Streamproof does not change how the game or [the current game protection system](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) sees your system. It only affects what is captured on screen.',
-          'Your behavior still shows. Impossible looking aim, or knowing where players are through walls, is noticeable to viewers and to other players.',
-        ],
+        "type": "h2",
+        "text": "1. Identify the branch you play"
       },
-      { type: 'h2', text: 'Test before you go live' },
       {
-        type: 'p',
-        text: 'Do a short test recording before streaming. Open the menu, turn on ESP, record a few seconds, and play it back. If anything shows up, stop and contact support.',
+        "type": "p",
+        "text": "Start by confirming whether your game is running Evrima or Legacy. The supplied description treats them as separate branches with different identities. If you are unsure which one you use, consult the game’s own current information or settings. This article does not provide instructions for navigating a launcher or changing versions."
       },
-      { type: 'h2', text: 'Settings that suit streamers' },
       {
-        type: 'ul',
-        items: [
-          'Keep ESP minimal. Fewer labels look more natural on screen.',
-          'Use a modest aimbot FOV and Only Visible, as covered in our [aimbot settings](/blog/isle-aimbot-settings-explained/) guide.',
-          'Save a stream friendly config so you can load it quickly.',
-          'Keep your hotkeys memorized so you never have to fumble in the menu.',
-        ],
+        "type": "h2",
+        "text": "2. Read the product statement literally"
       },
-      { type: 'h2', text: 'Plan and requirements' },
       {
-        type: 'p',
-        text: 'The product is for main sessions, uses a separate key from Legacy, and requires Windows 10 or 11 with HVCI, Core Isolation, TPM and Secure Boot turned on. branch compatibility is required for full functionality. Monthly access is $35 and lifetime is $150.',
+        "type": "p",
+        "text": "Look for an explicit statement about branch support in the current product information. A feature overview that mentions The Isle generally is not the same as a compatibility statement for Evrima or Legacy. Likewise, seeing both branch names in an editorial article does not prove the product works on both."
       },
-      { type: 'h2', text: 'Get started' },
       {
-        type: 'p',
-        text: 'You can review features and plans on the [streamproof The Isle cheats](/cheats/) page. Check the status page after patches before you start a session, and contact support by ticket if your capture test shows anything unexpected.',
+        "type": "p",
+        "text": "If the listing does not identify a supported branch, treat that point as unanswered. Do not infer the answer from a screenshot, a feature label, or language about the game’s history. Ask for clarification through the site’s available contact path before making a decision that depends on compatibility."
       },
-    ],
-  },
+      {
+        "type": "h2",
+        "text": "3. Match feature claims to the listing"
+      },
+      {
+        "type": "p",
+        "text": "The supplied summary names aimbot, wallhack or visual cues, item visibility, and radar. It does not specify every control or state that each feature is available in each branch. Compare the exact claim you care about with the current product details. If the listing is broad, request a precise explanation rather than assuming the broad wording covers your situation."
+      },
+      {
+        "type": "h2",
+        "text": "4. Keep your notes current"
+      },
+      {
+        "type": "p",
+        "text": "Product information and game versions can change. When you review a listing, note the date and the exact branch statement you found. Recheck it if the information is old or if your game version has changed. This is a record-keeping suggestion, not a promise that support changes on any particular schedule."
+      },
+      {
+        "type": "p",
+        "text": "For the high-level branch context, read [the Evrima and Legacy overview](/blog/the-isle-evrima-legacy-overview/). The key decision is straightforward: confirm your own branch, then verify an explicit product statement for that branch. If one of those pieces is missing, pause the decision until the information is clear."
+      }
+    ]
+  }
 ];

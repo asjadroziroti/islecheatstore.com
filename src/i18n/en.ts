@@ -30,245 +30,83 @@ export const en: Translations = {
   hero: {
     status: 'The Isle feature guide',
     eyebrow: 'THE ISLE CHEATS',
-    titleLine1: 'The Isle',
-    titleLine2: 'Cheats — ESP, Aimbot & Loot',
+    titleLine1: 'Isle Cheats',
+    titleLine2: 'for Survival in The Isle',
     subtitle:
-      'Review visual assistance, radar, resource visibility and combat options for The Isle, with branch and update considerations in one place.',
+      'The supplied summary names aimbot, wallhack or visual cues, resource visibility, and radar. Verify current branch details in the product listing.',
     ctaPrimary: 'View products',
     metrics: [
-      { label: 'Stream-proof', strong: 'Yes' },
+      { label: 'Categories', strong: '4' },
       { label: 'Branches', strong: '2' },
-      { label: 'Focus', strong: 'Evrima' },
+      { label: 'Branches', strong: 'Evrima + Legacy' },
       { label: 'Mode', strong: 'Online' },
     ],
     statusPills: [
-      'ESP Active',
-      'Radar Online',
-      'Season Build',
-      'Aimbot Ready',
-      'Soft Aim Ready',
-      'No Recoil',
-      'Stream Proof',
-      'Loot ESP',
-      'Skeleton ESP',
-      'UAV Radar',
-      'Extract ESP',
-      'Support guide',
-      'Instant Delivery',
-      'Raid Ready',
-      'Trigger Bot',
-      'Bone Select',
-      'Live Status',
-      'Auto Updates',
+      'Aimbot',
+      'Visual cues',
+      'Water',
+      'Corpses',
+      'Fruit',
+      'Radar',
     ],
   },
   features: {
     eyebrow: 'Features',
-    title: 'Everything you need in one package',
-    subtitle: 'Player ESP, loot ESP, aimbot and session tools for The Isle, maintained after patches.',
+    title: 'Four broad feature categories',
+    subtitle: 'The supplied summary names these categories. It does not document every control or confirm branch compatibility.',
     items: [
-      {
-        title: 'Player ESP',
-        subtitle: 'Track players and creatures.',
-        desc: 'Player boxes, skeletons, names and distance readouts stay readable in dense sessions.',
-        bullets: [
-          'player, creature and boss filters',
-          'Skeleton and bone markers',
-          'Name tags and distance readouts',
-          'Health and gear hints where enabled',
-          'Color rules per faction',
-        ],
-        tags: ['The Isle esp', 'player esp', 'skeleton esp'],
-        bento: 'sm:col-span-2 lg:col-span-12 lg:col-start-1 lg:row-start-1',
-      },
-      {
-        title: 'Loot ESP',
-        subtitle: 'Find value fast.',
-        desc: 'Highlight containers, keys, meds and high-tier loot without tabbing through every drawer.',
-        bullets: [
-          'Item category filters and price tiers',
-          'Container and corpse loot highlights',
-          'Quest and key item markers',
-          'Distance and name labels',
-        ],
-        tags: ['loot esp', 'container esp', 'isle loot'],
-        bento: 'sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2',
-      },
-      {
-        title: 'Aimbot',
-        subtitle: 'Controlled aim assist.',
-        desc: 'Soft aim and bone selection with FOV and smoothing sliders tuned for sessions, not rage defaults.',
-        bullets: ['FOV and smoothing controls', 'Bone select and target priority', 'Visibility checks', 'Hotkey toggle per weapon class'],
-        tags: ['aimbot', 'soft aim', 'bone select'],
-        bento: 'sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-3',
-      },
-      {
-        title: 'No Recoil',
-        subtitle: 'Steadier full-auto.',
-        desc: 'Recoil compensation profiles per weapon family with portal presets for common builds.',
-        bullets: ['Per-weapon recoil profiles', 'Strength sliders with caps', 'Pairs with aimbot FOV limits', 'Save profiles to cloud'],
-        tags: ['no recoil', 'recoil control', 'weapon profiles'],
-        bento: 'sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-3',
-      },
-      {
-        title: 'Radar & Extracts',
-        subtitle: 'Map awareness in session.',
-        desc: '2D radar, extract markers and optional UAV-style hints for orientation between fights.',
-        bullets: [
-          'Extract and transition markers',
-          '2D radar with player blips',
-          'Optional UAV-style overview',
-          'Custom zoom and opacity',
-        ],
-        tags: ['radar hack', 'extract esp', 'map awareness'],
-        bento:
-          'sm:col-span-2 lg:col-span-8 lg:row-span-2 lg:col-start-1 lg:row-start-4',
-      },
-      {
-        title: 'Trigger Bot',
-        subtitle: 'Fire when aligned.',
-        desc: 'Optional trigger assist when crosshair meets valid targets, with delay and key gates.',
-        bullets: [
-          'Delay and hold-time tuning',
-          'Team and bot ignore rules',
-          'Toggle separate from aimbot',
-          'Conservative defaults in portal',
-        ],
-        tags: ['trigger bot', 'fire assist', 'The Isle cheats'],
-        bento:
-          'sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4',
-      },
-      {
-        title: 'Stream Proof',
-        subtitle: 'Built for creators.',
-        desc: 'Keep overlays on your monitor while capture software records a clean game feed.',
-        bullets: ['OBS and Game Bar capture modes', 'Toggle stream proof per module', 'Test checklist in portal docs'],
-        tags: ['obs capture', 'stream proof', 'capture hide'],
-        bento: 'sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-6',
-      },
-      {
-        title: 'Misc utilities',
-        subtitle: 'Raid QoL tools.',
-        desc: 'Night vision, thermal-style highlights, no sway and other toggles grouped in one utilities tab.',
-        bullets: ['No sway and stamina helpers where enabled', 'Night vision and thermal-style modes', 'Crosshair and FOV helpers', 'Hotkey manager'],
-        tags: ['no sway', 'night vision', 'isle utilities'],
-        bento: 'sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6',
-      },
-      {
-        title: 'Cloud Config & Updates',
-        subtitle: 'Patch day ready.',
-        desc: 'Same presets on every PC; portal updates track The Isle and the current game protection system patch days.',
-        bullets: ['Cloud backup for slider profiles', 'Loader push within hours of patches', 'Status banner for build notes'],
-        tags: ['cloud sync', 'auto update', 'presets'],
-        bento: 'sm:col-span-2 lg:col-span-4 lg:col-start-9 lg:row-start-2',
-      },
+      { title: 'Aimbot', subtitle: 'Feature category in the summary', desc: 'Aimbot is one of the broad capabilities named for The Isle. Check the current feature description for details.', bullets: ['Review current product information'], tags: ['The Isle aimbot'] },
+      { title: 'Wallhack and visual cues', subtitle: 'Awareness category', desc: 'The summary describes visual cues related to an approaching predator. It does not establish a detection range or every object shown.', bullets: ['Visual cue category', 'Verify current scope'], tags: ['The Isle visual cues', 'The Isle wallhack'] },
+      { title: 'Resource visibility', subtitle: 'Examples named in the summary', desc: 'Water, corpses, and fruit are named as resource examples. The summary does not provide a complete object list or control set.', bullets: ['Water', 'Corpses', 'Fruit'], tags: ['The Isle resource visibility'] },
+      { title: 'Radar', subtitle: 'Feature category in the summary', desc: 'Radar is named as a broad category. The summary does not detail its layout, range, indicators, or controls.', bullets: ['Check current product details'], tags: ['The Isle radar'] },
     ],
   },
   whyUs: {
-    eyebrow: 'Why us',
-    title: 'Raid tooling backed by patches, not promises',
-    subtitle:
-      'Many cheat shops ship stale loaders, obvious rage presets, and ticket bots. {siteDomain} focuses on patch-day loader builds, conservative ESP and aim defaults, and live operators.',
+    eyebrow: 'Product details',
+    title: 'Check the details that matter to you',
+    subtitle: 'The summary gives high-level feature names, not a complete specification or compatibility matrix.',
     usLabel: '{siteName}',
-    otherLabel: 'Typical provider',
+    otherLabel: 'Before choosing',
     rows: [
-      {
-        title: 'Patch-day loader updates',
-        desc: 'the current game protection system-aware builds pushed within hours of The Isle updates; check the live status banner before you load into a session.',
-      },
-      {
-        title: 'Humanized aim & ESP defaults',
-        desc: 'FOV caps, smoothing and distance filters ship conservative in the portal so overlays stay readable, not wall-of-box rage modes.',
-      },
-      {
-        title: 'Live operators',
-        desc: 'Real engineers for loader setup, session configs and HWID resets: 24/7 shift coverage, not copy-paste FAQ tickets.',
-      },
-      {
-        title: 'External loader + stream proof',
-        desc: 'Overlay suite with OBS capture modes, no risky DLL injection into the The Isle process like legacy providers still sell.',
-      },
-      {
-        title: 'Cloud preset sync',
-        desc: 'player, creature and per-map profiles backup to the portal, same sliders on any PC without rebuilding from scratch.',
-      },
-      {
-        title: 'HWID reset & license moves',
-        desc: 'HWID clears and machine transfers handled through support, most providers lock one rig or charge for every swap.',
-      },
+      { title: 'Confirm the feature', desc: 'Check whether the current listing describes the aimbot, visual cue, resource visibility, or radar category you are considering.' },
+      { title: 'Verify the branch', desc: 'The Isle has Evrima and Legacy branches. The summary does not establish which product features apply to each.' },
+      { title: 'Review the terms', desc: 'Read current product and checkout information before deciding.' },
     ],
     metrics: [
-      {
-        value: '2',
-        title: 'Branches covered in the guide',
-        desc: 'Evrima and Legacy are treated as separate compatibility contexts.',
-      },
-      {
-        value: 'Online',
-        title: 'Game format',
-        desc: 'The supplied summary describes The Isle as fully online.',
-      },
-      {
-        value: 'Current',
-        title: 'Status check',
-        desc: 'Review the current product listing after game updates.',
-      },
+      { value: '4', title: 'Broad categories', desc: 'Aimbot, visual cues, resource visibility, and radar are named in the summary.' },
+      { value: '2', title: 'Game branches', desc: 'Evrima and Legacy are described as distinct branches.' },
+      { value: 'Current listing', title: 'Feature scope', desc: 'Use the latest product description for supported details.' },
     ],
   },
   setup: {
-    eyebrow: 'Setup guide',
-    titleLead: 'From checkout to your first session in just',
+    eyebrow: 'Before you choose',
+    titleLead: 'Review the product details in',
     titleHighlight: 'three simple steps',
-    intro:
-      'Getting started is easy. Follow the operator portal flow to download the loader, load presets, and launch The Isle on Windows.',
-    ctaPrimary: 'Compare plans',
-    ctaSecondary: 'Read the setup FAQ',
+    intro: 'Check the feature category, branch information, and current product terms before choosing.',
+    ctaPrimary: 'View products',
+    ctaSecondary: 'Read the FAQ',
     ctaPrimaryHref: productBase,
     ctaSecondaryHref: '/faq/',
     steps: [
-      {
-        step: 'Step 1',
-        title: 'Unlock portal & download loader',
-        desc: 'Complete checkout, open your operator dashboard, and pull the latest patch loader build for Windows.',
-      },
-      {
-        step: 'Step 2',
-        title: 'Launch & configure modules',
-        desc: 'Run the external loader, import session presets, and tune ESP, aimbot and no recoil sliders.',
-      },
-      {
-        step: 'Step 3',
-        title: 'Verify status & launch The Isle',
-        desc: 'Check the live status banner, launch the game client, and play with cloud-backed profiles saved in the portal.',
-      },
+      { step: 'Step 1', title: 'Choose a feature category', desc: 'Identify whether you are looking for aimbot, visual cues, resource visibility, or radar.' },
+      { step: 'Step 2', title: 'Check branch information', desc: 'Confirm current product information for the Evrima or Legacy branch you play.' },
+      { step: 'Step 3', title: 'Review purchase terms', desc: 'Check the current plan, price, and terms before purchase.' },
     ],
   },
   compatibility: {
-    eyebrow: 'Platform support',
-    title: 'Runs on your rig.',
-    subtitle: 'Check the live status banner before launching The Isle after updates.',
-    items: ['Windows 10 & 11', 'The Isle', 'the current game protection system client', 'Auto updater', 'Config cloud sync', 'HWID reset', 'External loader'],
+    eyebrow: 'Game information',
+    title: 'Check branch-specific details',
+    subtitle: 'The Isle has online play and distinct Evrima and Legacy branches. The supplied product summary does not confirm compatibility for either branch.',
+    items: ['The Isle', 'Evrima branch', 'Legacy branch — verify product compatibility'],
   },
   cheats: {
     eyebrow: 'Main product',
     title: 'The Isle Cheats',
-    subtitle: 'Player ESP, loot ESP, aimbot, no recoil and session utilities with priority patch delivery.',
+    subtitle: 'Aimbot, visual cues, resource visibility, and radar are named in the supplied summary. Confirm current product scope before purchase.',
     viewAll: 'View product details',
     explore: 'Explore',
     items: [
-      {
-        badge: 'Limited slots',
-        tier: 'Private',
-        name: 'Elite',
-        title: 'The Isle Cheats with ESP, Aimbot & Loot ESP',
-        desc: 'Player ESP, loot ESP, aimbot and no recoil for main The Isle sessions. Separate license from Legacy. Instant delivery; check status after patches.',
-        heroDesc:
-          'Raids-only license with stream-proof overlays and instant portal delivery. Start from conservative presets, then tune ESP and aim after you check live status.',
-        features: ['Player ESP', 'Loot ESP', 'Aimbot', 'No recoil', 'Extract markers', 'Stream-proof'],
-        more: 9,
-        href: productBase,
-        variant: 'limited',
-      },
+      { badge: 'Main product', tier: 'The Isle', name: 'The Isle Cheats', title: 'The Isle Cheats: survival feature overview', desc: 'Review the four broad categories named in the summary and check the current listing for supported details and branch compatibility.', heroDesc: 'Feature scope and compatibility are not fully specified in the summary. Confirm them in the current product description.', features: ['Aimbot category', 'Wallhack and visual cues', 'Water, corpse, and fruit visibility', 'Radar category'], more: 0, href: productBase, variant: 'popular' },
     ],
   },
   products: {
@@ -281,9 +119,9 @@ export const en: Translations = {
     showcaseHeading: 'Product Overview',
     experience: {
       eyebrow: 'Experience',
-      title: 'Loader layers · After checkout',
+      title: 'Product previews · Details',
       subtitle:
-        'Use the screenshots above for module layout; below is what each layer does and how portal access works after purchase.',
+        'Review the product images above and compare the listed features and purchase information below.',
       previewLabel: 'In-game layers',
       accessDividerTop: 'Preview',
       accessDividerBottom: 'Access',
@@ -385,7 +223,7 @@ export const en: Translations = {
         category: 'System utility',
         title: 'HWID Spoofer',
         subtitle:
-          'Come back after a hardware ID ban. Works across Riot Vanguard, Easy Anti-Cheat, the current game protection system, Ricochet and other anti-cheats, with a cleaner included.',
+          'Review the current supported-title information, hardware identifiers changed, cleaner details, and requirements before purchase.',
         desc: 'Changes disk serials, MAC addresses, GPU IDs and related identifiers after a hardware ban. Cleaner included.',
         features: ['Disk serial spoofing', 'MAC address spoofing', 'GPU ID spoofing', 'Cleaner included'],
         more: 0,
@@ -418,9 +256,9 @@ export const en: Translations = {
   blog: {
     eyebrow: 'Blog',
     title: 'Guides and updates',
-    subtitle: 'ESP and aimbot setup, loot filters and patch-day checks for The Isle.',
-    latestTitle: 'The Isle Cheat Guides & Patch-Day Notes',
-    latestSubtitle: 'Filter by topic to find setup guides, feature deep-dives, and patch-day notes.',
+    subtitle: 'Guides to The Isle survival, branches, visual cues, resource visibility, and the feature categories in the product summary.',
+    latestTitle: 'The Isle Guides and Product Notes',
+    latestSubtitle: 'Read game-context guides and product feature overviews based on the supplied summary.',
     filterAll: 'All articles',
     emptyFilter: 'No articles match this filter.',
     emptyArchive: 'No articles yet. New guides will show up here.',
@@ -437,40 +275,19 @@ export const en: Translations = {
     items: [],
   },
   workflow: {
-    eyebrow: 'How it works',
-    badge: '4 easy steps',
-    titleBefore: 'From status check to',
-    titleHighlight: 'saved profile.',
-    subtitle: 'A straight path from status check to a session profile you can reuse every session.',
-    ctaLabel: 'Pick your plan',
+    eyebrow: 'How to review the product',
+    badge: '3 checks',
+    titleBefore: 'Make a choice from',
+    titleHighlight: 'the current listing.',
+    subtitle: 'Compare the feature category, branch information, and purchase terms shown for the current product.',
+    ctaLabel: 'View product details',
     ctaHref: productBase,
-    ctaSecondary: 'Setup FAQ',
+    ctaSecondary: 'Read the FAQ',
     ctaSecondaryHref: '/faq/',
     items: [
-      {
-        num: '01',
-        phase: 'Before purchase',
-        title: 'Check live status',
-        desc: 'Read the live banner on {siteDomain} before you buy or launch.',
-      },
-      {
-        num: '02',
-        phase: 'Checkout',
-        title: 'Choose your product',
-        desc: 'Pick session cheats or the hardware utility, whichever matches bans, rigs, or account resets you face.',
-      },
-      {
-        num: '03',
-        phase: 'Loader',
-        title: 'Launch & configure',
-        desc: 'Download from the portal, enable modules, and tune ESP and aim sliders offline first.',
-      },
-      {
-        num: '04',
-        phase: 'In-game',
-        title: 'Save your profile',
-        desc: 'When settings feel right, save player and map presets to the cloud.',
-      },
+      { num: '01', phase: 'Feature', title: 'Choose a category', desc: 'Identify whether you are looking for aimbot, visual cues, resource visibility, or radar.' },
+      { num: '02', phase: 'Branch', title: 'Check current support', desc: 'Review the product description for the Evrima or Legacy branch you play.' },
+      { num: '03', phase: 'Terms', title: 'Review the checkout', desc: 'Check the current plan, price, and terms before purchase.' },
     ],
   },
   support: {
@@ -495,7 +312,7 @@ export const en: Translations = {
       {
         icon: 'navFaq',
         title: 'Read the FAQ',
-        desc: 'Compatibility, bans and setup, before you buy.',
+        desc: 'Feature scope, branch information, and purchase terms.',
         linkLabel: 'View all FAQ',
         href: '/faq/',
       },
@@ -503,49 +320,25 @@ export const en: Translations = {
     ticketTitle: 'Include in your ticket',
     ticketItems: [
       { title: 'Order email', desc: 'The address used at checkout on {siteDomain} or via our partner checkout.' },
-      { title: 'Platform', desc: 'Windows 10 or 11, and your The Isle client version.' },
+      { title: 'Platform', desc: 'The Isle branch and version information relevant to your question.' },
       { title: 'Error detail', desc: 'Screenshot or exact message from the loader or game client.' },
     ],
   },
   faq: {
     eyebrow: 'FAQ',
-    title: 'Straight answers before checkout.',
-    subtitle: 'Compatibility, bans and access, no vague promises.',
+    title: 'Product questions, answered clearly.',
+    subtitle: 'Feature scope, branch information, and current purchase details.',
     items: [
-      {
-        num: '01',
-        q: 'Where do I check if The Isle cheats are online?',
-        a: 'The live status banner is on {siteDomain}. Always check after an The Isle or the current game protection system update.',
-      },
-      {
-        num: '02',
-        q: 'What happens after I buy?',
-        a: 'Your portal unlocks the loader, setup guide and config library via our partner checkout. Follow the guide before launching The Isle.',
-      },
-      {
-        num: '03',
-        q: 'Can I get banned using third-party The Isle cheats?',
-        a: 'Yes, any modification carries risk. the current game protection system and report systems evolve. Read current status and accept the risk before use.',
-      },
-      {
-        num: '04',
-        q: 'Which platforms are supported?',
-        a: 'The Isle on Windows 10/11 64-bit only. macOS and Linux are not supported.',
-      },
-      {
-        num: '05',
-        q: 'Can I move my license to a new PC?',
-        a: 'Yes, use the HWID reset in your portal or open a support ticket. Limits depend on your tier.',
-      },
-      {
-        num: '06',
-        q: 'Where are products and utilities listed?',
-        a: 'Every product is listed at {siteDomain}/products/, and each one has its own page with a feature list and checkout via our partner.',
-      },
+      { num: '01', q: 'Which features are named for The Isle?', a: 'The supplied summary names aimbot, wallhack or visual cues, resource visibility, and radar. Water, corpses, and fruit are examples for the resource category.' },
+      { num: '02', q: 'Does the summary confirm Evrima or Legacy support?', a: 'No. The summary does not say which product features apply to either branch. Check the current product description for the branch you play.' },
+      { num: '03', q: 'Is The Isle online-only?', a: 'The supplied game summary describes The Isle as fully online and notes custom servers. It does not establish product compatibility details.' },
+      { num: '04', q: 'Where can I confirm current plans and prices?', a: 'Review the current product page and checkout for available plan duration, price, and terms.' },
+      { num: '05', q: 'What does the HWID Spoofer change?', a: 'It changes disk serials, MAC addresses, GPU IDs, and related identifiers, and includes a cleaner. It does not lift a ban on an existing account.' },
+      { num: '06', q: 'What does UGC Account Recovery do?', a: 'It provides custom appeal workflows and dispute-process automation. The reviewing platform makes the final decision.' },
     ],
   },
   footer: {
-    tagline: 'The Isle cheats with ESP, aimbot and loot ESP for PC. {siteDomain}',
+    tagline: 'The Isle Cheats: survival feature guides and product information at {siteDomain}.',
     trademark: '{game} is a trademark of {gamePublisher}. {siteDomain} is not affiliated with or endorsed by {gamePublisher}.',
     explore: 'Explore',
     exploreLinks: [
@@ -577,21 +370,21 @@ export const en: Translations = {
         {
           heading: 'Who we are',
           paragraphs: [
-            '{siteName} is a PC-focused resource for The Isle players exploring player ESP, loot ESP, aimbot and no recoil workflows. We publish setup guides and live status notes so you can evaluate The Isle cheats before checkout.',
+            '{siteName} publishes product descriptions and guides about The Isle feature categories described in the current product information.',
             'All product names are used for identification only.',
           ],
         },
         {
           heading: 'What we publish',
           paragraphs: [
-            'Our site covers {cheatProduct} and the utilities listed on our products page. Blog articles explain session configs, patch-day checks, and the current game protection system update behavior.',
-            'Content is updated when patches land or when loader modules shift. Check the homepage status banner before every session.',
+            'Our site covers {cheatProduct}, the listed utility products, and guides related to the information in their product descriptions.',
+            'Product availability and compatibility may change. Review the current descriptions for supported details.',
           ],
         },
         {
           heading: 'Support',
           paragraphs: [
-            'Questions about compatibility, loader errors, or checkout are handled through email support. Include your order email, game account, and Windows version when opening a ticket.',
+            'For product or checkout questions, use the contact details on the Support page and share only the information needed to explain your question.',
             'The site also maintains product requirements, update notes, and practical setup references so visitors can compare available tools before making a decision.',
           ],
         },
@@ -662,7 +455,7 @@ export const en: Translations = {
         {
           heading: 'Refunds and purchases',
           paragraphs: [
-            'All sales are final once checkout completes. We do not refund change-of-mind purchases, account bans, the current game protection system penalties, or issues caused by ignoring setup guides or running modules while the status banner shows offline.',
+            'All sales are final once checkout completes. Review the product details and checkout terms before placing an order.',
             'If the product does not work as described on a supported setup: The Isle on Windows 10/11, current loader from the portal, and the live status banner showing online when you started, contact us through the Support page. Include your order email, Windows version, game build, and screenshots or exact error text from the loader.',
             'We may, at our discretion, offer a fix, replacement access, or partial/full refund when we confirm a fault on our side. We are not obligated to approve every request.',
           ],
@@ -670,7 +463,7 @@ export const en: Translations = {
         {
           heading: 'Availability and risk',
           paragraphs: [
-            'Third-party tools for The Isle can conflict with game updates and the current game protection system. You use this software at your own risk, including possible account action.',
+            'Third-party tools can conflict with game updates and may carry account risks. Review the game publisher’s rules before use.',
             'Check the homepage status banner before every session. Do not load in while modules are offline or misaligned after a patch.',
           ],
         },
@@ -717,9 +510,9 @@ export const en: Translations = {
   pages: {
     faq: {
       eyebrow: 'Help center',
-      title: 'The Isle Cheats FAQ: Setup, Plans & the current game protection system',
+      title: 'The Isle Cheats FAQ: Features, Plans & Product Details',
       description:
-        'Answers on The Isle cheats: setup steps, monthly and lifetime plans, ESP and aim modules, the current game protection system status, and checkout help at {siteDomain}.',
+        'Answers about The Isle cheats, the listed product features, monthly and lifetime plans, and checkout information at {siteDomain}.',
       schemaName: 'The Isle Cheats FAQ',
       schemaDescription:
         'Answers on session cheats, ESP, aimbot, loot filters, loader setup, pricing, and checkout at {siteDomain}.',
@@ -728,7 +521,7 @@ export const en: Translations = {
       eyebrow: 'The Isle community forum',
       title: 'The Isle Community Forum',
       description:
-        'Archived, read-only threads on loader setup, loot ESP, patch status, and HWID bans. Replies are closed.',
+        'Browse archived, read-only community discussions about The Isle. Replies are closed.',
       exploreGuides: 'Explore the guides',
       postsAria: 'Community posts',
       sortAria: 'Post sorting',
@@ -783,14 +576,14 @@ export const en: Translations = {
   },
   pageSeo: {
     '/': {
-      title: 'Isle Cheats – ESP, Aimbot & Loot for Windows',
+      title: 'Isle Cheats | The Isle Feature Overview',
       description:
-        'Isle Cheats: The Isle player ESP, loot ESP and aimbot for Windows sessions. Review features, requirements and available plans at {siteDomain}.',
+        'Review the aimbot, visual cues, resource visibility, and radar categories named in the product summary. Verify branch details at {siteDomain}.',
     },
     '/cheats/': {
-      title: 'The Isle Cheats | ESP, Loot & Aimbot Plans',
+      title: 'The Isle Cheats | Product Details and Plans',
       description:
-        'The Isle player ESP, loot filters, aimbot and no recoil for main maps. Review requirements and plans on {siteDomain}.',
+        'Explore the broad feature categories named for The Isle and check the current listing for supported details, branch compatibility, and plans.',
     },
     '/hwid-spoofer/': {
       title: 'HWID Spoofer | Hardware ID Ban Recovery',
@@ -813,9 +606,9 @@ export const en: Translations = {
         'Unlocks premium weapon skins, character outfits and rare knives across major titles. Monthly and lifetime plans on {siteDomain}.',
     },
     '/blog/': {
-      title: 'Guides for The Isle | ESP, Aimbot & Updates',
+      title: 'The Isle Guides | Survival, Branches and Features',
       description:
-        'Read The Isle guides on ESP, aim settings, loot filters, setup requirements and post-patch status checks on {siteDomain}.',
+        'Read guides about The Isle survival, Evrima and Legacy, and the feature categories described in the product summary.',
     },
     '/forum/': {
       title: 'The Isle Cheats Forum | Setup, Status & HWID',
@@ -823,9 +616,9 @@ export const en: Translations = {
         'Read-only The Isle discussions on loadouts, patches, and guides. New threads and replies are closed.',
     },
     '/faq/': {
-      title: 'The Isle Cheats FAQ | Setup, Plans & Safety',
+      title: 'The Isle Cheats FAQ | Features and Plans',
       description:
-        'Answers about The Isle cheat setup, plans, ESP and aim modules, compatibility, support and checkout help at {siteDomain}.',
+        'Answers about The Isle feature categories, branch information, current product details, and checkout terms at {siteDomain}.',
     },
     '/terms/': {
       title: 'Terms of Sale & License Use',

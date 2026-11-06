@@ -1,152 +1,152 @@
 [
   {
     "id": "status",
-    "q": "Wo überprüfe ich, ob The Isle-Cheats online sind?",
-    "a": "Das Live-Status-Banner befindet sich auf {siteDomain}. Schauen Sie immer nach einem The Isle- oder the current game protection system-Update nach."
+    "q": "Wo finde ich bestätigte Produktinformationen?",
+    "a": "Die aktuelle Produktseite enthält die bestätigten Funktionen und Bedingungen. Die bereitgestellte Zusammenfassung nennt Aimbot, Wallhack beziehungsweise visuelle Hinweise, Ressourcenanzeige und Radar."
   },
   {
     "id": "after-buy",
     "q": "Was passiert nach dem Kauf?",
-    "a": "Ihr Portal schaltet den Loader, die Setup-Anleitung und die Konfigurationsbibliothek über unseren Partner-Checkout frei. Befolgen Sie die Anleitung, bevor Sie The Isle starten."
+    "a": "Prüfen Sie die Angaben und Schritte, die Ihnen nach dem Kauf auf der Produktseite und im Checkout angezeigt werden."
   },
   {
     "id": "ban-risk",
-    "q": "Kann ich für The Isle-Cheats von Drittanbietern gesperrt werden?",
-    "a": "Ja, jede Änderung birgt Risiken. the current game protection system- und Berichtssysteme entwickeln sich weiter. Lesen Sie vor der Verwendung den aktuellen Status und akzeptieren Sie das Risiko. Den Kontext finden Sie in unserem <a href=\"/blog/the current game protection system-and-the-isle-cheats-what-to-know/\">the current game protection system- und The Isle-Cheats</a>-Leitfaden."
+    "q": "Kann die Nutzung von Drittanbieter-Software Konsequenzen haben?",
+    "a": "Drittanbieter-Software kann gegen Spiel- oder Serverregeln verstoßen und zu Kontomaßnahmen führen. Prüfen Sie die geltenden Regeln; ein bestimmtes Ergebnis wird nicht zugesichert."
   },
   {
     "id": "platforms",
     "q": "Welche Plattformen werden unterstützt?",
-    "a": "The Isle nur unter Windows 10/11 64-Bit. macOS und Linux werden nicht unterstützt."
+    "a": "Die bereitgestellte Produktzusammenfassung nennt keine Plattform- oder Systemanforderungen. Prüfen Sie vor dem Kauf die aktuelle Produktbeschreibung."
   },
   {
     "id": "license-move",
-    "q": "Kann ich meine Lizenz auf einen neuen PC übertragen?",
-    "a": "Ja, nutzen Sie den HWID-Reset in Ihrem Portal oder eröffnen Sie ein Support-Ticket. Die Limits hängen von Ihrer Stufe ab."
+    "q": "Kann ich eine Lizenz auf einen neuen PC übertragen?",
+    "a": "Prüfen Sie die aktuellen Lizenzbedingungen oder wenden Sie sich an den Support."
   },
   {
     "id": "products-page",
-    "q": "Wo sind Produkte und Dienstprogramme aufgeführt?",
-    "a": "Alle Produkte findest du auf der <a href=\"/products/\">Produktseite</a>: {productList}. Jedes hat eine eigene Seite mit Funktionsliste und Kaufabwicklung über unseren Partner."
+    "q": "Wo finde ich die Produkte?",
+    "a": "Alle Produkte stehen auf der <a href=\"/products/\">Produktseite</a>, jeweils mit eigener Beschreibung und Checkout-Informationen."
   },
   {
     "id": "what-is-esp",
-    "q": "Was ist The Isle ESP?",
-    "a": "Spieler-ESP zeigt players, creatures und Bosse mit Kisten, Skeletten und Entfernungsanzeigen. Loot ESP hebt Container und wertvolle Gegenstände hervor.<a href=\"/cheats/\">The Isle Cheats</a> umfasst Awareness-Overlays sowie optionale Aimbot- und keine Rückstoßmodule."
+    "q": "Welche Funktionen nennt die Zusammenfassung für The Isle?",
+    "a": "Sie nennt Aimbot, Wallhack beziehungsweise visuelle Hinweise, Ressourcenanzeige für Wasser, Kadaver und Früchte sowie Radar. Details stehen auf der <a href=\"/cheats/\">Produktseite</a>."
   },
   {
     "id": "esp-vs-aim",
-    "q": "Was ist der Unterschied zwischen ESP und Aimbot?",
-    "a": "ESP- und Beute-Highlights sind Informationseinblendungen; Sie bewegen Ihr Fadenkreuz nicht. Aimbot, No Recoil und Trigger Bot sind Kampfhilfen für <a href=\"/cheats/\">The Isle Cheats</a>, die separat im Lader eingestellt werden."
+    "q": "Welche Feature-Kategorien werden genannt?",
+    "a": "Die Zusammenfassung nennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar. Sie bestätigt keine einzelnen Steuerungen oder Einstellungen."
   },
   {
     "id": "elite-slots",
-    "q": "Warum sind die Slots für The Isle Cheats begrenzt?",
-    "a": "The Isle Cheats ist ein privater Build mit direkter Entwicklerunterstützung und vorrangiger Patch-Bereitstellung. Begrenzte Slots halten die Patch-Zyklen kurz. Überprüfen Sie vor dem Bezahlen das Statusbanner."
+    "q": "Wo finde ich Angaben zur Verfügbarkeit?",
+    "a": "Prüfen Sie die aktuelle Produktseite und den Checkout auf Verfügbarkeit und Bedingungen."
   },
   {
     "id": "stream-proof",
-    "q": "Kann OBS mein Overlay erfassen?",
-    "a": "Der Stream-Proof-Modus für <a href=\"/cheats/\">The Isle Cheats</a> verbirgt Overlays von OBS. Testen Sie eine lokale Aufnahme, bevor Sie live gehen."
+    "q": "Bestätigt die Zusammenfassung einen Stream-Proof-Modus?",
+    "a": "Nein. Die bereitgestellte Zusammenfassung bestätigt keinen Stream-Proof-Modus. Prüfen Sie die aktuelle <a href=\"/cheats/\">Produktbeschreibung</a>."
   },
   {
     "id": "build-status",
-    "q": "Bleibt der Build nach jedem Patch online?",
-    "a": "Nein. Der Online-Status wird nur zum Zeitpunkt des Kaufs auf der Produktseite und im Statusbanner angezeigt. Stoppen Sie, wenn der Build nach einem the current game protection system-Update anzeigt, dass er aktualisiert, getestet oder offline ist."
+    "q": "Wo sehe ich aktuelle Produktdetails?",
+    "a": "Prüfen Sie die aktuelle Produktseite und den Checkout. Die Zusammenfassung bestätigt keine Live-Statusanzeige oder Update-Zeitpläne."
   },
   {
     "id": "esp-safer",
-    "q": "Ist ESP unauffälliger als Aimbot?",
-    "a": "ESP ist oft weniger offensichtlich als Maxed Aimbot, aber es ist immer noch ein Betrug. the current game protection system ignoriert Overlays nicht, weil Sie die Zielhilfe deaktiviert haben."
+    "q": "Ist eine Funktion risikofrei?",
+    "a": "Nein. Drittanbieter-Software kann gegen Spiel- oder Serverregeln verstoßen. Die Zusammenfassung verspricht kein bestimmtes Ergebnis."
   },
   {
     "id": "hwid-when",
-    "q": "Wann sollte ich den HWID-Spoofer zu meinem Setup hinzufügen?",
-    "a": "<a href=\"/hwid-spoofer/\">HWID-Spoofer</a> ist für Hardware-Banns: Neue Accounts werden auf einem PC sofort gebannt, funktionieren aber auf einem anderen. Er ändert Festplatten-Seriennummern, MAC-Adressen, GPU-IDs und verwandte Kennungen und enthält einen Cleaner. Einen Bann auf einem bestehenden Account hebt er nicht auf."
+    "q": "Was macht der HWID-Spoofer?",
+    "a": "Der <a href=\"/hwid-spoofer/\">HWID-Spoofer</a> ändert Festplatten-Seriennummern, MAC-Adressen, GPU-IDs und verwandte Kennungen und enthält einen Cleaner. Er hebt keinen Bann eines bestehenden Accounts auf."
   },
   {
     "id": "external-loader",
-    "q": "Wird der Loader in den Spieleordner eingeschleust?",
-    "a": "{siteName} läuft extern mit Cloud-Konfigurationssynchronisierung, es werden keine Dateien in das The Isle-Verzeichnis eingefügt. Das the current game protection system-Risiko besteht weiterhin. Siehe <a href=\"/cheats/\">The Isle Cheats</a>."
+    "q": "Welche Installationsdetails sind bestätigt?",
+    "a": "Die bereitgestellte Zusammenfassung macht keine Angaben zu Loadern oder Installationsmethoden. Prüfen Sie die aktuellen Produktinformationen."
   },
   {
     "id": "blog-vs-cheats",
-    "q": "Sind Blog-Cheat-Codes dasselbe wie Live-Raid-Cheats?",
-    "a": "Nein. Blogartikel über Offline- oder lokale Tests ersetzen nicht den Live Loader. player-Raids verwenden <a href=\"/cheats/\">The Isle Cheats</a>, wenn der Status online ist."
+    "q": "Worauf beruhen die Blogbeiträge?",
+    "a": "Die Guides beruhen auf der bereitgestellten Zusammenfassung und verweisen für bestätigte Produktdetails auf die aktuelle <a href=\"/cheats/\">Produktseite</a>."
   },
   {
     "id": "blog-setup",
-    "q": "Wo empfehlen Blog-Setup-Anleitungen den Kauf?",
-    "a": "Die Guides verlinken auf die Produktseiten, zum Beispiel <a href=\"/cheats/\">{cheatProduct}</a>. Der Checkout läuft über unseren Partner. Nutze nie Loader-Dateien aus zufälligen Nachrichten."
+    "q": "Wo finde ich bestätigte Kaufdetails?",
+    "a": "Die Produktseiten enthalten die aktuellen Checkout-Informationen. Verwenden Sie für die Kaufentscheidung die dort angegebenen Angaben."
   },
   {
     "id": "who-cheats",
-    "q": "Wer sollte The Isle Cheats kaufen?",
-    "a": "player-Raider, die Spieler-ESP, Beute-ESP, Aimbot, keinen Rückstoß und vorrangige Patch-Lieferung wünschen, wenn Plätze frei sind."
+    "q": "Welche Funktionen nennt die The Isle-Zusammenfassung?",
+    "a": "Genannt werden Aimbot, Wallhack beziehungsweise visuelle Hinweise, Ressourcenanzeige und Radar. Prüfen Sie die aktuelle Produktseite für weitere bestätigte Details."
   },
   {
     "id": "vac-update",
-    "q": "Was soll ich nach einem the current game protection system-Update tun?",
-    "a": "Überprüfen Sie den Status von {siteDomain}. Starten Sie es erst, wenn das Banner online angezeigt wird. Laden Sie nach jedem Patch konservative Voreinstellungen."
+    "q": "Bestätigt die Zusammenfassung Update- oder Statuszeiten?",
+    "a": "Nein. Sie enthält keine Angaben zu Live-Status, Update-Zeitplänen oder Verfügbarkeit. Prüfen Sie die aktuelle Produktseite."
   },
   {
     "id": "discord-help",
-    "q": "Wie erhalte ich Installationshilfe?",
-    "a": "Öffnen Sie nach dem Kauf ein Support-Ticket mit Ihrer Bestell-E-Mail, der Windows-Version und dem The Isle-Client-Build. Die Mitarbeiter gehen von dort durch die Einrichtung des Laders."
+    "q": "Wie erhalte ich Unterstützung?",
+    "a": "Nutzen Sie die Support-Seite für Fragen zu den aktuellen Produkt- und Checkout-Informationen."
   },
   {
     "id": "pmc-scav-sessions",
-    "q": "Funktionieren Module in player- und creature-Raids?",
-    "a": "Ja.<a href=\"/cheats/\">The Isle Cheats</a> enthält player- und creature-Voreinstellungen im Portal. Passen Sie die ESP-Entfernungsgrenzen und die Zielglättung vor Ihrem ersten Angriff an."
+    "q": "Welche Spielmodi oder Branches werden unterstützt?",
+    "a": "Die Zusammenfassung bestätigt keine bestimmten Modi oder Branches. Prüfen Sie die aktuelle Produktbeschreibung."
   },
   {
     "id": "zoom-hack",
-    "q": "Welche Stufe umfasst Radar und Extrakt-ESP?",
-    "a": "2D-Radar und Extraktionsmarker sind in <a href=\"/cheats/\">The Isle Cheats</a> enthalten. Nutze sie zur Orientierung zwischen Gefechten und zur Planung deiner Extracts."
+    "q": "Enthält das Produkt Radar?",
+    "a": "Radar ist in der bereitgestellten Zusammenfassung als Feature-Kategorie genannt. Weitere Einzelheiten stehen auf der <a href=\"/cheats/\">Produktseite</a>."
   },
   {
     "id": "trigger-bot",
-    "q": "Enthält das Produkt einen Trigger-Bot?",
-    "a": "Der optionale Trigger-Bot wird zusammen mit dem Aimbot und ohne Rückstoß mit <a href=\"/cheats/\">The Isle Cheats</a> geliefert. Beginnen Sie mit konservativen Verzögerungsvoreinstellungen im Portal."
+    "q": "Wird ein Trigger-Bot genannt?",
+    "a": "Nein. Die Zusammenfassung nennt Aimbot, visuelle Hinweise, Ressourcenanzeige und Radar, aber keinen Trigger-Bot."
   },
   {
     "id": "private-cheats",
-    "q": "Was sind private The Isle-Cheats?",
-    "a": "Privat bedeutet Schlüssel pro Benutzer und verwaltete Builds, keine öffentlichen Zip-Pakete. {siteName} liefert die Portalbereitstellung für die vollständige Raid-Suite mit einer Cheats-Lizenz."
+    "q": "Welche Informationen enthält die Produktzusammenfassung?",
+    "a": "Sie beschreibt The Isle als Online-Spiel und nennt Aimbot, visuelle Hinweise, Ressourcenanzeige sowie Radar. Sie bestätigt keine weiteren Produktversprechen."
   },
   {
     "id": "faq-more",
-    "q": "Wo ist die vollständige FAQ?",
-    "a": "Diese Website enthält Landing-FAQs und Abschnitte pro Seite. Alle Produkt-, Cheat- und Blog-Antworten finden Sie in den <a href=\"/faq/\">vollständigen FAQ</a> oder in den <a href=\"/blog/\">Blog-Anleitungen</a> für ausführliche Anleitungen."
+    "q": "Wo finde ich die vollständigen FAQ?",
+    "a": "Besuchen Sie die <a href=\"/faq/\">FAQ-Seite</a> für Produkt- und Checkout-Informationen sowie den <a href=\"/blog/\">Blog</a> für Guides."
   },
   {
     "id": "ugc-what",
-    "q": "Was macht UGC genau?",
-    "a": "<a href=\"/ugc/\">UGC</a> (Unban & Governance Control) ist ein Tool zur Account-Wiederherstellung. Du baust eigene Einspruchs-Workflows und automatisierst Streitverfahren für gesperrte Accounts auf jeder Plattform: Gaming-Profile, Social-Media-Accounts oder Marktplatz-Shops."
+    "q": "Was macht UGC Account Recovery?",
+    "a": "<a href=\"/ugc/\">UGC Account Recovery</a> bietet individuelle Einspruchsabläufe und Automatisierung für Streitfälle. Die prüfende Plattform entscheidet; manche Sperren sind endgültig."
   },
   {
     "id": "ugc-guarantee",
-    "q": "Garantiert UGC, dass mein Account entsperrt wird?",
-    "a": "Nein. UGC hilft dir, Einsprüche vorzubereiten und zu verwalten, aber die prüfende Plattform entscheidet, und manche Banns sind endgültig. Kein Tool kann ein Ergebnis versprechen."
+    "q": "Garantiert UGC die Wiederherstellung eines Accounts?",
+    "a": "Nein. UGC unterstützt Einsprüche und deren Verwaltung, aber die prüfende Plattform entscheidet. Ein Ergebnis wird nicht garantiert."
   },
   {
     "id": "ugc-vs-hwid",
-    "q": "Soll ich UGC oder den HWID Spoofer kaufen?",
-    "a": "Das hängt davon ab, was gebannt wurde. Hat die Plattform deinen Account gesperrt, ist <a href=\"/ugc/\">UGC</a> für den Einspruch da. Werden neue Accounts auf einem PC sofort gebannt, funktionieren aber auf einem anderen, hängt der Bann an deiner Hardware und <a href=\"/hwid-spoofer/\">HWID Spoofer</a> ist das Richtige."
+    "q": "Sollte ich UGC oder den HWID-Spoofer wählen?",
+    "a": "Das hängt davon ab, was eingeschränkt wurde. UGC unterstützt Einspruchsabläufe für Accounts; der Spoofer ändert Hardware-Kennungen. Keines der Produkte garantiert die Aufhebung einer Sperre."
   },
   {
     "id": "skin-visible",
-    "q": "Landen Skins aus dem Skin Changer in meinem Account?",
-    "a": "Nein. <a href=\"/skin-changer/\">Skin Changer</a> schaltet Kosmetik in deinem eigenen Spielclient frei. Deinem Account wird nichts hinzugefügt, die Items lassen sich weder tauschen noch verkaufen. Geh davon aus, dass andere Spieler sie nicht sehen."
+    "q": "Werden Skin-Changer-Kosmetika meinem Account hinzugefügt?",
+    "a": "Nein. <a href=\"/skin-changer/\">Skin Changer</a>-Kosmetika erscheinen im eigenen Spielclient, werden nicht dem Account hinzugefügt und verschwinden, wenn das Tool ausgeschaltet ist. Andere Spieler sehen sie möglicherweise nicht."
   },
   {
     "id": "skin-games",
-    "q": "Welche Spiele unterstützt der Skin Changer?",
-    "a": "Er funktioniert in mehreren großen Titeln, die Abdeckung kann sich nach Spiel-Updates ändern. Lass dir dein Spiel vor dem Kauf vom Support bestätigen."
+    "q": "Welche Spiele unterstützt Skin Changer?",
+    "a": "Die Abdeckung kann sich ändern. Lassen Sie vor dem Kauf durch den Support bestätigen, ob Ihr Spiel unterstützt wird."
   },
   {
     "id": "utility-requirements",
-    "q": "Welche Windows-Einstellungen brauchen die Tools?",
-    "a": "Windows 10 oder 11 mit aktiviertem HVCI, Core Isolation, TPM und Secure Boot. Aktiviere sie vor dem ersten Start in der Windows-Sicherheit und im BIOS/UEFI. Jede Produktseite nennt die genauen Anforderungen."
+    "q": "Welche Anforderungen haben die Dienstprogramme?",
+    "a": "Die Anforderungen hängen vom jeweiligen Produkt ab. Prüfen Sie die dazugehörige Produktseite und bestätigen Sie die Kompatibilität vor dem Kauf."
   }
 ]

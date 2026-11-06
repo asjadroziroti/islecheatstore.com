@@ -50,7 +50,7 @@ const en: CatalogCopy = {
   chooserTitle: 'Which product do I need?',
   chooserDesc: 'Start from your situation. Each answer links to the product built for it.',
   scenarios: [
-    { slug: CHEATS_PRIMARY_SLUG, need: 'I want ESP, loot ESP and aim assist in {gameShort} sessions.', answer: '{cheatProduct}' },
+    { slug: CHEATS_PRIMARY_SLUG, need: 'I want to review the listed {gameShort} product features.', answer: '{cheatProduct}' },
     { slug: HWID_SPOOFER_SLUG, need: 'New accounts get banned instantly on my PC but work on another one.', answer: 'HWID Spoofer' },
     { slug: UGC_SLUG, need: 'My account was suspended, locked or banned and I want to appeal.', answer: 'UGC Account Recovery' },
     { slug: SKIN_CHANGER_SLUG, need: 'I want premium skins and outfits without buying each one.', answer: 'Skin Changer' },
@@ -62,7 +62,7 @@ const en: CatalogCopy = {
     {
       label: 'Best for',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'player and creature sessions',
+        [CHEATS_PRIMARY_SLUG]: 'the listed product features',
         [HWID_SPOOFER_SLUG]: 'Hardware-flagged PCs',
         [UGC_SLUG]: 'Restricted accounts',
         [SKIN_CHANGER_SLUG]: 'Cosmetics on your client',
@@ -102,7 +102,7 @@ const en: CatalogCopy = {
   menuHeading: 'Products',
   menuViewAll: 'Compare all products',
   menuTaglines: {
-    [CHEATS_PRIMARY_SLUG]: 'ESP, loot ESP, aimbot and no recoil',
+    [CHEATS_PRIMARY_SLUG]: 'Listed product features',
     [HWID_SPOOFER_SLUG]: 'Reset hardware IDs after a ban',
     [UGC_SLUG]: 'Appeal restricted or banned accounts',
     [SKIN_CHANGER_SLUG]: 'Unlock skins, outfits and knives',
@@ -127,7 +127,7 @@ const es: CatalogCopy = {
   chooserTitle: '¿Qué producto necesito?',
   chooserDesc: 'Parte de tu situación. Cada respuesta enlaza al producto pensado para ella.',
   scenarios: [
-    { slug: CHEATS_PRIMARY_SLUG, need: 'Quiero ESP, loot ESP y asistencia de apuntado en incursiones.', answer: '{cheatProduct}' },
+    { slug: CHEATS_PRIMARY_SLUG, need: 'Quiero consultar las funciones indicadas para {gameShort}.', answer: '{cheatProduct}' },
     { slug: HWID_SPOOFER_SLUG, need: 'Las cuentas nuevas se banean al instante en mi PC pero funcionan en otro.', answer: 'HWID Spoofer' },
     { slug: UGC_SLUG, need: 'Mi cuenta fue suspendida, bloqueada o baneada y quiero apelar.', answer: 'UGC Recuperación de cuentas' },
     { slug: SKIN_CHANGER_SLUG, need: 'Quiero skins y atuendos premium sin comprar cada uno.', answer: 'Skin Changer' },
@@ -139,7 +139,7 @@ const es: CatalogCopy = {
     {
       label: 'Ideal para',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'Incursiones player y creature',
+        [CHEATS_PRIMARY_SLUG]: 'Funciones del producto indicadas',
         [HWID_SPOOFER_SLUG]: 'PCs con baneo de hardware',
         [UGC_SLUG]: 'Cuentas restringidas',
         [SKIN_CHANGER_SLUG]: 'Cosméticos en tu cliente',
@@ -179,7 +179,7 @@ const es: CatalogCopy = {
   menuHeading: 'Productos',
   menuViewAll: 'Comparar todos los productos',
   menuTaglines: {
-    [CHEATS_PRIMARY_SLUG]: 'ESP, loot ESP, aimbot y sin retroceso',
+    [CHEATS_PRIMARY_SLUG]: 'Funciones indicadas del producto',
     [HWID_SPOOFER_SLUG]: 'Restablece IDs de hardware tras un baneo',
     [UGC_SLUG]: 'Apela cuentas restringidas o baneadas',
     [SKIN_CHANGER_SLUG]: 'Desbloquea skins, atuendos y cuchillos',
@@ -204,7 +204,7 @@ const de: CatalogCopy = {
   chooserTitle: 'Welches Produkt brauche ich?',
   chooserDesc: 'Geh von deiner Situation aus. Jede Antwort führt zum passenden Produkt.',
   scenarios: [
-    { slug: CHEATS_PRIMARY_SLUG, need: 'Ich will ESP, Loot-ESP und Aim-Assist in {gameShort}-Raids.', answer: '{cheatProduct}' },
+    { slug: CHEATS_PRIMARY_SLUG, need: 'Ich möchte die aufgeführten Funktionen für {gameShort} ansehen.', answer: '{cheatProduct}' },
     { slug: HWID_SPOOFER_SLUG, need: 'Neue Konten werden auf meinem PC sofort gebannt, auf einem anderen nicht.', answer: 'HWID-Spoofer' },
     { slug: UGC_SLUG, need: 'Mein Konto wurde gesperrt oder gebannt und ich will Einspruch einlegen.', answer: 'UGC Kontowiederherstellung' },
     { slug: SKIN_CHANGER_SLUG, need: 'Ich will Premium-Skins und Outfits, ohne jedes einzeln zu kaufen.', answer: 'Skin Changer' },
@@ -216,7 +216,7 @@ const de: CatalogCopy = {
     {
       label: 'Ideal für',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'player- und creature-Raids',
+        [CHEATS_PRIMARY_SLUG]: 'aufgeführte Produktfunktionen',
         [HWID_SPOOFER_SLUG]: 'PCs mit Hardware-Bann',
         [UGC_SLUG]: 'Gesperrte Konten',
         [SKIN_CHANGER_SLUG]: 'Kosmetik auf deinem Client',
@@ -256,7 +256,7 @@ const de: CatalogCopy = {
   menuHeading: 'Produkte',
   menuViewAll: 'Alle Produkte vergleichen',
   menuTaglines: {
-    [CHEATS_PRIMARY_SLUG]: 'ESP, Loot-ESP, Aimbot und No Recoil',
+    [CHEATS_PRIMARY_SLUG]: 'Aufgeführte Produktfunktionen',
     [HWID_SPOOFER_SLUG]: 'Hardware-IDs nach einem Bann zurücksetzen',
     [UGC_SLUG]: 'Einspruch für gesperrte Konten',
     [SKIN_CHANGER_SLUG]: 'Skins, Outfits und Messer freischalten',
@@ -281,7 +281,7 @@ const fr: CatalogCopy = {
   chooserTitle: 'De quel produit ai-je besoin ?',
   chooserDesc: 'Partez de votre situation. Chaque réponse mène au produit conçu pour elle.',
   scenarios: [
-    { slug: CHEATS_PRIMARY_SLUG, need: 'Je veux l’ESP, le loot ESP et l’aide à la visée en session.', answer: '{cheatProduct}' },
+    { slug: CHEATS_PRIMARY_SLUG, need: 'Je souhaite consulter les fonctionnalités indiquées pour {gameShort}.', answer: '{cheatProduct}' },
     { slug: HWID_SPOOFER_SLUG, need: 'Les nouveaux comptes sont bannis instantanément sur mon PC mais pas sur un autre.', answer: 'HWID Spoofer' },
     { slug: UGC_SLUG, need: 'Mon compte a été suspendu, verrouillé ou banni et je veux faire appel.', answer: 'UGC Récupération de compte' },
     { slug: SKIN_CHANGER_SLUG, need: 'Je veux des skins et tenues premium sans acheter chacun.', answer: 'Skin Changer' },
@@ -293,7 +293,7 @@ const fr: CatalogCopy = {
     {
       label: 'Idéal pour',
       values: {
-        [CHEATS_PRIMARY_SLUG]: 'Raids player et creature',
+        [CHEATS_PRIMARY_SLUG]: 'fonctionnalités indiquées',
         [HWID_SPOOFER_SLUG]: 'PC bannis matériellement',
         [UGC_SLUG]: 'Comptes restreints',
         [SKIN_CHANGER_SLUG]: 'Cosmétiques sur votre client',
@@ -333,7 +333,7 @@ const fr: CatalogCopy = {
   menuHeading: 'Produits',
   menuViewAll: 'Comparer tous les produits',
   menuTaglines: {
-    [CHEATS_PRIMARY_SLUG]: 'ESP, loot ESP, aimbot et no recoil',
+    [CHEATS_PRIMARY_SLUG]: 'Fonctionnalités indiquées du produit',
     [HWID_SPOOFER_SLUG]: 'Réinitialiser les ID matériels après un ban',
     [UGC_SLUG]: 'Faire appel pour un compte restreint',
     [SKIN_CHANGER_SLUG]: 'Débloquer skins, tenues et couteaux',

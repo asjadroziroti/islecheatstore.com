@@ -47,6 +47,7 @@ const relatedPosts = [
 <BaseLayout
   title={pageTitle(post.title, undefined, locale)}
   description={post.excerpt}
+  noindex={locale !== 'en'}
   canonicalPath={lp(path)}
   jsonLd={[
   discussionForumPostingSchema({

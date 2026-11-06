@@ -8,8 +8,8 @@
 export const GAME = {
   name: 'The Isle',
   shortName: 'The Isle',
-  publisher: 'The Isle',
-  antiCheat: 'the current game protection system',
+  publisher: 'its respective owner',
+  antiCheat: 'game protection',
   officialUrl: 'https://www.survivetheisle.com/',
 } as const;
 

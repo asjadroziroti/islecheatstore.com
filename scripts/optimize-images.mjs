@@ -10,22 +10,6 @@ const dirs = [
   { dir: 'public/images/ugc', widths: [400, 640, 800, 960], quality: 82, effort: 4 },
   { dir: 'public/images/skin-changer', widths: [400, 640, 800, 960], quality: 82, effort: 4 },
 ];
-const brandWidths = [32, 64, 128, 512];
-
-async function optimizeBrandLogo() {
-  const master = path.join(root, 'public/images/brand/eft-cheats-logo.webp');
-  if (!fs.existsSync(master)) return;
-
-  for (const width of brandWidths) {
-    const output = path.join(root, 'public/images/brand', `eft-cheats-logo-${width}.webp`);
-    await sharp(master)
-      .resize(width, width, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
-      .webp({ quality: 85, effort: 4 })
-      .toFile(output);
-    console.log(`Wrote ${path.relative(root, output)}`);
-  }
-}
-
 async function optimizeDir(relativeDir, widths, quality, effort) {
   const dir = path.join(root, relativeDir);
   if (!fs.existsSync(dir)) return;
@@ -54,6 +38,5 @@ for (const { dir, widths, quality, effort } of dirs) {
   await optimizeDir(dir, widths, quality, effort);
 }
 
-await optimizeBrandLogo();
 
 console.log('Image optimization complete.');

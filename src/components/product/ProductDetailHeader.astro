@@ -2,13 +2,18 @@
 import type { ProductPage } from '../../data/products';
 import { Badge } from '@/components/starwind/badge';
 import { GAME } from '../../config/game';
+import { useLocale } from '../../i18n';
 
 interface Props {
   product: ProductPage;
 }
 
 const { product } = Astro.props;
+const { locale } = useLocale(Astro.currentLocale);
 const isGameProduct = product.kind === 'tier';
+const productHeading = isGameProduct
+  ? product.title
+  : `${product.title} — ${({ en: 'Product Overview', es: 'Información del producto', de: 'Produktübersicht', fr: 'Présentation du produit' } as const)[locale]}`;
 ---
 
 <div class="product-detail-header space-y-4">
@@ -19,6 +24,6 @@ const isGameProduct = product.kind === 'tier';
     {isGameProduct && <Badge variant="outline">{GAME.shortName}</Badge>}
     {product.category && !isGameProduct && <Badge variant="outline">{product.category}</Badge>}
   </div>
-  <h1 class="max-w-3xl text-3xl font-bold normal-case leading-tight md:text-4xl">{product.title}</h1>
+  <h1 class="max-w-3xl text-3xl font-bold normal-case leading-tight md:text-4xl">{productHeading}</h1>
   <p class="max-w-2xl text-lg leading-relaxed text-muted-foreground">{product.subtitle || product.desc}</p>
 </div>

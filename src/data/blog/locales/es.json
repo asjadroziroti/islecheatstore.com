@@ -1,734 +1,441 @@
 [
   {
     "tag": "Características",
-    "title": "The Isle Loot ESP: Cómo filtrar el botín por precio, categoría y contenedor",
-    "slug": "isle-loot-esp-filters-price-category-containers",
-    "image": "/images/gameplay/isle-esp-daylight-player-highlights.webp",
-    "imageAlt": "Vista de incursión de The Isle con etiquetas ESP de botín que muestran los nombres y precios de los artículos",
-    "desc": "Una mirada práctica al botín ESP de The Isle: filtros de precios, categorías de botín, contenedores y ajustes preestablecidos, y cómo mantener la pantalla legible en lugar de abarrotada.",
-    "metaTitle": "The Isle Loot ESP: filtros, precio y contenedores explicados",
-    "metaDescription": "Cómo funciona el ESP de botín de The Isle: precio mínimo, categorías, contenedores, misiones y ajustes para incursiones más limpias.",
-    "date": "2026-07-16",
-    "readTime": "6 min de lectura",
+    "title": "The Isle Cheats: Resumen del producto",
+    "slug": "the-isle-cheats-product-summary-overview",
+    "image": "/images/blog/isle-survival.webp",
+    "imageAlt": "El paisaje de la isla que ilustra las cuatro categorías de características nombradas en la descripción general del producto.",
+    "desc": "Una descripción general en lenguaje sencillo de las categorías de funciones nombradas en el resumen del producto The Isle proporcionado, con un recordatorio para verificar los detalles exactos antes de elegir.",
+    "metaTitle": "The Isle Cheats: descripción general de las características del producto",
+    "metaDescription": "Vea qué funciones de alto nivel se resumen en los nombres de The Isle Cheats, incluido aimbot, señales visuales, visibilidad de recursos y radar. Consulte los detalles actuales del producto para obtener más detalles.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
     "body": [
       {
         "type": "p",
-        "text": "El botín es la única razón por la que la mayoría de la gente realiza incursiones en The Isle. También es donde se pierde mucho tiempo. Limpias una habitación, abres tres contenedores y sales sin nada que valga la pena. Loot ESP existe para solucionar ese problema, y la diferencia entre una buena y una mala configuración se reduce a los filtros."
+        "text": "El resumen del producto Isle Cheats nombra cuatro áreas amplias: aimbot, wallhack, visibilidad de elementos o recursos y radar. Esas etiquetas describen el alcance del producto a un alto nivel. El resumen no documenta todos los controles, condiciones de cobertura o comportamiento, por lo que los lectores deben utilizar la información actual del producto para obtener esos detalles."
       },
       {
         "type": "h2",
-        "text": "¿Qué hace realmente el botín ESP?"
+        "text": "Comience con las categorías de funciones"
       },
       {
         "type": "p",
-        "text": "Loot ESP dibuja etiquetas en artículos y contenedores en el mundo, para que puedas ver lo que hay cerca sin revisar cada estante y cajón. En el menú de trucos de The Isle, la sección de botín cubre elementos en el suelo, contenedores, escondites, cadáveres, computadoras y lugares similares, y la distancia y el precio se muestran junto a lo que encuentra."
+        "text": "El resumen presenta aimbot como una parte del conjunto de herramientas enumerado. No describe sus controles ni cómo se comporta la función en cada situación. Trate el término como una categoría, luego verifique la descripción de la característica actual antes de confiar en una capacidad o resultado en particular."
       },
       {
         "type": "p",
-        "text": "El error que comete la mayoría de la gente es encenderlo todo. Una pantalla llena de etiquetas de elementos comunes es solo ruido. Las herramientas que importan son los filtros."
+        "text": "Wallhack y señales visuales son otra categoría nombrada en el resumen. Describe señales visuales que pueden mostrar un depredador que se acerca. Eso les da a los lectores una idea general del contexto previsto: notar algo cercano en un entorno de supervivencia. No establece un rango de detección específico, qué objetos son visibles ni cómo funciona la pantalla."
+      },
+      {
+        "type": "p",
+        "text": "La descripción de la visibilidad de elementos y recursos es más concreta a nivel de ejemplo. Menciona agua, cadáveres y frutas. El resumen no proporciona un inventario completo de objetos ni dice que todos los recursos están disponibles en cada rama o situación. Para ver un artículo centrado en estos ejemplos, consulte la guía de [The Isle resource visibility](/blog/the-isle-resource-visibility-guide/)."
+      },
+      {
+        "type": "p",
+        "text": "El radar también tiene nombre, pero el resumen de la fuente no describe su diseño, alcance, indicadores o controles. Evite inferir esos detalles de las herramientas de radar de otros juegos. Verifique la información actual del producto si una capacidad específica es importante para usted."
       },
       {
         "type": "h2",
-        "text": "Comience con un precio mínimo"
+        "text": "Mantenga el resumen y los detalles separados."
       },
       {
         "type": "p",
-        "text": "La configuración única más útil es el precio mínimo. Establezca un piso y todo lo que esté debajo de él simplemente no se dibujará. Si corre con fines de lucro, un piso más alto mantiene su vista limpia y le indica los artículos que vale la pena llevar. Si está buscando artículos de trueque específicos o necesidades de misiones, suéltelo más abajo y utilice las opciones de búsqueda y categoría."
+        "text": "Un breve resumen de las funciones ayuda a los lectores a comprender el tema amplio de un producto. No sustituye a una especificación completa. Antes de tomar una decisión, compare los nombres de las funciones con la lista detallada y confirme que la información responda a sus preguntas reales."
       },
       {
         "type": "p",
-        "text": "También hay una opción para ignorar elementos que no has seleccionado, lo cual es útil una vez que tienes una breve lista de lo que te interesa."
-      },
-      {
-        "type": "h2",
-        "text": "Utilice categorías en lugar de una lista gigante"
+        "text": "La Isla tiene ramas distintas de Evrima y Legacy. El resumen proporcionado no dice qué características del producto se aplican a cada rama. No infiera el apoyo de una etiqueta de característica general. Revise la información de la sucursal por separado y solicite una aclaración a través del canal de información normal del sitio si el listado deja una pregunta importante sin respuesta."
       },
       {
         "type": "p",
-        "text": "El botín se agrupa en categorías como militar, técnico, médico y valioso, con un grupo común separado para artículos cotidianos. Elegir categorías te permite decidir qué tipo de incursión estás haciendo. Una carrera médica rápida y una carrera de botín técnica necesitan etiquetas muy diferentes."
-      },
-      {
-        "type": "p",
-        "text": "Los tipos de contenedores se filtran por separado. Puedes elegir si se muestran cajas de madera, escondites, computadoras, cadáveres y cadáveres, lo cual es importante porque cada contenedor que revisas cuesta tiempo y expone tu posición."
-      },
-      {
-        "type": "h2",
-        "text": "Distancia de dibujo, visualización de precios y colores."
-      },
-      {
-        "type": "p",
-        "text": "La distancia de dibujo controla qué tan alejadas aparecen las etiquetas. La distancia corta mantiene el orden dentro de los edificios. Una distancia más larga ayuda en mapas abiertos. La visualización del precio agrega valor a cada etiqueta y el color del botín personalizado te permite hacer que los artículos de alto valor se destaquen para que tu vista los encuentre al instante. Elija colores que pueda leer de un vistazo."
-      },
-      {
-        "type": "h2",
-        "text": "Elementos y extractos de misiones."
-      },
-      {
-        "type": "p",
-        "text": "Quest ESP marca elementos y objetivos relacionados con la misión, lo que ahorra mucho retroceso si estás trabajando en tareas. Los marcadores de extracción y transición muestran dónde puedes salir, lo cual es útil cuando una incursión comienza a ir mal y necesitas comprometerte con una ruta."
-      },
-      {
-        "type": "h2",
-        "text": "Los ajustes preestablecidos ahorran tiempo"
-      },
-      {
-        "type": "p",
-        "text": "Los ajustes preestablecidos de botín te permiten almacenar una configuración de filtro y cambiar entre ellos. Un ajuste preestablecido para carreras de alto valor, uno para caza de misiones y otro para barrido general. El sistema de configuración también admite guardar, cargar, importar y exportar, por lo que no tendrás que reconstruir tu configuración cada vez."
-      },
-      {
-        "type": "h2",
-        "text": "Mantenlo legible"
-      },
-      {
-        "type": "p",
-        "text": "Una buena regla es mostrar menos de lo que crees que necesitas. Establezca un precio mínimo, elija dos o tres categorías y mantenga una distancia de sorteo razonable. Si entrecierras los ojos ante las etiquetas, es porque tienes demasiadas."
-      },
-      {
-        "type": "h2",
-        "text": "Empezando"
-      },
-      {
-        "type": "p",
-        "text": "Si quieres botín ESP con precio completo, categoría, contenedor y controles preestablecidos, los trucos [The Isle](/cheats/) lo incluyen junto con el ESP del jugador, aimbot y opciones varias. Consulte la página de estado después de los parches antes de cargarlos, revise [requisitos de configuración](/blog/how-to-set-up-the-isle-cheats-requirements/) y tenga en cuenta que se requiere el componente branch compatibility para una funcionalidad completa. Los planes comienzan en un [plan mensual o de por vida](/blog/the-isle-cheats-price-monthly-vs-lifetime/), con una opción de por vida si planeas quedarte a largo plazo."
+        "text": "Esta descripción general es útil como punto de partida, no como una promesa sobre una configuración o resultado específico. Mantenga cada reclamo de característica vinculado a su descripción publicada. Cuando no se indiquen los detalles, déjelos abiertos en lugar de llenar el vacío con suposiciones."
       }
     ]
   },
   {
     "tag": "Características",
-    "title": "Ajustes del aimbot de The Isle: FOV, huesos, selección de objetivos y más",
-    "slug": "isle-aimbot-settings-explained",
-    "image": "/images/gameplay/isle-esp-night-vision-skeletons.webp",
-    "imageAlt": "Pestaña aimbot del menú de trucos de The Isle que muestra FOV y opciones de objetivo",
-    "desc": "Cada menú de aimbot parece abrumador la primera vez. Esto es lo que hacen las principales opciones de aimbot de The Isle y cómo configurarlas sin ensuciarlas.",
-    "metaTitle": "Ajustes del aimbot de The Isle: FOV, huesos y objetivos",
-    "metaDescription": "Opciones del aimbot de The Isle: tecla, campo de visión, visibilidad, hueso, selección de objetivo y predicción.",
-    "date": "2026-05-10",
-    "readTime": "7 min de lectura",
+    "title": "Visibilidad de los recursos de la isla: agua, cadáveres y frutas",
+    "slug": "the-isle-resource-visibility-guide",
+    "image": "/images/blog/isle-resources.webp",
+    "imageAlt": "Agua y frutas en un entorno boscoso de The Isle, que ilustra los ejemplos de recursos de la guía.",
+    "desc": "El resumen proporcionado menciona el agua, los cadáveres y la fruta como ejemplos de recursos. Esta guía mantiene esos ejemplos claros y los separa de los controles no verificados.",
+    "metaTitle": "Visibilidad de los recursos de la isla: agua, cadáveres y frutas",
+    "metaDescription": "El resumen del producto Isle menciona señales de recursos visuales para agua, cadáveres y frutas. Conozca qué respalda esa redacción y qué detalles aún necesitan confirmación.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
     "body": [
       {
         "type": "p",
-        "text": "La pestaña aimbot en el menú de trucos de The Isle tiene muchas opciones, y la mayoría de ellas son útiles solo si comprendes qué cambian. Este es un tutorial de las opciones principales, basado en las opciones enumeradas para los trucos de The Isle."
+        "text": "La descripción proporcionada de The Isle Cheats menciona señales visuales para encontrar recursos, incluyendo agua, cadáveres y frutas. Esos ejemplos encajan en el entorno de supervivencia del juego, donde la atención y la paciencia son importantes durante un largo período de crecimiento. También brindan a los lectores una forma concreta de comprender a qué se refiere \"visibilidad de recursos\" en el resumen del producto."
       },
       {
         "type": "h2",
-        "text": "Lo básico: tecla de puntería y campo de visión"
+        "text": "Los tres ejemplos del resumen."
       },
       {
         "type": "p",
-        "text": "Habilitar puntería activa la función y la tecla de puntería decide cuándo se activa. La mayoría de la gente lo vincula a un botón del mouse que ya presionan cuando pelean, por lo que se siente natural."
+        "text": "El agua es uno de los recursos nombrados. El resumen dice que la herramienta puede ayudar a mostrar información visual sobre el agua, pero no describe un mapa, un marcador exacto, una medición de distancia o cómo se representan las ubicaciones del agua. Mantenga esos detalles abiertos a menos que la lista de productos actual los explique."
       },
       {
         "type": "p",
-        "text": "FOV es el círculo alrededor de la mira en el que se pueden seleccionar los objetivos. Puedes dibujarlo en la pantalla, establecer su tamaño, colorearlo y hacerlo dinámico. Un campo de visión más pequeño significa que el aimbot solo reacciona a objetivos cerca de donde ya estás mirando. Un campo de visión grande significa que puede atrapar a personas alejadas de su punto de mira, lo cual es más poderoso pero también parece mucho más obvio para cualquiera que lo mire."
+        "text": "Los cadáveres son otro ejemplo. El texto suministrado se refiere al hallazgo de cadáveres carnosos. Ese es el alcance de los detalles respaldados por las fuentes aquí. No especifica si la función identifica la edad, la cantidad, el historial de ubicación o cualquier otra propiedad. Evite agregar esas afirmaciones a una guía o tarjeta de producto."
+      },
+      {
+        "type": "p",
+        "text": "La fruta es el tercer ejemplo. El resumen se refiere a frutas raras en lugares remotos. No nombra tipos de frutas en particular ni promete que se destaque cada elemento. La descripción cuidadosa es simplemente que la fruta se encuentra entre los ejemplos dados para la visibilidad de los recursos."
       },
       {
         "type": "h2",
-        "text": "Distancia y visibilidad"
+        "text": "Separar ejemplos de suposiciones"
       },
       {
         "type": "p",
-        "text": "La distancia máxima del aimbot limita la distancia a la que apuntará. Los enfrentamientos de The Isle varían enormemente entre mapas, por lo que un valor más bajo se adapta a mapas interiores pesados y uno más alto a los abiertos."
+        "text": "Los nombres de las funciones pueden invitar a los lectores a asumir más de lo que realmente dice una fuente. Una referencia a la visibilidad de los recursos no confirma que aparezcan todos los objetos, que la pantalla funcione en todos los servidores o que exista un filtro o control de distancia específico. Esos detalles pertenecen a una especificación verificada, no a un artículo explicativo elaborado a partir de un breve resumen."
       },
       {
         "type": "p",
-        "text": "Only Visible le dice al aimbot que ignore los objetivos que en realidad no puede ver. Actívalo si quieres un comportamiento que se acerque más a lo que podría ver un jugador normal. Déjelo apagado y le pedirá a la herramienta que rastree la cubierta."
+        "text": "Los lectores que comparen información pueden utilizar una lista de verificación simple: identificar los objetos nombrados explícitamente, anotar los controles realmente descritos y anotar las preguntas sin respuesta. Si un detalle es importante, consulte la información actual del producto en lugar de tomar prestado el lenguaje de otro juego u otra herramienta."
       },
       {
         "type": "h2",
-        "text": "Selección de objetivos y compañeros de equipo."
+        "text": "Por qué ayuda una redacción precisa"
       },
       {
         "type": "p",
-        "text": "La selección de objetivos decide quién es elegido cuando hay más de una persona dentro del alcance. Las opciones de compañeros de equipo te permiten marcar a tus compañeros de equipo para no señalarlos, con un vínculo para agregar un compañero de equipo rápidamente. Si juegas en grupos, configura esto antes de la incursión, no durante la misma."
-      },
-      {
-        "type": "h2",
-        "text": "Huesos: hueso inteligente, hueso de fuerza y prioridad"
+        "text": "El alcance claro hace que una característica sea más fácil de entender. El agua, los cadáveres y la fruta son ejemplos útiles porque el resumen proporcionado los nombra. Una lista más larga puede parecer más completa, pero crearía expectativas que no están respaldadas por la descripción disponible."
       },
       {
         "type": "p",
-        "text": "Smart Bone le permite al aimbot elegir de una lista de partes del cuerpo, y la opción de prioridad le permite clasificarlas. El hueso de fuerza lo bloquea a uno. En un juego donde la armadura y la munición deciden las peleas, elegir huesos deliberadamente es más importante que dejarlo por defecto."
-      },
-      {
-        "type": "h2",
-        "text": "Extras que vale la pena conocer"
-      },
-      {
-        "type": "ul",
-        "items": [
-          "La predicción tiene en cuenta el movimiento del objetivo.",
-          "El bloqueo de objetivo te mantiene en un objetivo una vez elegido.",
-          "Muestra el objetivo y el color del objetivo resaltado quién está seleccionado actualmente.",
-          "Dibujar el punto de mira le brinda un punto de referencia claro.",
-          "Los rastreadores de balas muestran hacia dónde van tus disparos, lo que ayuda a la hora de ajustar una configuración.",
-          "El golpe instantáneo existe como opción, pero es la configuración más agresiva de la lista."
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "Una forma sensata de crear una configuración"
-      },
-      {
-        "type": "p",
-        "text": "Empiece poco a poco. Elija un campo de visión modesto, active Solo visible, establezca una distancia que se adapte a su mapa habitual y utilice hueso inteligente con una lista corta. Cambie una configuración a la vez y pruébela. Guarde el resultado en el sistema de configuración, que admite guardar, cargar, importar y exportar."
-      },
-      {
-        "type": "p",
-        "text": "Las configuraciones que parecen descaradas tienden a llamar la atención de otros jugadores y ninguna configuración elimina el riesgo por completo. Hacer trampa en un juego en línea puede dar lugar a baneos, así que crea tu configuración teniendo eso en cuenta."
-      },
-      {
-        "type": "h2",
-        "text": "donde conseguirlo"
-      },
-      {
-        "type": "p",
-        "text": "Si desea el menú completo de aimbot junto con ESP y herramientas varias, consulte [The Isle aimbot options](/cheats/). Se vende solo para incursiones principales y utiliza una clave separada de Legacy, y se requiere el componente branch compatibility para una funcionalidad completa. Combínalo con [loot ESP filters](/blog/isle-loot-esp-filters-price-category-containers/) y lee [the current game protection system consideraciones](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) antes de atacar."
+        "text": "Para conocer el conjunto más amplio de categorías de funciones, lea [The Isle Cheats overview](/blog/the-isle-cheats-product-summary-overview/). Mantenga la distinción simple: esta guía explica los ejemplos de recursos en el resumen; la lista de productos debe proporcionar cualquier detalle verificado adicional."
       }
     ]
   },
   {
-    "tag": "Guías del comprador",
-    "title": "Precio de trucos The Isle: mensual o de por vida",
-    "slug": "the-isle-cheats-price-monthly-vs-lifetime",
-    "image": "/images/gameplay/isle-esp-enemies-through-concrete-wall.webp",
-    "imageAlt": "The Isle engaña a las opciones de planes mensuales y de por vida",
-    "desc": "¿Mensual o vitalicio? Aquí están los precios, el punto de equilibrio y las cosas adicionales que debe verificar antes de pagar.",
-    "metaTitle": "Precio de trucos The Isle: mensual o de por vida",
-    "metaDescription": "Mensual $35 y de por vida $150, con las mismas funciones. Cuándo conviene cada uno y qué revisar antes de comprar.",
-    "date": "2026-10-15",
-    "readTime": "5 min de lectura",
-    "featured": true,
+    "tag": "Características",
+    "title": "Aimbot en The Isle: lo que respalda el resumen",
+    "slug": "the-isle-aimbot-feature-overview",
+    "image": "/images/blog/isle-pvp.webp",
+    "imageAlt": "La escena del dinosaurio de Isle utilizada para ilustrar la descripción general de la función aimbot.",
+    "desc": "El resumen proporcionado enumera aimbot como una categoría de características amplia. No documenta entornos, lógica de objetivos ni resultados específicos.",
+    "metaTitle": "The Isle Aimbot: descripción general de las funciones basadas en fuentes",
+    "metaDescription": "Aimbot aparece mencionado en el resumen del producto The Isle. Vea lo que se puede afirmar de esa fuente y qué controles requieren confirmación.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
     "body": [
       {
         "type": "p",
-        "text": "Si está buscando trucos de The Isle, el precio es probablemente una de las primeras cosas que desea responder. Aquí están los números reales y cómo decidir entre los dos planes."
+        "text": "Aimbot aparece en el resumen proporcionado de The Isle Cheats. Eso confirma que la categoría de característica es parte de la descripción del producto. No les dice a los lectores qué controles están disponibles, cómo funciona la orientación o cómo se comporta la función en diferentes situaciones. Esta guía mantiene ese límite claro."
       },
       {
         "type": "h2",
-        "text": "los dos planes"
-      },
-      {
-        "type": "table",
-        "headers": [
-          "Planificar",
-          "Acceso",
-          "Precio"
-        ],
-        "rows": [
-          [
-            "Mensual",
-            "31 days",
-            "$35"
-          ],
-          [
-            "Toda la vida",
-            "Acceso ilimitado",
-            "$150 once"
-          ]
-        ]
+        "text": "Lo que dice la fuente"
       },
       {
         "type": "p",
-        "text": "Ambos planes incluyen las mismas características. No estás pagando más por herramientas adicionales. La única diferencia es cuánto tiempo tienes acceso."
+        "text": "El resumen coloca a aimbot junto con wallhack, visibilidad de recursos y radar. No proporciona ninguna captura de pantalla del menú ni especificaciones técnicas para el aimbot. Como resultado, una descripción general confiable puede explicar el papel del término en el resumen del producto, pero no debe presentar una lista inventada de configuraciones."
+      },
+      {
+        "type": "p",
+        "text": "El texto proporcionado no establece controles específicos, comportamiento de orientación ni límites de funciones. Los detalles de otros productos pueden resultar familiares, pero no se pueden atribuir a este a partir de la fuente disponible. Consulte la descripción actual del producto para conocer cualquier capacidad que sea importante para su decisión."
       },
       {
         "type": "h2",
-        "text": "Cuando mensualmente tiene sentido"
+        "text": "Preguntas a responder antes de confiar en una etiqueta de característica"
       },
       {
         "type": "p",
-        "text": "Mensualmente es la forma de comenzar con menor riesgo. Si está probando el truco en su propia configuración, solo juega en ráfagas cortas o no está seguro de permanecer con The Isle hasta la próxima eliminación, $ 35 por 31 días mantiene su compromiso pequeño."
+        "text": "Cuando un listado utiliza un término amplio, los lectores pueden comprobar si la descripción completa responde a preguntas prácticas. ¿Explica los controles disponibles de la función? ¿Define alguna limitación? ¿Dice a qué rama del juego se aplica la función? Si faltan estos detalles, regístrelos como sin respuesta en lugar de asumir que la función se comporta como una herramienta con un nombre similar en otro lugar."
+      },
+      {
+        "type": "p",
+        "text": "Esto es especialmente relevante para The Isle porque el resumen proporcionado distingue a Evrima y Legacy. El resumen no conecta una versión o comportamiento particular de aimbot con ninguna de las ramas. Un nombre de característica amplio no debe tratarse como una declaración de compatibilidad."
       },
       {
         "type": "h2",
-        "text": "Cuando la vida tiene sentido"
+        "text": "Mantenga las afirmaciones vinculadas a la evidencia"
       },
       {
         "type": "p",
-        "text": "La matemática es simple. Cuatro meses de acceso mensual cuestan $140. El quinto mes te lleva más de $150. Si esperas utilizar el truco durante cinco meses o más, la opción de por vida es más barata y dejas de pensar en renovaciones."
+        "text": "Un artículo puede resultar útil sin pretender saber más que su fuente. En este caso, el punto confirmado es limitado: aimbot aparece mencionado en el resumen del producto suministrado. La configuración exacta y los detalles de rendimiento necesitan una especificación de producto actualizada y aprobada antes de poder agregarlos."
       },
       {
         "type": "p",
-        "text": "Lifetime también se adapta a las personas que juegan constantemente entre toallitas y no quieren volver a comprar."
-      },
-      {
-        "type": "h2",
-        "text": "¿Qué más necesitas saber antes de pagar?"
-      },
-      {
-        "type": "p",
-        "text": "DMA en la nube.[branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) se requiere para una funcionalidad completa y es una compra separada de los planes mensuales y de por vida. Haga un presupuesto por adelantado para que no haya sorpresas."
-      },
-      {
-        "type": "p",
-        "text": "Sólo incursiones. Este producto es para las principales incursiones de The Isle. Utiliza una clave separada de Legacy, por lo que una compra aquí no cubre Legacy."
-      },
-      {
-        "type": "p",
-        "text": "Tu PC. Necesita Windows 10 u 11 con HVCI, Core Isolation, TPM y Secure Boot activados. Nuestro [requisitos del sistema](/blog/how-to-set-up-the-isle-cheats-requirements/) cubre esto con más detalle."
-      },
-      {
-        "type": "p",
-        "text": "Entrega y soporte. La entrega es instantánea después de la compra y obtienes un cargador para usar. Si algo sale mal, puede abrir un ticket en el sitio con su ID de pedido."
-      },
-      {
-        "type": "p",
-        "text": "Después de parches. Consulta la página de estado después de los parches principales antes de iniciar una incursión."
-      },
-      {
-        "type": "h2",
-        "text": "¿Qué está incluido en el precio?"
-      },
-      {
-        "type": "p",
-        "text": "El conjunto de características cubre ESP del jugador con caja, esqueleto, salud, distancia y más, ESP de botín con filtros de precio y categoría, un aimbot con FOV, opciones de huesos y visibilidad, sin retroceso y otras opciones misceláneas, y un sistema de configuración para guardar y compartir configuraciones. También se describe como resistente a la transmisión para la mayoría de las herramientas de captura."
-      },
-      {
-        "type": "h2",
-        "text": "Listo para comprar"
-      },
-      {
-        "type": "p",
-        "text": "Si ha hecho su elección, diríjase a la página [comprar trucos de The Isle](/go/the-isle/) para elegir mensual o de por vida. Si está indeciso, comience mensualmente. Siempre puedes decidir comprometerte más tarde."
+        "text": "Para conocer los otros nombres de funciones de alto nivel, consulte [The Isle Cheats product overview](/blog/the-isle-cheats-product-summary-overview/). Antes de tomar una decisión, utilice los detalles actuales del producto para cualquier duda que dependa de controles específicos o cobertura de sucursales. Esto mantiene clara para los lectores la distinción entre una categoría de característica y una especificación completa."
       }
     ]
   },
   {
-    "tag": "Guías del comprador",
-    "title": "The Isle branch compatibility explicado: qué es y si lo necesitas",
-    "slug": "isle-cloud-dma-explained-do-you-need-it",
-    "image": "/images/gameplay/isle-esp-daylight-player-highlights.webp",
-    "imageAlt": "Diagrama de configuración de trucos de The Isle con conexión branch compatibility",
-    "desc": "branch compatibility aparece en casi todas las conversaciones sobre trampas de The Isle. Esto es lo que es y dónde encaja en su compra.",
-    "metaTitle": "The Isle branch compatibility explicado: ¿lo necesitas?",
-    "metaDescription": "branch compatibility es necesario para la función completa de los trucos de The Isle y cómo encaja en los planes.",
-    "date": "2026-06-04",
-    "readTime": "6 min de lectura",
+    "tag": "Características",
+    "title": "Señales visuales en la isla: comprensión de la descripción de Wallhack",
+    "slug": "the-isle-visual-cues-wallhack-overview",
+    "image": "/images/blog/isle-night.webp",
+    "imageAlt": "Una silueta de depredador entre los árboles en The Isle, que representa el ejemplo de señal visual en el resumen.",
+    "desc": "El resumen proporcionado nombra a wallhack y proporciona, como ejemplo, señales visuales para un depredador que se acerca. No especifica más comportamiento.",
+    "metaTitle": "The Isle Wallhack: lo que describe el resumen",
+    "metaDescription": "El resumen del producto Isle menciona wallhacks y señales visuales para un depredador que se acerca. Revisar el alcance indicado sin asumir funciones extra.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
     "body": [
       {
         "type": "p",
-        "text": "Si has mirado los trucos de The Isle durante más de cinco minutos, habrás visto el término DMA. branch compatibility es la versión que aparece en todos nuestros productos y vale la pena comprenderla antes de comprar."
+        "text": "El resumen del producto suministrado nombra wallhack y describe señales visuales que pueden mostrar un depredador que se acerca. Ese ejemplo conecta la función con una parte central del entorno de supervivencia de The Isle: prestar atención al medio ambiente. No proporciona una descripción técnica completa de la función, por lo que este artículo se limita al ejemplo indicado."
       },
       {
         "type": "h2",
-        "text": "DMA en términos sencillos"
+        "text": "Una señal visual, descrita cuidadosamente."
       },
       {
         "type": "p",
-        "text": "DMA significa acceso directo a la memoria. En el mundo de las trampas, una configuración DMA tradicionalmente significa usar hardware separado para leer los datos del juego en lugar de ejecutar todo dentro de la misma máquina que el juego. Ese enfoque es popular porque The Isle usa the current game protection system, que opera a nivel de kernel."
+        "text": "El ejemplo del resumen es sencillo: una señal puede mostrar un depredador que se acerca. No dice cómo aparece la señal, a qué distancia funciona, si se aplica a todas las criaturas o si funciona a través del terreno. Evite convertir la etiqueta de característica amplia en una promesa detallada sobre visibilidad."
+      },
+      {
+        "type": "p",
+        "text": "La distinción es importante porque los lectores a menudo asignan un término familiar a controles y comportamientos que han visto en otros lugares. El nombre de una característica por sí solo no confirma una interfaz específica o un resultado particular. La información actual del producto debería responder esas preguntas si son compatibles y están disponibles."
       },
       {
         "type": "h2",
-        "text": "Dónde encaja branch compatibility"
+        "text": "Mantenga el contexto del juego a la vista"
       },
       {
         "type": "p",
-        "text": "branch compatibility es la opción alojada que figura en [Trucos de The Isle con branch compatibility](/cheats/). El producto incluye branch compatibility en su conjunto de funciones y se describe como necesario para una funcionalidad completa. Si busca pasos exactos sobre cómo se realiza la conexión, estos se proporcionan después de la compra a través de la guía y los canales de soporte, así que siga las instrucciones actuales en lugar de confiar en los consejos generales de Internet."
+        "text": "The Isle se describe en el resumen suministrado como un juego de supervivencia en línea donde la atención y la paciencia son importantes. Una señal visual de un depredador que se acerca se presenta como información relacionada con la conciencia en ese entorno. El resumen no dice qué efecto, si alguno, tiene la señal en el resultado de una sesión."
+      },
+      {
+        "type": "p",
+        "text": "Al leer las descripciones de las funciones, separe el ejemplo del resultado que podría esperar. “Muestra una señal” es una descripción de información. “Evita una pérdida” sería una afirmación de resultado, y la fuente no lo establece. Esta simple distinción mantiene una descripción general útil sin exagerar lo que puede hacer la función."
       },
       {
         "type": "h2",
-        "text": "Cómo se relaciona con el plan que compras"
+        "text": "Qué confirmar en los detalles del producto."
       },
       {
         "type": "p",
-        "text": "Esta parte hace tropezar a la gente. Los [plans](/blog/the-isle-cheats-price-monthly-vs-lifetime/) mensuales y de por vida cubren el truco en sí. branch compatibility es una compra por separado. Por lo tanto, el costo total de ejecutar el producto con todas las funciones es el plan que elija más branch compatibility."
-      },
-      {
-        "type": "h2",
-        "text": "¿Lo necesitas?"
+        "text": "Si el comportamiento exacto es importante, verifique si la descripción de la función actual explica lo que aparece en la pantalla, qué entidades están incluidas y qué rama está cubierta. Si la lista no lo dice, trata el punto como desconocido en lugar de tomar prestada una configuración de un juego diferente."
       },
       {
         "type": "p",
-        "text": "Si quieres funcionalidad completa, sí. La página del producto indica que se requiere branch compatibility para una funcionalidad completa. Si sólo desea echar un vistazo al menú, es posible que no necesite apresurarse, pero no obtendrá la experiencia completa sin él."
-      },
-      {
-        "type": "h2",
-        "text": "Lo que tu PC aún necesita"
-      },
-      {
-        "type": "p",
-        "text": "branch compatibility no elimina los requisitos de su propio sistema. El producto solicita Windows 10 u 11 con HVCI, Core Isolation, TPM y Secure Boot activados. Lea nuestra [lista de verificación de configuración](/blog/how-to-set-up-the-isle-cheats-requirements/) para obtener una lista de verificación completa."
-      },
-      {
-        "type": "h2",
-        "text": "Preguntas para hacer al soporte antes de comprar"
-      },
-      {
-        "type": "p",
-        "text": "Si no está seguro, pregunte antes de pagar, no después. Buenas preguntas son cuál es el orden de configuración actual, qué hacer después de un parche y qué información incluir en un ticket. El soporte está disponible a través de un ticket en el sitio. Incluya su ID de pedido cuando se comunique con ellos."
-      },
-      {
-        "type": "h2",
-        "text": "Siguiente paso"
-      },
-      {
-        "type": "p",
-        "text": "Una vez que sepa lo que está comprando, la página [The Isle trucos con branch compatibility](/cheats/) muestra ambos planes y el requisito de branch compatibility. Recuerde que el producto es solo para incursiones principales y utiliza una clave separada de Legacy."
-      }
-    ]
-  },
-  {
-    "tag": "Anti-trampas",
-    "title": "the current game protection system y trucos de The Isle: lo que debes saber",
-    "slug": "the current game protection system-and-the-isle-cheats-what-to-know",
-    "image": "/images/gameplay/isle-esp-night-vision-skeletons.webp",
-    "imageAlt": "Pantalla de carga anti-trampas de the current game protection system para The Isle",
-    "desc": "the current game protection system es el anti-trampas detrás de The Isle. A continuación se ofrece una explicación directa de qué es, cuáles son los riesgos y cómo abordarlo con sensatez.",
-    "metaTitle": "the current game protection system y trucos de The Isle: lo que debes saber",
-    "metaDescription": "the current game protection system en The Isle: qué implica para quien usa trucos, por qué mirar el estado tras un parche y qué hacer si hay un baneo.",
-    "date": "2026-09-07",
-    "readTime": "6 min de lectura",
-    "body": [
-      {
-        "type": "p",
-        "text": "The Isle usa the current game protection system como anti-trampas. Si estás pensando en utilizar trampas en el juego, debes entender lo que eso significa."
-      },
-      {
-        "type": "h2",
-        "text": "¿Qué es BattleEye?"
-      },
-      {
-        "type": "p",
-        "text": "the current game protection system es un anti-trampas a nivel de kernel. Eso significa que se ejecuta con acceso profundo a su sistema y se usa en varios juegos. En The Isle, es la capa principal que intenta detectar el software tramposo."
-      },
-      {
-        "type": "h2",
-        "text": "Qué significa esto para los usuarios de trampas"
-      },
-      {
-        "type": "p",
-        "text": "Seamos directos. No existe ningún truco que elimine el riesgo de baneo, y cualquier vendedor que le diga lo contrario está sobrevendiendo. Los proveedores antitrampas actualizan sus parches de detección y juegos. Lo que puede hacer es utilizar un producto que se mantenga activamente y abordarlo con cuidado."
-      },
-      {
-        "type": "p",
-        "text": "Es por eso que la página del producto le indica que verifique la página de estado después de los parches antes de cargarlos. Si acaba de llegar un parche, espere a que se actualice el estado."
-      },
-      {
-        "type": "h2",
-        "text": "Por qué difieren las baneos de cuentas y las baneos de hardware"
-      },
-      {
-        "type": "p",
-        "text": "Algunas baneos se aplican a su cuenta. Otros vinculan la penalización a sus identificadores de hardware. Un baneo de hardware sigue a tu PC, no sólo a tu inicio de sesión, lo que lo hace mucho más perjudicial. Cubrimos esto en detalle en nuestro artículo [HWID ban](/blog/isle-hwid-ban-how-hwid-spoofer-works/)."
-      },
-      {
-        "type": "h2",
-        "text": "Hábitos que reducen tu exposición"
-      },
-      {
-        "type": "p",
-        "text": "Estos son puntos prácticos, no garantías."
-      },
-      {
-        "type": "ul",
-        "items": [
-          "Mantenga su configuración modesta. El comportamiento obvio genera informes de otros jugadores.",
-          "Siga exactamente la guía de configuración actual y no se salte los pasos.",
-          "Cumpla con los requisitos del sistema enumerados para el producto, incluidos HVCI, Core Isolation, TPM y Secure Boot.",
-          "Verifique el estado después de cada parche grande.",
-          "No comparta su cargador ni los detalles del pedido."
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "Si ocurre un baneo"
-      },
-      {
-        "type": "p",
-        "text": "Si su cuenta está prohibida, esa cuenta desaparecerá y necesitará una nueva. Si su hardware está marcado, una falsificación de hardware es una forma en que las personas intentan regresar con una huella digital de hardware nueva. Nuestro [HWID spoofer](/hwid-spoofer/) enumera The Isle bajo los títulos de the current game protection system e incluye un limpiador."
-      },
-      {
-        "type": "h2",
-        "text": "tomando la decisión"
-      },
-      {
-        "type": "p",
-        "text": "Hacer trampa conlleva riesgos y debes decidir teniendo eso en cuenta. Si decides seguir adelante, los [trucos de The Isle](/cheats/) se venden para incursiones principales con ESP, aimbot y funciones varias, y [branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) es necesario para una funcionalidad completa. El soporte está disponible por ticket si necesita ayuda con el proceso actual."
-      }
-    ]
-  },
-  {
-    "tag": "Ayuda con baneos",
-    "title": "Baneo de HWID en The Isle: qué es y cómo funciona un HWID spoofer",
-    "slug": "isle-hwid-ban-how-hwid-spoofer-works",
-    "image": "/images/gameplay/isle-esp-enemies-through-concrete-wall.webp",
-    "imageAlt": "Interfaz de falsificación HWID para juegos the current game protection system, incluido The Isle",
-    "desc": "Un baneo de HWID sigue a su hardware, no solo a su cuenta. Así es como funciona y para qué está diseñado un spoofer con limpiador.",
-    "metaTitle": "Baneo de HWID en The Isle: cómo funciona un HWID spoofer",
-    "metaDescription": "¿Afectado por un baneo de The Isle HWID? Conozca qué es, qué cambia un spoofer, qué hace el limpiador y los requisitos y precios de nuestro HWID Spoofer.",
-    "date": "2026-05-17",
-    "readTime": "7 min de lectura",
-    "body": [
-      {
-        "type": "p",
-        "text": "Un baneo de HWID es una de las cosas más frustrantes que pueden suceder en The Isle, porque no se limita a su cuenta. Esto es lo que es y cómo encaja un suplantador de identidad."
-      },
-      {
-        "type": "h2",
-        "text": "¿Qué es un baneo de HWID?"
-      },
-      {
-        "type": "p",
-        "text": "HWID significa ID de hardware. Un baneo de HWID vincula el castigo a los identificadores de su PC, como los números de serie del disco, las direcciones MAC y los ID de GPU, en lugar de solo a su cuenta. Es por eso que crear una cuenta nueva a menudo no soluciona el problema. El juego todavía reconoce la máquina."
-      },
-      {
-        "type": "h2",
-        "text": "Que cambia un spoofer"
-      },
-      {
-        "type": "p",
-        "text": "Un spoofer cambia esos identificadores de hardware para que su PC presente una huella digital diferente. El [HWID spoofer](/hwid-spoofer/) está diseñado para esto y cambia los números de serie del disco, las direcciones MAC, los ID de GPU y los identificadores relacionados."
-      },
-      {
-        "type": "h2",
-        "text": "Para que sirve el limpiador"
-      },
-      {
-        "type": "p",
-        "text": "La suplantación de hardware por sí sola no siempre es suficiente, ya que pueden quedar rastros sobrantes en su sistema. El spoofer incluye un limpiador que elimina esos rastros antes de que vuelvas a iniciar el juego. Ejecutar la limpieza es parte del proceso, no un extra opcional."
-      },
-      {
-        "type": "h2",
-        "text": "¿Se apoya a The Isle?"
-      },
-      {
-        "type": "p",
-        "text": "Sí. The Isle aparece en [the current game protection system](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) títulos, y el producto indica que la suplantación de identidad está bien en todos los juegos de the current game protection system. También enumera soporte para títulos EAC, juegos Ricochet, Valorant a través de Vanguard y otros."
-      },
-      {
-        "type": "h2",
-        "text": "Un límite honesto"
-      },
-      {
-        "type": "p",
-        "text": "Un spoofer se ocupa de identificadores de hardware. No deshace el baneo de una cuenta. Si tu cuenta ha sido baneada, necesitarás una cuenta nueva para jugar. Y ninguna herramienta garantiza un resultado, así que siga de cerca la guía actual."
-      },
-      {
-        "type": "h2",
-        "text": "Requisitos antes de empezar"
-      },
-      {
-        "type": "ul",
-        "items": [
-          "Windows 10 u 11, 64 bits",
-          "HVCI, Core Isolation, TPM y Secure Boot activados",
-          "Derechos de administrador para los pasos de suplantación y limpieza",
-          "Una conexión a Internet estable para activación y actualizaciones."
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "El orden importa"
-      },
-      {
-        "type": "p",
-        "text": "Ejecute el spoofing y la limpieza antes de iniciar el juego y siga las instrucciones actuales en su cuenta o canal de tickets para la secuencia exacta. Si no estás seguro de algún paso, solicita asistencia antes de iniciar el juego."
-      },
-      {
-        "type": "h2",
-        "text": "Precios"
-      },
-      {
-        "type": "p",
-        "text": "El HWID Spoofer cuesta $50 mensuales durante 31 días, o $150 por acceso de por vida. La entrega es instantánea y el soporte está disponible las 24 horas."
-      },
-      {
-        "type": "h2",
-        "text": "Siguiente paso"
-      },
-      {
-        "type": "p",
-        "text": "Si ha sido afectado por un baneo de hardware o quiere estar preparado, consulte [HWID spoofer](/hwid-spoofer/). Si también estás mirando el truco en sí, los [Trucos de The Isle](/cheats/) están disponibles por separado."
+        "text": "El resumen del producto también menciona aimbot, visibilidad de recursos y radar. Sus descripciones de alto nivel se recopilan en [the feature overview](/blog/the-isle-cheats-product-summary-overview/). Este artículo se centra únicamente en el ejemplo de señal visual y no agrega afirmaciones sobre su rendimiento."
       }
     ]
   },
   {
     "tag": "Guías de configuración",
-    "title": "Cómo configurar trucos de The Isle: requisitos y solución de problemas",
-    "slug": "how-to-set-up-the-isle-cheats-requirements",
-    "image": "/images/gameplay/isle-esp-daylight-player-highlights.webp",
-    "imageAlt": "Lista de verificación de configuración de seguridad de Windows para la configuración de trucos de The Isle",
-    "desc": "La mayoría de los problemas de configuración provienen de una breve lista de causas. Aquí está la lista de verificación y qué hacer cuando las cosas no funcionan.",
-    "metaTitle": "Requisitos y checklist de configuración de trucos de The Isle",
-    "metaDescription": "Lista de setup para trucos de The Isle: Windows, HVCI, Core Isolation, TPM, Secure Boot, loader y branch compatibility.",
-    "date": "2026-06-12",
-    "readTime": "6 min de lectura",
+    "title": "The Isle es solo en línea: comprensión del contexto multijugador",
+    "slug": "the-isle-online-only-multiplayer-context",
+    "image": "/images/blog/isle-survival.webp",
+    "imageAlt": "Los dinosaurios de los jugadores comparten un entorno en línea de The Isle",
+    "desc": "The Isle se describe como completamente en línea, sin una campaña para un jugador. Esta guía explica ese contexto y por qué es importante la información específica del servidor.",
+    "metaTitle": "The Isle solo en línea: explicación del contexto multijugador",
+    "metaDescription": "La descripción proporcionada presenta The Isle como un juego en línea con servidores personalizados. Descubra lo que significa ese contexto para evaluar la información del juego y del servidor.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
     "body": [
       {
         "type": "p",
-        "text": "La mayoría de los problemas que tiene la gente para hacer funcionar los trucos de The Isle provienen de una breve lista de causas. Primero revise esta lista de verificación."
+        "text": "La descripción proporcionada presenta The Isle como un juego completamente en línea sin campaña para un solo jugador. También menciona los servidores personalizados y los factores humanos que pueden afectar una sesión en línea. Estos detalles dan forma al entorno en el que los jugadores experimentan el juego, pero no deben ampliarse a afirmaciones sobre cada servidor o cada administrador."
       },
       {
         "type": "h2",
-        "text": "Requisitos del sistema"
-      },
-      {
-        "type": "ul",
-        "items": [
-          "ventanas 10 u 11",
-          "Procesador Intel o AMD",
-          "HVCI encendido",
-          "Aislamiento de núcleo activado",
-          "TPM activado",
-          "Arranque seguro activado",
-          "Una conexión a Internet estable"
-        ]
+        "text": "El juego en línea tiene un contexto compartido"
       },
       {
         "type": "p",
-        "text": "Estas configuraciones se enumeran en la página del producto, así que no asuma que puede omitirlas."
+        "text": "En un juego en línea, una sesión se desarrolla en un entorno conectado con otros participantes. El resumen señala específicamente los servidores personalizados. Su presencia significa que los jugadores pueden encontrar diferentes comunidades y expectativas específicas del servidor. La descripción no proporciona una lista completa de las reglas del servidor, por lo que los jugadores deben leer la información proporcionada por el servidor que elijan."
+      },
+      {
+        "type": "p",
+        "text": "El resumen también menciona las interrupciones de la red como una posible interrupción. No indica con qué frecuencia ocurren ni qué las causa. Trate esto como un recordatorio de que las sesiones en línea dependen de una conexión, no como una medida de confiabilidad o una promesa sobre lo que sucederá durante el juego."
       },
       {
         "type": "h2",
-        "text": "lo que recibes"
+        "text": "Considere el tiempo invertido"
       },
       {
         "type": "p",
-        "text": "Después de la compra, recibirá la entrega inmediatamente junto con el acceso al cargador. El producto es para las incursiones principales de The Isle y utiliza una clave separada de Legacy, así que asegúrese de comprar la correcta."
+        "text": "El ciclo de supervivencia descrito en la isla implica el crecimiento de un dinosaurio con el tiempo. Cuando una sesión representa una inversión significativa, es sensato comprender el entorno del juego antes de unirse. Verifique en qué rama desea jugar, lea la información publicada en el servidor y asegúrese de comprender las expectativas de esa comunidad."
+      },
+      {
+        "type": "p",
+        "text": "Estos son pasos generales de preparación. No pueden determinar cómo se desarrollará una sesión en particular. La propia descripción proporcionada enfatiza la atención y la paciencia. Conocer el contexto ayuda al jugador a tomar una decisión informada sobre dónde pasar el tiempo."
       },
       {
         "type": "h2",
-        "text": "branch compatibility"
+        "text": "Separar el contexto de las afirmaciones del producto"
       },
       {
         "type": "p",
-        "text": "[branch compatibility](/blog/isle-cloud-dma-explained-do-you-need-it/) es necesario para una funcionalidad completa y se compra por separado de los planes mensuales y de por vida. Si parece que faltan funciones, primero confirme esta parte de su configuración."
+        "text": "La naturaleza exclusiva en línea de The Isle no establece si un producto de terceros funciona en un servidor o sucursal en particular. El resumen del producto proporcionado nombra categorías amplias de características, pero no especifica la compatibilidad servidor por servidor. No infieras que una función es compatible en todas partes porque el juego está en línea o porque el servidor es personalizado."
+      },
+      {
+        "type": "p",
+        "text": "Para conocer el contexto de la rama, lea [the Evrima and Legacy overview](/blog/the-isle-evrima-legacy-overview/). Para conocer los riesgos de crecimiento del juego, consulte [the survival guide](/blog/the-isle-growth-and-survival-guide/). Mantenga las reglas del servidor y la compatibilidad del producto como preguntas separadas y verifique cada una a partir de la información actual relevante."
+      }
+    ]
+  },
+  {
+    "tag": "Guías del comprador",
+    "title": "The Isle Evrima vs Legacy: una descripción general de la rama de alto nivel",
+    "slug": "the-isle-evrima-legacy-overview",
+    "image": "/images/blog/isle-growth.webp",
+    "imageAlt": "Dos paisajes contrastantes de The Isle que representan las ramas Evrima y Legacy",
+    "desc": "La descripción proporcionada trata a Evrima y Legacy como ramas distintas. Esta descripción general explica esa distinción sin asumir el soporte del producto.",
+    "metaTitle": "The Isle Evrima vs Legacy: descripción general de la sucursal",
+    "metaDescription": "La Isla tiene sucursales de Evrima y Legacy con identidades distintas. Revise las diferencias de alto nivel descritas en el resumen proporcionado.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
+    "body": [
+      {
+        "type": "p",
+        "text": "La Isla tiene dos ramas nombradas en el resumen del juego suministrado: Evrima y Legacy. La descripción los presenta como versiones distintas con identidades separadas. Esa distinción es útil para los jugadores que leen sobre el juego y es importante mantenerla separada de cualquier afirmación sobre la compatibilidad de un producto."
       },
       {
         "type": "h2",
-        "text": "Antes de cada sesión"
+        "text": "Cómo el resumen caracteriza a Evrima"
       },
       {
-        "type": "ul",
-        "items": [
-          "Consulte la página de estado, especialmente después de un parche de The Isle.",
-          "Asegúrese de que la configuración de seguridad de Windows anterior todavía esté activada, ya que las actualizaciones pueden cambiarla.",
-          "Siga la guía actual en su cuenta para el orden de lanzamiento.",
-          "Cargue en una incursión solo después de haber hecho lo anterior."
-        ]
+        "type": "p",
+        "text": "La descripción proporcionada llama a Evrima Horde la rama moderna y dice que actualiza gráficos, rendimiento, DLSS y FSR, y mecánica. Esta es una caracterización de alto nivel, no una comparación técnica ni un punto de referencia. No cuantifica el rendimiento ni explica qué configuraciones están disponibles en la computadora de un jugador."
+      },
+      {
+        "type": "p",
+        "text": "La palabra \"moderno\" en la descripción no debe considerarse como una promesa de que cada mejora visual o de rendimiento se aplica a cada configuración. La fuente no proporciona requisitos de hardware ni medidas comparativas. Los lectores que busquen esos detalles deberían consultar la información actual del juego en lugar de inferirlos a partir de una breve descripción general."
       },
       {
         "type": "h2",
-        "text": "Si algo no funciona"
+        "text": "Cómo caracteriza el resumen Legacy"
       },
       {
         "type": "p",
-        "text": "Primero verifique el estado. Si se acaba de lanzar un parche, es posible que el producto esté esperando una actualización."
-      },
-      {
-        "type": "p",
-        "text": "Vuelva a verificar la configuración de Windows. Verifique HVCI, Core Isolation, TPM y Secure Boot."
-      },
-      {
-        "type": "p",
-        "text": "Confirmar el producto. Las incursiones de The Isle y Legacy usan claves diferentes."
-      },
-      {
-        "type": "p",
-        "text": "Póngase en contacto con el soporte. Puede abrir un ticket en el sitio. Incluya su ID de pedido para que puedan encontrar su compra rápidamente. Describe lo que hiciste y lo que pasó en términos sencillos."
+        "text": "La misma descripción asocia a Legacy con los fanáticos clásicos y dice que las ramas \"viven sus propias vidas\". En términos sencillos, el resumen pide a los lectores que vean las dos ramas como experiencias distintas en lugar de etiquetas intercambiables. No proporciona una comparación característica por característica, una comparación del recuento de jugadores ni una cronología de actualizaciones."
       },
       {
         "type": "h2",
-        "text": "Consejos de configuración para nuevos usuarios"
+        "text": "Mantenga la compatibilidad del producto como una pregunta aparte"
       },
       {
         "type": "p",
-        "text": "El menú tiene un sistema de configuración que le permite guardar, cargar, importar y exportar configuraciones. Una vez que encuentre un diseño que funcione, guárdelo. Ahorra mucho tiempo después de un parche o una reinstalación."
-      },
-      {
-        "type": "h2",
-        "text": "Listo para empezar"
+        "text": "El resumen del producto suministrado menciona ambas ramas en el contexto del juego. No confirma que todas las funciones del producto funcionen en Evrima, Legacy o ambos. Una descripción general de las sucursales no puede llenar ese vacío. Consulte la información actual del producto para obtener una declaración de compatibilidad explícita antes de confiar en una."
       },
       {
         "type": "p",
-        "text": "Puedes ver [opciones de plan](/blog/the-isle-cheats-price-monthly-vs-lifetime/) y la lista completa de funciones en la página [The Isle Cheats](/cheats/). El acceso mensual cuesta $35 y el de por vida cuesta $150, con las mismas funciones en ambos."
+        "text": "Esta distinción también ayuda a evitar un error de lectura común: ver el nombre de una sucursal en un artículo general y asumir que se aplica a un producto específico. El contexto del juego describe el título. La compatibilidad describe el entorno compatible de un producto. Requieren pruebas diferentes."
+      },
+      {
+        "type": "p",
+        "text": "Para obtener una lista de verificación de lectura práctica, consulte [how to verify branch and product details](/blog/the-isle-branch-product-checklist/). Para la configuración multijugador, lea [The Isle’s online-only overview](/blog/the-isle-online-only-multiplayer-context/). Estas guías abordan preguntas relacionadas manteniendo sus afirmaciones dentro de la fuente disponible. En conjunto, ayudan a separar lo que dice la descripción del juego de lo que debe establecer una lista de productos. Esa distinción es importante siempre que una página mencione una rama sin hacer una declaración de compatibilidad explícita."
       }
     ]
   },
   {
     "tag": "Características",
-    "title": "Trucos streamproof de The Isle: qué significa para streamers y grabaciones",
-    "slug": "streamproof-isle-cheats-for-streamers",
-    "image": "/images/gameplay/isle-esp-night-vision-skeletons.webp",
-    "imageAlt": "Jugabilidad de The Isle capturada en OBS sin superposición de trucos visible",
-    "desc": "Streamproof significa que el ESP y el menú no aparecen en su captura. Esto es lo que cubre y lo que no cubre.",
-    "metaTitle": "Trucos streamproof de The Isle: OBS y grabación explicados",
-    "metaDescription": "Qué significa streamproof en los trucos de The Isle: el ESP y el menú quedan fuera de OBS y de la mayoría de capturas.",
-    "date": "2026-10-05",
-    "readTime": "6 min de lectura",
+    "title": "Crecimiento y supervivencia de la isla: por qué es importante la paciencia",
+    "slug": "the-isle-growth-and-survival-guide",
+    "image": "/images/blog/isle-radar.webp",
+    "imageAlt": "Un dinosaurio en crecimiento en un tranquilo paisaje de The Isle",
+    "desc": "La descripción proporcionada enmarca The Isle en torno al crecimiento y la supervivencia del paciente, donde perder un dinosaurio puede significar perder el progreso de una larga sesión.",
+    "metaTitle": "Crecimiento y supervivencia de la isla: por qué es importante la paciencia",
+    "metaDescription": "La isla se centra en el crecimiento y la supervivencia de los dinosaurios. Descubra por qué son importantes la atención y la paciencia durante las sesiones largas y lo que puede costar perder un dinosaurio.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
     "body": [
       {
         "type": "p",
-        "text": "Si transmites o grabas tus incursiones en The Isle, probablemente tengas una pregunta sobre los trucos: ¿alguien verá la superposición en mis imágenes? De eso se trata Streamproof."
+        "text": "La descripción proporcionada enmarca The Isle como un juego de supervivencia en el que el crecimiento de los dinosaurios lleva tiempo. La atención y la paciencia son importantes porque una sesión larga puede representar un progreso significativo, y perder un dinosaurio puede costar ese progreso. Esto le da al juego un ritmo diferente al de un partido construido en torno a un único encuentro corto."
       },
       {
         "type": "h2",
-        "text": "¿Qué significa a prueba de corriente?"
+        "text": "El crecimiento da peso a la sesión."
       },
       {
         "type": "p",
-        "text": "Streamproof significa que el ESP y el menú no se incluyen en su captura. Los trucos de The Isle se describen como resistentes a la transmisión, con ESP y menús fuera de OBS y la mayoría de las herramientas de captura. Lo que ves en tu monitor no es lo que ven tus espectadores."
-      },
-      {
-        "type": "h2",
-        "text": "Por qué es importante"
+        "text": "Cuando el progreso se desarrolla con el tiempo, cada sesión se convierte en parte de un esfuerzo más largo. El resumen enfatiza que las horas dedicadas a cultivar un dinosaurio son importantes. No proporciona duraciones exactas del crecimiento ni explica cada etapa, por lo que esos detalles no deben adivinarse. El punto central es la inversión de tiempo: los jugadores se preocupan por lo que han construido durante una sesión."
       },
       {
         "type": "p",
-        "text": "Más allá de los espectadores, las grabaciones se comparten, recortan y revisan. Si aparece una superposición en un clip, cualquiera puede verla. Mantener limpia la captura elimina ese problema en particular."
+        "text": "Esa inversión cambia la forma en que se describe el juego. La atención y la paciencia no son temas decorativos en el resumen suministrado. Son parte de su explicación de la supervivencia. Se pide al jugador que permanezca consciente del entorno y comprenda que una decisión puede afectar el progreso acumulado durante un largo período."
       },
       {
         "type": "h2",
-        "text": "Lo que no cubre"
+        "text": "La pérdida es parte de lo que está en juego"
       },
       {
         "type": "p",
-        "text": "Sea realista acerca de los límites."
-      },
-      {
-        "type": "ul",
-        "items": [
-          "La redacción es \"la mayoría de las herramientas de captura\", no todas las herramientas. Pruebe su propia configuración antes de publicarla.",
-          "Streamproof no cambia la forma en que el juego o [the current game protection system](/blog/the current game protection system-and-the-isle-cheats-what-to-know/) ve tu sistema. Sólo afecta lo que se captura en pantalla.",
-          "Tu comportamiento todavía se nota. La puntería imposible, o saber dónde están los jugadores a través de las paredes, es perceptible para los espectadores y otros jugadores."
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "Pruebe antes de publicar"
+        "text": "El resumen dice que perder un dinosaurio puede ser fácil, pero recuperarlo es difícil. No describe un proceso de recuperación ni un sistema de reaparición. La conclusión útil es más concreta: una pérdida puede tener peso debido al tiempo asociado con el crecimiento."
       },
       {
         "type": "p",
-        "text": "Realice una breve grabación de prueba antes de transmitir. Abra el menú, active ESP, grabe unos segundos y reprodúzcalo. Si aparece algo, deténgase y comuníquese con el soporte."
+        "text": "Evite convertir esa idea en una promesa de que cualquier herramienta o estrategia evitará pérdidas. La fuente no respalda tal resultado. Una guía clara puede explicar por qué es importante lo que está en juego sin pretender eliminarlo."
       },
       {
         "type": "h2",
-        "text": "Configuraciones que se adaptan a los streamers"
-      },
-      {
-        "type": "ul",
-        "items": [
-          "Mantenga la ESP al mínimo. Menos etiquetas se ven más naturales en la pantalla.",
-          "Utilice un campo de visión de aimbot modesto y solo visible, como se describe en nuestra guía [aimbot settings](/blog/isle-aimbot-settings-explained/).",
-          "Guarde una configuración compatible con la transmisión para poder cargarla rápidamente.",
-          "Mantenga sus teclas de acceso rápido memorizadas para que nunca tenga que buscar a tientas en el menú."
-        ]
-      },
-      {
-        "type": "h2",
-        "text": "Plan y requisitos"
+        "text": "Lee el juego en sus propios términos."
       },
       {
         "type": "p",
-        "text": "El producto es para sessions principales, usa una clave separada de Legacy y requiere Windows 10 u 11 con HVCI, Core Isolation, TPM y Secure Boot activados. Se requiere branch compatibility para una funcionalidad completa. El acceso mensual cuesta $35 y el de por vida cuesta $150."
-      },
-      {
-        "type": "h2",
-        "text": "empezar"
+        "text": "The Isle se describe como completamente en línea, sin campaña para un jugador. El entorno en línea y el ciclo de crecimiento juntos dan forma a la imagen del juego que se presenta en el resumen: el progreso se desarrolla a lo largo del tiempo, mientras que las sesiones se desarrollan en un entorno compartido. La descripción también menciona servidores personalizados, aunque no hace una afirmación universal sobre cómo funciona cada servidor."
       },
       {
         "type": "p",
-        "text": "Puede revisar las características y los planes en la página [streamproof The Isle trucos](/cheats/). Consulte la página de estado después de los parches antes de iniciar una sesión y comuníquese con el soporte mediante ticket si su prueba de captura muestra algo inesperado."
+        "text": "Para el contexto multijugador, consulte [the online-only guide](/blog/the-isle-online-only-multiplayer-context/). Para ver ejemplos de señales de recursos mencionadas en el resumen, lea [the resource visibility guide](/blog/the-isle-resource-visibility-guide/). Ambos temas se conectan con la supervivencia sin dejar de ser distintos del punto central aquí: el crecimiento hace que el tiempo y la atención importen."
+      }
+    ]
+  },
+  {
+    "tag": "Guías del comprador",
+    "title": "The Isle Branch y lista de verificación de productos: qué verificar",
+    "slug": "the-isle-branch-product-checklist",
+    "image": "/images/blog/isle-growth.webp",
+    "imageAlt": "Una lista con las etiquetas Evrima y Legacy junto a un paisaje de The Isle",
+    "desc": "La Isla tiene sucursales de Evrima y Legacy. Utilice esta lista de verificación para separar el contexto de la versión del juego de los detalles de compatibilidad específicos del producto.",
+    "metaTitle": "The Isle Cheats: lista de verificación de sucursales y productos",
+    "metaDescription": "Antes de elegir The Isle Cheats, confirma la rama de tu juego y revisa las características actuales y los detalles de compatibilidad en la información del producto.",
+    "date": "2026-11-07",
+    "readTime": "2 min de lectura",
+    "body": [
+      {
+        "type": "p",
+        "text": "The Isle tiene ramas Evrima y Legacy, pero una descripción general del juego no responde si un producto en particular admite una rama o ambas. El resumen proporcionado distingue las ramas sin especificar la compatibilidad del producto. Utilice esta lista de verificación para mantener esas dos preguntas separadas."
+      },
+      {
+        "type": "h2",
+        "text": "1. Identifica la rama en la que juegas"
+      },
+      {
+        "type": "p",
+        "text": "Comience confirmando si su juego ejecuta Evrima o Legacy. La descripción proporcionada los trata como ramas separadas con identidades diferentes. Si no estás seguro de cuál utilizas, consulta la información o configuración actual del juego. Este artículo no proporciona instrucciones para navegar por un iniciador o cambiar versiones."
+      },
+      {
+        "type": "h2",
+        "text": "2. Lea literalmente la declaración del producto."
+      },
+      {
+        "type": "p",
+        "text": "Busque una declaración explícita sobre el soporte de sucursales en la información actual del producto. Una descripción general de funciones que menciona The Isle generalmente no es lo mismo que una declaración de compatibilidad para Evrima o Legacy. Del mismo modo, ver los nombres de ambas sucursales en un artículo editorial no prueba que el producto funcione en ambas."
+      },
+      {
+        "type": "p",
+        "text": "Si el listado no identifica una sucursal admitida, trate ese punto como si no tuviera respuesta. No infieras la respuesta a partir de una captura de pantalla, una etiqueta de característica o lenguaje sobre la historia del juego. Solicite aclaraciones a través de la ruta de contacto disponible en el sitio antes de tomar una decisión que dependa de la compatibilidad."
+      },
+      {
+        "type": "h2",
+        "text": "3. Haga coincidir las reclamaciones de funciones con el listado"
+      },
+      {
+        "type": "p",
+        "text": "El resumen proporcionado nombra aimbot, wallhack o señales visuales, visibilidad de elementos y radar. No especifica todos los controles ni indica que cada función está disponible en cada rama. Compare el reclamo exacto que le interesa con los detalles actuales del producto. Si la lista es amplia, solicite una explicación precisa en lugar de asumir que la redacción amplia cubre su situación."
+      },
+      {
+        "type": "h2",
+        "text": "4. Mantenga sus notas actualizadas"
+      },
+      {
+        "type": "p",
+        "text": "La información del producto y las versiones del juego pueden cambiar. Cuando revise un listado, anote la fecha y el estado de cuenta exacto de la sucursal que encontró. Vuelve a comprobarlo si la información es antigua o si la versión de tu juego ha cambiado. Esta es una sugerencia para mantener registros, no una promesa de que el soporte cambie en un cronograma en particular."
+      },
+      {
+        "type": "p",
+        "text": "Para conocer el contexto de la rama de alto nivel, lea [the Evrima and Legacy overview](/blog/the-isle-evrima-legacy-overview/). La decisión clave es sencilla: confirme su propia sucursal y luego verifique una declaración de producto explícita para esa sucursal. Si falta una de esas piezas, pausa la decisión hasta que la información sea clara."
       }
     ]
   }

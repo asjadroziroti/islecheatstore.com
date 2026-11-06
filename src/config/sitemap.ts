@@ -1,6 +1,6 @@
 import type { SitemapItem } from '@astrojs/sitemap';
-import { blogPosts, getAllBlogSlugs } from '../data/blog';
-import { getForumPosts } from '../data/forum/locale';
+import { blogPosts, getAllBlogSlugs, getBlogPost } from '../data/blog';
+import { getForumPost, getForumPosts } from '../data/forum/locale';
 import { getAllProductSlugs } from '../data/products';
 import { LOCALES } from '../i18n/locales';
 import { localizePath } from '../i18n/paths';
@@ -119,6 +119,7 @@ export function customSitemapPageUrls(): string[] {
 
   for (const slug of getAllBlogSlugs()) {
     for (const locale of LOCALES) {
+      if (!getBlogPost(slug, locale)) continue;
       const localized = localizePath(blogPostPath(slug), locale);
       if (isIndexablePath(localized)) paths.add(localized);
     }
@@ -126,6 +127,7 @@ export function customSitemapPageUrls(): string[] {
 
   for (const post of getForumPosts('en')) {
     for (const locale of LOCALES) {
+      if (!getForumPost(post.slug, locale)) continue;
       const localized = localizePath(`/forum/${post.slug}/`, locale);
       if (isIndexablePath(localized)) paths.add(localized);
     }

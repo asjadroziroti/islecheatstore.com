@@ -26,7 +26,13 @@ function xhtmlLinks(block) {
 }
 
 function formatUrlset(xml) {
-  const urls = [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].map((match) => {
+  const seen = new Set();
+  const urls = [...xml.matchAll(/<url>([\s\S]*?)<\/url>/g)].filter((match) => {
+    const loc = field(match[1], 'loc');
+    if (seen.has(loc)) return false;
+    seen.add(loc);
+    return true;
+  }).map((match) => {
     const block = match[1];
     const lines = ['  <url>', `    <loc>${field(block, 'loc')}</loc>`];
     const lastmod = field(block, 'lastmod');
